@@ -33,7 +33,7 @@ declare variable $config:default-language := "en";
  : the parameters below for further configuration), or 'page' to browse
  : a document by actual pages determined by TEI pb elements.
  :)
-declare variable $config:default-view :="div";
+declare variable $config:default-view :="body";
 
 (:
  : The default HTML template used for viewing document content. This can be

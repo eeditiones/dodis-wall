@@ -367,6 +367,16 @@ color: red;
                     <model behaviour="block" cssClass="tei-div"/>
                 </elementSpec>
             </schemaSpec>
+            <elementSpec ident="body" mode="change">
+                <modelSequence>
+                    <model behaviour="inline"/>
+                    <model behaviour="index">
+                        <param name="type" value="'toc'"/>
+                    </model>
+                    <model behaviour="facsimile-links">
+                    </model>
+                </modelSequence>
+            </elementSpec>
         </body>
     </text>
 </TEI>

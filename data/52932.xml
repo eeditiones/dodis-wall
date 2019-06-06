@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52932</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52932">dodis.ch/52932</ref>
+               <title type="main">Memo<note xml:id="e6325">Memo (translated from German):
+                        <idno>Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1990, GZ.
+                        22.17.01/176-II.3/90</idno>. Written and signed by Ernst Sucharipa, <ref target="https://dodis.ch/P57511">dodis.ch/P57511</ref>; also published in
+                     Wilson Center, doc. 165726. Distributed to the Federal Minister, the General
+                     Secretary, the section heads, all departments of the Political Section, and the
+                     Austrian diplomatic representations in member states of the CSCE. The
+                     information was also part of the preparatory file for Franz Vranitzky on the
+                     occasion of the visit by Lothar de Maizière to Austria scheduled for 25 and 26
+                     July 1990. See <idno>ÖStA Arbeitsbesuch von MP Lothar de Maizière 25./26. Juli
+                        1990, Kreisky Archives, Depositum Franz Vranitzky, AP, box BM Choonhavan
+                        Chatichai (Thailand), MP Calfa CSFR 1990 PM Silva (Portugal), MP Singh
+                        (Indien), Pres. Dubcek (CSFR), PM Kang Young-Hoon (Korea), PM Bhutto
+                        (Pakistan), Pres. George Vassiliou (Zypern), MP Maiziere Lothar (DDR)
+                        25.7.90)</idno>.</note> by the Austrian Ministry of Foreign Affairs</title>
+               <title type="sub">German Unity, Soviet Position</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 19 July 1990</dateline>
+            </opener>
+            <p n="1">In addition to the information of Dep<add type="edition">[artment]</add> II.1.
+               (GZ. 22.17.01/173)<note xml:id="e6341">Document 56, <ref target="https://dodis.ch/52930">dodis.ch/52930</ref>.</note> the following
+               should be noted regarding the current Soviet position on the German question:</p>
+            <p/>
+            <p n="1">1) The concessions made by President Gorbachev<note xml:id="e6351">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> to Chancellor Kohl<note xml:id="e6357">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> on
+               16 July go far beyond the expectations of those who ultimately considered Soviet
+               consent to the NATO solution for a unified Germany under the prerequisite of a
+               special solution for “East Elbia”<note xml:id="e6363">A term subsuming all former
+                  Prussian territories East of the Elbe.</note> possible. The solution agreed to by
+               Kohl and Gorbachev in the Caucasus provides for the future, that is the period after
+               the withdrawal of Soviet troops, to a limited extent only, a special military status
+               for the territory of the present GDR, cf. the not entirely clear commitment of Kohl
+               that no foreign troops will be stationed in this area. In contrast, all other areas
+               of Germany as a whole will engage in a complete security policy integration. (The
+               last three issues of the prestigious American magazine “Foreign Affairs” include a
+               series of articles from known American specialist authors – Kirkpatrick<note xml:id="e6366">Jeane Kirkpatrick (1926–2006), <ref target="https://dodis.ch/P47062">dodis.ch/P47062</ref>, Political
+                  Scientist.</note>, Mc Bundy<note xml:id="e6372">McGeorge Bundy (1919–1996), <ref target="https://dodis.ch/P37402">dodis.ch/P37402</ref>, Political Scientist at
+                  the Carnegie Corporation 1990–1996.</note>, etc. – who all indicated that they did
+               not expect a consensual NATO solution.) It therefore seems legitimate to question the
+               reasons why the attitude of the Soviet Union, or – more accurately – Gorbachev, went
+               beyond all positive expectations:</p>
+            <p>2) The position taken by Gorbachev can on the one hand be explained as the result of
+               a combination of newly confirmed domestic policy strengths of the Soviet President
+               having “won” his party congress, and on the other hand the recognition of foreign
+               policy weaknesses in his country: Fully aware that the confirmation of his
+               (currently) unchallengeable role had increased his foreign policy scope, Gorbachev –
+               apparently without further coordination with other still relevant forces (military,
+               etc.) – and perhaps at the last possible moment successfully attempted to gain as
+               much capital (figuratively as well as in the true sense of the word) as possible out
+               of the Soviet withdrawal from East Germany and the renunciation of older positions of
+               the Soviet Union’s policy on Germany (insisting on the neutrality of a unified
+               Germany).</p>
+            <p>3) Gorbachev secured at least the following advantages for his country:</p>
+            <p>– The reduction of the total German force level to 370,000 men and thus (including
+               the manning level of the NVA) an overall drop of 45%;</p>
+            <p>– The obvious assumption by unified Germany of the – substantial – costs of Soviet
+               troop withdrawal (see letter of intent concerning agreement on effects of
+               DM-conversion);</p>
+            <p>– Further active efforts by the FRG to gain Western aid for the Soviet Union;</p>
+            <p>– Commitment to complete a bilateral comprehensive treaty (probably political
+               consultations and economic assistance);</p>
+            <p>4) The agreement between Kohl-Gorbachev has been completed without informing the
+               Western partners in advance, thus also signaling a future autonomy of German foreign
+               policy.</p>
+            <p>5) President Gorbachev could speculate with the idea that after a Soviet troop
+               withdrawal the negative sentiment towards foreign military presence could generally
+               grow further in the FRG and thus perhaps a traditional goal of Soviet policy could
+               still be achieved in the longer term.</p>
+            <p>6) In total, the agreements of 16 July are – as Gorbachev himself says – a matter of
+               successful “Realpolitik.” Whether the Soviet President will succeed to domestically
+               secure this result, will also depend on the further reaction in the West: too loud a
+               triumph may be harmful, but on the other hand, in light of the Germans “going it
+               alone” (see above) it is not to be expected.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

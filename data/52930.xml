@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52930</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52930">dodis.ch/52930</ref>
+               <title type="main">Memo<note xml:id="e6203">Memo (translated from German):
+                        <idno>Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1990, GZ.
+                        22.17.01/173-II.1/90</idno>. Written by Marius Calligaris, <ref target="https://dodis.ch/P57521">dodis.ch/P57521</ref> and signed by Johann
+                     Plattner, <ref target="https://dodis.ch/P57520">dodis.ch/P57520</ref>; also
+                     published in Wilson Center, doc. 165725. Distributed to the Federal Minister,
+                     the General Secretary, the section heads, all departments of the Political
+                     Section, and the Austrian diplomatic representations in member states of the
+                     CSCE. The information was also part of the preparation file for Franz Vranitzky
+                     on the occasion of the visit by Lothar de Maizière to Austria scheduled for 25
+                     and 26 July 1990. See <idno>ÖStA Arbeitsbesuch von MP Lothar de Maizière
+                        25./26. Juli 1990, Kreisky Archives, Depositum Franz Vranitzky, AP, box BM
+                        Choonhavan Chatichai (Thailand), MP Calfa CSFR 1990 PM Silva (Portugal), MP
+                        Singh (Indien), Pres. Dubcek (CSFR), PM Kang Young-Hoon (Korea), PM Bhutto
+                        (Pakistan), Pres. George Vassiliou (Zypern), MP Maiziere Lothar (DDR)
+                        25.7.90)</idno>.</note> by the Austrian Ministry of Foreign Affairs</title>
+               <title type="sub">German Unity; State of Affairs in Mid-July 1990</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 18 July 1990</dateline>
+            </opener>
+            <p n="1">
+               <emph>I. Inner-German Aspects</emph>
+            </p>
+            <p>The Economic, Monetary and Social union of the two German states entered into effect
+               on 1 July 1990. The most essential measure was the introduction of the Deutschmark in
+               the GDR. An agreement on the legal and constitutional unification of the two parts of
+               Germany is in preparation and should be signed by the autumn of this year.</p>
+            <p/>
+            <p n="1">
+               <emph>All-German Elections</emph>
+            </p>
+            <p>The next Bundestag election was scheduled for 2 December 1990. In its place,
+               all-Germany elections should now take place on that day. The mode of election is
+               still at issue. The GDR-CDU advocates for carrying out voting separately in the FRG
+               and the GDR (electoral threshold 5%) and the accession of the GDR to the Bonn Basic
+               Law only afterwards. The SPD and FDP in both parts of the country are for a unitary
+               election in all of Germany (electoral threshold for the whole territory 5%) and the
+               accession of the GDR before the election. (This proposal i. a. would mean that the
+               PDS, the successor party to the SED in the GDR, may fail to reach the 5% threshold in
+               unified Germany.) The West German CDU is divided on the issue.</p>
+            <p/>
+            <p n="1">
+               <emph>II. External Aspects</emph>
+            </p>
+            <p>Upon the occasion of the recent visit of Chancellor Kohl<note xml:id="e6233">Helmut
+                  Kohl (1930–2017), <ref target="dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor
+                  of the FRG 1.10.1982–27.10.1998.</note> to Moscow, President Gorbachev<note xml:id="e6239">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union 15.3.1990–25.12.1991.</note>
+               gave a de facto green light to German unity. The agreement achieved includes the
+               following main points:</p>
+            <p>– Unified Germany consists of the FRG, GDR and Berlin</p>
+            <p>– Full sovereignty of Germany, after unification</p>
+            <p>– Soviet consent to NATO membership of unified Germany</p>
+            <p>– Soviet troop withdrawal from the territory of the GDR in 3–4 years (a treaty will
+               be concluded on this)</p>
+            <p>– During which time no extension of NATO structures on GDR territory, however,
+               validity of the NATO alliance obligation for it (commitment from Kohl that, also
+               later, there will be no non-German troops east of the Elbe)</p>
+            <p>– Western Allies military presence in Berlin until completion of the Soviet troop
+               withdrawal</p>
+            <p>– Reduction of total German forces to 370,000 (Compromise Genscher<note xml:id="e6259">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+                  Minister for Foreign Affairs of the FRG
+                  1.10.1982–17.5.1992.</note>-Stoltenberg<note xml:id="e6265">Gerhard Stoltenberg
+                  (1928–2001), <ref target="https://dodis.ch/P46108">dodis.ch/P46108</ref>, Defence
+                  Minister of the FRG 21.4.1989–1.4.1992.</note>)</p>
+            <p>– Renunciation of ABC weapons by unified Germany</p>
+            <p>Gorbachev expressly pointed out that his change of attitude on the issue of German
+               NATO membership was made possible by the Moscow-positive result of the recent summit
+               of the Alliance in London.</p>
+            <p>Chancellor Kohl has furthermore assured massive economic aid to the Soviet Union and
+               promised also to advocate for such assistance from other Western states.</p>
+            <p>By summer of 1991 a German-Soviet agreement is to be completed, which according to
+               Chancellor Kohl will contain co-operation in various fields and regular political
+               consultations.</p>
+            <p>Reactions to the German-Soviet agreement are unanimously positive worldwide (the case
+               of Ridley<note xml:id="e6281">Nicholas Ridley (1929–1993), <ref target="https://dodis.ch/P48293">dodis.ch/P48293</ref>, British Secretary of
+                  State for Trade and Industry 24.7.1989–13.7.1990.</note> in Great Britain shows
+               however the existence of subliminal reservations in individual Western European
+               countries towards the weight of the future unified Germany).</p>
+            <p>Given the agreement reached in Moscow, the “2+4” talks in Paris on 17 July went
+               without controversy. The foreign ministers decided to work out a declaration on
+               Germany, in which the external aspects of German unity should be regulated. The
+               declaration will be discussed at the next “2+4” round on 12 September in Moscow.</p>
+            <p/>
+            <p n="1">
+               <emph>Polish Western Border</emph>
+            </p>
+            <p>At the recent “2+4” talks, where the Polish Foreign Minister<note xml:id="e6295">Krzysztof Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of Foreign Affairs
+                  12.9.1989–26.10.1993.</note> also participated, the question of the Polish western
+               border was at center (the Bonn Bundestag and the GDR People’s Chamber on 21 June
+               adopted a statement on the inviolability of the Oder-Neisse line and a border treaty
+               to be concluded between Germany and Poland). At this point Poland dropped its final
+               demand, whereby the full sovereignty of Germany should only be restored after
+               ratification of this border treaty. Agreement has now been reached that the treaty
+               will be signed in the shortest possible time after the realization of German unity
+               and submitted to the parliament of unified Germany for ratification. (The FRG has
+               promised Poland economic aid too.)</p>
+            <p/>
+            <p n="1">
+               <emph>III. Assessment</emph>
+            </p>
+            <p>It can now be expected that the unification of the two German states will become
+               reality before the end of the year.</p>
+            <p>Through the agreements in Moscow and Paris, respectively, the following has been
+               achieved:</p>
+            <p>The FRG: the realization of German unity</p>
+            <p>The West: NATO membership of unified Germany</p>
+            <p>The USSR: satisfying its security interests (German troop strength, German
+               renunciation of ABC weapons, first steps to change NATO as a condition for the
+               reached agreement, beyond this the bargaining chip of a troop presence east of the
+               Elbe for 3–4 years) and economic assistance by the FRG or the West.</p>
+            <p>From a pan-European perspective, the agreement paves the way for a rapid continuation
+               of military negotiations in Vienna and for the objective of setting up a new
+               political architecture in Europe.</p>
+            <p>For Austria, a point of interest will be i. a. how much impact the efforts of the
+               Western European states to firmly “bind Germany to the West” will have on the
+               development of the EC (deepening, European Union!).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52917</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52917">dodis.ch/52917</ref>
+               <title type="main">Memorandum<note xml:id="e4080">Memorandum: Bush Presidential
+                     Library CF-00182.20. Written by Brent Scowcroft, <ref target="https://dodis.ch/P57408">dodis.ch/P57408</ref>.</note> for the
+                  President of the United States, George H. W. Bush<note xml:id="e4086">George
+                     Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United States,
+                     20.1.1989–20.1.1993.</note>
+               </title>
+               <title type="sub">Preparing for the Six Power German Peace Conference</title>
+            </head>
+            <opener>
+               <add>Sensitive</add>
+               <dateline>Washington, D. C., 19 February 1990</dateline>
+            </opener>
+            <p n="1">We are about to enter into the most crucial period for American diplomacy
+               toward Europe since the formation of NATO in 1949. The Six Power discussions on the
+               future of Germany could become the principal forum in which Europe’s security
+               framework and the American role in it is determined. The U.S. must find a way to
+               steer this new process on the future of Germany toward an outcome that sanctions full
+               membership for a united Germany in NATO; provides for the continuation of a
+               significant American military presence on German soil; and maintains nuclear
+               deterrence as a pillar of NATO’s defense.</p>
+            <p>Kohl’s<note xml:id="e4102">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> meeting with Gorbachev<note xml:id="e4108">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> clearly showed that
+               Moscow is resigned to German unity. The Six Power talks will, however, give the
+               Soviet Union a chance to shape directly the terms of German unification. Moscow’s
+               primary concern will be that there be no further shift – in perception or reality –
+               in the East-West strategic balance. The Soviets are at last feeling the full negative
+               impact of reform in Eastern Europe as government after government there demands the
+               removal of Soviet forces. Germany is, in that sense, the final East-West battleground
+               and has – with its still deep emotional import in the Soviet Union – become a crucial
+               domestic issue for Gorbachev.</p>
+            <p>When Yegor Ligachev<note xml:id="e4116">Yegor Ligachev (*1920), <ref target="https://dodis.ch/P57414">dodis.ch/P57414</ref>, Second Secretary of
+                  Communist Party of the Soviet Union 10.3.1985–14.7.1990.</note> attacked
+                  Shevardnadze<note xml:id="e4122">Eduard Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign
+                  Affairs of the Soviet Union 2.7.1985–26.12.1990.</note> and Gorbachev for a
+               foreign policy that has allowed the emergence of a united Germany “which looms
+               militarily and economically powerful”, he sounded a chord that resonates in the
+               Soviet political elite, even among those who otherwise support perestroika. The Six
+               Power talks, designed to give Moscow a sense of participation in the resolution of
+               Germany’s future and to shore up Gorbachev’s position, could instead force his hand
+               on the details of Germany’s future – something that to now he has avoided. Vague
+               ramblings, such as Gorbachev expressed to Kohl, about a united Germany within an
+               all-European security system will in the Six Power context no longer do: Moscow must
+               find some way to prevent the unification of Germany on wholly Western terms. This
+               places us on a probable collision course with the Soviets on the question of the
+               continued full membership of a united Germany in NATO.</p>
+            <p>The Soviets likely know that a completely neutral Germany is a non-starter with the
+               United States, Britain and the FRG. But for Moscow some weaker form of association
+               for Germany with NATO – perhaps excluding the Bundeswehr from the integrated military
+               command and capping the size of the German armed forces – would be almost as good.
+               The Soviets know that without German forces, NATO’s integrated military command would
+               be a shell. They might figure that it would not be long before pressures from the
+               Germans and within the U.S. Congress would force the size of the American presence
+               down and eventually out as well. The Soviets could also seek to negotiate in the Six
+               Power forum their own continued presence in the GDR, or explicitly demand the removal
+               of all U.S. forces from the FRG concurrent with the withdrawal of Soviet forces from
+               East Germany.</p>
+            <p>One potential consequence of a shift in Moscow’s attention to the Six Power talks is
+               that the Soviet leadership may feel less pressure to conclude a CFE agreement. From
+               the Soviet perspective, the Six Power forum can be used to attempt to emasculate the
+               West German army, push U.S. ground forces out of Europe, disrupt the solidarity and
+               viability of NATO itself, and provide political cover for their own withdrawal. These
+               were among their principal objectives in CFE. While CFE retains its uses for Moscow,
+               the Six Power mechanism would now allow the Soviets to pursue many of these key goals
+               in a better forum than CFE, one that gives disproportionate weight to an East Germany
+               dominated by the SPD, and exploits a West German government subject to extreme
+               domestic political turbulence, while excluding lesser Allies who would join with us
+               and London in arguing for stronger German links to NATO. The threat of Soviet
+               reliance on the Six Power vehicle as a surrogate for CFE should be yet another spur
+               for NATO to rapidly conclude a CFE agreement – before the Soviets shift their efforts
+               to the higher-profile talks on Germany.</p>
+            <p>In any case, the Soviets can be expected to make in the Six Power talks a
+               comprehensive proposal on European security and Germany’s role in it. Along with the
+               current GDR leadership, the Soviets will likely insist on severe constraints on a
+               united Germany’s association with NATO. Moscow will also use its waning influence in
+               the Warsaw Pact – and play on Czechoslovak, Hungarian, and especially Polish fears of
+               the new Germany – to forge a common front behind its position. (On February 14,
+               Polish Prime Minister Mazowiecki<note xml:id="e4134">Tadeusz Mazowiecki (1927–2013),
+                     <ref target="https://dodis.ch/P57378">dodis.ch/P57378</ref>, Prime Minister of
+                  Poland 24.8.1989–12.1.1991.</note> demanded Warsaw be involved in negotiations on
+               German reunification.)</p>
+            <p>The degree to which this process threatens our interests depends on how carefully we
+               structure the mandate of the Six Power discussions and whether we and our major
+               Allies remain united on a common approach to these profound security questions. Our
+               goal should be to keep the focus of the Six Power talks as limited as possible –
+               dealing only with the legal issues related to the end of Four Power rights, the
+               consequences of the absorption of the GDR into the FRG, and the issue of what becomes
+               of forces on the territory of Germany’s eastern half. But the Soviets will press hard
+               to widen the mandate so that all questions, including Germany’s membership in NATO
+               will be on the table. Should they succeed, you will have a difficult challenge in
+               holding NATO viably together.</p>
+            <p>As the Six Power talks unfold, Kohl will come under pressure to find a formula for
+               German security that is acceptable to Moscow. The Soviets will use the Six Power
+               mechanism to try and influence German public opinion as well as others in Kohl’s
+               coalition – particularly Genscher<note xml:id="e4144">Hans-Dietrich Genscher
+                  (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>,
+                  Vice-Chancellor and Minister for Foreign Affairs of the FRG
+                  1.10.1982–17.5.1992.</note> who will want for domestic political reasons to
+               separate himself from Kohl on the future of European security. The Soviets could
+               argue to an emotional German electorate that a weaker form of association with NATO
+               is a small price to pay for German unity.</p>
+            <p>The effect of this within the FRG will be to drive German opinion to the left and to
+               strengthen the opposition parties’ influence in the domestic debate about
+               unification. The SPD will respond to Moscow’s preferences (and those of the SPD’s
+               sister party in the GDR) by moving still more to the left, toward a Germany
+               completely out of NATO. This will drive Genscher further left (in search of the new
+               middle ground), which in turn will pull Kohl in the same direction. Kohl would then
+               face a situation in which Moscow, the GDR, the opposition SPD and Greens, and his own
+               Foreign Minister<note xml:id="e4152">Hans-Dietrich Genscher.</note> are all calling
+               for a loosening of Germany’s ties to NATO.</p>
+            <p>There is no reason to doubt Kohl’s desire to keep his commitment to membership in
+               NATO or his willingness to stand with us on the key issues of Western security. But
+               Kohl will do what he must –even at the expense of NATO and the U.S. link – to become
+               the Chancellor who united Germany. With history beckoning, all else will become for
+               him secondary and negotiable.</p>
+            <p>Our crucial task will be to find a way to avoid forcing Kohl to choose between unity
+               and full NATO membership, and simultaneously to avert a crisis with Gorbachev over
+               the future of Germany.</p>
+            <p>Management of relations with the British and French will not be easy either. Mrs.
+                  Thatcher<note xml:id="e4161">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  United Kingdom 4.5.1979–28.11.1990.</note> will undoubtedly support our position
+               regarding Germany’s full membership in NATO but she may try to use the Six Power
+               forum to slow down German unification. And, in any case, Mrs. Thatcher’s strongly
+               pro-NATO position will fall on deaf ears in the Federal Republic.</p>
+            <p>The French will have mixed objectives. Mitterrand<note xml:id="e4169">François
+                  Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France 21.5.1981–17.5.1995.</note> may for
+               the present support NATO membership for Germany because the French are concerned both
+               to keep the Bundeswehr constrained within the integrated military command and to
+               legitimize the continuation of nuclear deterrence. But France’s voice is weaker
+               because of its own position outside NATO’s integrated military command.</p>
+            <p/>
+            <p n="1">Moreover, in the longer term, Mitterrand has his own plans for a Confederation
+               of Europe without the United States – including ultimately a new security mechanism –
+               and for strengthening Franco-German bilateral military arrangements. This could give
+               the French incentives to support a loose NATO structure which would, in turn, allow
+               Paris a greater voice as the Atlantic link between the U.S. and NATO weakens. In any
+               case, the Soviets are likely to think that they will find Paris sympathetic and we
+               can expect an intensification of Franco-Soviet diplo‑ macy.</p>
+            <p>Thus, if we are not careful, the dynamics of domestic politics in the FRG and
+               diplomacy between the Allies and the Soviets could at best leave you and Kohl alone
+               to defend effectively a Germany fully within NATO and with undiminished transatlantic
+               security links.</p>
+            <p>In order to avoid these pitfalls, we must have a coherent strategy for the Six Power
+               talks that plays on our strengths – the GDR’s imminent collapse, Kohl’s desire to do
+               the right thing, our leadership role in NATO, and Moscow’s lack of real leverage –
+               and minimizes the potential dangers inherent in the Six Power framework. Above all,
+               it is not in our interest to hurry this effort along, though Moscow will press for
+               early talks. It would be a major mistake to proceed to any discussion with the
+               Soviets before we have had an opportunity to forge a common end-game position with
+               the British, French and West Germans. Your meeting with Kohl at Camp David will be a
+               key in this process of consultation, giving you an opportunity to discuss the
+               significant challenges that the Six Power process poses for Western unity and the
+               future of the Alliance. Once we have hammered out a position among the key Allies,
+               NATO must also have a chance to discuss and endorse the Western position.</p>
+            <p>All the Allies need a part in this process. In Ottawa several Allied ministers,
+               notably the Italians and Dutch, protested their exclusion from the Six Power forum
+               that would affect their security interests as Germany’s neighbors. After the Italian
+               Foreign Minister<note xml:id="e4185">Gianni De Michelis (*1940), <ref target="https://dodis.ch/P57415">dodis.ch/P57415</ref>, Italian Foreign
+                  Minister 22.07.1989–28.06.1992.</note> made one such plea for involvement,
+               Genscher turned to him and said, brutally, “You’re not in the game.” Genscher is
+               wrong.</p>
+            <p>NATO as an institution needs to forge a bottom line for the outcome of the Six Power
+               discussions on the future of the European security system. One way to do this would
+               be for the Alliance to commission a study by a group of “Wise Men” to consider the
+               future goals and strategy of NATO in light of the political transformation of Europe.
+               Then you could host a Summit meeting of NATO leaders, perhaps in Washington in July
+               immediately after the G-7 meeting in Houston<note xml:id="e4193">Handwritten note:
+                     <orig>interesting idea??</orig>
+               </note>, to endorse this new concept for the Alliance – and Germany’s role in it.
+               With this added reinforcement, Kohl would find it easier to resist Soviet and
+               domestic pressures.</p>
+            <p>In a larger sense, a delay in these Six Power discussions is favorable for us because
+               the longer that German unity proceeds without direct Soviet involvement, the stronger
+               will be the position of the West. As absorption of the GDR into the FRG becomes a
+               fait accompli, Soviet leverage to reshape the new FRG will decline. It is worth
+               noting that Kohl has managed so far, including during his visit last weekend to
+               Moscow, to move German unity along while holding fast to his promise to keep the
+               reunified Germany in NATO. Kohl does not himself seem to be pushing for early Six
+               Power discussions – in your recent telephone conversation he appeared to foresee the
+               first Six Power Ministerial meeting taking place sometime this summer<note xml:id="e4198">Handwritten note: <orig>Don’t recall this.</orig>
+               </note>.</p>
+            <p>Ideally, no meetings of any kind would take place within the Six Power framework
+               until after the elections in the GDR on March 18<note xml:id="e4203">Handwritten
+                  note: <orig>Correct according to JRB</orig>.</note>. We would simply say that the
+               GDR’ s government is not legitimate and cannot speak for the German people residing
+               there, and that we are preparing a united Western position for the talks. Indeed, we
+               should try to delay any real discussion of security arrangements in this forum until
+               the GDR is so weak that the Six, in fact, dissolves into Five as Germany unites.</p>
+            <p>At the present time, the Modrow<note xml:id="e4208">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                  Council of Ministers 13.11.1989–12.4.1990.</note> government is nothing but a
+               second voice for Moscow. And after the East German elections, should the SPD win as
+               expected, the new GDR government will argue for German neutrality. But with the
+               passage of time – and if East Germany is simply absorbed into the FRG, the GDR
+               government will cease to exist. Then Kohl would speak authoritatively on security
+               arrangements for all of Germany which is, of course, our best bet.</p>
+            <p>Finally, the Administration needs a breathing spell to formulate a position for what
+               could be the most important set of discussions of European security in the postwar
+               period. It is critical that Dick Cheney<note xml:id="e4216">Dick Cheney (*1941), <ref target="https://dodis.ch/P57391">dodis.ch/P57391</ref>, United States Secretary
+                  of Defense 21.3.1989–28.6.1992.</note> and Colin Powell<note xml:id="e4222">Colin
+                  L. Powell (*1937), <ref target="https://dodis.ch/P57416">dodis.ch/P57416</ref>,
+                  Chairman of the United States Joint Chiefs of Staff 1.10.1989–30.9.1992.</note> be
+               involved because Six (or Five) Power negotiations on Germany’s external security
+               arrangements will cut to the heart of NATO and ultimately American defense
+               strategy.</p>
+            <p>As Manfred Woerner<note xml:id="e4230">Manfred Wörner (1934–1994), <ref target="https://dodis.ch/P57417">dodis.ch/P57417</ref>, Secretary General of
+                  NATO 1.7.1988–12.8.1994.</note> said to you at Camp David, we are entering the
+               end-game of the Cold War and your own role will be decisive. The United States and
+               the West must be impeccably prepared so that when the end-game is over, the North
+               Atlantic Alliance and the U.S. position in Europe remain the vital instruments of
+               peace and stability that we inherited from our predecessors.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

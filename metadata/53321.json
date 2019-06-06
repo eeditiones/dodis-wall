@@ -1,0 +1,1213 @@
+{
+    "total": null,
+    "data": {
+        "id": 53321,
+        "title": "No 386",
+        "langCode": "ns",
+        "language": "ns",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "11.11.1989",
+        "documentDateDayOfWeek": "Saturday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Summary of the press statement made by Chancellor Kohl following his visit to Berlin, concerning the developments in GDR.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 1,
+        "classification": "URGENT",
+        "classificationText": "urgent",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 99909,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101737,
+                "tagId": 327,
+                "name": "Turkey (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.099.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Turkey (Politics)",
+                    "Turchia (Politica)",
+                    "Türkei (Politik)",
+                    "Turquie (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Turquie (Politique)",
+                "deName": "Türkei (Politik)",
+                "enName": "Turkey (Politics)",
+                "itName": "Turchia (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101738,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101739,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59378,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Turkish Diplomatic Archives",
+                "archiveCode": "TR-DA",
+                "box": null,
+                "aisCode": "3211299",
+                "dossierId": 31491,
+                "hasPdf": null,
+                "original": false,
+                "archiveUrl": "",
+                "archivePlace": "Ankara",
+                "id": 59378
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16460,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "12"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36950,
+                "sort": 0,
+                "attachment": {
+                    "id": 37204,
+                    "attachmentId": 37204,
+                    "date": "",
+                    "fileRef": "dodis-53321-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53321-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53321\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53321<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the\n                  Turkish Ambassador in Bonn, Reşat Arim<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Turkish Ministry of\n                  Foreign Affairs<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Urgent<\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 11 November 1989, 10.00 a.m.<\/div>\n            <\/div>\n            <p class=\"tei-p2 tei-p\"><\/p>\n            <p class=\"tei-p1 tei-p1\">Having returned from Berlin, Chancellor Kohl<span id=\"fnref_1_5_2_2_9_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_3\">3<\/a><\/span> made a statement about the\n               developments in the German Democratic Republic in the press conference organized\n               following the cabinet meeting.<\/p>\n            <p class=\"tei-p2 tei-p\">Having stated that the Federal Government had summoned the State and Party\n               Administration of the German Democratic Republic to open their gates for a radical\n               change in the fields of state, economy and society, Kohl reiterated that they are\n               ready for assistance. He also declared that he had had a detailed phone conversation\n               with Krenz<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">4<\/a><\/span>, the leader of the German Democratic Republic and\n               that he had informed Krenz about his appreciation of their decision concerning the\n               opening of the borders, that they agreed upon a visit by Federal Minister\n               Seiters<span id=\"fnref_1_5_2_2_11_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_4\">5<\/a><\/span> to Berlin on 20 November to conduct preparatory\n               meetings with the Administration of the German Democratic Republic and that Seiters\n               would meet with Krenz and the Prime Minister of the German Democratic Republic<span id=\"fnref_1_5_2_2_11_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_6\">6<\/a><\/span>, who will have been elected by then. He noted that\n               they would want to know in these meetings the concrete steps which the Administration\n               of the German Democratic Republic intend to take, especially how and when they will\n               organize the free elections which have been announced. He also stated that Krenz and\n               he decided to meet somewhere outside East Berlin in the German Democratic\n               Republic.<\/p>\n            <p class=\"tei-p2 tei-p\">Having indicated that he had also had telephone conversations with President\n               Bush<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">7<\/a><\/span>, President Mitterrand<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">8<\/a><\/span> and\n               Prime Minister Thatcher<span id=\"fnref_1_5_2_2_13_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_6\">9<\/a><\/span>, Kohl also declared that he informed\n               his colleagues about his visit to Poland and he mentioned his first impressions of\n               the opening of the Berlin Wall, that he was in constant contact with Gorbachev<span id=\"fnref_1_5_2_2_13_8\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_8\">10<\/a><\/span>\n               and that he had notified Gorbachev by telephone an hour earlier about his assessment\n               of the situation.<\/p>\n            <p class=\"tei-p2 tei-p\">Having reported that Germans from the German Democratic Republic were still coming to\n               stay in the Federal Republic of Germany despite the first indications of change in\n               the German Democratic Republic, Kohl said, \u201cI absolutely object to the fact that the\n               notable social democrats now try to provoke embarrassingly the excitement and\n               feelings against these citizens\u201d, and called on the public for help. He also declared\n               that there was still a long way to go to reach the target and that all the Germans\n               had not yet gained the right to self-determination and he recommended being\n               moderate.<\/p>\n            <p class=\"tei-p2 tei-p\">At the end of the press conference, Kohl reported that he would resume his visit by\n               returning to Warsaw that afternoon.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 386 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archive 3211299<\/span>. Reference:\n                  <span class=\"tei-idno tei-idno\">our non-confidential telegram numbered 1481<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Reşat Arim (1931\u20132017),\n                     <a href=\"https://dodis.ch/P53697\" class=\"tei-ref7 tei-link\">dodis.ch/P53697<\/a>, Turkish\n                     Ambassador in Bonn 31.8.1988\u201326.11.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_3\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl\n               (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>,\n               Chancellor of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Egon Krenz (*1937), <a href=\"https://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of\n                  the SED 18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                  18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Rudolf Seiters (*1937), <a href=\"https://dodis.ch/P57431\" class=\"tei-ref7 tei-link\">dodis.ch/P57431<\/a>, Chief of Staff of the\n                  Chancellery and Minister of Special Affairs of the FRG\n                  21.4.1989\u201326.11.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_6\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow (*1928), <a href=\"https://dodis.ch/P54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Chairman of the GDR Council of Ministers\n                  13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">George Herbert Walker Bush (1924\u20132018), <a href=\"https://dodis.ch/P47406\" class=\"tei-ref7 tei-link\">dodis.ch/P47406<\/a>, President of the United\n                  States, 20.1.1989\u201320.1.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">François Mitterrand (1916\u20131996), <a href=\"https://dodis.ch/P13775\" class=\"tei-ref7 tei-link\">dodis.ch/P13775<\/a>, President of France 21.5.1981\u201317.5.1995.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_6\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Margaret Thatcher (1925\u20132013), <a href=\"https://dodis.ch/P32055\" class=\"tei-ref7 tei-link\">dodis.ch/P32055<\/a>, Prime Minister of the\n                  United Kingdom 4.5.1979\u201328.11.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_8\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary of the Communist Party of the Soviet\n                  Union 11.3.1985\u201324.8.1991, Chairman of the Supreme Soviet of the Soviet Union\n                  25.5.1989\u201315.3.1990 and President of the Soviet Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_8\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59378,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36333,
+                "sort": 0,
+                "attachment": {
+                    "id": 36594,
+                    "attachmentId": 36594,
+                    "date": "",
+                    "fileRef": "dodis-53321-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53321-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59378,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37061,
+                "sort": 0,
+                "attachment": {
+                    "id": 37278,
+                    "attachmentId": 37278,
+                    "date": "",
+                    "fileRef": "dodis-53321.html",
+                    "fileRefThumbnail": "thumb_dodis-53321.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53321\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53321<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the\n                  Turkish Ambassador in Bonn, Reşat Arim<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Turkish Ministry of\n                  Foreign Affairs<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Urgent<\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 11 November 1989, 10.00 a.m.<\/div>\n            <\/div>\n            <p class=\"tei-p2 tei-p\"><\/p>\n            <p class=\"tei-p1 tei-p1\">Having returned from Berlin, Chancellor Kohl<span id=\"fnref_1_5_2_2_9_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_3\">3<\/a><\/span> made a statement about the\n               developments in the German Democratic Republic in the press conference organized\n               following the cabinet meeting.<\/p>\n            <p class=\"tei-p2 tei-p\">Having stated that the Federal Government had summoned the State and Party\n               Administration of the German Democratic Republic to open their gates for a radical\n               change in the fields of state, economy and society, Kohl reiterated that they are\n               ready for assistance. He also declared that he had had a detailed phone conversation\n               with Krenz<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">4<\/a><\/span>, the leader of the German Democratic Republic and\n               that he had informed Krenz about his appreciation of their decision concerning the\n               opening of the borders, that they agreed upon a visit by Federal Minister\n               Seiters<span id=\"fnref_1_5_2_2_11_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_4\">5<\/a><\/span> to Berlin on 20 November to conduct preparatory\n               meetings with the Administration of the German Democratic Republic and that Seiters\n               would meet with Krenz and the Prime Minister of the German Democratic Republic<span id=\"fnref_1_5_2_2_11_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_6\">6<\/a><\/span>, who will have been elected by then. He noted that\n               they would want to know in these meetings the concrete steps which the Administration\n               of the German Democratic Republic intend to take, especially how and when they will\n               organize the free elections which have been announced. He also stated that Krenz and\n               he decided to meet somewhere outside East Berlin in the German Democratic\n               Republic.<\/p>\n            <p class=\"tei-p2 tei-p\">Having indicated that he had also had telephone conversations with President\n               Bush<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">7<\/a><\/span>, President Mitterrand<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">8<\/a><\/span> and\n               Prime Minister Thatcher<span id=\"fnref_1_5_2_2_13_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_6\">9<\/a><\/span>, Kohl also declared that he informed\n               his colleagues about his visit to Poland and he mentioned his first impressions of\n               the opening of the Berlin Wall, that he was in constant contact with Gorbachev<span id=\"fnref_1_5_2_2_13_8\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_8\">10<\/a><\/span>\n               and that he had notified Gorbachev by telephone an hour earlier about his assessment\n               of the situation.<\/p>\n            <p class=\"tei-p2 tei-p\">Having reported that Germans from the German Democratic Republic were still coming to\n               stay in the Federal Republic of Germany despite the first indications of change in\n               the German Democratic Republic, Kohl said, \u201cI absolutely object to the fact that the\n               notable social democrats now try to provoke embarrassingly the excitement and\n               feelings against these citizens\u201d, and called on the public for help. He also declared\n               that there was still a long way to go to reach the target and that all the Germans\n               had not yet gained the right to self-determination and he recommended being\n               moderate.<\/p>\n            <p class=\"tei-p2 tei-p\">At the end of the press conference, Kohl reported that he would resume his visit by\n               returning to Warsaw that afternoon.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 386 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archive 3211299<\/span>. Reference:\n                  <span class=\"tei-idno tei-idno\">our non-confidential telegram numbered 1481<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Reşat Arim (1931\u20132017),\n                     <a href=\"https://dodis.ch/P53697\" class=\"tei-ref7 tei-link\">dodis.ch/P53697<\/a>, Turkish\n                     Ambassador in Bonn 31.8.1988\u201326.11.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_3\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl\n               (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>,\n               Chancellor of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Egon Krenz (*1937), <a href=\"https://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of\n                  the SED 18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                  18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Rudolf Seiters (*1937), <a href=\"https://dodis.ch/P57431\" class=\"tei-ref7 tei-link\">dodis.ch/P57431<\/a>, Chief of Staff of the\n                  Chancellery and Minister of Special Affairs of the FRG\n                  21.4.1989\u201326.11.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_6\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow (*1928), <a href=\"https://dodis.ch/P54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Chairman of the GDR Council of Ministers\n                  13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">George Herbert Walker Bush (1924\u20132018), <a href=\"https://dodis.ch/P47406\" class=\"tei-ref7 tei-link\">dodis.ch/P47406<\/a>, President of the United\n                  States, 20.1.1989\u201320.1.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">François Mitterrand (1916\u20131996), <a href=\"https://dodis.ch/P13775\" class=\"tei-ref7 tei-link\">dodis.ch/P13775<\/a>, President of France 21.5.1981\u201317.5.1995.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_6\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Margaret Thatcher (1925\u20132013), <a href=\"https://dodis.ch/P32055\" class=\"tei-ref7 tei-link\">dodis.ch/P32055<\/a>, Prime Minister of the\n                  United Kingdom 4.5.1979\u201328.11.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_8\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary of the Communist Party of the Soviet\n                  Union 11.3.1985\u201324.8.1991, Chairman of the Supreme Soviet of the Soviet Union\n                  25.5.1989\u201315.3.1990 and President of the Soviet Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_8\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 59378,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 37036,
+                "sort": 0,
+                "attachment": {
+                    "id": 36259,
+                    "attachmentId": 36259,
+                    "date": "",
+                    "fileRef": "dodis-53321.xml",
+                    "fileRefThumbnail": "thumb_dodis-53321.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59378,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36788,
+                "sort": 0,
+                "attachment": {
+                    "id": 37046,
+                    "attachmentId": 37046,
+                    "date": "",
+                    "fileRef": "dodis-53321-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53321-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59378,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34867,
+                "sort": 0,
+                "attachment": {
+                    "id": 35176,
+                    "attachmentId": 35176,
+                    "date": "",
+                    "fileRef": "dodis-53321.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53321.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59378,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Reşat",
+                    "lastName": "Arım",
+                    "fullName": "Arım, Reşat (1931\u20132017)",
+                    "id": 53697,
+                    "comment": "",
+                    "dateBirth": "20.12.1931",
+                    "dateDeath": "16.1.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": 471,
+                    "deathPlaceText": "Ankara",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arim, Osman Resat",
+                        "Arım, Reşat"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Reşat",
+                    "lastName": "Arım",
+                    "fullName": "Arım, Reşat (1931\u20132017)",
+                    "id": 53697,
+                    "comment": "",
+                    "dateBirth": "20.12.1931",
+                    "dateDeath": "16.1.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": 471,
+                    "deathPlaceText": "Ankara",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arim, Osman Resat",
+                        "Arım, Reşat"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "George Herbert Walker",
+                    "lastName": "Bush",
+                    "fullName": "Bush, George Herbert Walker (1924\u20132018)",
+                    "id": 47406,
+                    "comment": "",
+                    "dateBirth": "23.6.1924",
+                    "dateDeath": "30.11.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 11236,
+                    "deathPlaceText": "Houston",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Bush, George Herbert Walker",
+                        "Bush, George H. W."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Mikhail Sergeyevich",
+                    "lastName": "Gorbachev",
+                    "fullName": "Gorbachev, Mikhail Sergeyevich (1931\u2013)",
+                    "id": 31707,
+                    "comment": "",
+                    "dateBirth": "2.3.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14322,
+                    "birthPlaceText": "Priwolnoje ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Gorbatschow, Michail Sergejewitsch",
+                        "Gorbatchev, Mikhaïl Sergueïevitch",
+                        "Gorbatschow, Michail",
+                        "Gorbačëv, Michail Sergeevič",
+                        "Gorbatchev, Mikhaïl",
+                        "Gorbačëv, Michail",
+                        "Gorbaciov, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail Sergeyevich",
+                        "Gorbatschow, Michael",
+                        "Горбачёв, Михаи́л",
+                        "Горбачёв, Михаи́л Серге́евич"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "François",
+                    "lastName": "Mitterrand",
+                    "fullName": "Mitterrand, François (1916\u20131996)",
+                    "id": 13775,
+                    "comment": "",
+                    "dateBirth": "26.10.1916",
+                    "dateDeath": "8.1.1996",
+                    "wikidataId": "",
+                    "birthPlaceId": 13993,
+                    "birthPlaceText": "Jarnac ",
+                    "deathPlaceId": 18,
+                    "deathPlaceText": "Paris",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mitterand, François",
+                        "Mitterrand, François"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Rudolf",
+                    "lastName": "Seiters",
+                    "fullName": "Seiters, Rudolf (1937\u2013)",
+                    "id": 57431,
+                    "comment": "",
+                    "dateBirth": "13.10.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Seiters, Rudolf"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Margaret",
+                    "lastName": "Thatcher",
+                    "fullName": "Thatcher, Margaret (1925\u20132013)",
+                    "id": 32055,
+                    "comment": "",
+                    "dateBirth": "13.10.1925",
+                    "dateDeath": "8.4.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 10485,
+                    "birthPlaceText": "Grantham",
+                    "deathPlaceId": 55,
+                    "deathPlaceText": "London",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "female",
+                    "names": [
+                        "La Dame de Fer",
+                        "Thatcher, Margaret",
+                        "Iron Lady"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33494,
+                    "name": "Turkey/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Reşat",
+                    "lastName": "Arım",
+                    "fullName": "Arım, Reşat (1931\u20132017)",
+                    "id": 53697,
+                    "comment": "",
+                    "dateBirth": "20.12.1931",
+                    "dateDeath": "16.1.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": 471,
+                    "deathPlaceText": "Ankara",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arim, Osman Resat",
+                        "Arım, Reşat"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Reşat",
+                    "lastName": "Arım",
+                    "fullName": "Arım, Reşat (1931\u20132017)",
+                    "id": 53697,
+                    "comment": "",
+                    "dateBirth": "20.12.1931",
+                    "dateDeath": "16.1.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": 471,
+                    "deathPlaceText": "Ankara",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arim, Osman Resat",
+                        "Arım, Reşat"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "George Herbert Walker",
+                    "lastName": "Bush",
+                    "fullName": "Bush, George Herbert Walker (1924\u20132018)",
+                    "id": 47406,
+                    "comment": "",
+                    "dateBirth": "23.6.1924",
+                    "dateDeath": "30.11.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 11236,
+                    "deathPlaceText": "Houston",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Bush, George Herbert Walker",
+                        "Bush, George H. W."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Mikhail Sergeyevich",
+                    "lastName": "Gorbachev",
+                    "fullName": "Gorbachev, Mikhail Sergeyevich (1931\u2013)",
+                    "id": 31707,
+                    "comment": "",
+                    "dateBirth": "2.3.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14322,
+                    "birthPlaceText": "Priwolnoje ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Gorbatschow, Michail Sergejewitsch",
+                        "Gorbatchev, Mikhaïl Sergueïevitch",
+                        "Gorbatschow, Michail",
+                        "Gorbačëv, Michail Sergeevič",
+                        "Gorbatchev, Mikhaïl",
+                        "Gorbačëv, Michail",
+                        "Gorbaciov, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail Sergeyevich",
+                        "Gorbatschow, Michael",
+                        "Горбачёв, Михаи́л",
+                        "Горбачёв, Михаи́л Серге́евич"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "François",
+                    "lastName": "Mitterrand",
+                    "fullName": "Mitterrand, François (1916\u20131996)",
+                    "id": 13775,
+                    "comment": "",
+                    "dateBirth": "26.10.1916",
+                    "dateDeath": "8.1.1996",
+                    "wikidataId": "",
+                    "birthPlaceId": 13993,
+                    "birthPlaceText": "Jarnac ",
+                    "deathPlaceId": 18,
+                    "deathPlaceText": "Paris",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mitterand, François",
+                        "Mitterrand, François"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Rudolf",
+                    "lastName": "Seiters",
+                    "fullName": "Seiters, Rudolf (1937\u2013)",
+                    "id": 57431,
+                    "comment": "",
+                    "dateBirth": "13.10.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Seiters, Rudolf"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Margaret",
+                    "lastName": "Thatcher",
+                    "fullName": "Thatcher, Margaret (1925\u20132013)",
+                    "id": 32055,
+                    "comment": "",
+                    "dateBirth": "13.10.1925",
+                    "dateDeath": "8.4.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 10485,
+                    "birthPlaceText": "Grantham",
+                    "deathPlaceId": 55,
+                    "deathPlaceText": "London",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "female",
+                    "names": [
+                        "La Dame de Fer",
+                        "Thatcher, Margaret",
+                        "Iron Lady"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33494,
+                    "name": "Turkey/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

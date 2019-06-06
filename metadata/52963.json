@@ -1,0 +1,1019 @@
+{
+    "total": null,
+    "data": {
+        "id": 52963,
+        "title": "Situation in GDR",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "9.8.1990",
+        "documentDateDayOfWeek": "Thursday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Report on the economic difficulties for industry in the FRG evolving from the German reunification process, while in the GDR government, industry and public services are in terminal decline.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 3,
+        "classification": "CONFIDENTIAL",
+        "classificationText": "confidential",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98291,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101713,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101714,
+                "tagId": 466,
+                "name": "Netherlands (the) (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.082.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Niederlande (Politik)",
+                    "Pays-Bas (Politique)",
+                    "Netherlands (the) (Politics)",
+                    "Paesi Bassi (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Pays-Bas (Politique)",
+                "deName": "Niederlande (Politik)",
+                "enName": "Netherlands (the) (Politics)",
+                "itName": "Paesi Bassi (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101715,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59664,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Netherlands Ministry of Foreign Affairs Block 5, 1985\u20131990",
+                "archiveCode": "NL-MFA",
+                "box": null,
+                "aisCode": "NA 2.05.392, inv.nr. 4601",
+                "dossierId": 31584,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "The Hague",
+                "id": 59664
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16422,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "60"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36101,
+                "sort": 0,
+                "attachment": {
+                    "id": 36364,
+                    "attachmentId": 36364,
+                    "date": "",
+                    "fileRef": "dodis-52963-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52963-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59664,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36996,
+                "sort": 0,
+                "attachment": {
+                    "id": 37246,
+                    "attachmentId": 37246,
+                    "date": "",
+                    "fileRef": "dodis-52963.xml",
+                    "fileRefThumbnail": "thumb_dodis-52963.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59664,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36774,
+                "sort": 0,
+                "attachment": {
+                    "id": 37032,
+                    "attachmentId": 37032,
+                    "date": "",
+                    "fileRef": "dodis-52963-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52963-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59664,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 35048,
+                "sort": 0,
+                "attachment": {
+                    "id": 35357,
+                    "attachmentId": 35357,
+                    "date": "",
+                    "fileRef": "dodis-52963.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52963.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59664,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Jan van der",
+                    "lastName": "Tas",
+                    "fullName": "Tas, Jan van der (1928\u20132009)",
+                    "id": 57557,
+                    "comment": "",
+                    "dateBirth": "9.3.1928",
+                    "dateDeath": "10.9.2009",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Tas, Jan G. van der",
+                        "Tas, Jan van der"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Hans",
+                    "lastName": "van den Broek",
+                    "fullName": "van den Broek, Hans (1936\u2013)",
+                    "id": 57462,
+                    "comment": "",
+                    "dateBirth": "11.12.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "van den Broek, Henri",
+                        "van den Broek, Hans"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Jan van der",
+                    "lastName": "Tas",
+                    "fullName": "Tas, Jan van der (1928\u20132009)",
+                    "id": 57557,
+                    "comment": "",
+                    "dateBirth": "9.3.1928",
+                    "dateDeath": "10.9.2009",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Tas, Jan G. van der",
+                        "Tas, Jan van der"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Jürgen",
+                    "lastName": "Becker",
+                    "fullName": "Becker, Jürgen (1953\u2013)",
+                    "id": 57577,
+                    "comment": "",
+                    "dateBirth": "5.5.1953",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Becker, Jürgen"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Berend van",
+                    "lastName": "Gorkom",
+                    "fullName": "Gorkom, Berend van (1942\u2013)",
+                    "id": 57576,
+                    "comment": "",
+                    "dateBirth": "1942",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Gorkom, Berend van"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Erich",
+                    "lastName": "Honecker",
+                    "fullName": "Honecker, Erich (1912\u20131994)",
+                    "id": 46563,
+                    "comment": "",
+                    "dateBirth": "25.8.1912",
+                    "dateDeath": "29.5.1994",
+                    "wikidataId": "",
+                    "birthPlaceId": 12856,
+                    "birthPlaceText": "Neunkirchen",
+                    "deathPlaceId": 211,
+                    "deathPlaceText": "Santiago de Chile",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Honecker, Erich"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Theo",
+                    "lastName": "Waigel",
+                    "fullName": "Waigel, Theo (1939\u2013)",
+                    "id": 54838,
+                    "comment": "",
+                    "dateBirth": "22.4.1939",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14584,
+                    "birthPlaceText": "Ursberg ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Waigel, Theo",
+                        "Waigel, Theodor"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33500,
+                    "name": "Netherlands/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 6991,
+                    "name": "Netherlands/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 88,
+                    "placeText": "The Hague",
+                    "hq": "La Haye",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 9535,
+                    "name": "Deutschland/BRD/Bundesfinanzministerium",
+                    "comment": "Cf. dodis.ch/13897p.176",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9452,
+                    "name": "Deutschland/BRD/Wirtschaftsministerium",
+                    "comment": "",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9440,
+                    "name": "Deutschland/DDR/Finanzministerium",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Berlin-Est",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 26656,
+                    "name": "Deutschland/DDR/Wirtschaftsministerium",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25455,
+                    "name": "Germany/GDR/Volkskammer",
+                    "comment": "vgl. dodis.ch/32890",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33504,
+                    "name": "Treuhandanstalt",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 88,
+                    "name": "The Hague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.070500,
+                    "longitude": 4.300700,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Jan van der",
+                    "lastName": "Tas",
+                    "fullName": "Tas, Jan van der (1928\u20132009)",
+                    "id": 57557,
+                    "comment": "",
+                    "dateBirth": "9.3.1928",
+                    "dateDeath": "10.9.2009",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Tas, Jan G. van der",
+                        "Tas, Jan van der"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Hans",
+                    "lastName": "van den Broek",
+                    "fullName": "van den Broek, Hans (1936\u2013)",
+                    "id": 57462,
+                    "comment": "",
+                    "dateBirth": "11.12.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "van den Broek, Henri",
+                        "van den Broek, Hans"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Jan van der",
+                    "lastName": "Tas",
+                    "fullName": "Tas, Jan van der (1928\u20132009)",
+                    "id": 57557,
+                    "comment": "",
+                    "dateBirth": "9.3.1928",
+                    "dateDeath": "10.9.2009",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Tas, Jan G. van der",
+                        "Tas, Jan van der"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Jürgen",
+                    "lastName": "Becker",
+                    "fullName": "Becker, Jürgen (1953\u2013)",
+                    "id": 57577,
+                    "comment": "",
+                    "dateBirth": "5.5.1953",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Becker, Jürgen"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Berend van",
+                    "lastName": "Gorkom",
+                    "fullName": "Gorkom, Berend van (1942\u2013)",
+                    "id": 57576,
+                    "comment": "",
+                    "dateBirth": "1942",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Gorkom, Berend van"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Erich",
+                    "lastName": "Honecker",
+                    "fullName": "Honecker, Erich (1912\u20131994)",
+                    "id": 46563,
+                    "comment": "",
+                    "dateBirth": "25.8.1912",
+                    "dateDeath": "29.5.1994",
+                    "wikidataId": "",
+                    "birthPlaceId": 12856,
+                    "birthPlaceText": "Neunkirchen",
+                    "deathPlaceId": 211,
+                    "deathPlaceText": "Santiago de Chile",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Honecker, Erich"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Theo",
+                    "lastName": "Waigel",
+                    "fullName": "Waigel, Theo (1939\u2013)",
+                    "id": 54838,
+                    "comment": "",
+                    "dateBirth": "22.4.1939",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14584,
+                    "birthPlaceText": "Ursberg ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Waigel, Theo",
+                        "Waigel, Theodor"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33500,
+                    "name": "Netherlands/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 6991,
+                    "name": "Netherlands/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 88,
+                    "placeText": "The Hague",
+                    "hq": "La Haye",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 9535,
+                    "name": "Deutschland/BRD/Bundesfinanzministerium",
+                    "comment": "Cf. dodis.ch/13897p.176",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9452,
+                    "name": "Deutschland/BRD/Wirtschaftsministerium",
+                    "comment": "",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9440,
+                    "name": "Deutschland/DDR/Finanzministerium",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Berlin-Est",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 26656,
+                    "name": "Deutschland/DDR/Wirtschaftsministerium",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25455,
+                    "name": "Germany/GDR/Volkskammer",
+                    "comment": "vgl. dodis.ch/32890",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33504,
+                    "name": "Treuhandanstalt",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 88,
+                    "name": "The Hague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.070500,
+                    "longitude": 4.300700,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

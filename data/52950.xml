@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52950</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52950">dodis.ch/52950</ref>
+               <title type="main">Memo<note xml:id="e2743">Memo (translated from German):
+                        <idno>Political Archive of the German Federal Foreign Office PA/AA B 24, Bd.
+                        173561, file reference 203-322.00 ITA allg</idno>. Written by Karl-Heinz
+                     Kuhna, <ref target="https://dodis.ch/P57382">dodis.ch/P57382</ref> and Beate
+                     Grzeski, <ref target="https://dodis.ch/P57418">dodis.ch/P57418</ref> and signed
+                     by Karl-Heinz Kuhna. Seen by Rolf Hofstetter, <ref target="https://dodis.ch/P57420">dodis.ch/P57420</ref>, and Dieter Kastrup,
+                        <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref>, on 18 December
+                     1989 and by Jürgen Sudhoff on 19 December 1989. Also published in: <idno>Die
+                        Einheit. Das Auswärtige Amt, das DDR-Außenministerium und der
+                        Zwei-plus-Vier-Prozess, ed. by Horst Möller et. al. on behalf of the
+                        Institute for Contemporary History Munich–Berlin, Göttingen, 2015, doc.
+                        32</idno>.</note> for the State Secretary of the Foreign Ministry of the
+                  FRG, Jürgen Sudhoff<note xml:id="e2758">Jürgen Sudhoff (*1935), <ref target="https://dodis.ch/P57384">dodis.ch/P57384</ref>, State Secretary in
+                     the Foreign Ministry of the FRG 22.4.1987–17.1.1991.</note>
+               </title>
+               <title type="sub">Italian Stance on the German Question Following PM Andreotti’s<note xml:id="e2765">Giulio Andreotti (1919–2013), <ref target="https://dodis.ch/P13865">dodis.ch/P13865</ref>, Prime Minister of
+                     Italy 22.7.1989–28.6.1992.</note> Critical Remarks on Germany</title>
+            </head>
+            <opener>
+               <dateline>Bonn, 18 December 1989</dateline>
+            </opener>
+            <p n="1">
+               <emph>Purpose of the memo:</emph> for information</p>
+            <p>1. In contrast to the Italian media, the Italian Government has reacted with marked
+               coolness and reserve to the events of recent weeks in Germany.</p>
+            <p>The only official statement has come from the Farnesina, which expressed the hope on
+               10 November 1989 that “the German people can be the main player in all future
+               decisions”. The topic was discussed in the Italian cabinet for the first time on the
+               evening before the European Council in Strasbourg after Deputy PM Martelli<note xml:id="e2780">Claudio Martelli (*1943), <ref target="https://dodis.ch/P57421">dodis.ch/P57421</ref>, Deputy Prime Minister of Italy
+                  23.7.1989–28.6.1992.</note> had publicly criticised the lack of an official
+               Italian position during his visit to Bonn.</p>
+            <p>2. PM Andreotti’s repeated comments on the German Question in newspaper interviews
+               have thus attracted a great deal of attention. He has primarily expressed concern
+               about a threat to the delicate balance of power in Europe and the political future of
+               Soviet President and party leader Gorbachev<note xml:id="e2788">Mikhail Gorbachev
+                  (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General
+                  Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman
+                  of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the
+                  Soviet Union 15.3.1990–25.12.1991.</note>, whose fate he sees as tied to a
+               balanced and gradual solution to the German Question in a pan-European framework. His
+               divergence from the generally more positive assessment by the Partito Socialista
+               Italiano (PSI), but also by Democrazia Cristiana (DC) itself, has thus become
+               clear.</p>
+            <p>Following the sudden opening of the Wall on 9 November 1989, PM Andreotti did not
+               comment on issues concerning the future of the two German states, but instead urged
+               people to “keep their nerve”. Regardless of the dramatic changes in the GDR, he
+               reiterated his view in several subsequent interviews that the question of
+               reunification was “not current”. In fact, he regards the concept of “one nation – two
+               states” as becoming current “in the foreseeable future”. (Most recently in an
+               interview with “Corriere della Sera” on 26 November 1989).</p>
+            <p>Fundamentally, PM Andreotti is one of the politicians who called at an early stage
+               for the reform processes in Central and Eastern Europe to be regarded as a positive
+               development that should be encouraged. His clear reservations regarding the German
+               Question is thus all the more striking. However, it is not surprising if one recalls
+               his comments in 1984, when he said “there are two German states and there should be
+               two in the future” and warned about “pan-Germanism”. He has never retracted these
+               comments.</p>
+            <p>Following the meeting of the European Council in Strasbourg<note xml:id="e2800">For
+                  the conclusions of the European Council on 8 and 9 December 1989 cf. <ref target="https://www.consilium.europa.eu/media/20580/1989_december_-_strasbourg__eng_.pdf">www.consilium.europa.eu/media/20580/1989_december_-_strasbourg__eng_.pdf</ref>.</note>,
+               PM Andreotti (“La Stampa” of 12 December 1989) spoke of the Germans’ “right – hope
+               would be a better word” to reunification. Here, too, his inclination was to play down
+               the German Question. Commenting on the terms “self-determination” and “German people”
+               in the European Council Conclusions of Strasbourg, he said that he had argued for the
+               use of the term “free expression of the people’s will”, explaining that the Germans
+               had “not clarified” at the start of the discussion “whether they were also referring
+               to the millions of Germans living in Russia, Poland etc.”. Although this
+               interpretation may have served to back up his previous comments, it is not
+               particularly well-disposed towards the Federal Republic of Germany in the light of
+               our bilateral relations, which are otherwise characterised by trust.</p>
+            <p>In the pan-European context, Andreotti expressed his concern that the term
+               “self-determination” could boost separatist tendencies, especially in Yugoslavia.
+               Concern that the South Tyrol conflict could flare up may be behind these
+               comments.</p>
+            <p>3. In contrast to PM Andreotti, other Italian politicians – including some from DC,
+               but primarily from the Socialist Party – have commented more positively on the German
+               Question. During his state visit to Algeria on 12 November 1989, President
+                  Cossiga<note xml:id="e2810">Francesco Cossiga (1928–2010), <ref target="https://dodis.ch/P55266">dodis.ch/P55266</ref>, President of Italy
+                  9.7.1985–27.5.1992.</note>, who is himself a member of DC, expressed understanding
+               for the “Germans’ legitimate desire for reunification”. Foreign Minister De
+                  Michelis<note xml:id="e2816">Gianni De Michelis (*1940), <ref target="https://dodis.ch/P57415">dodis.ch/P57415</ref>, Italian Foreign
+                  Minister 22.07.1989–28.06.1992.</note>, Deputy PM Martelli and party head
+                  Craxi<note xml:id="e2822">Bettino Craxi (1934–2000), <ref target="https://dodis.ch/P57423">dodis.ch/P57423</ref>, Secretary-General of
+                  the Italian Socialist Party 1976–1993.</note> of the PSI, and even Partito
+               Comunista Italiano (PCI) head Occhetto<note xml:id="e2828">Achille Occhetto (*1936),
+                     <ref target="https://dodis.ch/P57424">dodis.ch/P57424</ref>, Secretary-General
+                  of the Italian Communist Party 1988–1991.</note> have expressed fundamental
+               support for respecting the right to self-determination. On 5 December 1989, Martelli
+               accused PM Andreotti of having his head in the sand if he regarded the German
+               Question as not current. Foreign Minister de Michelis has expressed similar
+               views.</p>
+            <p>4. Despite PM Andreotti’s reservations, however, the basic consensus in Italian
+               politics regarding Central and Eastern Europe should not be forgotten.</p>
+            <p>Italy is pursuing a policy of realism and pragmatism that sees stability in Europe as
+               the main goal. That is why it believes the German Question can only be re solved as
+               part of a general process of bringing West and East back together. In an interview
+               with “La Stampa” on 12 November 1989, Foreign Minister de Michelis expressed support
+               for speeding up “vertical integration” in the EC, while continuing “horizontal
+               integration” in Eastern European countries. He said that flexible mechanisms must be
+               developed in order to integrate these countries step by step through association.</p>
+            <p>Upholding the Helsinki Final Act is as important to Italy as the EC aspect. The
+               borders are fundamentally inviolable, although in an interview on 12 November 1989 de
+               Michelis referred to the possibility of reviewing the border agreement through
+               East-West consensus within the framework of the CSCE process. However, the Italian
+               Government and public are concerned that the turbulent developments in the GDR and
+               other Eastern bloc countries could cause instability in the Soviet Union and
+               undermine Gorbachev’s position. By reacting cautiously, the West hopes to help
+               counteract the fear in the Soviet Union that the West alone will benefit from the
+               spectacular transformation in Central and Eastern Europe.</p>
+            <p>5. We can assume that the European Council in Strasbourg succeeded in allaying the
+               Italian Government’s concerns in this regard. As far as Italy is concerned, the
+               agreement that the Intergovernmental Conference will start during Italy’s Presidency
+               in the second half of 1990 and the wording on the German Question in the conclusions
+               mean that the German Government will be involved in the EC integration process. Even
+               PM Andreotti declared in a statement to the press after the cabinet meeting on 15
+               December 1989 that he completely identifies with the European Council conclusions,
+               which he said he had played an active role in drafting.</p>
+            <p>However, it must be noted that despite the fundamental consensus between Italy and
+               the Federal Republic of Germany on security, West-East relations and European
+               integration, we still have plenty of work ahead of us as regards persuading the
+               Italians on the German Question. German unification is naturally not a key Italian
+               interest and tends to be met with underlying reserve by some sections of the Italian
+               public. PM Andreotti’s sceptical stance is symptomatic of this. Rome in particular is
+               keeping a close eye on possible German leadership in the West-East process, not least
+               because Italy has high economic hopes of its own as regards development in Eastern
+               Europe.</p>
+            <p>Italy’s concerns about Germany should be countered by extensive information and
+               prompt and close coordination at bilateral and European level, as was the case at the
+               European Council in Strasbourg. Ambassador Ruth<note xml:id="e2846">Friedrich Ruth
+                  (1927–2016), <ref target="https://dodis.ch/P57425">dodis.ch/P57425</ref>,
+                  Ambassador of the FRG in Rome 18.11.1986–29.2.1992.</note> plans to hold talks
+               with PM Andreotti on further developments in Germany and Europe as soon as possible.
+               It would also be useful to continue the dialogue with Italy on further developments
+               in Central and Eastern Europe at a high political level via an official visit by
+               Foreign Minister Genscher<note xml:id="e2852">Hans-Dietrich Genscher (1927–2016),
+                     <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor
+                  and Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note> to Rome in
+               the spring. We should also press for the next German-Italian intergovernmental
+               consultations to be held as soon as possible in Rome. The talks could take place in
+               the early summer of 1990 in order to discuss this topic at the head of government
+               level.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

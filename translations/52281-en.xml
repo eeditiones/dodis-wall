@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52281</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52281">dodis.ch/52281</ref>
+               <title type="main">Political report<note xml:id="e3792">Political report No. 12 and
+                     Telegram No. 34 (incoming, translated from German): <idno>Swiss Federal
+                        Archives CH-BAR#E2010-02A#1996/400#19* (A.21.31)</idno>. Written by Jürg
+                     Leutert, <ref target="https://dodis.ch/P17414">dodis.ch/P17414</ref>.</note> of
+                  the Swiss Ambassador in Bonn, Alfred Hohl<note xml:id="e3798">Alfred Hohl
+                     (1930–2004), <ref target="https://dodis.ch/P16080">dodis.ch/P16080</ref>, Swiss
+                     Ambassador in Bonn 1.9.1987–16.11.1991.</note></title>
+               <title type="sub">Reunification and Bloc Alignment</title>
+            </head>
+            <opener>
+               <add>
+                  <emph>Confidential</emph>
+               </add>
+               <dateline>Bonn, 13 February 1990</dateline>
+            </opener>
+            <p>Three fundamental processes of historic importance are currently taking place in
+               Europe:</p>
+            <p>– (Western) European integration within the EC with the goal of a European Union</p>
+            <p>– The dissolution of the Eastern Bloc and thus the elimination of bipolarity in
+               Europe in terms of security policy.</p>
+            <p>– German reunification.</p>
+            <p>The three processes are inextricably connected to each other. The interplay and
+               causality of the latter two, however, are particularly pressing and acute. The
+               dilemma can be put simply:</p>
+            <p>The developments in Germany have achieved a momentum that cannot be matched by the
+               formation of new pan-European security structures intended to supersede
+               bipolarity.</p>
+            <p/>
+            <p>
+               <emph>Solution:</emph>
+            </p>
+            <p>a) Either the process of reunification is slowed down and aligned with what can be
+               achieved within the scope of Helsinki II or Vienna II, or</p>
+            <p>b) the construction of the new Europe is adjusted to the speed of the process of
+               reunification, or</p>
+            <p>c) one accepts the fact that the two processes cannot be coordinated time-wise.</p>
+            <p>To predict only one of these three logically conceivable developments as likely would
+               mean to categorise the dynamics of political developments in an undue manner.</p>
+            <p>It is more realistic to assume a mixture of the three options.</p>
+            <p>– The still unresolved question of bloc alignment certainly inhibits the process of
+               reunification. Achieving state unity in combination with a twofold bloc alignment and
+               the presence of American as well as Soviet troops is unrealistic, since this is
+               inherently self-contradictory. Assurances to the contrary – also from the coalition –
+               are to be understood more as “window dressing” and as “appeasement” of the Bloc
+               protagonists’ worries.</p>
+            <p>– What cannot be denied is that the German development gives rise to pressure to
+               create new European security structures. It puts Helsinki II und Vienna II under
+               pressure to succeed.</p>
+            <p>– Ultimately, the development certainly also contains aleatory elements. This is due,
+               amongst other things, to the uncertainties in the Soviet Union. Would it, for
+               instance, have the capacity and the will to resist if the GDR were to pull away?
+               After all, come 18 March, a newly elected GDR government would be free to declare its
+               resignation from the Warsaw Pact. The USSR troops that remain on GDR territory would
+               then be present solely in the role of a victorious power according to the Potsdam
+               Agreement, which would put in an entirely new light the question of Bloc alignment.
+               As speculative as such a development may be at present: it deserves to be mentioned
+               when one considers that what was unthinkable in Europe only yesterday is today’s
+               reality. The re-sizing of the Soviet empire, the mastering of its internal problems
+               demand a willingness to compromise, particularly in those areas where there are no
+               direct and vital risks in terms of security policy. Once the USSR’s Western glacis is
+               on the point of dissolving, Soviet troops stationed in the GDR over the long-term may
+               rather represent anachronistic symbolism than a necessity in terms of security
+               policy.</p>
+            <p>The idea of making the united Germany <emph>neutral</emph>, which Modrow<note
+                  xml:id="e3844">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796"
+                     >dodis.ch/P54796</ref>, Chairman of the GDR Council of Ministers
+                  13.11.1989–12.4.1990.</note> dug out with the support of the Kremlin, bypasses
+               reality.</p>
+            <p>A state of united Germany’s size and power by definition cannot be neutral; it lacks
+               the essential smallness that is a condition of being-able-to-be-neutral and the
+               interests resulting from its size make it, in the international context, an agent
+               that is relevant in terms of security policy. Moreover: letting united Germany become
+               neutral would mean granting it a special status that allows for an independent,
+               unswayable policy vis-à-vis the other powers. An integration into pan-European
+               structures increases the level of control over German foreign policy.</p>
+            <p><emph>Other options</emph> are also currently being discussed:</p>
+            <p>– That the GDR will become part of NATO territory is unrealistic, since
+               unconscionable and unacceptable to the USSR.</p>
+            <p>– A – temporary – rendering neutral and demilitarisation of the GDR would probably
+               fail for the same reasons.</p>
+            <p>Conclusion: There is currently no solution on the horizon that could overcome the
+               conceptual incompatibility of reunification and – provisional – Bloc alignment of FRG
+               and GDR. Nonetheless, the reunification will not fail because of this, it will – as
+               far as the constitutive framework is concerned – be delayed at most.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

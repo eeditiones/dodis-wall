@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53316</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53316">dodis.ch/53316</ref>
+               <title type="main">Statement<note xml:id="e4637">Statement (translated from Russian):
+                        <idno>Archive of the Foreign Ministry of the Russian Federation АВП РФ ф.
+                        742, оп. 35, п. 147, д. 8, л. 133–145</idno>.</note> of the Minister of
+                  Foreign Affairs of the Soviet Union, Eduard Shevardnadze<note xml:id="e4640">Eduard Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign Affairs of the Soviet Union
+                     2.7.1985–26.12.1990.</note>
+               </title>
+            </head>
+            <opener>
+               <dateline>Prague, 17 March 1990</dateline>
+            </opener>
+            <p/>
+            <p n="1">The conversation with President V. Havel<note xml:id="e4652">Václav Havel
+                  (1936–2011), <ref target="https://dodis.ch/P52679">dodis.ch/P52679</ref>,
+                  President of the CSSR 29.12.1989–20.7.1992.</note> showed that our allied
+               countries have a vast sphere of concord on principal issues, related to the provision
+               of European security and the settlement of German affairs.</p>
+            <p>I think we are all grateful to our Czechoslovak friends for their initiative. Where,
+               if not here, in the center of Europe, should we discuss the central problem of
+               today’s European policy, namely the German issue?</p>
+            <p>It is worth mentioning that, from a legal point of view, consideration of the German
+               issue in the framework of the Warsaw Treaty Organization, which was established at
+               the time simply to protect us against a potential threat from Germany, is our direct
+               duty.</p>
+            <p>This is about understanding the positions on the most important aspects at the moment
+               when the decisive events begin to take place.</p>
+            <p>In this regard, I consider it necessary, at least briefly, to mention those main
+               elements that determine the Soviet approach to these complex problems we face.</p>
+            <p>
+               <emph>First:</emph> the Germans, of course, have the right to unity. The Soviet Union
+               has never denied it and did not put forward the idea of dismembering Germany. This is
+               well known.</p>
+            <p>
+               <emph>Second,</emph> inextricably linked with the first: the Germans should take into
+               account the rights and interests of others. In this respect, there are frameworks
+               outlined by quadripartite agreements and decisions. And this means that the idea of
+               self-determination, the building of German unity, can be realized only in such a way
+               that the threat to peace will never again emanate from German soil.</p>
+            <p>
+               <emph>Third:</emph> no matter how complex the Germanic issue was, it must be solved
+               in such a way as not to destroy, but, on the contrary, reinforce positive world
+               trends. Not undermine but advance the process of constructing a new, united
+               Europe.</p>
+            <p>
+               <emph>Fourth:</emph> since this process is inseparable from the pan-European process,
+               a step-by-step and democratic approach is needed. The path to unification goes
+               through the stages of forming mechanisms for the new Germany to cooperate with both
+               the West and the East. Any other solutions, particularly one-sided ones, are
+               unacceptable.</p>
+            <p>
+               <emph>Fifth:</emph> any attempts to take decisions for the GDR, pushing it to
+               self-liquidation, are unacceptable either from a political or from a moral point of
+               view. As members of the Warsaw Pact, we have no right to abandon our ally. Our duty
+               is to provide the GDR with all necessary assistance in safeguarding its interests at
+               this crucial stage. The free expression of the will of the GDR people, the
+               implementation of their right to choose their way by themselves – this is one thing,
+               and quite another – direct interference in the internal affairs of the Republic from
+               the side of the other German state is uncalled for.</p>
+            <p>
+               <emph>Sixth:</emph> the Soviet people, who suffered immense loss as a result of the
+               aggression of Nazi Germany, like other nations, are in a position to demand that all
+               reliable guarantees should be given to prevent the recurrence of military
+               adventures.</p>
+            <p>
+               <emph>Seventh:</emph> the German problem is to be solved in the context of an
+               unconditional securing of the postwar German borders under the international regime
+               of law.</p>
+            <p>
+               <emph>Finally,</emph> for all of us, there are numerous extremely important practical
+               moments in the near future, in particular – an economic “slice” of the union of the
+               GDR and the FRG. Intensive economic relations of our countries with the GDR should
+               not suffer at any stage as a result of the convergence and rapprochement of the two
+               German states.</p>
+            <p>Now in more details about these elements.</p>
+            <p>The most principal question is: <emph>on what basis</emph> should the
+                  <emph>unification</emph> be implemented?</p>
+            <p>Recently, the option of the factual accession of the German Democratic Republic,
+               fully or partially, to the FRG on the basis of the 23<hi>rd</hi> Article of the
+               Constitution of West Germany is being vigorously advocated. According to this
+               article, as you may know, the Constitution of West Germany cannot be applied to the
+               territory of the GDR.</p>
+            <p>What is this if not the recurrence of the Anschluss?</p>
+            <p>And that is not all. The Article mentions that “other parts of Germany”, pay
+               attention to this, may in time join the FRG. How many of these parts are there, and
+               where are they? The question is not simple, it is very serious.</p>
+            <p>It is in our interest neither to allow the practical application of this article, nor
+               the other revanchist provisions of the German constitutional law. It would have been
+               contrary to the principles of the clauses of the Potsdam agreement, which
+               unequivocally assumed that the restoration of German statehood could only occur
+               within the borders of the then occupied areas, in an orderly democratic fashion and
+               based on the agreement of all the parties concerned. This would also ignore the GDR
+               and FRG treaty obligations regarding the issues raised by Germany reunification that
+               were adopted on the basis of postwar agreements, including the issue of the rights of
+               the Four Powers and the GDR’s constitutional legal framework.</p>
+            <p>But that is not all. Actual absorption of one state by another would mean an
+               undermining of the “2 + 4” mechanism created in Ottawa. It would have made other
+               countries, including the Soviet Union, rethink their possible steps, primarily by
+               considering their rights and responsibilities towards Germany as a whole.</p>
+            <p/>
+            <p n="1">We expect that the member countries of the Warsaw Treaty Organization will take
+               a firm position against the unification of Germany under the “scenario” of Article
+               23, meaning the unification of Germany on the basis of an <emph>equitable</emph>
+               agreement between the GDR and West Germany. Specifically as a result of such a
+               development, a new entity under international law, a successor of the GDR and the FRG
+               would arise, allowing a fair decision on the new international status of Germany to
+               be reached.</p>
+            <p>It will be for the benefit of all, including the Germans themselves, to ensure that
+               the transitional period will not be brief and fleeting, so that different options can
+               be considered: a confederation, a German union or a federation. It is up to the
+               Germans themselves to make a choice, after careful consideration, as the final
+               settlement of German affairs will be conditional to this choice.</p>
+            <p>Also there is a direct connection with the problem of the military-political balance
+               in Europe. From the very beginning, we have said, and we still maintain this
+               position: <emph>a unified Germany should not become a part of NATO</emph>. Otherwise,
+               we will witness the demolition of the military-strategic balance in Europe, which is
+               the basis of stability and security, mutual trust and cooperation, and put into
+               question the many achievements of the all-European process. Because nowadays military
+               blocs have not yet been transformed into political alliances, and only the first
+               steps have been made in the field of European disarmament and the implementation of
+               confidence-building measures, these categories will remain relevant.</p>
+            <p>Moreover, the actual policy of the country cannot but take into account the public
+               mood. The united Germany’s accession to NATO would provoke a sharp and negative
+               reaction from the Soviet people because their memory of the last war and of
+               everything connected with it is still fresh.</p>
+            <p>There is one path which seems to be promising: the military-political status of the
+               united Germany should fit into the new all-European security structures, and the
+               stages of its formation should be synchronized with the stages of formation of these
+               structures.</p>
+            <p>We need more consistence in building inter-Germany structures while creating
+               pan-European mechanisms of cooperation and security. Changes in the eastern part of
+               Europe, which led to the dismantling of unsustainable bureaucratic,
+               command-and-control models of the organization of social life and politics,
+               correspond with the construction of a European home based on the Helsinki proc‑
+               ess.</p>
+            <p>The contacts established now between the countries of Eastern Europe and the
+               countries of the West, the European Community, the Council of Europe, and mutual
+               adaptation are becoming a normal and natural thing.</p>
+            <p>Today’s and tomorrow’s realities in Europe mean that in many ways we must take a
+               fresh look at security issues. To overcome the inertia of bloc approaches, we need to
+               think of continental security in terms of joint efforts and concepts, and not their
+               polarization. The path to achieving this objective requires the gradual
+               transformation of existing military and political alliances, the realization in their
+               doctrines of the principle of defense sufficiency, and establishing a policy of
+               dialogue and contacts between them.</p>
+            <p/>
+            <p n="1">It is a question of replacing systems of bloc security with collective security
+               which should also incorporate the future united Germany. Moving simultaneously from
+               both sides is the only option to come close to such a system.</p>
+            <p>Speaking metaphorically, we see the construction of such a security system taking the
+               form of two linked arches. Their external supports are established over the Atlantic,
+               that is, in the USA and Canada, as well as in Eurasia, a large part of which is the
+               Soviet Union, and they converge in Europe.</p>
+            <p>In this matter, the all-European summit scheduled for the end of the year will be
+               called upon to play a significant role. In our opinion the German issues will take a
+               proper place on its agenda. It appears that we have already reached a consensus on
+               this question.</p>
+            <p>An understanding is also emerging that agreements reached within the framework of the
+               “Two plus Four” mechanism should be confirmed by the leaders of all 35 states that
+               are participants in the Helsinki process. What kind of form and political and legal
+               status should these agreements acquire? This issue requires further consideration at
+               the pan-European summit.</p>
+            <p>The question of <emph>demilitarization</emph> of a united Germany must be considered
+               seriously so that its military potential meets the principle of reasonable and
+               sufficient protection.</p>
+            <p>The flaws in the arguments that the united Germany may join NATO on the condition
+               that armed forces from the Alliance are not deployed on the territory of the present
+               GDR are quite obvious.</p>
+            <p>After all, not to confuse arguments, in this case the whole of united Germany would
+               enter the sphere of the NATO treaty. If we invite Germany to join the Warsaw Pact,
+               the West will for sure regard this as an absurdity. But is it not less absurd after
+               the reunification of Germany to leave things in the bloc structures in Europe as they
+               are?</p>
+            <p>Measures on demilitarization and arms limitation should embrace both parts of
+               Germany. Otherwise it would not be a just and equitable decision, and without such a
+               decision German affairs will not be settled.</p>
+            <p>It is equally obvious that a unified Germany should refrain from the production,
+               possession and disposal of nuclear, chemical, bacteriological and other types of
+               weapons of mass destruction.</p>
+            <p>One could also think about how to achieve a withdrawal from the territory of the
+               Federal Republic of Germany of all nuclear weapons deployed there, along with the
+               necessary control measures.</p>
+            <p>The question of <emph>the presence of troops of the Four Powers</emph> in the
+               territory of a united Germany would probably be difficult to resolve. Their presence
+               in the GDR and the FRG has a dual basis − quadripartite responsibilities and
+               bilateral and multilateral obligations are directly related to the security of the
+               Warsaw Treaty and NATO members.</p>
+            <p>Both the Soviet troops and those of the three Western powers stationed on the ground
+               in Germany enjoy a special status. According to the previously signed treaties, they
+               are to stay in Germany until a peaceful settlement is reached and pan-European
+               security structures have been created. We need to discuss the number of these troops
+               and the conditions of their stay in the country, first and foremost keeping in mind
+               that they should enjoy equal rights and opportunities in Germany and not engage in
+               any hostilities with each other.</p>
+            <p>The main issue pertaining to the vital interests of our countries, but first and
+               foremost for their neighbors, is the future Germany’s borders. It is clear that this
+               involves the categorical rejection by everyone of any territorial pretension. The
+               principle of the recognition of borders will be equally relevant to the Oder-Neisse
+               border and to the borders established after the accession of the former East Prussia
+               to the Soviet Union and Poland.</p>
+            <p>All of us have the right to demand from the Germans that they unequivocally undertake
+               to recognize the existing borders and refrain from any attempts, either at present or
+               in the future, to change them through means that are incompatible with international
+               law.</p>
+            <p>In the FRG, it is believed that a peace treaty is not necessary to fix the borders,
+               thinking it will be sufficient to confirm this from the viewpoint of the GDR, the FRG
+               and the unified Germany; the Moscow Treaty; and other “Eastern treaties”.</p>
+            <p>However, this is far from sufficient. We know how the state agencies of the Federal
+               Republic of Germany interpret these agreements. According to their interpretation,
+               the current borders are of a temporary nature. These interpretations, in particular
+               the decision of the Federal Constitutional Court of 1973, have not been repealed;
+               neither have the provisions of the Constitution of the Federal Republic of Germany
+               and other legislative acts on which these interpretations are based. So the objective
+               should be the unconditional international legal confirmation of the borders with the
+               most reliable guarantees.</p>
+            <p>All this again brings us back to the question of concluding a peace treaty with
+               Germany.</p>
+            <p>By the way, the obligation to conclude a peace treaty has been directly recorded both
+               in the agreements of the FRG with the three powers and in the treaties of the GDR
+               with the USSR. These contractual obligations must be fulfilled before the final
+               reunification takes place and there will be an international recognition of this fact
+               by all interested states.</p>
+            <p>Up to this point, we believe, the rights and responsibilities of the four powers
+               remain valid. The formula fixed in the Potsdam Agreement on the prerogatives of the
+               four powers “now and in the future” to take the necessary measures to ensure that
+               “Germany would never again threaten its neighbors or the preservation of peace in the
+               world” lies at the core of these obligations.</p>
+            <p>These rights are not fictitious. They cannot be declared as inactive or insignificant
+               just because today someone is not happy with them. The very mechanism of the
+               “Six”confirms the special role of the Powers in establishing security guarantees for
+               all countries while the solution of the German question takes place.</p>
+            <p>Troops, communications missions, air corridors, the special status of West Berlin and
+               many other things are testiments today to the rights and responsibilities of the
+               powers visibly represented on German soil. All these issues are directly related to
+               the German peace settlement, and they cannot be ignored.</p>
+            <p>In short, the purpose of the peace treaty is to conclusively determine the status of
+               Germany in Europe in the structures of international legal order. This is the main
+               question.</p>
+            <p/>
+            <p n="1">I think you will agree that the preservation of quadrilateral rights will have
+               a stabilizing effect on the process of movement towards German unity, making it more
+               predictable and controlled.</p>
+            <p>Finally, it is impossible to leave unattended the real threat of the <emph>resurgence
+                  of fascism</emph>. This reveals itself in open and covert forms in both German
+               states. The social roots of neo-fascism have not been removed thus far. Right wing
+               extremism shows itself in territorial ambitions and claims of revanchist communities
+               of compatriots and associations in the FRG.</p>
+            <p>We should obviously send a strong message to the united Germany on the question of
+               unconditional fulfillment of the Potsdam agreement related to the prevention of the
+               resurgence of German Nazism and the ideology of pan-Germanism in general.</p>
+            <p>Thus, the position of the Soviet Union is as follows: “yes” to the German unity,
+               though on the condition that the interests of all European states, primarily
+               Germany’s neighbors, will be observed. Synchronization of the process of building
+               this unity with the all-European process and the creation of security on a collective
+               basis are necessary. Any legal or political loopholes for revisions of the borders
+               are inadmissible. A decisive “no” to Germany’s membership of NATO. Support of the
+               movement towards the rapprochement of Western and Eastern Europe. Promotion of the
+               allies’ interests within the framework of the “2 + 4” mechanism. Supporting Poland in
+               the area of its participation in the negotiating process, especially at the stage
+               where issues directly affecting its interests, particularly relating to the border
+               question, will be discussed. We agree with the Polish proposal to hold this round of
+               talks in Warsaw. We do not rule out that besides members of the “Six”, some other
+               countries may also be brought to the table.</p>
+            <p>One should not rule out that at a certain stage some other countries, particularly
+               those who are immediate neighbors of Germany, may join the process. Such attitudes
+               are welcomed from NATO too. Even such countries as Canada do not think that the
+               German affairs should be discussed only within the framework of the “Six”.</p>
+            <p>Now, in more detail at the first meeting of experts of the “Six” on March 14 in Bonn.
+               This reflected the understanding that the issues of military and political status,
+               borders, quadripartite rights and the responsibilities, as well as the problems, of
+               Berlin could be added to the agenda. Of fundamental importance was also the fact that
+               all members of the ‘“Six” could agree to invite Poland to participate in the
+               discussion of the issues affecting its interests, particularly pertaining to the
+               borders. It has been agreed that the work of “Six” will be consensus based.</p>
+            <p>At the same time, the FRG and some Western powers, under its influence, are so far
+               evading the need to bring to the floor the questions related to the peace settlement,
+               how to ensure the synchronization of Germany’s reunification with the all-European
+               process, and some proposals made by the GDR (property relations and GDR’s legal
+               inheritance). Especially Bonn has produced particular objections against the idea of
+               the peace treaty. However, it should be clear that the cessation of quadripartite
+               rights and responsibilities cannot happen by themselves without a peace treaty or any
+               other appropriate form of peaceful settlement. This is why we do not consider the
+               opinion expressed by the Western experts in Bonn as the final say and we are going to
+               hold on firmly to our position and seek a reconsideration of these issues at the next
+               meetings, of course, counting on the support of our allies.</p>
+            <p>Generally the meeting in Bonn showed that the mechanism of the “Six” provides certain
+               options for influencing and controlling the process of Germany’s unification. The
+               participants agreed to hold the next meeting during the first half of April in
+               Berlin. As agreed, the third meeting will be held at the ministerial level.</p>
+            <p>Thus, a multilateral dialogue designed to achieve the necessary arrangements has been
+               started, but the hard work apparently remains to be done. We have at our disposal a
+               highly efficient tool in the form of public opinion, which is very sensitive to the
+               entire set of German issues.</p>
+            <p>The Germans in both parts of Germany should know: we are not going to act against
+               their legitimate aspirations. But to reach a sustainable solution, we need
+               intelligence, realism and responsibility on both sides.</p>
+            <p>They must also know what Germany’s neighbors and all the participants of the Helsinki
+               process think about the united Germany. I mean not just the views of the governments
+               and professional politicians, but also of the broader public. Any decision will be
+               fragile at its core if it does not consider such factors.</p>
+            <p>In conclusion, let me say a few words on a topic that goes beyond the current agenda,
+               about the improvement of the cooperation mechanism within the framework of the Warsaw
+               Treaty Organization. This issue has been raised by President V. Havel.</p>
+            <p>The experts have carried out substantial work. The formulation of points related to
+               the activities of the Political Consultative Committee, the Foreign Affairs Committee
+               and the Defense Committee (the current Committee of Defense Ministers) have been
+               almost agreed upon. A mutually satisfactory solution has been reached regarding the
+               appointment of a Commander-in-Chief, the procedures for interactions between
+               political and military bodies, and various other aspects.</p>
+            <p>In our opinion, it is possible to come to decisions on the issues that have not yet
+               been agreed upon: the expansion of the functions of the Secretary General of the
+               Political Consultative Committee, whom the majority of us would also like to see as a
+               Secretary General of the Warsaw Treaty at large, and the creation of a Permanent
+               Political Working Body.</p>
+            <p>The development of the European situation in general indicates that structures for
+               permanent political cooperation are essential.</p>
+            <p>Having established these we would have made a significant contribution to the
+               substantial renewal of the Warsaw Treaty Organization, increasing the component of
+               political cooperation in its activities.</p>
+            <p>It is becoming increasingly evident that our alliance is needed, because it can play
+               a constructive role in the formation of new joint security structures in Europe,
+               which is the way forward to replace the existing bloc approaches.</p>
+            <p>I draw attention to the proposal brought forward by the Foreign Minister of
+                  Czechoslovakia<note xml:id="e4801">Jiří Dienstbier (1937–2011), <ref target="https://dodis.ch/P57467">dodis.ch/P57467</ref>, Foreign Minister of the
+                  CSSR 10.12.1989–2.7.1992.</note> – on the conclusion of the European Security
+               Treaty. It seems that this proposal deserves serious consideration and examination.
+               Together, we can look for solutions to issues of European security, acceptable to
+               both the Warsaw Pact and NATO.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,969 @@
+{
+    "total": null,
+    "data": {
+        "id": 53323,
+        "title": null,
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "18.6.1990",
+        "documentDateDayOfWeek": "Monday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Report concerning the \u201cDraft providing the annexation of German Democratic Republic to the territory of Federal Republic of Germany\u201d, submitted by the DSU Party.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 99911,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101743,
+                "tagId": 327,
+                "name": "Turkey (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.099.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Turkey (Politics)",
+                    "Turchia (Politica)",
+                    "Türkei (Politik)",
+                    "Turquie (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Turquie (Politique)",
+                "deName": "Türkei (Politik)",
+                "enName": "Turkey (Politics)",
+                "itName": "Turchia (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101744,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101745,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59387,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Turkish Diplomatic Archives",
+                "archiveCode": "TR-DA",
+                "box": null,
+                "aisCode": "3180746",
+                "dossierId": 31498,
+                "hasPdf": null,
+                "original": false,
+                "archiveUrl": "",
+                "archivePlace": "Ankara",
+                "id": 59387
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16462,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "51"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36951,
+                "sort": 0,
+                "attachment": {
+                    "id": 37205,
+                    "attachmentId": 37205,
+                    "date": "",
+                    "fileRef": "dodis-53323-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53323-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53323\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53323<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Turkish Ambassador in East Berlin, Metin Mekik<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the\n                  Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Normal<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 18 June 1990, 5.00 p.m.<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">During the private session held on 17 June 1990 by GDR People\u2019s Chamber, the\n               coalition partner DSU submitted a draft providing the annexation of the GDR into the\n               territory of FRG under article 23 of the Basic Law of the FRG. This vital submission,\n               which is described as the end of the GDR, has been put on the agenda by a two-thirds\n               majority.<\/p>\n            <p class=\"tei-p2 tei-p\">With regards to that development, it has been stated that if the draft is adopted,\n               the GDR Council of Ministers will be repealed because the Basic Law recognizes only\n               one council. Furthermore, it has been stated that President de Maizière<span id=\"fnref_1_5_2_2_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_2\">3<\/a><\/span> will have to\n               lay down his office on the same day and this office will be taken over by Chancellor\n               Kohl<span id=\"fnref_1_5_2_2_9_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_4\">4<\/a><\/span>.<\/p>\n            <p class=\"tei-p2 tei-p\">While advising to be calm and cautious, President de Maizière has explained that he\n               also supports an early annexation. However, it was pointed out that a second\n               unification treaty including the general conditions should be made beforehand.\n               Moreover, the need for federal states to also be established in the GDR before the\n               annexation has been underlined.<\/p>\n            <p class=\"tei-p2 tei-p\">It has been asserted that in case of the adoption of GDR\u2019s draft, this will be a\n               \u201cfait accompli\u201d and 2+4 meetings will no longer be needed. SPD Parliamentary Leader\n               Richard Schröder<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">5<\/a><\/span>\n               argued that political union should be made through agreement with the \u201csuper powers\u201d.\n               CDU/DA Chief Negotiator of the Financial, Economic and Social Unification Treaty\n               Günther Krause<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">6<\/a><\/span> noted that the annexation\n               should be carried out in the summer and the annexation procedure will be determined\n               by the second unification treaty.<\/p>\n            <p class=\"tei-p2 tei-p\">According to Krause, this second unification treaty will enter into force following\n               the election which will be held for the whole of Germany on the 2<span class=\"tei-hi tei-hi1\">nd<\/span> or\n               16<span class=\"tei-hi tei-hi1\">th<\/span> of December in 1990. Before that, GDR federal state elections will\n               be held on 23 September 1990.<\/p>\n            <p class=\"tei-p2 tei-p\">The draft has been referred to the Constitutional Committee and the Inter-German\n               Committee by a two-thirds majority.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 82/9 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archives 3180745<\/span>. Copies to the\n                  Turkish Embassies in Washington, Moscow, Bonn, London and Paris and the Turkish\n                  Missions to NATO in Brussels, to EC in Brussels and to the CFE Talks in\n                  Vienna.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Lothar de Maizière (*1940), <a href=\"https://dodis.ch/P54809\" class=\"tei-ref7 tei-link\">dodis.ch/P54809<\/a>, GDR Prime Minister 12.4\u20132.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the FRG\n                  1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Richard Schröder (*1943), <a href=\"https://dodis.ch/P57559\" class=\"tei-ref7 tei-link\">dodis.ch/P57559<\/a>, Member of the People\u2019s\n                  Chamber 5.4.1990\u20132.10.1990 and SPD Parliamentary Leader 3.4.\u2013 21.8.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Günther Krause (*1953), <a href=\"https://dodis.ch/P57560\" class=\"tei-ref7 tei-link\">dodis.ch/P57560<\/a>, GDR chief negotiator\n                  and signatory of the German Reunification Treaty.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59387,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36108,
+                "sort": 0,
+                "attachment": {
+                    "id": 36371,
+                    "attachmentId": 36371,
+                    "date": "",
+                    "fileRef": "dodis-53323-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53323-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59387,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37062,
+                "sort": 0,
+                "attachment": {
+                    "id": 37279,
+                    "attachmentId": 37279,
+                    "date": "",
+                    "fileRef": "dodis-53323.html",
+                    "fileRefThumbnail": "thumb_dodis-53323.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53323\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53323<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Turkish Ambassador in East Berlin, Metin Mekik<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the\n                  Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Normal<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 18 June 1990, 5.00 p.m.<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">During the private session held on 17 June 1990 by GDR People\u2019s Chamber, the\n               coalition partner DSU submitted a draft providing the annexation of the GDR into the\n               territory of FRG under article 23 of the Basic Law of the FRG. This vital submission,\n               which is described as the end of the GDR, has been put on the agenda by a two-thirds\n               majority.<\/p>\n            <p class=\"tei-p2 tei-p\">With regards to that development, it has been stated that if the draft is adopted,\n               the GDR Council of Ministers will be repealed because the Basic Law recognizes only\n               one council. Furthermore, it has been stated that President de Maizière<span id=\"fnref_1_5_2_2_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_2\">3<\/a><\/span> will have to\n               lay down his office on the same day and this office will be taken over by Chancellor\n               Kohl<span id=\"fnref_1_5_2_2_9_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_4\">4<\/a><\/span>.<\/p>\n            <p class=\"tei-p2 tei-p\">While advising to be calm and cautious, President de Maizière has explained that he\n               also supports an early annexation. However, it was pointed out that a second\n               unification treaty including the general conditions should be made beforehand.\n               Moreover, the need for federal states to also be established in the GDR before the\n               annexation has been underlined.<\/p>\n            <p class=\"tei-p2 tei-p\">It has been asserted that in case of the adoption of GDR\u2019s draft, this will be a\n               \u201cfait accompli\u201d and 2+4 meetings will no longer be needed. SPD Parliamentary Leader\n               Richard Schröder<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">5<\/a><\/span>\n               argued that political union should be made through agreement with the \u201csuper powers\u201d.\n               CDU/DA Chief Negotiator of the Financial, Economic and Social Unification Treaty\n               Günther Krause<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">6<\/a><\/span> noted that the annexation\n               should be carried out in the summer and the annexation procedure will be determined\n               by the second unification treaty.<\/p>\n            <p class=\"tei-p2 tei-p\">According to Krause, this second unification treaty will enter into force following\n               the election which will be held for the whole of Germany on the 2<span class=\"tei-hi tei-hi1\">nd<\/span> or\n               16<span class=\"tei-hi tei-hi1\">th<\/span> of December in 1990. Before that, GDR federal state elections will\n               be held on 23 September 1990.<\/p>\n            <p class=\"tei-p2 tei-p\">The draft has been referred to the Constitutional Committee and the Inter-German\n               Committee by a two-thirds majority.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 82/9 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archives 3180745<\/span>. Copies to the\n                  Turkish Embassies in Washington, Moscow, Bonn, London and Paris and the Turkish\n                  Missions to NATO in Brussels, to EC in Brussels and to the CFE Talks in\n                  Vienna.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Lothar de Maizière (*1940), <a href=\"https://dodis.ch/P54809\" class=\"tei-ref7 tei-link\">dodis.ch/P54809<\/a>, GDR Prime Minister 12.4\u20132.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the FRG\n                  1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Richard Schröder (*1943), <a href=\"https://dodis.ch/P57559\" class=\"tei-ref7 tei-link\">dodis.ch/P57559<\/a>, Member of the People\u2019s\n                  Chamber 5.4.1990\u20132.10.1990 and SPD Parliamentary Leader 3.4.\u2013 21.8.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Günther Krause (*1953), <a href=\"https://dodis.ch/P57560\" class=\"tei-ref7 tei-link\">dodis.ch/P57560<\/a>, GDR chief negotiator\n                  and signatory of the German Reunification Treaty.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 59387,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 37005,
+                "sort": 0,
+                "attachment": {
+                    "id": 37254,
+                    "attachmentId": 37254,
+                    "date": "",
+                    "fileRef": "dodis-53323.xml",
+                    "fileRefThumbnail": "thumb_dodis-53323.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59387,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36790,
+                "sort": 0,
+                "attachment": {
+                    "id": 37048,
+                    "attachmentId": 37048,
+                    "date": "",
+                    "fileRef": "dodis-53323-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53323-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59387,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34869,
+                "sort": 0,
+                "attachment": {
+                    "id": 35178,
+                    "attachmentId": 35178,
+                    "date": "",
+                    "fileRef": "dodis-53323.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53323.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59387,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Günther",
+                    "lastName": "Krause",
+                    "fullName": "Krause, Günther (1953\u2013)",
+                    "id": 57560,
+                    "comment": "",
+                    "dateBirth": "13.9.1953",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 11134,
+                    "birthPlaceText": "Halle (Saale)",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Krause, Günther"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Lothar de",
+                    "lastName": "Maizière",
+                    "fullName": "Maizière, Lothar de (1940\u2013)",
+                    "id": 54809,
+                    "comment": "",
+                    "dateBirth": "2.3.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14452,
+                    "birthPlaceText": "Nordhausen ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Maizière, Lothar de"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Richard",
+                    "lastName": "Schröder",
+                    "fullName": "Schröder, Richard (1943\u2013)",
+                    "id": 57559,
+                    "comment": "",
+                    "dateBirth": "26.12.1943",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Schröder, Richard"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 3943,
+                    "name": "Deutschland/DDR/Christlich Demokratische Union",
+                    "comment": "Lizenziert wurde die Ost-CDU durch die SMAD am 29.6.1945 in der SBZ. \r\nMartin Broszat et al. (Hg.), SBZ Handbuch, S. 525ff",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32011,
+                    "name": "Deutschland/DDR/Sozialdemokratische Partei in der DDR",
+                    "comment": "1989 wurde die Sozialdemokratische Partei in der DDR (SDP) im Zuge der Wendezeit gegründet und vereinigte sich kurz vor der Wiedervereinigung Deutschlands am 26.10.1990 mit der Sozialdemokratischen Partei Deutschlands (SPD) der Bundesrepublik, dodis.ch/R4141. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32007,
+                    "name": "Germany/GDR/Democratic Awakening",
+                    "comment": "Zunächst eine politische Gruppierung in der DDR, welche sich während der Zeit der Wende (1989/90) konstituierte. Sie trat dem Wahlbündnis \"Allianz für Deutschland\" bei und fusionierte am 4.8.1990 mit der Christlich-Demokratischen Union Deutschlands (DDR), dodis.ch/R3942. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31996,
+                    "name": "Germany/GDR/German Social Union",
+                    "comment": "Rechtskonservative Kleinpartei, welche als Teil des Wahlbündnisses \"Allianz für Deutschland\" während der Wendezeit an der letzten DDR-Regierung beteiligt war.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25455,
+                    "name": "Germany/GDR/Volkskammer",
+                    "comment": "vgl. dodis.ch/32890",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Günther",
+                    "lastName": "Krause",
+                    "fullName": "Krause, Günther (1953\u2013)",
+                    "id": 57560,
+                    "comment": "",
+                    "dateBirth": "13.9.1953",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 11134,
+                    "birthPlaceText": "Halle (Saale)",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Krause, Günther"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Lothar de",
+                    "lastName": "Maizière",
+                    "fullName": "Maizière, Lothar de (1940\u2013)",
+                    "id": 54809,
+                    "comment": "",
+                    "dateBirth": "2.3.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14452,
+                    "birthPlaceText": "Nordhausen ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Maizière, Lothar de"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Richard",
+                    "lastName": "Schröder",
+                    "fullName": "Schröder, Richard (1943\u2013)",
+                    "id": 57559,
+                    "comment": "",
+                    "dateBirth": "26.12.1943",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Schröder, Richard"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 3943,
+                    "name": "Deutschland/DDR/Christlich Demokratische Union",
+                    "comment": "Lizenziert wurde die Ost-CDU durch die SMAD am 29.6.1945 in der SBZ. \r\nMartin Broszat et al. (Hg.), SBZ Handbuch, S. 525ff",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32011,
+                    "name": "Deutschland/DDR/Sozialdemokratische Partei in der DDR",
+                    "comment": "1989 wurde die Sozialdemokratische Partei in der DDR (SDP) im Zuge der Wendezeit gegründet und vereinigte sich kurz vor der Wiedervereinigung Deutschlands am 26.10.1990 mit der Sozialdemokratischen Partei Deutschlands (SPD) der Bundesrepublik, dodis.ch/R4141. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32007,
+                    "name": "Germany/GDR/Democratic Awakening",
+                    "comment": "Zunächst eine politische Gruppierung in der DDR, welche sich während der Zeit der Wende (1989/90) konstituierte. Sie trat dem Wahlbündnis \"Allianz für Deutschland\" bei und fusionierte am 4.8.1990 mit der Christlich-Demokratischen Union Deutschlands (DDR), dodis.ch/R3942. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31996,
+                    "name": "Germany/GDR/German Social Union",
+                    "comment": "Rechtskonservative Kleinpartei, welche als Teil des Wahlbündnisses \"Allianz für Deutschland\" während der Wendezeit an der letzten DDR-Regierung beteiligt war.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25455,
+                    "name": "Germany/GDR/Volkskammer",
+                    "comment": "vgl. dodis.ch/32890",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

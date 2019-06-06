@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52960</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52960">dodis.ch/52960</ref>
+               <title type="main">Telegram<note xml:id="e3489">Telegram No. 73 (incoming, translated
+                     from Dutch): <idno>Netherlands Ministry of Foreign Affairs BuZa 1985–1990, blok
+                        Z-299, </idno>
+                     <add type="edition">
+                        <idno>[NA 2.05.392]</idno>
+                     </add>
+                     <idno> inv.nr. 4601 </idno>
+                     <add type="edition">
+                        <idno>[2129]</idno>
+                     </add>
+                     <idno>.</idno>
+                     <idno/>
+                  </note> from the Dutch Ambassador in Bonn, Jan van der Tas<note xml:id="e3498">Jan
+                     von der Tas (1928–2009), <ref target="https://dodis.ch/P57557">dodis.ch/P57557</ref>, Dutch Ambassador in Bonn 1986–1993.</note>, to the
+                  Dutch Minister of Foreign Affairs, Hans van den Broek<note xml:id="e3504">Hans van
+                     den Broek (*1936), <ref target="https://dodis.ch/P57462">dodis.ch/P57462</ref>,
+                     Dutch Minister of Foreign Affairs 4.11.1982–3.1.1993.</note>
+               </title>
+               <title type="sub">Visit Minister Ter Beek<note xml:id="e3511">Relus ter Beek
+                     (1944–2008), <ref target="https://dodis.ch/P57561">dodis.ch/P57561</ref>, Dutch
+                     Defense Minister 7.11.1989–22.8.1994.</note> to Defense Minister FRG<note xml:id="e3517">Gerhard Stoltenberg (1928–2001), <ref target="https://dodis.ch/P46108">dodis.ch/P46108</ref>, Defence Minister of
+                     the FRG 21.4.1989–1.4.1992.</note>
+               </title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 8 February 1990</dateline>
+            </opener>
+            <p/>
+            <p n="1">On the 7<hi>th</hi> of this month, the Minister of Defense Ter Beek paid a
+               visit of about three hours to his FRG colleague Stoltenberg that began with a full
+               military ceremony. In the first hour discussions were held between both ministers
+               accompanied only by state secretary Pfahls,<note xml:id="e3534">Ludwig-Holger Pfahls
+                  (*1942), <ref target="https://dodis.ch/P57562">dodis.ch/P57562</ref>, State
+                  Secretary for Defense of the FRG 1987–1992.</note> Stoltenberg’s aide and myself,
+               followed by a delegation meeting lasting over one and a half hours, to be reported on
+               separately.</p>
+            <p n="1"/>
+            <p n="1">Situation in the GDR</p>
+            <p>Stoltenberg began the initial small group conversation by expressing the desire that,
+               in addition to bilateral issues, security-political topics would also be discussed.
+               He introduced these with remarks about the dramatic situation in the GDR, which, as
+                  Modrow<note xml:id="e3546">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                  Council of Ministers 13.11.1989–12.4.1990.</note> had said to Kohl<note xml:id="e3552">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> in
+               Davos, was now really on the verge of administrative, economic and social collapse
+               which is also existentially threatening for all neighbors of the GDR. For this reason
+               the federal government is forced to first deal with the economic and internal
+               problems of German unification and shift the recognized external, status- and safety
+               aspects to a future date for the time being.</p>
+            <p>This, according to Stoltenberg, had just now led to a governmental decision to
+               formulate an offer to the GDR government to enter into, albeit under a number of very
+               strict conditions, a monetary and economic community. This decision is of a political
+               nature and is clearly outpacing Stoltenberg, faster than can be acceptable to his
+               successor Waigel<note xml:id="e3560">Theo Waigel (*1939), <ref target="https://dodis.ch/P54838">dodis.ch/P54838</ref>, Finance Minister of the
+                  FRG 21.4.1989–27.10.1998.</note> or Bundesbank president Poelhl<note xml:id="e3566">Karl Otto Pöhl (1929–2014), <ref target="https://dodis.ch/P51405">dodis.ch/P51405</ref>, President of the Bundesbank of the FRG
+                  1980–1991.</note>, but Modrow and also people like Berghofer<note xml:id="e3572">Wolfgang Berghofer (*1943), <ref target="https://dodis.ch/P57586">dodis.ch/P57586</ref>, Mayor of Dresden 1986–1990.</note> stipulate that there
+               is no time to lose in remedying the situation in the GDR: the number of
+                  “Übersiedler”<note xml:id="e3578">
+                  <orig>Übersiedler</orig>: Migrants moving from the GDR to FRG.</note> has already
+               risen to three thousand per day and if this continues hundreds of thousands will
+               arrive in the west in the near future. One can hardly hide the fact that the proposal
+               cannot be regarded as entering into a monetary union between equal partners, but that
+               in fact the entire currency policy and an important part of economic and social
+               policy must be placed in the custody of the Bundesbank. There will probably be no
+               time to adjust the Legal Statute of the Bundesbank<note xml:id="e3581">Quoted in
+                  German: <orig>Bundesbankgesetz.</orig>
+               </note> and the speaker did not deny that there was a risk that the German position
+               of preserving the independence of the Bundesbank, an absolute priority of stability
+               policy and a condition of economic-political harmonization for monetary unification
+               might thus be placed in a peculiar light for some interlocutors of the FRG. (see also
+               my 72 of today)</p>
+            <p n="1"/>
+            <p n="1">SNF</p>
+            <p>Minister Ter Beek asked his colleague about the current views of the FRG government
+               on SNF and at what point would this topic need to be discussed in the alliance.
+               Stoltenberg did not consider this subject to be appropriate for public discussion at
+               present, but a negotiation concept on substrategic weapons must be formulated timely
+               within NATO before a second round of CSE. In the federal government there is
+               agreement on two points, namely 1) the Soviet preponderance must be phased out and 2)
+               a responsible NATO concept is also possible with fewer than the current number of
+               substrategic nuclear weapons. Presently, among other things, technical research is
+               being carried out to determine whether one could do with a minimum of exclusively air
+               based SNF. Against this, there are of course significant objections because of the
+               vulnerability.</p>
+            <p>On the other hand, a lot has changed politically. Stoltenberg believed that the
+               Americans are also more relaxed with regard to this subject, even if the Bush<note xml:id="e3594">George Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United
+                  States, 20.1.1989–20.1.1993.</note> Administration is certainly prepared to fight
+               in Congress to keep the SNF option open. Stoltenberg thought it important in future,
+               and perhaps soon, to speak on this subject in the first place confidentially and at a
+               high political level, since this – it could not be denied – carried a considerable
+               emotional charge in the Federal Republic. (Minister Ter Beek had pointed out by way
+               of introduction that apparently Genscher<note xml:id="e3600">Hans-Dietrich Genscher
+                  (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>,
+                  Vice-Chancellor and Minster for Foreign Affairs of the FRG
+                  1.10.1982–17.5.1992.</note>, Dregger<note xml:id="e3606">Alfred Dregger
+                  (1920–2002), <ref target="https://dodis.ch/P54837">dodis.ch/P54837</ref>, Chairman
+                  of the CDU faction in the Bundestag of the FRG 1982–1991.</note> and Bahr<note xml:id="e3612">Egon Bahr (1922–2015), <ref target="https://dodis.ch/P39530">dodis.ch/P39530</ref>, Member of the SPD.</note> – representing the three
+               largest parties – had come together in the rejection of SNF.)</p>
+            <p>Minister Ter Beek, pointing out that it is a deterrent weapon should of course be
+               able to hit the enemy wherever he was, underlined that the political debate in the
+               Netherlands remains ongoing and that it will take place in a new political context.
+               For the time being it is best to study the case thoroughly, yet with the certainty
+               that the subject will be on the table again after CSE-1. In response to a question
+               from Minister Ter Beek as to whether SNF would not automatically become an election
+               theme in the FRG, Stoltenberg replied that it would probably be a theme, but after
+               all that has happened recently it will not be the center of gravity in the election
+               battle.</p>
+            <p>Stoltenberg repeated once again that on the one hand the FRG does not want a
+               denuclearized Europe, and on the other hand it had not yet fixed its position on the
+               SNF issue. Much would depend on whatever truly binding treaty agreements might be
+               reached with the Soviet Union in the short term. However, it was certain that nuclear
+               artillery could very well be abolished.</p>
+            <p n="1"/>
+            <p n="1">French position</p>
+            <p>Minister Ter Beek asked his colleague how the French had spoken about a.o. Pluto and
+                  Hades<note xml:id="e3628">Pluton and Hadès were French nuclear-armed short-range
+                  ballistic missiles launched from mobile platforms.</note> in confidential
+               discussions. His impression was that the French regarded these weapons as
+               predominantly insurance of access to the negotiating table in the event of a possible
+               conflict, a trauma that has persisted since the end of the Second World War.
+               Stoltenberg acknowledged that the French remained very cautious on this point and
+               that it is important to appeal to them increasingly. It is desirable that the French
+               participate in ever more political forums and structures within NATO. In this
+               context, French discussion partners like to hide behind the exclusive competence of
+               president Mitterrand.<note xml:id="e3631">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  21.5.1981–17.5.1995.</note> Stoltenberg appeared to avoid for the time being the
+               question of whether the WEU might play a role here. Mitterrand is no fan of the WEU,
+               but also for the Federal Republic France’s further integration in NATO would be
+               conditional on lending more substance to the WEU consultations, so that the WEU will
+               not function as a competitor but rather as a supplier to NATO. In conclusion to this
+               theme, Stoltenberg pointed out that the present French Prime Minister Rocard<note xml:id="e3637">Michel Rocard (1930–2016), <ref target="https://dodis.ch/P57459">dodis.ch/P57459</ref>, Prime Minister of France 10.5.1988–15.5.1991.</note> is
+               known to have views of his own on this issue, so that one can perhaps regard
+               potential French cooperation with a little more optimism.</p>
+            <p n="1"/>
+            <p n="1">German unification</p>
+            <p>In response to a question from minister Ter Beek as to whether Mr. Stoltenberg has a
+               timetable in mind for German unification he answered negatively. It is clear that a
+               democratically elected GDR Parliament could very quickly decide to open negotiations
+               with the FRG about unification, which, moreover, is coming about increasingly fast in
+               a factual sense. However, apart from very important domestic political decisions, the
+               “political completion”<note xml:id="e3649">Quoted in German: <orig>Politische
+                     Vollendung.</orig>
+               </note> of this process requires the solution of the external problems concerning the
+               neighbors, the Allies, the “Schutzmächte”<note xml:id="e3654">
+                  <orig>Schutzmächte</orig>: the Allied Powers protecting Germany.</note> and
+               especially the Soviet Union. Regarding the time span that will be needed from the
+               beginning to the end of this process there are at least three views in the Federal
+               Government. The key question here is obviously what demands the Soviet Union will
+               make related to formal unification.</p>
+            <p>The Federal Government knows and recognizes that the Soviet Union will make demands
+               and also has legitimate rights in this matter, but even the United States does not
+               know where a Soviet “bottom line” might be and it is questionable whether the
+               Russians know it themselves.</p>
+            <p>About the conceivable military configuration in a united Germany, Stoltenberg said
+               Genscher had, as usual, released all sorts of trial balloons, but he was now resigned
+               to the official line of the Federal Government, which has also been accepted by
+               Minister Baker<note xml:id="e3661">James Baker (*1930), <ref target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, United States Secretary
+                  of State 25.1.1989–23.8.1992.</note>, although apparently this has once again been
+               contested by Fitzwater<note xml:id="e3667">Marlin Fitzwater (*1942), <ref target="https://dodis.ch/P57564">dodis.ch/P57564</ref>, White House Press
+                  Secretary 1987–1993.</note>. A central question in all of this is of course how
+               much longer Soviet forces will (be able to) remain on the territory of the GDR.</p>
+            <p>In connection with the relevant conversations held at the 27<hi>th</hi>
+                  Wehrkundetagung<note xml:id="e3678">
+                  <orig>Wehrkundetagung</orig>: annual conference on security issues, held in
+                  Munich.</note> (ref my 66) Stoltenberg answered the question on how representative
+               the opinions of Bahr and Voigt<note xml:id="e3681">Karsten Voigt (*1941), <ref target="https://dodis.ch/P57565">dodis.ch/P57565</ref>, member of the Bundestag
+                  of the FRG for the SPD 1976–1998.</note> were for the entire SPD by noting that
+               their position certainly represented a basic current in the SPD, but that otherwise a
+               number of SPD leaders, including Vogel<note xml:id="e3687">Hans-Jochen Vogel (*1926),
+                     <ref target="https://dodis.ch/P55169">dodis.ch/P55169</ref>, Leader of the SPD
+                  14.6.1987–29.5.1991.</note>, would also have great difficulties. Much would depend
+               on the question of whether a real safety structure can be constructed in the CSCE
+               context built on the three pillars: the Soviet Union, North America and Western
+               Europe.</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

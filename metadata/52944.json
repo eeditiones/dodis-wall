@@ -1,0 +1,1009 @@
+{
+    "total": null,
+    "data": {
+        "id": 52944,
+        "title": "Israel-GDR",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "17.12.1989",
+        "documentDateDayOfWeek": "Sunday",
+        "documentTypeCode": "L",
+        "documentTypeText": "Letter",
+        "summary": "East German overtures towards Israel, including public statements in press interviews. Govrin believes that the GDR sees Israel and world Jewry as potential allies against plans for German reunification.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 1,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98273,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101722,
+                "tagId": 464,
+                "name": "Israel (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.057.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Israel (Politics)",
+                    "Israele (Politica)",
+                    "Israel (Politik)",
+                    "Israël (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Israël (Politique)",
+                "deName": "Israel (Politik)",
+                "enName": "Israel (Politics)",
+                "itName": "Israele (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101723,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101724,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59649,
+                "dossierTitle": "לשכת השר משה ארנס \u2013מזא\"ר [מחלקת מזרח אירופה] כללי",
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": "1.12.1989\u20131.3.1990",
+                "fund": "MFA, Bureau of Foreign Minister Moshe Arens- Eastern Europe division - General",
+                "archive": "Israel State Archives",
+                "archiveCode": "IL",
+                "box": "Box 7352, File 17",
+                "aisCode": null,
+                "dossierId": 31574,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "http://www.bar.admin.ch/org/",
+                "archivePlace": "Jerusalem",
+                "id": 59649
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16408,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "26"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36350,
+                "sort": 0,
+                "attachment": {
+                    "id": 36611,
+                    "attachmentId": 36611,
+                    "date": "",
+                    "fileRef": "dodis-52944-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52944-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59649,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37024,
+                "sort": 0,
+                "attachment": {
+                    "id": 36319,
+                    "attachmentId": 36319,
+                    "date": "",
+                    "fileRef": "dodis-52944.xml",
+                    "fileRefThumbnail": "thumb_dodis-52944.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59649,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36760,
+                "sort": 0,
+                "attachment": {
+                    "id": 37018,
+                    "attachmentId": 37018,
+                    "date": "",
+                    "fileRef": "dodis-52944-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52944-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59649,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34985,
+                "sort": 0,
+                "attachment": {
+                    "id": 35294,
+                    "attachmentId": 35294,
+                    "date": "",
+                    "fileRef": "dodis-52944.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52944.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59649,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "address_of_copy": [
+                {
+                    "firstName": "Moshe",
+                    "lastName": "Melamed",
+                    "fullName": "Melamed, Moshe (1936\u2013)",
+                    "id": 57515,
+                    "comment": "",
+                    "dateBirth": "8.5.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Melamed, Moshe",
+                        "Melamed, Mosche"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Sallai",
+                    "lastName": "Meridor",
+                    "fullName": "Meridor, Sallai (1955\u2013)",
+                    "id": 57514,
+                    "comment": "",
+                    "dateBirth": "22.9.1955",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 324,
+                    "birthPlaceText": "Jérusalem",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Meridor, Sallai"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "author": [
+                {
+                    "firstName": "Yosef",
+                    "lastName": "Govrin",
+                    "fullName": "Govrin, Yosef (1930\u2013)",
+                    "id": 57509,
+                    "comment": "",
+                    "dateBirth": "18.12.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Govrin, Yosef"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Reuven",
+                    "lastName": "Merhav",
+                    "fullName": "Merhav, Reuven (1936\u2013)",
+                    "id": 57513,
+                    "comment": "",
+                    "dateBirth": "9.2.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Merhav, Reuven"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Yosef",
+                    "lastName": "Govrin",
+                    "fullName": "Govrin, Yosef (1930\u2013)",
+                    "id": 57509,
+                    "comment": "",
+                    "dateBirth": "18.12.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Govrin, Yosef"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Moshe",
+                    "lastName": "Arens",
+                    "fullName": "Arens, Moshe (1925\u20132019)",
+                    "id": 57439,
+                    "comment": "",
+                    "dateBirth": "27.12.1925",
+                    "dateDeath": "7.1.2019",
+                    "wikidataId": "",
+                    "birthPlaceId": 8717,
+                    "birthPlaceText": "Kaunas",
+                    "deathPlaceId": 12078,
+                    "deathPlaceText": "Savyon",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arens, Moshe",
+                        "Arens, Mosche"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Oskar",
+                    "lastName": "Fischer",
+                    "fullName": "Fischer, Oskar (1923\u2013)",
+                    "id": 51055,
+                    "comment": "",
+                    "dateBirth": "19.3.1923",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Fischer, Oskar"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Yosef",
+                    "lastName": "Govrin",
+                    "fullName": "Govrin, Yosef (1930\u2013)",
+                    "id": 57509,
+                    "comment": "",
+                    "dateBirth": "18.12.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Govrin, Yosef"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 4531,
+                    "name": "Israel/Foreign Ministry",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Jerusalem (1953-)/Tel Aviv (1948-1953)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 4531,
+                    "name": "Israel/Foreign Ministry",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Jerusalem (1953-)/Tel Aviv (1948-1953)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 570,
+                    "name": "UN/General Assembly",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 324,
+                    "name": "Jerusalem",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 31.768318,
+                    "longitude": 35.213710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 324,
+                    "name": "Jerusalem",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 31.768318,
+                    "longitude": 35.213710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 233,
+                    "name": "Bucharest",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 44.432500,
+                    "longitude": 26.103890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 311,
+                    "name": "Eastern Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.152096,
+                    "longitude": 31.669155,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1761,
+                    "name": "Israel",
+                    "comment": "",
+                    "countryCode": "IL",
+                    "regionCode": null,
+                    "latitude": 31.046051,
+                    "longitude": 34.851612,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "address_of_copy": [
+                {
+                    "firstName": "Moshe",
+                    "lastName": "Melamed",
+                    "fullName": "Melamed, Moshe (1936\u2013)",
+                    "id": 57515,
+                    "comment": "",
+                    "dateBirth": "8.5.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Melamed, Moshe",
+                        "Melamed, Mosche"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Sallai",
+                    "lastName": "Meridor",
+                    "fullName": "Meridor, Sallai (1955\u2013)",
+                    "id": 57514,
+                    "comment": "",
+                    "dateBirth": "22.9.1955",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 324,
+                    "birthPlaceText": "Jérusalem",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Meridor, Sallai"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "author": [
+                {
+                    "firstName": "Yosef",
+                    "lastName": "Govrin",
+                    "fullName": "Govrin, Yosef (1930\u2013)",
+                    "id": 57509,
+                    "comment": "",
+                    "dateBirth": "18.12.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Govrin, Yosef"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Reuven",
+                    "lastName": "Merhav",
+                    "fullName": "Merhav, Reuven (1936\u2013)",
+                    "id": 57513,
+                    "comment": "",
+                    "dateBirth": "9.2.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Merhav, Reuven"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Yosef",
+                    "lastName": "Govrin",
+                    "fullName": "Govrin, Yosef (1930\u2013)",
+                    "id": 57509,
+                    "comment": "",
+                    "dateBirth": "18.12.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Govrin, Yosef"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Moshe",
+                    "lastName": "Arens",
+                    "fullName": "Arens, Moshe (1925\u20132019)",
+                    "id": 57439,
+                    "comment": "",
+                    "dateBirth": "27.12.1925",
+                    "dateDeath": "7.1.2019",
+                    "wikidataId": "",
+                    "birthPlaceId": 8717,
+                    "birthPlaceText": "Kaunas",
+                    "deathPlaceId": 12078,
+                    "deathPlaceText": "Savyon",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arens, Moshe",
+                        "Arens, Mosche"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Oskar",
+                    "lastName": "Fischer",
+                    "fullName": "Fischer, Oskar (1923\u2013)",
+                    "id": 51055,
+                    "comment": "",
+                    "dateBirth": "19.3.1923",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Fischer, Oskar"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Yosef",
+                    "lastName": "Govrin",
+                    "fullName": "Govrin, Yosef (1930\u2013)",
+                    "id": 57509,
+                    "comment": "",
+                    "dateBirth": "18.12.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Govrin, Yosef"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 4531,
+                    "name": "Israel/Foreign Ministry",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Jerusalem (1953-)/Tel Aviv (1948-1953)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 4531,
+                    "name": "Israel/Foreign Ministry",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Jerusalem (1953-)/Tel Aviv (1948-1953)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 570,
+                    "name": "UN/General Assembly",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 324,
+                    "name": "Jerusalem",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 31.768318,
+                    "longitude": 35.213710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 324,
+                    "name": "Jerusalem",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 31.768318,
+                    "longitude": 35.213710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 233,
+                    "name": "Bucharest",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 44.432500,
+                    "longitude": 26.103890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 311,
+                    "name": "Eastern Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.152096,
+                    "longitude": 31.669155,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1761,
+                    "name": "Israel",
+                    "comment": "",
+                    "countryCode": "IL",
+                    "regionCode": null,
+                    "latitude": 31.046051,
+                    "longitude": 34.851612,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

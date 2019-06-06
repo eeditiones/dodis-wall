@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/49563</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/49563">dodis.ch/49563</ref>
+               <title type="main">Memo<note xml:id="e1624">Memo (copy, translated from French):
+                        <idno>Swiss Federal Archives CH-BAR#E2010-01A#1996/396#843* (B.58.2)</idno>.
+                     Transmitted to René Felber by Guy Ducrey, <ref target="https://dodis.ch/P15378"
+                        >dodis.ch/P15378</ref>: <orig>Having heard yesterday evening that you will
+                        hold a press conference concerning the latest developments in the GDR, I
+                        have taken the liberty of transmitting you hereafter some information and
+                        appreciations, which may be useful for you</orig>.</note> for the Swiss
+                  Minister of Foreign Affairs, René Felber<note xml:id="e1630">René Felber (*1933),
+                        <ref target="https://dodis.ch/P24533">dodis.ch/P24533</ref>, Swiss Foreign
+                     Minister 1.1.1988–31.1.1993.</note></title>
+               <title type="sub">GDR: Press Conference</title>
+            </head>
+            <opener>
+               <dateline>Bern, 14 November 1989</dateline>
+            </opener>
+            <p>1. Question: Has the government foreseen the events?</p>
+            <p>– The events have been accelerating in such a way that it has caught everybody
+               unprepared. Chancellor Kohl<note xml:id="e1644">Helmut Kohl (1930–2017), <ref
+                     target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> himself was surprised by the events in Berlin while
+               he was on an official visit to Poland.</p>
+            <p/>
+            <p>2. Question: First impressions and analyses?</p>
+            <p>– Berlin has given us impressive, moving images: the inhabitants of the GDR have
+               demonstrated that the notion of liberty is such a fundamental value for humanity that
+               it has withstood more than 40 years of implacable dictatorship (failure of “the new
+               man”, designed by the theorists of Marxism-Leninism). And with regard to the human
+               rights, it is this value of free movement of people that Switzerland has defended
+               constantly, notably since the beginnings of the CSCE.</p>
+            <p/>
+            <p>3. Question: How do you judge the future?</p>
+            <p>– There is still a long way to go, less spectacular maybe than these historic images
+               from Berlin, and it will require perseverance:</p>
+            <p>a) Advances on the political level: the East German people still await the revision
+               of the first article in the constitution of the GDR, which assures a dominant role
+               for the Communist Party (reconvening of the party congress in mid-December).</p>
+            <p>b) A long way to go to achieve economic reforms as well.</p>
+            <p/>
+            <p>4. Question: Swiss assistance? (Our actions in favor of Hungary and Poland).</p>
+            <p>– From now on, it is necessary to think about the GDR as well. Federal Germany will
+               undoubtedly play a crucial role at this level. But let us not forget that the GDR is,
+               economically speaking, in a considerably less difficult situation than Hungary and
+               especially Poland. On the other hand, the GDR still has a long way to go to catch up
+               with these two countries when it comes to democratic liberties.</p>
+            <p/>
+            <p>5. Question: The reunification?</p>
+            <p>– It is not up to Switzerland to give its opinion on this matter. This is a question
+               that affects both Germanies and which is, of course, of interest to both the US and
+               the USSR. In this regard, one can only welcome the great reticence and the
+               comprehension of all agents involved, both demonstrators as well as leaders.
+               Chancellor Kohl recalled the embedding of the FRG in Western Europe and Mr
+                  Genscher<note xml:id="e1678">Hans-Dietrich Genscher (1927–2016), <ref
+                     target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+                  Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note> stressed that
+               the FRG will respect all the agreements signed and commitments made.</p>
+            <p/>
+            <p>6. Question: GDR–EEC</p>
+            <p>– A rapprochement is conceivable, but to speak of integration is surely premature.
+               The economic systems are at the moment incompatible. Just look at the difficulties
+               caused by the European Economic Area, and this is between countries that share the
+               same market economy.</p>
+            <p/>
+            <p>7. Question: Yalta Order called into question? Switzerland’s security (abolition of
+               the army)?</p>
+            <p>– The calling into question of the Communist Party’s monopoly, the elimination of the
+               dictatorships may – and we hope will – finally erase the ideological barriers. But
+               the military borders, the military facilities are still there, right next to each
+               other. What we are hoping is that the situation will, from now on, facilitate and
+               accelerate the current negotiations concerning arms control (START, CFE). It is not
+               the moment for Switzerland to put the cart before the horse by disarming
+               unilaterally.</p>
+            <p/>
+            <p>8. Question: Bulgaria?</p>
+            <p>– Zhivkov<note xml:id="e1702">Todor Hristov Zhivkov (1911–1998), <ref
+                     target="https://dodis.ch/P15343">dodis.ch/P15343</ref>, Secretary General of
+                  the Communist Party of Bulgaria 1954–1989.</note>, Secretary-General of the C<add
+                  type="edition">[ommunist]</add> P<add type="edition">[arty]</add> of Bulgaria has
+               left the scene after having been in power for 37 years. For the moment, it is only
+               the replacement of the main agent; this may be preventive action, announcing upcoming
+               reforms.</p>
+            <p/>
+            <p>9. Question: The Bush<note xml:id="e1718">George Herbert Walker Bush (1924–2018),
+                     <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the
+                  United States, 20.1.1989–20.1.1993.</note>-Gorbachev<note xml:id="e1724">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> Summit?</p>
+            <p>– The two presidents will have to observe this development and what is already being
+               called the end of the Yalta Order. Soviet propositions are possible in favor of
+               military cutbacks.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

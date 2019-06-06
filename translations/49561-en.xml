@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/49561</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/49561">dodis.ch/49561</ref>
+               <title type="main">Political report<note xml:id="e6924">Political report No. 16
+                     (translated from German): <idno>Swiss Federal Archives CH-BAR#E2010-02A#
+                        1996/400#16* (A.21.31)</idno>. Copies to be given to Klaus Jacobi, <ref
+                        target="https://dodis.ch/P19511">dodis.ch/P19511</ref>, Franz Blankart, <ref
+                        target="https://dodis.ch/P22246">dodis.ch/P22246</ref>, and Silvio Arioli,
+                        <ref target="https://dodis.ch/P24523">dodis.ch/P24523</ref>. Copies directly
+                     to the Swiss Embassy in Bonn and the Swiss Consulate general in West Berlin;
+                     also published in: <idno>Die DDR aus Sicht schweizerischer Diplomaten.
+                        Politische Berichte aus Ost-Berlin 1982–1990, ed. by Bernd Haunfelder,
+                        Münster 2017, doc. 93.</idno></note> of the Swiss Ambassador in East Berlin,
+                  Franz Birrer<note xml:id="e6936">Franz Birrer (*1932), <ref
+                        target="https://dodis.ch/P16179">dodis.ch/P16179</ref>, Swiss Ambassador in
+                     East Berlin 1.10.1987–18.12.1990.</note></title>
+               <title type="sub">Goodbye, GDR!</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>East Berlin, 2 October 1990</dateline>
+            </opener>
+            <p>Today, the history of the GDR ends. The GDR will “join” the German Federal Republic
+               and thus disappear from the political landscape.</p>
+            <p>When I came to Berlin three years ago, nothing suggested that this “first workers and
+               farmers’ nation on German soil” would perish so soon and so completely. Honecker<note
+                  xml:id="e6952">Erich Honecker (1912–1994), <ref target="https://dodis.ch/P46563"
+                     >dodis.ch/P46563</ref>, General Secretary of the SED and chairman of the GDR
+                  State Council 29.10.1976–18.10.1989.</note> had just returned from an official
+               visit in Bonn. In the late 80s, he also visited nearly all other Western capitals and
+               continuously welcomed guests of state from there. The citizens of the GDR suffered
+               neither economic nor social hardship. Even the exceedingly critical FAZ noted, as
+               late as June 1989, that measured by the economic malaise of its socialist sister
+               countries, including the Soviet Union, the GDR was “an out-and-out economic plateau”.
+               Its problem was not unemployment but rather labour shortage, due to which tens of
+               thousands from socialist sister countries were used in the production process. And,
+               nota bene, our exports to the GDR recorded annual rates of growth of roughly 40%.</p>
+            <p>In terms of interior policy, the regime showed itself to be more <emph>relaxed</emph>
+               than a new arrival from the West might have expected. GDR citizens you ran into in
+               restaurants or elsewhere typically talked very openly and did not refrain from
+               critical remarks about the country’s conditions. Churches had much more leeway than
+               in other socialist countries (with the exception of Poland). A certain glasnost was
+               notable especially in literature, in the theatre and revue, and in film; some films
+               that had been banned twenty or more years ago – such as “The Russians Are Coming” by
+                  Carow<note xml:id="e6960">Heiner Carow (1929–1997), <ref
+                     target="https://dodis.ch/P54831">dodis.ch/P54831</ref>, GDR film maker.</note>
+               – could now be shown. Travel permits for the West soared in number and in 1988
+               reached more than 3 million visits to the FRG, 1.3 million of these people below
+               retirement age. Legal emigration to the FRG, too, reached annual numbers of about
+               100,000 people by 1988/89. And so as to mention Switzerland here as well: the number
+               of visa issued for travelling to our country increased by 20% annually (1988:
+               11,900).</p>
+            <p>Still, <emph>Stalinist</emph> structures and behaviours constituted the GDR’s basic
+               pattern. The centrepiece of Stalinism was and would remain the primacy of the SED or
+               rather of the party leadership, personified in the Secretary General<note
+                  xml:id="e6968">Erich Honecker.</note> and individual members of the Politburo in
+               charge of state security, economy, and mass media. The other parties, congregated
+               into the National Front and brought into line, and the mass organisations chiefly
+               served alibi purposes. The economy was based on the principle of central planning,
+               despite the GDR leadership’s claim to have come up with something special when it
+               came to cooperatives in agriculture, autonomous combines in the industry, and private
+               enterprises in crafts and trades. The private enterprises, for instance, were very
+               strongly restricted by a limitation to 10 employees and by business-hostile tax laws.
+               There were many indicators that the economy was hardly growing any more but was at
+               best stagnating. Under these conditions, environment protection fell by the wayside
+               in a catastrophic manner.</p>
+            <p>The SED communists had originally aspired to provide everyone with <emph>apartments,
+                  food,</emph> and convenience goods, as well as public transport, in sufficient
+               amounts and at low prices. They had largely succeeded, too, by means of a massive
+               system of subsidies and by accelerating the industrial building of houses. But they
+               proved unable and unwilling to adjust this policy to changing needs, and to remedy
+               grave disadvantages. Freezing rents at the post-war level meant that not just the
+               private building of flats, but also the maintenance of extant houses and flats was
+               rendered impossible. The desolate state of many urban and village centres is a strong
+               indication of this policy’s shortcomings.</p>
+            <p>Likewise, Stalinist were the system of across-the-board informers used by the
+               so-called <emph>“State Security”</emph> as well as the bullying and bringing in line
+               of <emph>mass media.</emph> At best, a kind of glasnost existed in the specialised
+               press and in Church print-media. Daily press, radio, and television, by contrast,
+               remained under strict control. In November 1988, even the Soviet journal “Sputnik”
+               was prohibited, as the SED regime disliked a number of contributions. All this
+               appeared profusely absurd, given that the population could easily learn about
+               domestic events and events abroad from West German radio and TV.</p>
+            <p>However, one cannot evaluate the GDR solely with a view to the SED. From the very
+               beginning, the <emph>Soviet Union</emph> played a decisive role here. In a manner of
+               speaking, the GDR was an accidental product of WWII and the Cold War. When, in
+               1948/49, the Western Bloc states undertook a currency reform in the three Western
+               zones as well as in the Western sectors of Berlin, and founded the German Federal
+               Republic, the Soviet Union, for its part, founded the GDR and for a long time kept it
+               on a short leash. This was initially still the case under <emph>Gorbachev</emph><note
+                  xml:id="e6977">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707"
+                     >dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union
+               15.3.1990–25.12.1991.</note>. When Honecker first met with the new Kremlin chief on 5
+               Mai 1985, he had to sign a joint communiqué that made a direct connection between the
+               Soviet Union’s military victory over the German Reich and the formation of the GDR,
+               by declaring: “the first nation of workers and farmers on German soil has its roots
+               in this great victory…”. It was (for the SED leadership) a most humiliating
+               acknowledgement of the GDR’s heteronomy. Gorbachev also stuck to this position in his
+               book “Perestroika”, published in autumn 1987. He dedicated an entire chapter to
+               Germany, titled “Two German states”, and explained that what had here been
+               historically formed would have to be entrusted to history. He wrote that there were
+               now two German states with different social and political structures; Western
+               declarations claiming that the German question remained open and that “German Unity”
+               had to be restored he deemed anything but “realpolitik”. Gorbachev thus cannot be
+               considered the father of the two German states’ unification. Rather, it was wrested
+               from him. He was no longer able to resist it, as the Soviet Union had become too
+               weak.</p>
+            <p>For most GDR citizens, the “big brother”, the Soviet Union, was never an example,
+               yardstick, or a reference point for action and aspiration. There never was a
+               fraternisation. The <emph>Soviet troops</emph> in the GDR and the population were
+               kept strictly separate. The troops, which exceeded 400,000 in number, remained an
+               occupational force and at the same time a visible guarantor that the GDR remained
+               closely integrated in the tight “socialist community”.</p>
+            <p>The <emph>older generation</emph>s of GDR citizens by and by resigned to what seemed
+               inevitable and tried to adapt. Occasionally, there was also pride in having achieved
+               more than the Soviet Union economically. This was even expressed in remarks by the
+               GDR leadership regarding Soviet efforts towards economic reform, by way of wishing
+               Moscow the best of luck in this and intimating that the GDR had long ago carried out
+               such reforms. This in turn startled <emph>the younger and increasingly more impatient
+                  generation,</emph> who concluded from this that no further development was to be
+               expected under the old SED leadership.</p>
+            <p>This resulted in the great flight or emigration movement via West German diplomatic
+               missions in East Berlin, Prague, and Warsaw, as well as via the Austrian-Hungarian
+               border once it had been opened by the Hungarian government in September 1989.
+                  <emph>The FRG’s migrant policy</emph> played a decisive role in this. Every
+               migrant from the GDR has always been automatically recognised as a federal citizen.
+               He not only enjoyed preferential treatment in the housing and job markets, but
+               received, in addition to the “welcome money”, a number of different financial
+               allowances or interest-free loans, and possibly qualified for unemployment benefits,
+               sickness benefits, and a pension, just like someone who paid his dues in the FRG for
+               all his life.</p>
+            <p>It was most likely this mass movement that prompted Gorbachev to remark, in the
+               course of the 40<hi>th</hi> anniversary celebrations in East Berlin, that he was in
+               favour of further reforms in the GDR and that the Soviet troops would remain alert.
+               Mass demonstrations under the slogans “We are the people” und “We are staying here”
+               subsequently brought down the SED leadership in a matter of weeks.</p>
+            <p>How the <emph>Berlin Wall</emph> and the inner German border came to be
+                  <emph>opened</emph> on 9 November has today not yet been explained. The Stoph<note
+                  xml:id="e6996">Willi Stoph (1914–1999), <ref target="https://dodis.ch/P15220"
+                     >dodis.ch/P15220</ref>, Chairman of the GDR Council of Ministers
+                  21.9.1964–3.10.1973 and 29.10.1976–13.11.1989.</note> government, which has
+               already resigned, had put forward for discussion a draft of a liberal travel law,
+               which was criticised, however, as being still too restrictive (particularly by
+               lawyers, such as Gregor Gysi<note xml:id="e7002">Gregor Gysi(*1948), <ref
+                     target="https://dodis.ch/P54811">dodis.ch/P54811</ref>, GDR lawyer and Leader
+                  of the PDS, 1989–1993.</note>); but instead of revising the draft, the government,
+               without further ado, opened the floodgates. Whatever was behind that decision, the
+               opening was the beginning of the end of the GDR.</p>
+            <p>Since then, the development has accelerated several times over, where the
+               acceleration was usually attributed to public pressure. What was decisive in this
+               process, however, were more likely the actions of <emph>Federal Chancellor
+                  Kohl</emph><emph><note xml:id="e7010">Helmut Kohl (1930–2017), <ref
+                        target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the
+                     FRG 1.10.1982–27.10.1998.</note>,</emph> who single-handedly defined the
+               central milestones and, as his critics acidly put it, regarded German Unity as a
+               private matter of his. Recall here Kohl’s</p>
+            <p>– refusal to abolish <emph>migrants’</emph> privileges after the opening of the
+               border (the official “emergency process of admittance” and the financial incentives
+               were only abolished on 1 July);</p>
+            <p>– <emph>reunification address</emph> of 28 November, with a 10-point programme that
+               had not been coordinated with anyone else;</p>
+            <p>– suggestion (against the advice of all experts and economic politicians) of a
+                  <emph>monetary union,</emph> i.e. the introduction of the DM in the GDR with a
+               “social cushioning” of the negative consequences to be expected (in the campaign for
+               the GDR People’s Chamber election of 18 March, the Western CDU chiefly operated on
+               the promise that GDR citizens would have the DM before the summer holidays; the
+               “first free and secret elections in the GDR”, conducted from the FRG, are perhaps to
+               be considered not so much as democratic but rather as <emph>DM-crati</emph>c);</p>
+            <p>– demand to regard Article 23 of the Bonn Basic Law as the “royal road” to German
+               Unity, i.e. <emph>“accession”</emph> of the GDR to the German Federal Republic, not
+               unification or fusion of the two German states according to Article 146;</p>
+            <p>– suggestion on the evening of 13 May, when CDU and CSU had suffered electoral
+               defeats in in North Rhine-Westphalia, Lower Saxony, and Bavaria, to hold nationwide
+               elections the same year (Kohl evidently intended to seize the moment and to get the
+               elections over and done with before the full extent of the fallout of the monetary
+               union would become seen and felt).</p>
+            <p>Chancellor Kohl was thus not the promoter, but the actual engine of German Unity. He
+               believed his suggestions won him the support of the GDR’s population, which primarily
+               pursued the DM and Western prosperity. President von Weizsäcker<note xml:id="e7028"
+                  >Richard von Weizsäcker (1920–2015), <ref target="https://dodis.ch/P5944"
+                     >dodis.ch/P5944</ref>, President of the FRG, 1.7.1984–30.6.1994.</note>, for
+               example, pointed out that Germany’s two parts must not be allowed to rampantly grow
+               together, but should grow together. Prime Minister de Maizière<note xml:id="e7034"
+                  >Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809"
+                     >dodis.ch/P54809</ref>, GDR Prime Minister 12.4–2.10.1990.</note>, too, spoke
+               out this June in favour of reasonable timeframes and declared that the future course
+               of Germany’s unification must not be defined by an express pace set by Bonn. Kohl,
+               however, ignored these and similar objections, and categorically refused any dispute
+               with the opposition. From a purely managerial point of view, one can certainly admire
+               Kohl’s approach and his successes, although from a political point of view they
+               appear quite problematic.</p>
+            <p>Superficial observers have praised Kohl’s idea of a rapid <emph>monetary union</emph>
+               as a stroke of genius and pointed out that the monetary reform of 1948 soon produced
+               an unforeseen boom. They overlook, however, that a monetary union and a monetary
+               reform have only little in common and took place or take place in completely
+               different contexts. The chancellor’s personal appointee in charge of the monetary
+               union termed the latter an “experiment unique in history”, namely, “a uno-actu
+               transformation of a centralised economy, which previously was socialist for over 45
+               years and before that national socialist for 12 years, into a market economy”.
+               Specifically, this means:</p>
+            <p>– central planning was abolished overnight, which created chaos particularly in the
+               industrial sector and doomed many enterprises that under different circumstances
+               could have been restored to profitability (this apparently caused West German and
+               other investors to hold off until they could obtain the GDR enterprises at no
+               charge);</p>
+            <p>– prices were decontrolled at a single stroke (exceptions until the end of this year:
+               rents, some public transport fees, and energy prices);</p>
+            <p>– the inner German border wasn’t just opened, but abolished, thus exposing the GDR
+               economy, via the FRG and the European Community, to the full force of international
+               competition;</p>
+            <p>– agricultural subsidies or rather the subsidies, which were extremely large in the
+               GDR, reducing prices on local foodstuffs (1988: 31.9 billion M or DM) were cancelled
+               overnight, as a result of which the agricultural sector experienced further, enormous
+               hardship, i.e. in addition to losing the protection of the border;</p>
+            <p>– by throwing central planning overboard, the public sector lost most of its major
+               revenue sources, namely contributions by the economy; a fiscal system based on the
+               FRG’s example is only now under construction, and since the monetary union has also
+               transferred the financial and monetary sovereignty to Bonn, and the federal
+               government is urging spending cuts, the public funds are lacking that just now would
+               be so direly needed in housing and road construction, in restoring health care, in
+               cultural work, etc. (this is exacerbated by the fact that the GDR’s 15 districts will
+               be eliminated, but the five states replacing them will only gradually be built from
+               14 October onwards).</p>
+            <p>The former GDR’s economy is thus running the risk of losing both the domestic market
+               as well as that of the Eastern European countries, which until now has been very
+               important for it (70% of the foreign trade volume). There can be little doubt that
+               its current chances of success in Western markets are very small. In other words, the
+               territories of the former GDR are facing the loss of production and of creation of
+               value.</p>
+            <p>Whereas the treaty creating an economic, monetary, and social union had been drafted
+               and dictated exclusively in Bonn – its signing by the then GDR minister of finance
+               seemed to outside observers like the signing of a capitulation – in the second
+               contract, also called the <emph>Unification Treaty,</emph> the GDR was apparently
+               able to preserve and defend certain specific interests of the five new federal
+               states. This is true, for instance, of property issues (the land reform predating the
+               founding of the GDR is not reversed), of interim rulings on abortion, etc., as well
+               as of <emph>economic development.</emph> Based on Article 28, much as the former
+               border territory was, the entire GDR territory has now become a development zone of
+               the joint task “improvement of regional economic structures”. It thus becomes a
+               recipient of many investment subsidies and low-interest loans. This can be seen as a
+               kind of Marshall Plan for the former GDR.</p>
+            <p>Yet on reading Article 7 of the treaty more closely, one gains a different
+               impression. It basically provides for the FRG financial constitution to be extended
+               to the acceded states. The extant states, however, have strictly <emph>refused</emph>
+               to include the new states in the <emph>equalization payments</emph><emph> between
+                  states</emph> and in the even distribution of states’ shares in <emph>value added
+                  tax</emph>. They will not enter negotiations on equalization payments before 1994,
+               and the GDR states’ share in value added tax is for now set at only 55% of the other
+               states’ average share per capita. As a result, the “German Unity” fund, originally
+               intended for the promotion of investment, now serves to close the new federal states’
+               fiscal holes and is indirectly co-financed by the latter. The Hanover-based
+               constitutionalist Schneider<note xml:id="e7058">Hans-Peter Schneider (*1937), <ref
+                     target="https://dodis.ch/P54833">dodis.ch/P54833</ref>, FRG constitutional
+                  lawyer.</note> comments: “The GDR states will remain bound in the unity fund for
+               years, depending on and patronised by the federation not only financially, but also
+               politically”.</p>
+            <p>From a general and European point of view, <emph>German Unity</emph> is doubtlessly
+               to be welcomed.</p>
+            <p>The division of Europe, Germany, and Berlin has always been an artificial, even
+               absurd division and a germ of present and future conflicts.</p>
+            <p>We now have on our border a country that will shortly rise to the status of a major
+               power, perhaps even a superpower. Unlike in the past, however, this country has a
+               federal structure, is firmly democratic, inimical to militaristic matters and
+               moreover integrated into the European Community and NATO.</p>
+            <p>Yet the rushed nature of German Unity must give us pause. It is not a unification,
+               but an appropriation of the GDR by the FRG, which can for instance be seen in the
+               fact that, starting tomorrow, West German officials, judges, economic leaders, etc.
+               will “invade” this country and replace GDR people. “The Price of Unity is a New
+               Foreign Rule”, as historian Jörg Fisch<note xml:id="e7072">Jörg Fisch (*1947), <ref
+                     target="https://dodis.ch/P22386">dodis.ch/P22386</ref>, Swiss historian.</note>
+               appropriately titled his article, which is well worth reading, in the Weltwoche of 20
+               September 1990.</p>
+            <p>Will the new state be able to become a native country, even a home, to all Germans?
+               Will the East Germans be able to identify with it, or will they once again merely
+               come to terms with it, as many of them did for so long with the “socialist home
+               country GDR”? Can a mezzogiornalisation of East Germany, and a radicalisation that
+               would almost necessarily follow from it, be avoided? All of these are questions that
+               can only be answered in the years to come.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

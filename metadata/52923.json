@@ -1,0 +1,1181 @@
+{
+    "total": null,
+    "data": {
+        "id": 52923,
+        "title": "No 381. Future Developments in the GDR",
+        "langCode": "en",
+        "language": "English",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "13.11.1989",
+        "documentDateDayOfWeek": "Monday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Reflections on political life in the GDR in the immediate aftermath of the opening of the Berlin Wall.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 3,
+        "classification": "CONFIDENTIAL",
+        "classificationText": "confidential",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98246,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101658,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101659,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101663,
+                "tagId": 374,
+                "name": "Great Britain (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.043.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Great Britain (Politics)",
+                    "Gran Bretagna (Politica)",
+                    "Grossbritannien (Politik)",
+                    "Grande-Bretagne (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Grande-Bretagne (Politique)",
+                "deName": "Grossbritannien (Politik)",
+                "enName": "Great Britain (Politics)",
+                "itName": "Gran Bretagna (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59404,
+                "dossierTitle": "Internal political situation in the German Democratic Republic",
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": "1989\u20131989",
+                "fund": null,
+                "archive": "The National Archives",
+                "archiveCode": "UK-NA",
+                "box": null,
+                "aisCode": "FCO 33/10154",
+                "dossierId": 31506,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "Kew",
+                "id": 59404
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16394,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "13"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36361,
+                "sort": 0,
+                "attachment": {
+                    "id": 36621,
+                    "attachmentId": 36621,
+                    "date": "",
+                    "fileRef": "dodis-52923-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52923-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59404,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36745,
+                "sort": 0,
+                "attachment": {
+                    "id": 37003,
+                    "attachmentId": 37003,
+                    "date": "",
+                    "fileRef": "dodis-52923-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52923-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59404,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34859,
+                "sort": 0,
+                "attachment": {
+                    "id": 35168,
+                    "attachmentId": 35168,
+                    "date": "",
+                    "fileRef": "dodis-52923.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52923.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59404,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Nigel",
+                    "lastName": "Broomfield",
+                    "fullName": "Broomfield, Nigel (1937\u20132018)",
+                    "id": 57477,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "29.10.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": 2923,
+                    "birthPlaceText": "Britisch Indien (1858-1947)",
+                    "deathPlaceId": 12676,
+                    "deathPlaceText": "Jersey",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Broomfield KCMG, Sir Nigel Hugh Robert Allen",
+                        "Broomfield, Nigel"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Douglas R.",
+                    "lastName": "Hurd",
+                    "fullName": "Hurd, Douglas R. (1930\u2013)",
+                    "id": 57401,
+                    "comment": "",
+                    "dateBirth": "8.3.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15380,
+                    "birthPlaceText": "Marlborough",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hurd, Douglas R."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Nigel",
+                    "lastName": "Broomfield",
+                    "fullName": "Broomfield, Nigel (1937\u20132018)",
+                    "id": 57477,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "29.10.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": 2923,
+                    "birthPlaceText": "Britisch Indien (1858-1947)",
+                    "deathPlaceId": 12676,
+                    "deathPlaceText": "Jersey",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Broomfield KCMG, Sir Nigel Hugh Robert Allen",
+                        "Broomfield, Nigel"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Erhard ",
+                    "lastName": "Krack ",
+                    "fullName": "Krack , Erhard  (1931\u20132000)",
+                    "id": 55386,
+                    "comment": "",
+                    "dateBirth": "9.1.1931",
+                    "dateDeath": "13.12.2000",
+                    "wikidataId": "",
+                    "birthPlaceId": 405,
+                    "birthPlaceText": "Gdańsk",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Krack , Erhard "],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Walter",
+                    "lastName": "Momper",
+                    "fullName": "Momper, Walter (1945\u2013)",
+                    "id": 57440,
+                    "comment": "",
+                    "dateBirth": "21.2.1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Momper, Walter"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33473,
+                    "name": "GB/Embassy in Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 223,
+                    "name": "GB/Foreign Office",
+                    "comment": "Cf. Meier, Aussenwirtschaftspolitik, 2002 dodis.ch/13935, S. 537 (index)\r\nCf. Frech, Clearing, 2001 dodis.ch/13897, S.161, 174f.\r\n\r\n1968: Zusammenschluss 'Foreign Office' und 'Commonwealth Office' (R24456) zum 'Foreign and Commonwealth Office' (1968-)",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "Londres",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2345,
+                    "name": "Deutschland/BRD/Christlich Demokratische Union Deutschlands",
+                    "comment": "Polit. Partei, gegr. im Mai 1945 in Berlin sowie im Juni 1945 im Rheinland, organisierte sich seit Dez. 1945 auf der Ebene der Besatzungszonen und der neugeschaffenen dt. Länder. Nach der Gründung der BRD (1949) schlossen sich die in den drei westl. Besatzungszonen entstandenen Landesverbände 1950 auf Bundesebene unter dem Vorsitz von K. Adenauer (1955-66) zusammen, cf. Brockhaus Enzyklopädie, Mannheim 1987 (19. Auflage), Bd. 4, S. 552f. Siehe auch DDR/CDU.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9482,
+                    "name": "DKP",
+                    "comment": "",
+                    "placeId": 3660,
+                    "placeText": "Essen",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8058,
+                    "name": "Deutschland/BRD/Freie Demokratische Partei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3943,
+                    "name": "Deutschland/DDR/Christlich Demokratische Union",
+                    "comment": "Lizenziert wurde die Ost-CDU durch die SMAD am 29.6.1945 in der SBZ. \r\nMartin Broszat et al. (Hg.), SBZ Handbuch, S. 525ff",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3944,
+                    "name": "Deutschland/DDR/Liberal-Demokratische Partei Deutschlands (Ost) (1949-1990)",
+                    "comment": "Vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 544ff. Eine der DDR-Blockparteien. Sie existierte bis 1990 und ging im selben Jahr in der bundesdeutschen FDP auf. -",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32011,
+                    "name": "Deutschland/DDR/Sozialdemokratische Partei in der DDR",
+                    "comment": "1989 wurde die Sozialdemokratische Partei in der DDR (SDP) im Zuge der Wendezeit gegründet und vereinigte sich kurz vor der Wiedervereinigung Deutschlands am 26.10.1990 mit der Sozialdemokratischen Partei Deutschlands (SPD) der Bundesrepublik, dodis.ch/R4141. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32025,
+                    "name": "Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Politbüro des ZK der SED",
+                    "comment": "Das Politbüro des Zentralkomitees stellte das höchste Führungsgremium und das eigentliche politische Machtzentrum innerhalb der Sozialistischen Einheitspartei Deutschlands (SED) in der DDR dar. Seine Mitglieder wurden jeweils vom Zentalkomitee der SED gewählt.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33474,
+                    "name": "Germany/FRG/Socialist Unity Party of West Berlin",
+                    "comment": null,
+                    "placeId": 3581,
+                    "placeText": "West Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3942,
+                    "name": "SED",
+                    "comment": "Zusammenschluss der KPD und der SPD der deutschen Ostzone am 22.4.1946 in Ostberlin, vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 481.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31354,
+                    "name": "Socialist International",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20,
+                    "name": "Hungary",
+                    "comment": " ",
+                    "countryCode": "HU",
+                    "regionCode": null,
+                    "latitude": 47.162495,
+                    "longitude": 19.503304,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Nigel",
+                    "lastName": "Broomfield",
+                    "fullName": "Broomfield, Nigel (1937\u20132018)",
+                    "id": 57477,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "29.10.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": 2923,
+                    "birthPlaceText": "Britisch Indien (1858-1947)",
+                    "deathPlaceId": 12676,
+                    "deathPlaceText": "Jersey",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Broomfield KCMG, Sir Nigel Hugh Robert Allen",
+                        "Broomfield, Nigel"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Douglas R.",
+                    "lastName": "Hurd",
+                    "fullName": "Hurd, Douglas R. (1930\u2013)",
+                    "id": 57401,
+                    "comment": "",
+                    "dateBirth": "8.3.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15380,
+                    "birthPlaceText": "Marlborough",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hurd, Douglas R."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Nigel",
+                    "lastName": "Broomfield",
+                    "fullName": "Broomfield, Nigel (1937\u20132018)",
+                    "id": 57477,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "29.10.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": 2923,
+                    "birthPlaceText": "Britisch Indien (1858-1947)",
+                    "deathPlaceId": 12676,
+                    "deathPlaceText": "Jersey",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Broomfield KCMG, Sir Nigel Hugh Robert Allen",
+                        "Broomfield, Nigel"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Erhard ",
+                    "lastName": "Krack ",
+                    "fullName": "Krack , Erhard  (1931\u20132000)",
+                    "id": 55386,
+                    "comment": "",
+                    "dateBirth": "9.1.1931",
+                    "dateDeath": "13.12.2000",
+                    "wikidataId": "",
+                    "birthPlaceId": 405,
+                    "birthPlaceText": "Gdańsk",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Krack , Erhard "],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Walter",
+                    "lastName": "Momper",
+                    "fullName": "Momper, Walter (1945\u2013)",
+                    "id": 57440,
+                    "comment": "",
+                    "dateBirth": "21.2.1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Momper, Walter"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33473,
+                    "name": "GB/Embassy in Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 223,
+                    "name": "GB/Foreign Office",
+                    "comment": "Cf. Meier, Aussenwirtschaftspolitik, 2002 dodis.ch/13935, S. 537 (index)\r\nCf. Frech, Clearing, 2001 dodis.ch/13897, S.161, 174f.\r\n\r\n1968: Zusammenschluss 'Foreign Office' und 'Commonwealth Office' (R24456) zum 'Foreign and Commonwealth Office' (1968-)",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "Londres",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2345,
+                    "name": "Deutschland/BRD/Christlich Demokratische Union Deutschlands",
+                    "comment": "Polit. Partei, gegr. im Mai 1945 in Berlin sowie im Juni 1945 im Rheinland, organisierte sich seit Dez. 1945 auf der Ebene der Besatzungszonen und der neugeschaffenen dt. Länder. Nach der Gründung der BRD (1949) schlossen sich die in den drei westl. Besatzungszonen entstandenen Landesverbände 1950 auf Bundesebene unter dem Vorsitz von K. Adenauer (1955-66) zusammen, cf. Brockhaus Enzyklopädie, Mannheim 1987 (19. Auflage), Bd. 4, S. 552f. Siehe auch DDR/CDU.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9482,
+                    "name": "DKP",
+                    "comment": "",
+                    "placeId": 3660,
+                    "placeText": "Essen",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8058,
+                    "name": "Deutschland/BRD/Freie Demokratische Partei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3943,
+                    "name": "Deutschland/DDR/Christlich Demokratische Union",
+                    "comment": "Lizenziert wurde die Ost-CDU durch die SMAD am 29.6.1945 in der SBZ. \r\nMartin Broszat et al. (Hg.), SBZ Handbuch, S. 525ff",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3944,
+                    "name": "Deutschland/DDR/Liberal-Demokratische Partei Deutschlands (Ost) (1949-1990)",
+                    "comment": "Vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 544ff. Eine der DDR-Blockparteien. Sie existierte bis 1990 und ging im selben Jahr in der bundesdeutschen FDP auf. -",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32011,
+                    "name": "Deutschland/DDR/Sozialdemokratische Partei in der DDR",
+                    "comment": "1989 wurde die Sozialdemokratische Partei in der DDR (SDP) im Zuge der Wendezeit gegründet und vereinigte sich kurz vor der Wiedervereinigung Deutschlands am 26.10.1990 mit der Sozialdemokratischen Partei Deutschlands (SPD) der Bundesrepublik, dodis.ch/R4141. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32025,
+                    "name": "Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Politbüro des ZK der SED",
+                    "comment": "Das Politbüro des Zentralkomitees stellte das höchste Führungsgremium und das eigentliche politische Machtzentrum innerhalb der Sozialistischen Einheitspartei Deutschlands (SED) in der DDR dar. Seine Mitglieder wurden jeweils vom Zentalkomitee der SED gewählt.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33474,
+                    "name": "Germany/FRG/Socialist Unity Party of West Berlin",
+                    "comment": null,
+                    "placeId": 3581,
+                    "placeText": "West Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3942,
+                    "name": "SED",
+                    "comment": "Zusammenschluss der KPD und der SPD der deutschen Ostzone am 22.4.1946 in Ostberlin, vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 481.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31354,
+                    "name": "Socialist International",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20,
+                    "name": "Hungary",
+                    "comment": " ",
+                    "countryCode": "HU",
+                    "regionCode": null,
+                    "latitude": 47.162495,
+                    "longitude": 19.503304,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

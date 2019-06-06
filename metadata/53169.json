@@ -1,0 +1,781 @@
+{
+    "total": null,
+    "data": {
+        "id": 53169,
+        "title": "",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "10.11.1989",
+        "documentDateDayOfWeek": "Friday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Report on the fall of the Berlin Wall and mass crossings by East German citizens into West Berlin.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 1,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98966,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101683,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101684,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101685,
+                "tagId": 467,
+                "name": "Poland (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.085.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Polonia (Politica)",
+                    "Polen (Politik)",
+                    "Pologne (Politique)",
+                    "Poland (Politics)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Pologne (Politique)",
+                "deName": "Polen (Politik)",
+                "enName": "Poland (Politics)",
+                "itName": "Polonia (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59738,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Archives of the Ministry of Foreign Affairs of the Republic of Poland",
+                "archiveCode": "PL-AMSZ",
+                "box": null,
+                "aisCode": "ZD 24/91, w. 3, t. 9",
+                "dossierId": 31607,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "Warsaw",
+                "id": 59738
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16449,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "9"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36338,
+                "sort": 0,
+                "attachment": {
+                    "id": 36599,
+                    "attachmentId": 36599,
+                    "date": "",
+                    "fileRef": "dodis-53169-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53169-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59738,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36947,
+                "sort": 0,
+                "attachment": {
+                    "id": 37201,
+                    "attachmentId": 37201,
+                    "date": "",
+                    "fileRef": "dodis-53169-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53169-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53169\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53169<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Polish Ambassador in East Berlin,\n                  Janusz Obodowski<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Polish Minister of Foreign Affairs,\n                  Krzysztof Skubiszewski<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">For immediate action<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 10 November 1989, 1.00 a.m.<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">Following Schabowski\u2019s<span id=\"fnref_1_5_2_2_7_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_3\">4<\/a><\/span> statement about the\n               opening of borders with the West, the border with the FRG has burst. Masses of people\n               are crossing into West Berlin. Some are moving back and forth. Rallies at the W<span class=\"tei-add1 tei-add-edition\">[est]<\/span> B<span class=\"tei-add1 tei-add-edition\">[erlin]<\/span> border.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 0-1789/IV (incoming,\n                  translated from Polish): <span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign\n                     Affairs AMSZ, ZD 24/91, w. 3, t. 9<\/span>. Delivered by: <span class=\"tei-orig tei-orig\">10 November\n                        1989, 4.00 a.m.<\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Janusz Obodowski (1930\u20132011), <a href=\"https://dodis.ch/P57588\" class=\"tei-ref7 tei-link\">dodis.ch/P57588<\/a>, Polish Ambassador in\n                     East Berlin 1986\u20131990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Krzysztof Skubiszewski (1926\u20132010),\n                     <a href=\"https://dodis.ch/P57377\" class=\"tei-ref7 tei-link\">dodis.ch/P57377<\/a>, Polish Minister\n                     of Foreign Affairs 12.9.1989\u201326.10.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_3\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Günter Schabowski (1929\u20132015), <a href=\"https://dodis.ch/P56902\" class=\"tei-ref7 tei-link\">dodis.ch/P56902<\/a>, member of the SED\n               Politburo and spokesman of the GDR government 1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_3\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59738,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36992,
+                "sort": 0,
+                "attachment": {
+                    "id": 36257,
+                    "attachmentId": 36257,
+                    "date": "",
+                    "fileRef": "dodis-53169.xml",
+                    "fileRefThumbnail": "thumb_dodis-53169.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59738,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37059,
+                "sort": 0,
+                "attachment": {
+                    "id": 37276,
+                    "attachmentId": 37276,
+                    "date": "",
+                    "fileRef": "dodis-53169.html",
+                    "fileRefThumbnail": "thumb_dodis-53169.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53169\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53169<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Polish Ambassador in East Berlin,\n                  Janusz Obodowski<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Polish Minister of Foreign Affairs,\n                  Krzysztof Skubiszewski<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">For immediate action<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 10 November 1989, 1.00 a.m.<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">Following Schabowski\u2019s<span id=\"fnref_1_5_2_2_7_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_3\">4<\/a><\/span> statement about the\n               opening of borders with the West, the border with the FRG has burst. Masses of people\n               are crossing into West Berlin. Some are moving back and forth. Rallies at the W<span class=\"tei-add1 tei-add-edition\">[est]<\/span> B<span class=\"tei-add1 tei-add-edition\">[erlin]<\/span> border.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 0-1789/IV (incoming,\n                  translated from Polish): <span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign\n                     Affairs AMSZ, ZD 24/91, w. 3, t. 9<\/span>. Delivered by: <span class=\"tei-orig tei-orig\">10 November\n                        1989, 4.00 a.m.<\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Janusz Obodowski (1930\u20132011), <a href=\"https://dodis.ch/P57588\" class=\"tei-ref7 tei-link\">dodis.ch/P57588<\/a>, Polish Ambassador in\n                     East Berlin 1986\u20131990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Krzysztof Skubiszewski (1926\u20132010),\n                     <a href=\"https://dodis.ch/P57377\" class=\"tei-ref7 tei-link\">dodis.ch/P57377<\/a>, Polish Minister\n                     of Foreign Affairs 12.9.1989\u201326.10.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_3\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Günter Schabowski (1929\u20132015), <a href=\"https://dodis.ch/P56902\" class=\"tei-ref7 tei-link\">dodis.ch/P56902<\/a>, member of the SED\n               Politburo and spokesman of the GDR government 1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_3\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 59738,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36777,
+                "sort": 0,
+                "attachment": {
+                    "id": 37035,
+                    "attachmentId": 37035,
+                    "date": "",
+                    "fileRef": "dodis-53169-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53169-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59738,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 35054,
+                "sort": 0,
+                "attachment": {
+                    "id": 35363,
+                    "attachmentId": 35363,
+                    "date": "",
+                    "fileRef": "dodis-53169.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53169.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59738,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Janusz",
+                    "lastName": "Obodowski",
+                    "fullName": "Obodowski, Janusz (1930\u20132011)",
+                    "id": 57588,
+                    "comment": "",
+                    "dateBirth": "2.1.1930",
+                    "dateDeath": "14.8.2011",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Obodowski, Janusz"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Janusz",
+                    "lastName": "Obodowski",
+                    "fullName": "Obodowski, Janusz (1930\u20132011)",
+                    "id": 57588,
+                    "comment": "",
+                    "dateBirth": "2.1.1930",
+                    "dateDeath": "14.8.2011",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Obodowski, Janusz"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Günter",
+                    "lastName": "Schabowski",
+                    "fullName": "Schabowski, Günter (1929\u20132015)",
+                    "id": 56902,
+                    "comment": "",
+                    "dateBirth": "4.1.1929",
+                    "dateDeath": "1.11.2015",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Schabowski, Günter",
+                        "Schabovsky, Günther"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 10881,
+                    "name": "Poland/Embassy in Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 8541,
+                    "name": "Poland/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Janusz",
+                    "lastName": "Obodowski",
+                    "fullName": "Obodowski, Janusz (1930\u20132011)",
+                    "id": 57588,
+                    "comment": "",
+                    "dateBirth": "2.1.1930",
+                    "dateDeath": "14.8.2011",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Obodowski, Janusz"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Janusz",
+                    "lastName": "Obodowski",
+                    "fullName": "Obodowski, Janusz (1930\u20132011)",
+                    "id": 57588,
+                    "comment": "",
+                    "dateBirth": "2.1.1930",
+                    "dateDeath": "14.8.2011",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Obodowski, Janusz"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Günter",
+                    "lastName": "Schabowski",
+                    "fullName": "Schabowski, Günter (1929\u20132015)",
+                    "id": 56902,
+                    "comment": "",
+                    "dateBirth": "4.1.1929",
+                    "dateDeath": "1.11.2015",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Schabowski, Günter",
+                        "Schabovsky, Günther"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 10881,
+                    "name": "Poland/Embassy in Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 8541,
+                    "name": "Poland/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

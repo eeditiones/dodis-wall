@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quaderni di Dodis 12</title>
+                <author>Diplomatische Dokumente der Schweiz</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="http://dodis.ch/49563">dodis.ch/49563</ref>
+                    <title type="main"> Notice<note xml:id="e743">Notice: <idno type="CH-BAR">CH-BAR#E2010-01A#1996/396#52* (B.58.2).</idno> Transmise à René
+                            Felber par Guy Ducrey, <ref target="http://dodis.ch/P15378">dodis.ch/P15378</ref>: <orig>Ayant appris hier soir que vous
+                                donnerez tout à l’haure une conférence de presse au sujet des
+                                derniers développements en RDA, j’ai pris la liberté de vous
+                                remettre ci-joint quelques informations et appréciations qui
+                                pourraient vous être utiles.</orig>
+                        </note> pour le Chef du Département fédéral des affaires étrangères, René
+                            Felber<note xml:id="e750">René Felber (*1933), <ref target="http://dodis.ch/24453">dodis.ch/P24453</ref>, Ministre
+                            suisse des Affaires étrangères 1.1.1988–31.1.1993.</note>
+                    </title>
+                    <title type="sub">RDA: Conférence de presse</title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Berne, </placeName>
+                        <date when="1989-11-14">14 novembre 1989</date>
+                    </dateline>
+                </opener>
+                <p n="1">1. Question: Le gouvernement a-t-il prévu les événements?</p>
+                <p>– Ceux-ci se sont précipités au point de prendre tout le monde au dépourvu. Le
+                    Chancelier Kohl<note xml:id="e758">Helmut Kohl (1930-2017), <ref target="http://dodis.ch/31852">dodis.ch/P31852</ref>, Chancelier de la
+                        RFA 1.10.1982–27.10.1988.</note> lui-même a été surpris par les événements
+                    de Berlin, alors qu’il était en visite officielle en Pologne.</p>
+                <p/>
+                <p n="1">2. Question: Premières impressions et analyses?</p>
+                <p>– Berlin nous a donné des images impressionnantes, émouvantes: les habitants de
+                    la RDA ont démontré que la notion de liberté était chez l’homme une valeur si
+                    fondamentale qu’elle a résisté intacte à plus de 40 ans de dictature implacable
+                    (échec de «l’homme nouveau», prévu par les théoriciens du marxisme-léninisme).
+                    Et c’est, parmi les droits de l’homme, cette valeur de libre circulation des
+                    personnes que la Suisse a défendue sans cesse, notamment depuis les débuts de la
+                    CSCE.</p>
+                <p/>
+                <p n="1">3. Question: Comment jugez-vous l’avenir?</p>
+                <p>– Il y a encore un long chemin à parcourir, moins spectaculaire peut-être que ces
+                    images historiques de Berlin et qui vont demander de la persévérance:</p>
+                <p>a) Un chemin sur le plan politique: le peuple est-allemand attend toujours la
+                    révision de l’article premier de la constitution de la RDA, qui réserve au parti
+                    communiste un rôle dominant. (Réunion du congrès du parti à la mi-décembre).</p>
+                <p>b) Un long chemin vers les réformes économiques aussi.</p>
+                <p/>
+                <p n="1">4. Question: Assistance suisse? (Nos actions en faveur de la Hongrie et la
+                    Pologne).</p>
+                <p>– Désormais, il faudra aussi penser à la RDA. L’Allemagne fédérale jouera sans
+                    doute à ce niveau un rôle prépondérant. Mais ne l’oublions pas, économiquement,
+                    la RDA est dans une situation nettement moins difficile que la Hongrie et
+                    surtout la Pologne. En revanche, elle a encore du chemin à faire pour rattraper
+                    ces deux pays sur le plan des libertés démocratiques.</p>
+                <p/>
+                <p n="1">5. Question: La réunification?</p>
+                <p>– Ce n’est pas à la Suisse de se prononcer sur ce point. Il s’agit d’une question
+                    qui touche les deux Allemagnes et qui intéresse bien entendules EU et l’URSS. À
+                    ce sujet, on peut se féliciter de la grande retenue et de la compréhension de
+                    tous les acteurs, aussi bien les manifestants du reste que les dirigeants. Le
+                    Chancelier Kohl a rappelé l’ancrage de la RFA à l’Europe de l’Ouest et M.
+                        Genscher<note xml:id="e763">Hans-Dietrich Genscher (1927–2016), <ref target="http://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-chancelier
+                        et Ministre des Affaires étrangères de la RFA 1.10.1982–17.5.1992.</note> a
+                    souligné que la RFA respectera tous les accords qu’elle a signés et les
+                    engagements qu’elle a pris.</p>
+                <p/>
+                <p n="1">6. Question: RDA – CEE</p>
+                <p>– Un rapprochement est concevable, mais parler d’intégration est assurément
+                    prématuré. Les systèmes économiques sont pour l’instant inconciliables. Voyez
+                    déjà les problèmes que pose l’Espace économique européen, pourtant entre pays
+                    qui partagent une même économie de marché.</p>
+                <p/>
+                <p n="1">7. Question: Ordre de Yalta remis en question? Sécurité de la Suisse
+                    (Abschaffung der Armee)?</p>
+                <p>– La remise en question du monopole du P<add type="edition">[arti] </add> C<add type="edition">[ommuniste]</add>, l’élimination des dictatures vont
+                    peut-être – et nous l’espérons – finir d’effacer les frontières idéologiques.
+                    Mais les frontières militaires, les dispositifs militaires sont toujours là,
+                    face à face. Ce que nous souhaitons, c’est que la situation facilite et accélère
+                    désormais les grandes négociations en cours sur la maîtrise des armements
+                    (START, CFE). Pour la Suisse, ce n’est pas le moment de mettre la charrue avant
+                    les bœufs en désarmant unilatéralement.</p>
+                <p/>
+                <p n="1">8. Question: La Bulgarie?</p>
+                <p>– Jivkov<note xml:id="e925">Todor Khristov Jivkov (1911–1998), <ref target="http://dodis.ch/P15343">dodis.ch/P15343</ref>, Secrétaire
+                        général du Parti communiste bulgare 1954–1989.</note>, Secrétaire général du
+                    du P<add type="edition">[arti]</add> C<add type="edition">[ommuniste]</add> bulgare a quitté la scène après avoir été 37 ans au pouvoir.
+                    Pour l’instant, ce n’est que le changement de l’acteur principal; il s’agit
+                    peut-être d’une action préventive, annonciatrice de réformes à venir.</p>
+                <p/>
+                <p n="1">9. Question: Le Sommet Bush<note xml:id="e930">George Herbert Walker Bush
+                        (1924–2018), <ref target="http://dodis.ch/47406">dodis.ch/P47406</ref>,
+                        Président des États-Unis 20.1.1989–20.1.1993.</note>-Gorbatchev<note xml:id="e947">Michaïl Gorbatchev (*1931), <ref target="http://dodis.ch/P31707">dodis.ch/P31707</ref>, Secrétaire
+                        général du Parti communiste de l’Union soviétique 11.3.1985–24.8.1991,
+                        Président du Soviet suprême de l’Union soviétique 25.5.1989–15.3.1990 et
+                        Président de l’Union soviétique 15.3.1990–25.12.1991.</note>?</p>
+                <p>– Les deux présidents vont devoir constater l’évolution et ce qu’on appelle déjà
+                    la fin de l’Ordre de Yalta. Propositions soviétiques possibles en faveur d’un
+                    dégagement militaire.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

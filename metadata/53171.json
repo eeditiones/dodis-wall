@@ -1,0 +1,1145 @@
+{
+    "total": null,
+    "data": {
+        "id": 53171,
+        "title": "",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "29.11.1989",
+        "documentDateDayOfWeek": "Wednesday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "The ten-point plan for German reunification is assessed and the lack of any information about the inviolability of the Polish-German border is criticised.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 3,
+        "classification": "URGENT",
+        "classificationText": "urgent",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98968,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101689,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101690,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101691,
+                "tagId": 467,
+                "name": "Poland (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.085.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Polonia (Politica)",
+                    "Polen (Politik)",
+                    "Pologne (Politique)",
+                    "Poland (Politics)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Pologne (Politique)",
+                "deName": "Polen (Politik)",
+                "enName": "Poland (Politics)",
+                "itName": "Polonia (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59740,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Archives of the Ministry of Foreign Affairs of the Republic of Poland",
+                "archiveCode": "PL-AMSZ",
+                "box": null,
+                "aisCode": "ZD 24/91, w. 11, w. 37",
+                "dossierId": 31609,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "Warsaw",
+                "id": 59740
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16451,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "23"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36336,
+                "sort": 0,
+                "attachment": {
+                    "id": 36597,
+                    "attachmentId": 36597,
+                    "date": "",
+                    "fileRef": "dodis-53171-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53171-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59740,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37027,
+                "sort": 0,
+                "attachment": {
+                    "id": 36316,
+                    "attachmentId": 36316,
+                    "date": "",
+                    "fileRef": "dodis-53171.xml",
+                    "fileRefThumbnail": "thumb_dodis-53171.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59740,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36779,
+                "sort": 0,
+                "attachment": {
+                    "id": 37037,
+                    "attachmentId": 37037,
+                    "date": "",
+                    "fileRef": "dodis-53171-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53171-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59740,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 35056,
+                "sort": 0,
+                "attachment": {
+                    "id": 35365,
+                    "attachmentId": 35365,
+                    "date": "",
+                    "fileRef": "dodis-53171.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53171.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59740,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Ryszard",
+                    "lastName": "Karski",
+                    "fullName": "Karski, Ryszard (1926\u2013)",
+                    "id": 57590,
+                    "comment": "",
+                    "dateBirth": "16.5.1926",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Karski, Ryszard",
+                        "Karski, Ryszard"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Bolesław",
+                    "lastName": "Kulski",
+                    "fullName": "Kulski, Bolesław",
+                    "id": 50550,
+                    "comment": "",
+                    "dateBirth": "",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kulski, Bolesław"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Ryszard",
+                    "lastName": "Karski",
+                    "fullName": "Karski, Ryszard (1926\u2013)",
+                    "id": 57590,
+                    "comment": "",
+                    "dateBirth": "16.5.1926",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Karski, Ryszard",
+                        "Karski, Ryszard"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Horst M.",
+                    "lastName": "Teltschik",
+                    "fullName": "Teltschik, Horst M. (1940\u2013)",
+                    "id": 57413,
+                    "comment": "",
+                    "dateBirth": "14.06.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 407,
+                    "birthPlaceText": "Mähren",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Teltschik, Horst M."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33510,
+                    "name": "Poland/Embassy in Cologne",
+                    "comment": null,
+                    "placeId": 780,
+                    "placeText": "Köln",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 8541,
+                    "name": "Poland/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 9899,
+                    "name": "European Union",
+                    "comment": "1958-1967. Entré en vigueur le 1er janvier 1958.\nLe 25.3.1957, l'Allemagne, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas signent à Rome deux traités, le premier créant la Communauté économique européenne (CEE), le second la Communauté européenne de l'énergie atomique (EURATOM).\n\"La Communauté économique européenne (CEE) a pour mission, par l'établissement d'un Marché commun, une expansion continue et équitable, une stabilité accrue, un relèvement accéléré du niveau de vie et des relations plus étroites entre les Etats qu'elle réunit.\"(art.2).- Le texte intégral du Traité de Rome est disponible sur le site internet de la Commission européenne: http://europa.eu.int/abc/obj/treaties/fr/frtoc05.htm.\n\"Etablissement d'un marché commun et rapprochement progressif des politiques économiques autour d'une période transitoire de 15 ans\".\nCf. dodis.ch/31612, p.10-11.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Bruxelles",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8864,
+                    "name": "Germany/FRG/Parliament",
+                    "comment": "(Zusammenschluss von Bundestag und Länderdelegierten, welche von Reg. und Parl. der dt. Länder bezeichnet werden).\r\nAugust 1949 Wahl zum 1. Bundestag (CDU 139 Sitze, SPD 131 Sitze).\r\nCf. Der Parlamentarische Rat 1948-1949. Akten und Protokolle. Herausgegeben vom Deutschen Bundestag und Bundesarchiv, Band 9, 1996, Oldenbourg, ISBN 3-486-56228.-2",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9496,
+                    "name": "Germany/FRG/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Bonn / Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31997,
+                    "name": "Germany/FRG/The Greens",
+                    "comment": "Polit. Partei in der Bundesrepublik Deutschland, gegründet am 13.1.1980.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20591,
+                    "name": "Organization for Security and Co-operation in Europe",
+                    "comment": "URL(520551)\r\n\r\n________________________\r\n\r\nURL(520556)\r\n\" <b>History<\/b>\r\nThe OSCE traces its origins to the détente phase of the early 1970s, when the Conference on Security and Co-operation in Europe (CSCE) was created to serve as a multilateral forum for dialogue and negotiation between East and West. Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1.8.1975. This document contained a number of key commitments on polito-military, economic and environmental and human rights issues that became central to the so-called 'Helsinki process'. It also established ten fundamental principles (the 'Decalogue') governing the behaviour of States towards their citizens, as well as towards each other.\r\n\r\nUntil 1990, the CSCE functioned mainly as a series of meetings and conferences that built on and extended the participating States' commitments, while periodically reviewing their implementation. However, with the end of the Cold War, the Paris Summit of November 1990 set the CSCE on a new course. In the Charter of Paris for a New Europe, the CSCE was called upon to play its part in managing the historic change taking place in Europe and responding to the new challenges of the post-Cold War period, which led to its acquiring permanent institutions and operational capabilities.\r\n\r\nAs part of this institutionalization process, the name was changed from the CSCE to the OSCE by a decision of the Budapest Summit of Heads of State or Government in December 1994.\"\r\n________________________\r\n\r\ncf. dodis.ch/15305, e.a. p. 13.\r\n\r\ncf. dans les dossiers du DPF: B.72.9.15.1.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3942,
+                    "name": "SED",
+                    "comment": "Zusammenschluss der KPD und der SPD der deutschen Ostzone am 22.4.1946 in Ostberlin, vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 481.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 780,
+                    "name": "Cologne",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.937530,
+                    "longitude": 6.960279,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 73,
+                    "name": "Czechoslovakia",
+                    "comment": "",
+                    "countryCode": "CSHH",
+                    "regionCode": null,
+                    "latitude": 50.083333,
+                    "longitude": 14.416667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 936,
+                    "name": "Eastern Bloc states",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 13,
+                    "name": "France",
+                    "comment": "",
+                    "countryCode": "FR",
+                    "regionCode": null,
+                    "latitude": 46.227640,
+                    "longitude": 2.213749,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4452,
+                    "name": "Oder\u2013Neisse line",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.696540,
+                    "longitude": 14.715844,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 347,
+                    "name": "Western Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.628424,
+                    "longitude": 0.612311,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Ryszard",
+                    "lastName": "Karski",
+                    "fullName": "Karski, Ryszard (1926\u2013)",
+                    "id": 57590,
+                    "comment": "",
+                    "dateBirth": "16.5.1926",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Karski, Ryszard",
+                        "Karski, Ryszard"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Bolesław",
+                    "lastName": "Kulski",
+                    "fullName": "Kulski, Bolesław",
+                    "id": 50550,
+                    "comment": "",
+                    "dateBirth": "",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kulski, Bolesław"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Ryszard",
+                    "lastName": "Karski",
+                    "fullName": "Karski, Ryszard (1926\u2013)",
+                    "id": 57590,
+                    "comment": "",
+                    "dateBirth": "16.5.1926",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Karski, Ryszard",
+                        "Karski, Ryszard"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Horst M.",
+                    "lastName": "Teltschik",
+                    "fullName": "Teltschik, Horst M. (1940\u2013)",
+                    "id": 57413,
+                    "comment": "",
+                    "dateBirth": "14.06.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 407,
+                    "birthPlaceText": "Mähren",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Teltschik, Horst M."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33510,
+                    "name": "Poland/Embassy in Cologne",
+                    "comment": null,
+                    "placeId": 780,
+                    "placeText": "Köln",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 8541,
+                    "name": "Poland/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 9899,
+                    "name": "European Union",
+                    "comment": "1958-1967. Entré en vigueur le 1er janvier 1958.\nLe 25.3.1957, l'Allemagne, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas signent à Rome deux traités, le premier créant la Communauté économique européenne (CEE), le second la Communauté européenne de l'énergie atomique (EURATOM).\n\"La Communauté économique européenne (CEE) a pour mission, par l'établissement d'un Marché commun, une expansion continue et équitable, une stabilité accrue, un relèvement accéléré du niveau de vie et des relations plus étroites entre les Etats qu'elle réunit.\"(art.2).- Le texte intégral du Traité de Rome est disponible sur le site internet de la Commission européenne: http://europa.eu.int/abc/obj/treaties/fr/frtoc05.htm.\n\"Etablissement d'un marché commun et rapprochement progressif des politiques économiques autour d'une période transitoire de 15 ans\".\nCf. dodis.ch/31612, p.10-11.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Bruxelles",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8864,
+                    "name": "Germany/FRG/Parliament",
+                    "comment": "(Zusammenschluss von Bundestag und Länderdelegierten, welche von Reg. und Parl. der dt. Länder bezeichnet werden).\r\nAugust 1949 Wahl zum 1. Bundestag (CDU 139 Sitze, SPD 131 Sitze).\r\nCf. Der Parlamentarische Rat 1948-1949. Akten und Protokolle. Herausgegeben vom Deutschen Bundestag und Bundesarchiv, Band 9, 1996, Oldenbourg, ISBN 3-486-56228.-2",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9496,
+                    "name": "Germany/FRG/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Bonn / Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31997,
+                    "name": "Germany/FRG/The Greens",
+                    "comment": "Polit. Partei in der Bundesrepublik Deutschland, gegründet am 13.1.1980.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20591,
+                    "name": "Organization for Security and Co-operation in Europe",
+                    "comment": "URL(520551)\r\n\r\n________________________\r\n\r\nURL(520556)\r\n\" <b>History<\/b>\r\nThe OSCE traces its origins to the détente phase of the early 1970s, when the Conference on Security and Co-operation in Europe (CSCE) was created to serve as a multilateral forum for dialogue and negotiation between East and West. Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1.8.1975. This document contained a number of key commitments on polito-military, economic and environmental and human rights issues that became central to the so-called 'Helsinki process'. It also established ten fundamental principles (the 'Decalogue') governing the behaviour of States towards their citizens, as well as towards each other.\r\n\r\nUntil 1990, the CSCE functioned mainly as a series of meetings and conferences that built on and extended the participating States' commitments, while periodically reviewing their implementation. However, with the end of the Cold War, the Paris Summit of November 1990 set the CSCE on a new course. In the Charter of Paris for a New Europe, the CSCE was called upon to play its part in managing the historic change taking place in Europe and responding to the new challenges of the post-Cold War period, which led to its acquiring permanent institutions and operational capabilities.\r\n\r\nAs part of this institutionalization process, the name was changed from the CSCE to the OSCE by a decision of the Budapest Summit of Heads of State or Government in December 1994.\"\r\n________________________\r\n\r\ncf. dodis.ch/15305, e.a. p. 13.\r\n\r\ncf. dans les dossiers du DPF: B.72.9.15.1.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3942,
+                    "name": "SED",
+                    "comment": "Zusammenschluss der KPD und der SPD der deutschen Ostzone am 22.4.1946 in Ostberlin, vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 481.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 780,
+                    "name": "Cologne",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.937530,
+                    "longitude": 6.960279,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 73,
+                    "name": "Czechoslovakia",
+                    "comment": "",
+                    "countryCode": "CSHH",
+                    "regionCode": null,
+                    "latitude": 50.083333,
+                    "longitude": 14.416667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 936,
+                    "name": "Eastern Bloc states",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 13,
+                    "name": "France",
+                    "comment": "",
+                    "countryCode": "FR",
+                    "regionCode": null,
+                    "latitude": 46.227640,
+                    "longitude": 2.213749,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4452,
+                    "name": "Oder\u2013Neisse line",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.696540,
+                    "longitude": 14.715844,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 347,
+                    "name": "Western Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.628424,
+                    "longitude": 0.612311,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

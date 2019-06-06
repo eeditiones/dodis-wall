@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/49548</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/49548">dodis.ch/49548</ref>
+               <title type="main">Memo<note xml:id="e1377">Memo (translated from German):
+                        <idno>Swiss Federal Archives CH-BAR#E2010A#1999/250#7145*(B.73.0)</idno>.
+                     Written and signed by Daniel Woker, <ref target="https://dodis.ch/P27996"
+                        >dodis.ch/P27996</ref>. Copies to Silvio Arioli, <ref
+                        target="https://dodis.ch/P24523">dodis.ch/P24523</ref>, Klaus Jacobi, <ref
+                        target="https://dodis.ch/P19511">dodis.ch/P19511</ref>, the Federal Office
+                     for Foreigners’ Affairs, five copies for internal use of the Federal Department
+                     of Foreign Affairs and to the Swiss Embassies in East Berlin and in
+                     Bonn.</note> by the Swiss Federal Department of Foreign Affairs</title>
+               <title type="sub">GDR: It’s not Just the Wall that’s Shaking</title>
+            </head>
+            <opener>
+               <dateline>Bern, 13 November 1989</dateline>
+            </opener>
+            <p>On Friday, 10.11.1989, the signatory meets GDR embassy counsellor Tschirlich<note
+                  xml:id="e1396">Arnold Tschirlich, <ref target="https://dodis.ch/P54816"
+                     >dodis.ch/P54816</ref>, GDR Embassy Counsellor in Bern 27.6.1986–1990.</note>,
+               following the latter’s urgent request and, in T<add type="edition">[schirlich]</add>
+               ’s words, by way of the GDR officially approaching the Swiss authorities with regard
+               to today’s historic event.</p>
+            <p>T<add type="edition">[schierlich]</add> appears distinctly “dépassé par les
+               évènements”. He begins by delivering the attached memo<note xml:id="e1410">Memo of
+                  the Embassy of the GDR in Bern, 10 November 1989, <ref
+                     target="https://dodis.ch/52350">dodis.ch/52350</ref>.</note>. At the time of
+               his intervention (late Friday afternoon), both the regulations set down there and
+                  T<add type="edition">[schirlich]</add> ’s remark that the Wall invariably
+               persists, and continues to function as a border, are in part already obsolete. Two
+               aspects of T<add type="edition">[schirlich]</add> ’s in part somewhat confused
+               deliberations, however, deserve attention:</p>
+            <p>– Today, a great number of Swiss citizens inquired at his embassy about options for
+               informal departure from the GDR to Switzerland (for relatives etc.) and similar
+               options for travelling into the GDR, respectively. GDR authorities assumed that the
+               existing visa regulations between the GDR and Switzerland continue to apply.</p>
+            <p>– T<add type="edition">[schirlich]</add> appears to be inquiring, although in a very
+               hedged manner, whether Switzerland would lend support to a “now reformed” GDR, “since
+               a lot of substance will be lost due to the new travel regulations”.</p>
+            <p>Adhering to the announcement issued today by the press and information service, I
+               answered T<add type="edition">[schirlich]</add> that we welcome the opening of the
+               GDR border as a step towards freedom and democracy.</p>
+            <p><emph>To be determined:</emph> Should and must the Swiss visa policy in relation to
+               the GDR be revised in light of the most recent events? This also in light of the
+               notification just in from our embassy in Berlin (T<add type="edition">[elex]</add> 72
+               of 10.11. in attachment<note xml:id="e1439">Telex No. 72 from the Swiss Embassy in
+                  East Berlin, 10 November 1989, <ref target="https://dodis.ch/52351"
+                     >dodis.ch/52351</ref>.</note>), which is likewise being swamped with
+               inquiries.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

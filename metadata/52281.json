@@ -1,0 +1,1278 @@
+{
+    "total": null,
+    "data": {
+        "id": 52281,
+        "title": "Nr. 12, Telegramm Nr. 38. \u200bDie Wiedervereinigung und die Blockzugehörigkeit\u200b",
+        "langCode": "de",
+        "language": "German",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "13.2.1990",
+        "documentDateDayOfWeek": "Tuesday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Analyse der drei grundlegenden Prozesse von historischer Bedeutung, die sich gegenwärtig in Europa abspielen: die europäische Integration, die Auflösung des Ostblocks und die damit verbundene Eliminierung der sicherheitspolitischen Bipolarität in Europa und die deutsche Wiedervereinigung.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "CONFIDENTIAL",
+        "classificationText": "confidential",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 97622,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 57627,
+                "dossierTitle": "Bonn, vol. II",
+                "archiveNumber": "A.21.31",
+                "additionalComponent": "",
+                "period": "1990\u20131990",
+                "fund": "",
+                "archive": "Swiss Federal Archives",
+                "archiveCode": "CH-BAR",
+                "box": "",
+                "aisCode": "E2010-02A#1996/400#19*",
+                "dossierId": 30730,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "http://www.bar.admin.ch/org/",
+                "archivePlace": "Bern",
+                "id": 57627
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16469,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "36"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36327,
+                "sort": 0,
+                "attachment": {
+                    "id": 36588,
+                    "attachmentId": 36588,
+                    "date": "",
+                    "fileRef": "dodis-52281-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52281-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 57627,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 29269,
+                "sort": 0,
+                "attachment": {
+                    "id": 32160,
+                    "attachmentId": 32160,
+                    "date": "",
+                    "fileRef": "dodis-52281.xml",
+                    "fileRefThumbnail": null,
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 57627,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37065,
+                "sort": 0,
+                "attachment": {
+                    "id": 37282,
+                    "attachmentId": 37282,
+                    "date": "",
+                    "fileRef": "dodis-52281.html",
+                    "fileRefThumbnail": "thumb_dodis-52281.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\"><a href=\"http://dodis.ch/52281\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52281<\/a><span class=\"tei-title5 tei-title-main\">Politscher Bericht<span id=\"fnref_1_3_1_1_2_2_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_2_3\">1<\/a><\/span> des schweizerischen Botschafters in Bonn,\n                        Alfred Hohl<span id=\"fnref_1_3_1_1_2_2_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_2_5\">2<\/a><\/span><\/span>\n                        <h1 class=\"tei-title4 tei-title-sub\">Nr. 38. Die Wiedervereinigung und die\n                        Blockzugehörigkeit<\/h1>\n                    <\/h1>\n                    <div class=\"tei-opener tei-opener\"><span class=\"tei-add2 tei-add-opener\">Vertraulich<\/span>\n                        <div class=\"tei-dateline tei-dateline\">Bonn, <span class=\"alternate tei-date3 tei-date-when\"><span>13. Februar 1990<\/span><span class=\"altcontent\">1990-02-13<\/span><\/span><\/div>\n                    <\/div>\n                    <p class=\"tei-p1 tei-p1\">In Europa spielen sich gegenwärtig drei grundlegende Prozesse von historischer\n                    Tragweite ab:<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Die (west-)europäische Integration innerhalb der EG dem Ziel einer europäischen Union.<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Die Auflösung des Ostblocks und die damit verbundene Eliminierung der sicherheitspolitischen Bipolarität in Europa,<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Die deutsche Wiedervereinigung<\/p>\n                    <p class=\"tei-p2 tei-p\">Die drei Prozesse sind untrennbar miteinander verbunden. Besonders aktuell und\n                    intensiv sind indessen Wechselwirkung und Kausalität der beiden Letzgenannten.\n                    Das Dilemma lässt sich einfach formulieren:<\/p>\n                    <p class=\"tei-p2 tei-p\">Die innerdeutsche Entwicklung hat eine Dynamik erreicht, welcher die Schaffung\n                    neuer gesamteuropäischer Sicherheitsstrukturen, welche die Bipolarität ablösen\n                    sollen, nicht zu folgen vermag.<\/p>\n                    <p class=\"tei-p2 tei-p\">\n                        <div class=\"tei-title3 tei-title-doc\">Ausweg:<\/div>\n                    <\/p>\n                    <p class=\"tei-p2 tei-p\">a) Entweder wird der Wiedervereinigungsprozess gebremst und an das im Rahmen von\n                    Helsinki II , bzw. Wien II Realisierbare angepasst, oder<\/p>\n                    <p class=\"tei-p2 tei-p\">b) der Bau des neuen europäischen Hauses wird der Rasanz des\n                    Wiedervereinigungsprozesses angeglichen, oder<\/p>\n                    <p class=\"tei-p2 tei-p\">c) man akzeptiert das Faktum, dass die beiden Prozesse zeitlich nicht\n                    koordinierbar sind.<\/p>\n                    <p class=\"tei-p2 tei-p\">Es hiesse, die Dynamik politischer Entwicklungen auf unstatthafte Art zu\n                    kategorisieren, wollte man nur die eine von drei logisch denkbaren Entwicklungen\n                    als wahrscheinlich prognostizieren.<\/p>\n                    <p class=\"tei-p2 tei-p\">Realistischer ist es, von einem Gemenge der drei Optionen\n                            auszugehen.<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Sicherlich bremst die bis anhin ungelöste Frage der Blockzugehörigkeiten den Wiedervereinigungsprozess. Die Herstellung staatlicher Einheit bei gleichzeitiger zweifacher Blockzugehörigkeit und der Präsenz amerikanischer und sowjetischer Truppen ist unrealistisch, weil in sich widersprüchlich. Gegenteilige Beteuerungen \u2013 auch aus der Koalition \u2013 sind eher als «window dressing» und «appeasement» für die Sorgen der Blockprotagonisten aufzufassen.<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Nicht zu verneinen ist, dass die deutsche Entwicklung Druck für die Schaffung neuer europäischer Sicherheitsstrukturen schafft. Sie setzt Helsinki II und Wien II unter Erfolgszwang.<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Schliesslich enthält die Entwicklung sicher auch aleatorische Elemente. Raum dafür bieten unter anderem auch die Unsicherheiten in der Sowjetunion. Hätte sie beispielsweise die Kraft und den Willen einem Abdrängen aus der DDR zu widerstehen? Schliesslich stünde es einer neugewählten DDR-Regierung nach dem 18. März frei, den Austritt aus dem Warschauer Pakt zu erklären. Die auf DDR-Territorium verbleibenden UdSSR-Truppen wären danach nur noch unter dem Titel des Potsdamer Abkommens als Siegermacht präsent, was die Blockzugehörigkeitsproblematik in einem völlig neuen Licht erschienen liesse. So spekulativ zum jetzigen Zeitpunkt eine solche Entwicklung auch sein mag: sie verdient Erwähnung seit in Europa heute Realität ist, was gestern undenkbar war. Die Redimensionierung des sowjetischen Imperiums, die Bewältigung seiner inneren Probleme bedingen Konzessionsbereitschaft insbesondere dort, wo keine direkten und vitalen sicherheitspolitischen Risiken vorliegen. Nachdem das westliche Glacis der UdSSR sich aufzulösen im Begriff ist, dürfte ein längerfristiger Verbleib von Sowjet-Truppen in der DDR eher anachronistischer Symbolik als sicherheitspolitischer Notwendigkeit entsprechen. <\/p>\n                    <p class=\"tei-p2 tei-p\">Die von Modrow<span id=\"fnref_1_3_1_1_19_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_19_2\">3<\/a><\/span> mit Segen des Kremls aus\n                    der Mottenkiste geholte Idee einer <span class=\"tei-emph tei-emph\">Neutralisierung<\/span>\n                    Gesamtdeutschlands geht an der Realität vorbei.<\/p>\n                    <p class=\"tei-p2 tei-p\">Ein Staat von der Grösse und Potenz Gesamtdeutschlands kann begrifflich nicht\n                    neutral sein, es fehlt ihm das Essentiale der Kleinheit als Voraussetzung des\n                    neutral-sein-könnens, die durch seine Grösse bedingten Interessen machen es\n                    selber zum sicherheitspolitisch relevanten Akteur im internationalen Kontext.\n                    Zudem: Gesamtdeutschland neutral werden zu lassen, hiesse, ihm einen\n                    Sonderstatus zuzubilligen, der ihm eine eigenständige, nicht beeinflussbare\n                    Politik gegenüber den anderen Mächten ermöglicht. Eine Einbindung in\n                    gesamteuropäische Strukturen erhöht die Kontrollierbarkeit gesamtdeutscher\n                    Aussenpolitik.<\/p>\n                    <p class=\"tei-p2 tei-p\"><span class=\"tei-emph tei-emph\">Andere Varianten<\/span> werden gegenwärtig ebenfalls\n                            diskutiert:<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Ein Anschluss der DDR an das NATO-Gebiet ist unrealistisch, da für die UdSSR nicht zumutbar und akzeptabel.<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 Eine \u2013 vorläufige \u2013 Neutralisierung und Entmilitarisierung der DDR dürfte aus denselben Gründen scheitern.<\/p>\n                    <p class=\"tei-p2 tei-p\">Fazit: Eine Lösung, welche die begriffliche Unvereinbarkeit von Wiedervereinigung\n                    und \u2013 vorläufiger \u2013 Blockzugehörigkeit von BRD und DDR überwinden könnte, ist\n                    gegenwärtig nicht in Sicht. Dennoch wird die Wiedervereinigung nicht an diesem\n                    Punkt scheitern, sie wird \u2013 was den konstitutiven Rahmen betrifft \u2013 allenfalls\n                    verzögert.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_2_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Politischer Bericht\n                            Nr. 12 und Telegramm Nr. 34 (Empfangskopie): <span class=\"tei-idno tei-idno\">CH-BAR#E2010-02A#1996/400#19* (A.21.31)<\/span>. Verfasst von Jürg\n                            Leutert, <a href=\"http://dodis.ch/P17414\" class=\"tei-ref7 tei-link\">dodis.ch/P17414<\/a>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_2_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_2_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Alfred Hohl (1930\u20132004), <a href=\"http://dodis.ch/P16080\" class=\"tei-ref7 tei-link\">dodis.ch/P16080<\/a>,\n                            schweizerischer Botschafter in Bonn 1.9.1987\u201316.11.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_2_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_19_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow (*1928), <a href=\"http://dodis.ch/54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Vorsitzender des\n                        Ministerrats der DDR 13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_19_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 57627,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36731,
+                "sort": 0,
+                "attachment": {
+                    "id": 36989,
+                    "attachmentId": 36989,
+                    "date": "",
+                    "fileRef": "dodis-52281-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52281-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 57627,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 29864,
+                "sort": 0,
+                "attachment": {
+                    "id": 32760,
+                    "attachmentId": 32760,
+                    "date": "13.2.1990",
+                    "fileRef": "dodis-52281.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52281.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 57627,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Jürg",
+                    "lastName": "Leutert",
+                    "fullName": "Leutert, Jürg (1949\u2013)",
+                    "id": 17414,
+                    "comment": "",
+                    "dateBirth": "13.2.1949",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "LJ",
+                        "Leutert, Jürg",
+                        "LT",
+                        "Leutert, Jürg B.",
+                        "LG"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Alfred",
+                    "lastName": "Hohl",
+                    "fullName": "Hohl, Alfred (1930\u20132004)",
+                    "id": 16080,
+                    "comment": "",
+                    "dateBirth": "28.7.1930",
+                    "dateDeath": "12.11.2004",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 531,
+                    "deathPlaceText": "Luzern",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Hohl, Alfred Reinhard",
+                        "Hohl, Alfred",
+                        "HO",
+                        "HN"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 1208,
+                    "name": "Swiss Embassy in Bonn (1977-)",
+                    "comment": "Diplomatische Mission bei der Alliierten Hohen Kommission in Bonn 1949, Gesandtschaft bei der Bundesrepublik Deutschland 1951, Botschaft 1957, 1967 Konsularabteilung aufgehoben (cf. PVCF N° 2091 du 3.12.1965), Verlegung der Botschaft nach Bonn 1977, vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, S. 180.\n\nAndere Bezeichnung: Schweizerische Diplomatische Mission bei der Alliierten Hohen Kommission in Deutschland (ab 1949), vgl. E 2300 Frankfurt a./M. 3.\nVgl. DDS-volume XV, annexe VII.2.\n________________________\n\nCf. E 2807 (-) 1974/ 12, vol. 9, 26/11 Velegung des Sitzes der Botschaft von Köln nach Bonn [1963-1964].\n\nCf. Todt, Manfred, \"Anfangsjahre der Bundesrepublik Deutschland: Berichte der Schweizer Gesandtschaft in Bonn 1949-1955\", in: Ausgabe 55 von Schriftenreihe der Vierteljahrshefte für Zeitgeschichte, Oldenbourg 1987.\n________________________",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Bonn / Köln",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 26545,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Politisches Sekretariat",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 28815,
+                    "name": "EDA/Politische Direktion/Politische Abteilung I",
+                    "comment": "E2004B#1990/219#184*, Note du 13.7.1973 du DPF aux missions diplomatiques à Berne pour informer sur la nouvelle organisation du DPF (cf. PVCF du 27.6.1973).\nCharles Müller dirigera la Division I. [...] \"La Division européenne se composera d'une section multilatérale et d'une section bilatérale, MM. Edouard Brunner et Karl Frischti assumeront les fonctions de suppléants du Chef de division, M. Brunner pour les affaires multilatérales, M. Fritschi pour les problèmes bilatéraux.\"\n\nMit der Reorganisation der Politischen Direktion des EPD 1973 wurden die Aufgaben und Kompetenzen neu verteilt. Der Politische Dienst Ost (dodis.ch/R9492) und der Politischen Dienst West (dodis.ch/9493) wurden umgewandelt zur Politischen Abteilung I (Europa und Nordamerika) und Politischen Abteilung II (Afrika, Asien, Ozeanien und Lateinamerika) (dodis.ch/R28816). Zur Reorganisation vgl. BR-Prot. Nr. 1099 vom 27.6.1973 (dodis.ch/37179).",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 19314,
+                    "name": "Swiss Embassy in East Berlin",
+                    "comment": "Die diplomatischen Beziehungen zwischen der Schweiz und der DDR wurden im Dezember 1972 aufgenommen, vgl. dodis.ch/39072.\nDurch eine am 12.1.1973 getroffene Vereinbarung wurde die schweizerische Handelsmission in Berlin in eine Botschaft umgewandelt, vgl. dodis.ch/39406.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 103,
+                    "name": "Swiss Embassy in London",
+                    "comment": "",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "London",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 159,
+                    "name": "Swiss Embassy in Moscow",
+                    "comment": "1919 - 1946 keine diplomatische Vertretung der Schweiz in der Sowjetunion (ab 1923 offiziell diplomatische Beziehungen abgebrochen)\n",
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Sankt Petersburg/Petrograd/Moskau",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33,
+                    "name": "Swiss Embassy in Paris",
+                    "comment": "Gesandtschaft ab 1944, Botschaft ab 1957 (5.4.1957) cf. E 2400 Paris. \nVgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1978, p. 131. \nCf. DDS-volume XV, annexe VII.2.\nCf. Historisches Verzeichnis der diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, p. 397.\nCf. dodis.ch/13935, p. 272, 370.\nCf. Zeugin/Sandkühler, Lösegelderpressungen, 2001 dodis.ch/13989, 35.",
+                    "placeId": 18,
+                    "placeText": "Paris",
+                    "hq": "Paris",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 73,
+                    "name": "Swiss Embassy in Rome",
+                    "comment": "Vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, Bern, 1978, S. 146.\nVgl. Historisches Verzeichnis der diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, p. 320.\n",
+                    "placeId": 361,
+                    "placeText": "Rome",
+                    "hq": "Rom",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 104,
+                    "name": "Swiss Embassy in Washington",
+                    "comment": "Vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1978, S. 181.\nVgl. Historisches Verzeichnis der diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, p. 402.",
+                    "placeId": 16,
+                    "placeText": "Washington DC",
+                    "hq": "Washington",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2837,
+                    "name": "North Atlantic Treaty Organisation (NATO)",
+                    "comment": "\"Pacte de sécurité mutuelle sans obligation automatique d'assistance. Durée 20 ans\". Entré en vigueur le 24.8.1949.\nMembres signataires: Belgique, Canada, Danemark, Etats-Unis, France, Islande, Italie, Luxembourg, Norvège, Pays-Bas, Portugal, Royaume-Uni (1949); Grèce, Turquie (1952); RFA (1955); Espagne (1982); République Tchèque, Hongrie, Pologne (1999); Bulgarie, Estonie, Lettonie, Lithuanie, Roumanie, Slovaquie, Slovénie (2004); Albanie, Croatie (2009). Cf. http://www.rulers.org/intorgs1.html#nato.\nDéfense collective de la paix, de la sécurité, de la démocratie et des libertés individuelles dans le cadre de la Charte des Nations-Unies.\nCf. dodis.ch/31612, p.6-7.\n\nB.51.10.5 Stellung der Schweiz zur NATO, Signatur AIS: E2001E#1972/33#7013*, 1952-1960, E 2001 (E) 1972/33_290, Papier.\n\nB.51.10.5 Äusserungen in der Öffentlichkeit über die Neutralität der Schweiz, Signatur AIS: E2001E#1976/17#631*, 1961-1963, E 2001(E) 1976/17_99\nPapier\nB.51.10.5 Stellung der Schweiz zur NATO, Zusätzliche Informationen: Dieses Dossier befindet sich im Bestand \"Aktenverlegung\", Signatur AIS: E2001E#1976/17#5216*.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Londres, puis Paris, puis Bruxelles (dès 1966)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9899,
+                    "name": "European Union",
+                    "comment": "1958-1967. Entré en vigueur le 1er janvier 1958.\nLe 25.3.1957, l'Allemagne, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas signent à Rome deux traités, le premier créant la Communauté économique européenne (CEE), le second la Communauté européenne de l'énergie atomique (EURATOM).\n\"La Communauté économique européenne (CEE) a pour mission, par l'établissement d'un Marché commun, une expansion continue et équitable, une stabilité accrue, un relèvement accéléré du niveau de vie et des relations plus étroites entre les Etats qu'elle réunit.\"(art.2).- Le texte intégral du Traité de Rome est disponible sur le site internet de la Commission européenne: http://europa.eu.int/abc/obj/treaties/fr/frtoc05.htm.\n\"Etablissement d'un marché commun et rapprochement progressif des politiques économiques autour d'une période transitoire de 15 ans\".\nCf. dodis.ch/31612, p.10-11.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Bruxelles",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20591,
+                    "name": "Organization for Security and Co-operation in Europe",
+                    "comment": "URL(520551)\r\n\r\n________________________\r\n\r\nURL(520556)\r\n\" <b>History<\/b>\r\nThe OSCE traces its origins to the détente phase of the early 1970s, when the Conference on Security and Co-operation in Europe (CSCE) was created to serve as a multilateral forum for dialogue and negotiation between East and West. Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1.8.1975. This document contained a number of key commitments on polito-military, economic and environmental and human rights issues that became central to the so-called 'Helsinki process'. It also established ten fundamental principles (the 'Decalogue') governing the behaviour of States towards their citizens, as well as towards each other.\r\n\r\nUntil 1990, the CSCE functioned mainly as a series of meetings and conferences that built on and extended the participating States' commitments, while periodically reviewing their implementation. However, with the end of the Cold War, the Paris Summit of November 1990 set the CSCE on a new course. In the Charter of Paris for a New Europe, the CSCE was called upon to play its part in managing the historic change taking place in Europe and responding to the new challenges of the post-Cold War period, which led to its acquiring permanent institutions and operational capabilities.\r\n\r\nAs part of this institutionalization process, the name was changed from the CSCE to the OSCE by a decision of the Budapest Summit of Heads of State or Government in December 1994.\"\r\n________________________\r\n\r\ncf. dodis.ch/15305, e.a. p. 13.\r\n\r\ncf. dans les dossiers du DPF: B.72.9.15.1.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 27207,
+                    "name": "Potsdam Agreement (1945)",
+                    "comment": "Das Potsdamer Abkommen war das Ergebnis der Potsdamer Konferenz. Beim Abkommen handelt es sich nicht um einen völkerrechtlich verbindlichen Vertrag, sondern um das Abschlussprotokoll der Konferenz, welches unter dem Titel \"Mitteilung über die Dreimächtekonferenz von Berlin\" veröffentlicht und unterzeichnet wurde. Das Protokoll enthielt u.a. folgende Punkte: Errichtung eines \"Rates der Aussenminister\", Neuordnung Deutschlands, Bestimmungen über die Reparationen, Behandlung von Kriegsverbrechern und territoriale Fragen.",
+                    "placeId": 131,
+                    "placeText": "Potsdam",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 805,
+                    "name": "USA/Armed forces",
+                    "comment": "Cf. dodis.ch/13899, p. 182.\r\n\r\nBeschreibt die gesamte US Armee.\r\nBeinhaltet:\r\nUS Army dodis.ch/R26306\r\nUS Luftwaffe dodis.ch/R7430\r\nUS Küstenwache dodis.ch/R24169\r\nUS Marine dodis.ch/R9999\r\nUS Marine Corps dodis.ch/R26305",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 131,
+                    "name": "USSR/Government",
+                    "comment": "Die Regierung der Sowjetunion hiess zwischen 1946 und 1990 Ministerrat der UdSSR. Von 1923 bis 1946 hiess sie Rat der Volkskommissare.",
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Moscou",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 376,
+                    "name": "USSR/Red Army",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1133,
+                    "name": "USSR/State",
+                    "comment": null,
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Moscou",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14957,
+                    "name": "Warsaw Pact",
+                    "comment": "Militärbündnis, am 14.5.1955 in Warschau von Albanien, Bulgarien, der DDR, Polen, Rumänien, der CSSR, der Sowjetunion und Ungarn gegründet und am 31.3.1991 von den verbliebenen Mitgliedern UdSSR, Rumänien, Bulgarien, Polen, CSFR und Ungarn aufgelöst.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 43,
+                    "name": "Bern",
+                    "comment": "",
+                    "countryCode": "CH",
+                    "regionCode": "BE",
+                    "latitude": 46.947920,
+                    "longitude": 7.444609,
+                    "wikidataId": "Q70",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 18,
+                    "name": "Paris",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.856613,
+                    "longitude": 2.352222,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 361,
+                    "name": "Rome",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 41.900000,
+                    "longitude": 12.483300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 16,
+                    "name": "Washington DC",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.895000,
+                    "longitude": -77.036667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 936,
+                    "name": "Eastern Bloc states",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 622,
+                    "name": "Helsinki",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 60.173325,
+                    "longitude": 24.941025,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 238,
+                    "name": "Vienna",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.208176,
+                    "longitude": 16.373820,
+                    "wikidataId": "Q1741",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 347,
+                    "name": "Western Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.628424,
+                    "longitude": 0.612311,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Jürg",
+                    "lastName": "Leutert",
+                    "fullName": "Leutert, Jürg (1949\u2013)",
+                    "id": 17414,
+                    "comment": "",
+                    "dateBirth": "13.2.1949",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "LJ",
+                        "Leutert, Jürg",
+                        "LT",
+                        "Leutert, Jürg B.",
+                        "LG"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Alfred",
+                    "lastName": "Hohl",
+                    "fullName": "Hohl, Alfred (1930\u20132004)",
+                    "id": 16080,
+                    "comment": "",
+                    "dateBirth": "28.7.1930",
+                    "dateDeath": "12.11.2004",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 531,
+                    "deathPlaceText": "Luzern",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Hohl, Alfred Reinhard",
+                        "Hohl, Alfred",
+                        "HO",
+                        "HN"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Hans",
+                    "lastName": "Modrow",
+                    "fullName": "Modrow, Hans (1928\u2013)",
+                    "id": 54796,
+                    "comment": "",
+                    "dateBirth": "27.1.1928",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 13994,
+                    "birthPlaceText": "Jasenitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Modrow, Hans"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 1208,
+                    "name": "Swiss Embassy in Bonn (1977-)",
+                    "comment": "Diplomatische Mission bei der Alliierten Hohen Kommission in Bonn 1949, Gesandtschaft bei der Bundesrepublik Deutschland 1951, Botschaft 1957, 1967 Konsularabteilung aufgehoben (cf. PVCF N° 2091 du 3.12.1965), Verlegung der Botschaft nach Bonn 1977, vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, S. 180.\n\nAndere Bezeichnung: Schweizerische Diplomatische Mission bei der Alliierten Hohen Kommission in Deutschland (ab 1949), vgl. E 2300 Frankfurt a./M. 3.\nVgl. DDS-volume XV, annexe VII.2.\n________________________\n\nCf. E 2807 (-) 1974/ 12, vol. 9, 26/11 Velegung des Sitzes der Botschaft von Köln nach Bonn [1963-1964].\n\nCf. Todt, Manfred, \"Anfangsjahre der Bundesrepublik Deutschland: Berichte der Schweizer Gesandtschaft in Bonn 1949-1955\", in: Ausgabe 55 von Schriftenreihe der Vierteljahrshefte für Zeitgeschichte, Oldenbourg 1987.\n________________________",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Bonn / Köln",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 26545,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Politisches Sekretariat",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 28815,
+                    "name": "EDA/Politische Direktion/Politische Abteilung I",
+                    "comment": "E2004B#1990/219#184*, Note du 13.7.1973 du DPF aux missions diplomatiques à Berne pour informer sur la nouvelle organisation du DPF (cf. PVCF du 27.6.1973).\nCharles Müller dirigera la Division I. [...] \"La Division européenne se composera d'une section multilatérale et d'une section bilatérale, MM. Edouard Brunner et Karl Frischti assumeront les fonctions de suppléants du Chef de division, M. Brunner pour les affaires multilatérales, M. Fritschi pour les problèmes bilatéraux.\"\n\nMit der Reorganisation der Politischen Direktion des EPD 1973 wurden die Aufgaben und Kompetenzen neu verteilt. Der Politische Dienst Ost (dodis.ch/R9492) und der Politischen Dienst West (dodis.ch/9493) wurden umgewandelt zur Politischen Abteilung I (Europa und Nordamerika) und Politischen Abteilung II (Afrika, Asien, Ozeanien und Lateinamerika) (dodis.ch/R28816). Zur Reorganisation vgl. BR-Prot. Nr. 1099 vom 27.6.1973 (dodis.ch/37179).",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 19314,
+                    "name": "Swiss Embassy in East Berlin",
+                    "comment": "Die diplomatischen Beziehungen zwischen der Schweiz und der DDR wurden im Dezember 1972 aufgenommen, vgl. dodis.ch/39072.\nDurch eine am 12.1.1973 getroffene Vereinbarung wurde die schweizerische Handelsmission in Berlin in eine Botschaft umgewandelt, vgl. dodis.ch/39406.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 103,
+                    "name": "Swiss Embassy in London",
+                    "comment": "",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "London",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 159,
+                    "name": "Swiss Embassy in Moscow",
+                    "comment": "1919 - 1946 keine diplomatische Vertretung der Schweiz in der Sowjetunion (ab 1923 offiziell diplomatische Beziehungen abgebrochen)\n",
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Sankt Petersburg/Petrograd/Moskau",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33,
+                    "name": "Swiss Embassy in Paris",
+                    "comment": "Gesandtschaft ab 1944, Botschaft ab 1957 (5.4.1957) cf. E 2400 Paris. \nVgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1978, p. 131. \nCf. DDS-volume XV, annexe VII.2.\nCf. Historisches Verzeichnis der diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, p. 397.\nCf. dodis.ch/13935, p. 272, 370.\nCf. Zeugin/Sandkühler, Lösegelderpressungen, 2001 dodis.ch/13989, 35.",
+                    "placeId": 18,
+                    "placeText": "Paris",
+                    "hq": "Paris",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 73,
+                    "name": "Swiss Embassy in Rome",
+                    "comment": "Vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, Bern, 1978, S. 146.\nVgl. Historisches Verzeichnis der diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, p. 320.\n",
+                    "placeId": 361,
+                    "placeText": "Rome",
+                    "hq": "Rom",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 104,
+                    "name": "Swiss Embassy in Washington",
+                    "comment": "Vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1978, S. 181.\nVgl. Historisches Verzeichnis der diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, p. 402.",
+                    "placeId": 16,
+                    "placeText": "Washington DC",
+                    "hq": "Washington",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2837,
+                    "name": "North Atlantic Treaty Organisation (NATO)",
+                    "comment": "\"Pacte de sécurité mutuelle sans obligation automatique d'assistance. Durée 20 ans\". Entré en vigueur le 24.8.1949.\nMembres signataires: Belgique, Canada, Danemark, Etats-Unis, France, Islande, Italie, Luxembourg, Norvège, Pays-Bas, Portugal, Royaume-Uni (1949); Grèce, Turquie (1952); RFA (1955); Espagne (1982); République Tchèque, Hongrie, Pologne (1999); Bulgarie, Estonie, Lettonie, Lithuanie, Roumanie, Slovaquie, Slovénie (2004); Albanie, Croatie (2009). Cf. http://www.rulers.org/intorgs1.html#nato.\nDéfense collective de la paix, de la sécurité, de la démocratie et des libertés individuelles dans le cadre de la Charte des Nations-Unies.\nCf. dodis.ch/31612, p.6-7.\n\nB.51.10.5 Stellung der Schweiz zur NATO, Signatur AIS: E2001E#1972/33#7013*, 1952-1960, E 2001 (E) 1972/33_290, Papier.\n\nB.51.10.5 Äusserungen in der Öffentlichkeit über die Neutralität der Schweiz, Signatur AIS: E2001E#1976/17#631*, 1961-1963, E 2001(E) 1976/17_99\nPapier\nB.51.10.5 Stellung der Schweiz zur NATO, Zusätzliche Informationen: Dieses Dossier befindet sich im Bestand \"Aktenverlegung\", Signatur AIS: E2001E#1976/17#5216*.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Londres, puis Paris, puis Bruxelles (dès 1966)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9899,
+                    "name": "European Union",
+                    "comment": "1958-1967. Entré en vigueur le 1er janvier 1958.\nLe 25.3.1957, l'Allemagne, la Belgique, la France, l'Italie, le Luxembourg et les Pays-Bas signent à Rome deux traités, le premier créant la Communauté économique européenne (CEE), le second la Communauté européenne de l'énergie atomique (EURATOM).\n\"La Communauté économique européenne (CEE) a pour mission, par l'établissement d'un Marché commun, une expansion continue et équitable, une stabilité accrue, un relèvement accéléré du niveau de vie et des relations plus étroites entre les Etats qu'elle réunit.\"(art.2).- Le texte intégral du Traité de Rome est disponible sur le site internet de la Commission européenne: http://europa.eu.int/abc/obj/treaties/fr/frtoc05.htm.\n\"Etablissement d'un marché commun et rapprochement progressif des politiques économiques autour d'une période transitoire de 15 ans\".\nCf. dodis.ch/31612, p.10-11.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Bruxelles",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20591,
+                    "name": "Organization for Security and Co-operation in Europe",
+                    "comment": "URL(520551)\r\n\r\n________________________\r\n\r\nURL(520556)\r\n\" <b>History<\/b>\r\nThe OSCE traces its origins to the détente phase of the early 1970s, when the Conference on Security and Co-operation in Europe (CSCE) was created to serve as a multilateral forum for dialogue and negotiation between East and West. Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1.8.1975. This document contained a number of key commitments on polito-military, economic and environmental and human rights issues that became central to the so-called 'Helsinki process'. It also established ten fundamental principles (the 'Decalogue') governing the behaviour of States towards their citizens, as well as towards each other.\r\n\r\nUntil 1990, the CSCE functioned mainly as a series of meetings and conferences that built on and extended the participating States' commitments, while periodically reviewing their implementation. However, with the end of the Cold War, the Paris Summit of November 1990 set the CSCE on a new course. In the Charter of Paris for a New Europe, the CSCE was called upon to play its part in managing the historic change taking place in Europe and responding to the new challenges of the post-Cold War period, which led to its acquiring permanent institutions and operational capabilities.\r\n\r\nAs part of this institutionalization process, the name was changed from the CSCE to the OSCE by a decision of the Budapest Summit of Heads of State or Government in December 1994.\"\r\n________________________\r\n\r\ncf. dodis.ch/15305, e.a. p. 13.\r\n\r\ncf. dans les dossiers du DPF: B.72.9.15.1.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 27207,
+                    "name": "Potsdam Agreement (1945)",
+                    "comment": "Das Potsdamer Abkommen war das Ergebnis der Potsdamer Konferenz. Beim Abkommen handelt es sich nicht um einen völkerrechtlich verbindlichen Vertrag, sondern um das Abschlussprotokoll der Konferenz, welches unter dem Titel \"Mitteilung über die Dreimächtekonferenz von Berlin\" veröffentlicht und unterzeichnet wurde. Das Protokoll enthielt u.a. folgende Punkte: Errichtung eines \"Rates der Aussenminister\", Neuordnung Deutschlands, Bestimmungen über die Reparationen, Behandlung von Kriegsverbrechern und territoriale Fragen.",
+                    "placeId": 131,
+                    "placeText": "Potsdam",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 805,
+                    "name": "USA/Armed forces",
+                    "comment": "Cf. dodis.ch/13899, p. 182.\r\n\r\nBeschreibt die gesamte US Armee.\r\nBeinhaltet:\r\nUS Army dodis.ch/R26306\r\nUS Luftwaffe dodis.ch/R7430\r\nUS Küstenwache dodis.ch/R24169\r\nUS Marine dodis.ch/R9999\r\nUS Marine Corps dodis.ch/R26305",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 131,
+                    "name": "USSR/Government",
+                    "comment": "Die Regierung der Sowjetunion hiess zwischen 1946 und 1990 Ministerrat der UdSSR. Von 1923 bis 1946 hiess sie Rat der Volkskommissare.",
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Moscou",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 376,
+                    "name": "USSR/Red Army",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1133,
+                    "name": "USSR/State",
+                    "comment": null,
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Moscou",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14957,
+                    "name": "Warsaw Pact",
+                    "comment": "Militärbündnis, am 14.5.1955 in Warschau von Albanien, Bulgarien, der DDR, Polen, Rumänien, der CSSR, der Sowjetunion und Ungarn gegründet und am 31.3.1991 von den verbliebenen Mitgliedern UdSSR, Rumänien, Bulgarien, Polen, CSFR und Ungarn aufgelöst.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 43,
+                    "name": "Bern",
+                    "comment": "",
+                    "countryCode": "CH",
+                    "regionCode": "BE",
+                    "latitude": 46.947920,
+                    "longitude": 7.444609,
+                    "wikidataId": "Q70",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 18,
+                    "name": "Paris",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.856613,
+                    "longitude": 2.352222,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 361,
+                    "name": "Rome",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 41.900000,
+                    "longitude": 12.483300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 16,
+                    "name": "Washington DC",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.895000,
+                    "longitude": -77.036667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 936,
+                    "name": "Eastern Bloc states",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 622,
+                    "name": "Helsinki",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 60.173325,
+                    "longitude": 24.941025,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 238,
+                    "name": "Vienna",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.208176,
+                    "longitude": 16.373820,
+                    "wikidataId": "Q1741",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 347,
+                    "name": "Western Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.628424,
+                    "longitude": 0.612311,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

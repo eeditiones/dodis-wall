@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52940</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52940">dodis.ch/52940</ref>
+               <title type="main">Telegram<note xml:id="e4546">Telegram No. IFB0032: <idno>Global
+                        Affairs Canada file 25-3-3-5-Germany / Confidential</idno>. Delivered by:
+                        <orig>21 February 1990, 5.30 p.m.</orig> Info to Brussels-NATO, Bonn,
+                     London, Paris, Rome, Warsaw, Moscow, Tokyo, Delegation to the Organization for
+                     Securtiy and Cooperation in Europe, Hague, Permanent Mission in New York, Oslo,
+                     Office of the Prime Minister, Privy Council Office and National Defense
+                     Headquarters. Ref: <idno>Your tel UNGR0336 20 Feb 90</idno>, not
+                     located.</note> from the Canadian Department of External Affairs to the
+                  Canadian Embassy in Washington</title>
+               <title type="sub">Two Plus Four Equals What for Canada?</title>
+            </head>
+            <opener>
+               <add>Secret – Canadian Eyes only</add>
+               <dateline>Ottawa, 21. February 1990</dateline>
+            </opener>
+            <p n="1">You will by now have seen letter to Baker<note xml:id="e4558">James Baker
+                  (*1930), <ref target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, US Secretary
+                  of State 25.1.1989–23.8.1992.</note> from SSEA<note xml:id="e4564">Charles Joseph
+                  Clark (*1939), <ref target="https://dodis.ch/P55844">dodis.ch/P55844</ref>,
+                  Canadian Secretary of State for External Affairs 17.9.1984–20.4.1991.</note> which
+               sets out another formulation of our concerns on page two. In effect, we are looking
+               for a good interplay of close bilateral consultations and effective discussion in NAC
+               in Brussels. British thinking sees NATO discussion as being very important. Stumbling
+               block is probably Genscher<note xml:id="e4570">Hans-Dietrich Genscher (1927–2016),
+                     <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor
+                  and Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>. Today
+                  PM<note xml:id="e4576">Brian Mulroney (*1939), <ref target="https://dodis.ch/P57450">dodis.ch/P57450</ref>, Canadian Prime Minister
+                  17.9.1984–25.6.1993.</note> spoke with Kohl<note xml:id="e4582">Helmut Kohl
+                  (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>,
+                  Chancellor of the FRG 1.10.1982–27.10.1998.</note> (RGB<note xml:id="e4588">Jacques Roy, <ref target="https://dodis.ch/P57644">dodis.ch/P57644</ref>,
+                  Canadian Assistant Deputy Minister for Europe.</note> is sending separately
+                  PCO<note xml:id="e4594">Privy Council Office.</note> prepared statement for House
+               of Commons<note xml:id="e4597">
+                  <idno>Canada; House of Commons, Debates, 21 February 1990, 8613</idno>.</note>
+               reflecting on conversation) who stressed he was very conscious of his NATO colleagues
+               concerns.</p>
+            <p>2. Senior USA personnel with whom we spoke here last week, including Seitz<note xml:id="e4602">Raymond G. H. Seitz (1940), <ref target="https://dodis.ch/P57399">dodis.ch/P57399</ref>, Assistant Secretary of State for Europe and Canada in
+                  the US Department of State 1989–1991.</note>, placed heaviest emphasis in creation
+               of Two plus Four on overriding need to decompress situation for USSR. It is political
+               need of USSR to show inside USSR they are, as USA put it, participants in unification
+               process as it affects USSR interests and not its victims. The substantive point is
+               that no one does really know how things will turn out a year from now in Germany,
+               where public opinion is volatile. This probably accounts for some of reluctance you
+               note in para 5 your telegram<note xml:id="e4608">Not located.</note> to establish
+               fixed game plans. In circumstances, all acknowledge that any assets contributing to
+               confidence and stability need to be sustained.</p>
+            <p>3. Canadian military presence in FRG is expensive and increasingly and rightly
+               subject to skeptical scrutiny from cost point of view. We are told by many in West
+               (and East) that Canada’s presence is valued politically. If so, this needs political
+               reflection in consultative will, USA in particular should acknowledge Canada’s
+               presence as significant.</p>
+            <p>4. Obviously changes will come in role of NATO, as well as in NATO comprehensive
+               strategy. We are looking at possibilities regarding institutional evolution with more
+               than open mind; we believe we shall have serious contribution to make. Baker ref to
+               CSCE in his letter to Woerner<note xml:id="e4615">Manfred Wörner (1934–1994), <ref target="https://dodis.ch/P57417">dodis.ch/P57417</ref>, Secretary General of
+                  NATO 1.7.1988–12.8.1994.</note> and Clark and others is important sign of
+               increasing USA thought being given in Washington DC to CSCE (Seitz had commented to
+               us here that USA acknowledges it has repeatedly “been a month or so behind everyone
+               else” on evolving role of CSCE and would correct this tendency) and a welcome
+               invitation to discuss CSCE organization and future effectiveness, both in NATO and
+               bilaterally, which we shall take up.</p>
+            <p>5. As to actual NATO force deployment, and comprehensive strategy, and Canadian place
+               in ref to them, full range of possibilities also obviously exists, and nothing is
+               pre-ordained. Defence review will look at these.</p>
+            <p>6. In sum, your points A-D in para 6 are all sound. As to wise men idea, it is good
+               one. Another idea possible complementary, would be to get back to ministers only no
+               holds barred NATO discussions a la Sapiniere. In addition, UK High Commissioner<note xml:id="e4625">Brian Fall (*1937), <ref target="https://dodis.ch/P57474">dodis.ch/P57474</ref>, British High Commissioner in Ottawa 1989–1992.</note>
+               here tells us they are mulling over proposing revival of a buddy system to radiate
+               content of Two plus Four outward to others in NATO. We do not think we would like
+               that, preferring close bilateral consultative relationships with all of five as SSEA
+               letters propose. But fact that we are other North American force presence in Germany
+               would indicate that if there were a basis to be buddies on an issue, this would be
+               basis on naturally close consultative relationship with USA.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

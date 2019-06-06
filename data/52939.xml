@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52939</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52939">dodis.ch/52939</ref>
+               <title type="main">Telegram<note xml:id="e3866">Telegram No. USS0039 (incoming):
+                        <idno>Global Affairs Canada file 25-3-3-5-Germany / Confidential</idno>.
+                     Written by Jeremy Kinsmann, <ref target="https://dodis.ch/P57447">dodis.ch/P57447</ref>. Addressed to Brussels, Copenhagen, Paris, Bonn,
+                     Athens, Rome, Luxembourg, Hague, Ankara, Oslo, Lisbon, Madrid, London,
+                     Washington, Moscow, Warsaw, Prague, Budapest, Bucharest, Belgrade, Geneva,
+                     Brussels-EEC, Brussels-NATO, Delegation to the Organization for Securtiy and
+                     Cooperation in Europe, Dublin, Vienna, Helsinki, Stockholm, Bern, Tokyo, UN-New
+                     York, OECD, Office of the Prime Minister, Privy Council Office, National
+                     Defence Headquarters.</note> from the Canadian Under-Secretary of State for
+                  External Affairs, de Montigny Marchand<note xml:id="e3872">Marchand de Montigny
+                     (*1936), <ref target="https://dodis.ch/P57449">dodis.ch/P57449</ref>, Canadian
+                     Under-Secretary of State for External Affairs 1990–1991.</note>
+               </title>
+               <title type="sub">Ottawa Conference: East-West Relations</title>
+            </head>
+            <opener>
+               <add>Secret</add>
+               <dateline>Ottawa, 15 February 1990</dateline>
+            </opener>
+            <p n="1">1. We had all predicted that ministerial portion of the Open Skies conference
+               would become significant because of its unique positioning of key players at a key
+               time in history. Three-line full page headline of NY Times 14 Feb more than
+               vindicates prediction: “Accord in Ottawa: West and Soviets Agree with Two Germanys on
+               Rapid Schedule for Unification Talks: Gorbachev Accepts Bush’s Troop Ceiling.”</p>
+            <p>2. Ottawa meeting has obviously been unique venue for countless high level
+               behind-the-scenes negotiations and conversations, many involving SSEA<note xml:id="e3888">Charles Joseph Clark (*1939), <ref target="https://dodis.ch/P55844">dodis.ch/P55844</ref>, Canadian Secretary of State for External Affairs
+                  17.9.1984-20.4.1991.</note> and PM<note xml:id="e3894">Brian Mulroney (*1939),
+                     <ref target="https://dodis.ch/P57450">dodis.ch/P57450</ref>, Canadian Prime
+                  Minister 17.9.1984–25.6.1993.</note>. Baker<note xml:id="e3900">James Baker
+                  (*1930), <ref target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, US Secretary
+                  of State 25.1.1989–23.8.1992.</note> and Shevardnadze<note xml:id="e3906">Eduard
+                  Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign Affairs of the Soviet Union
+                  2.7.1985–26.12.1990.</note>, for example, had five separate negotiating sessions
+               on Tuesday. SSEA and Shevardnadze had six hours of discussion during bilaterals on
+               Wednesday alone. This telegram attempts to provide some of the more central
+               assessments that were made privately to Canadians in last several days, or to others
+               as reported to us, to inform your own discussion and analysis of events, bearing in
+               mind that Canada is not to be a mere observer of what is taking place but a
+               participant in the process, with views to offer, and interests to advance.</p>
+            <p>3. This telegram will not be about Open Skies. That part of conference is proceeding
+               very well. Idea was applauded by ministers as most important confidence-building
+               measure yet and though differences of approaches remain, there is every likelihood
+               they will be settled in time for a treaty to be presented to ministers in Budapest in
+               May. This will be a very considerable accomplishment. As PM put it privately, a
+               treaty is a tangible proof of achievement and progress, and we Canadians should press
+               and press to ensure its importance is appreciated so that this achievement is
+               realized.</p>
+            <p>4. It would be obvious to say that it was issue of German unification which dominated
+               Ottawa meeting. Certainly this was all that Genscher<note xml:id="e3916">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and Minister for Foreign Affairs of the
+                  FRG 1.10.1982–17.5.1992.</note> had on his mind and the driving home in corridor
+               negotiations of the “2 plus 4” formula for its discussion with other countries was
+               very major accomplishment (though tarnished by vivid and bitter contestation in NATO
+               caucus of the unfortunate wording of its mandate.)</p>
+            <p>5. But to USA and USSR, the hurtling of events in Germany toward de facto unification
+               in only several weeks’ time was part, albeit major part, of bigger tableau of
+               unpredictability and instability which is even more major preoccupation. As
+               Shevardnadze put it to SSEA, “situation is so complex, so urgent, and so dangerous”.
+               It is search for predictability and stability while accommodating forces of
+               democratization and reform which characterises the two great powers policy
+               objectives. It is clear that they will work together in this search. Our talks with
+               Soviets and Americans alike reveal unprecedented level of cooperation, and from USA
+               side strenuous effort to support Gorbachev<note xml:id="e3924">Mikhail Gorbachev
+                  (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General
+                  Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman
+                  of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the
+                  Soviet Union 15.3.1990–25.12.1991.</note> and (Shevardnadze) politically.</p>
+            <p>6. Baker and his colleagues stressed in private discussion that while Gorbachev is
+               secure in his control, the USSR is imploding. Government can probably cope, but not
+               if it is subject as well to external pressures. Shevardnadze had stressed to both
+               Baker and Genscher the shock of having been criticized by the central committee for
+               recent USSR “losses”. “What are you doing with our security”, conservatives are
+               saying. Unification of Germany is by far the most explosive development in view of
+               these critics.</p>
+            <p>7. USA is therefore determined to watch its language in describing USA-USSR
+               relations. Soviets made a fundamental shift in Ottawa bilateral talks in accepting
+                  Bush<note xml:id="e3934">George Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United
+                  States, 20.1.1989–20.1.1993.</note> force reduction formula in that it is
+               asymmetric both in cuts and in end results. But they made it clear that this was not
+               a concession. What USA side understood from that is that it would provide
+               unacceptably volatile fuel to Moscow conservative critics if it were. USA purpose is
+               to establish “dignity” in bilateral relations for that reason, as two sides build
+               toward June bilateral summit with an intensity in political level discussion that is
+               without precedent (2 more major Baker-Shevardnadze negotiations between now and
+               June).</p>
+            <p>8. In many respects, sensitivity to USSR interests is the driving reason behind 2
+               plus 4 formula for handling the unification of Germany. Everyone accepts that
+               unification is up to the Germans; it will take place and almost immediately after the
+               18 Mar GDR elections. The question is its political packaging as well as the need to
+               find a formula for the controversial external aspects.</p>
+            <p/>
+            <p n="1">9. As Genscher put it to NATO caucus, Shevardnadze was “certainly not shy” in
+               describing Soviet public sentiment on the issue. To SSEA, Soviet FM<note xml:id="e3946">Eduard Shevardnadze.</note> said “leaders of FRG seem to understand
+               they have gone too far.” Shevardnadze had impression that FRG partisan political
+               process was in some respects forcing events as three FRG parties view to outdo each
+               other with escalation of promises. Genscher in his private conversations places
+               stress on haemorrhaging conditions in GDR. Exodus is now at 3,200 a day; most basic
+               public services are jeopardized. Genscher was man driven at Ottawa conference by
+               historical feat of achieving unification. His explanation for urgency rang true, as
+               did his satisfaction as a German statesman, but his instincts as party politician
+               were not wholly obscured, and as Woerner<note xml:id="e3949">Manfred Wörner
+                  (1934–1994), <ref target="https://dodis.ch/P57417">dodis.ch/P57417</ref>,
+                  Secretary General of NATO 1.7.1988–12.8.1994.</note> candidly acknowledged at
+               private dinner hosted by Associate Defence Minister Collins<note xml:id="e3955">Mary
+                  Collins (*1940), <ref target="https://dodis.ch/P57452">dodis.ch/P57452</ref>,
+                  Canadian Associate Minister of National Defence 1989–1995.</note>, both CDU and
+               FDP have to work hard to compensate for obvious advantage held among GDR voters by
+               SDP.</p>
+            <p>10. Point of these internal FRG political points is that we are told Gorbachev and
+               Shevardnadze are themselves going out of their way to understand them. They are
+               reasoning like politicians now because like all the others at Ottawa conference from
+               Eastern Europe (except Fischer<note xml:id="e3963">Oskar Fischer (*1933), <ref target="https://dodis.ch/P51055">dodis.ch/P51055</ref>, Foreign Minister of the
+                  GDR 3.3.1975–12.4.1990.</note>) they now have to. But they expect their own
+               domestic political interests to be respected by political process. Shevardnadze put
+               it to Baker on issue of unification, “we have to be participants, not victims.”</p>
+            <p>11. This was central impulse for creating 2 plus 4 and its importance for USSR
+               explains why NATO allies were prepared to tolerate complete absence of consultations.
+               Both Hurd<note xml:id="e3971">Douglas Hurd (*1930), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British Secretary of
+                  State for Foreign and Commonwealth Affairs 26.10.1989–5.7.1995.</note> and Baker
+               seemed prepared to recognize that a gaffe had been committed over mandate for the
+               foreign ministers of five (GDR becomes academic) to discuss “the issues of security
+               of the neighbouring states.” They offered in NATO caucus at SSEA urging to ensure
+               close ongoing consultation in NATO but Genscher was indignant and uptight about the
+               issue. This may only mean that 2 plus 4 solution was still very fragile. Our
+               impression is that USA-USSR formula that “internal aspects of unification are
+               entirely up to Germans while external aspects need to be discussed with others” is
+               going to be harder to agree upon with both USSR and German partners in practice than
+               in theory. Dutch FM<note xml:id="e3977">Hans van den Broek (*1936), <ref target="https://dodis.ch/P57462">dodis.ch/P57462</ref>, Dutch Minister of
+                  Foreign Affairs 4.11.1982–3.1.1993.</note> (supported most strenuously by
+                  Italian<note xml:id="e3983">Gianni De Michelis (*1940), <ref target="https://dodis.ch/P57415">dodis.ch/P57415</ref>, Italian Foreign
+                  Minister 22.07.1989–28.06.1992.</note>, Belgian<note xml:id="e3989">Mark Eyskens
+                  (*1933), <ref target="https://dodis.ch/P57464">dodis.ch/P57464</ref>, Belgian
+                  Minister of Foreign Affairs 19.6.1989–7.3.1992.</note>, Norwegian<note xml:id="e3995">Kjell Magne Bondevik (*1947), <ref target="https://dodis.ch/P57465">dodis.ch/P57465</ref>, Norwegian Minister of Foreign Affairs
+                  16.10.1989–3.11.1990.</note>) asked, “if it is a question of Polish borders only,
+               why not say so?” There was no satisfactory answer, and since Genscher has made it
+               very clear FRG will confirm current eastward borders expeditiously, there is
+               potential for 2 plus 4 to be used for much more. Genscher needs it to finalize
+               unification itself in rapidly changing landscape.</p>
+            <p/>
+            <p n="1">12. Question is whether it will also be used to pre-negotiate relationship of
+               unified Germany to NATO as this relates to all of the other central security
+               questions. This unanswered (probably unanswerable) question had non-participating
+               NATO foreign ministers worried but fact remains that tacit purpose of 2 plus 4 is to
+               give USSR entree to process with all of the preoccupations they bring to bear and way
+               this plays out is hard to predict. French would argue (point made to us by Political
+               Director Dufourq<note xml:id="e4005">Bertrand Dufourq (*1933), <ref target="https://dodis.ch/P57455">dodis.ch/P57455</ref>, Political director in
+                  the French Ministry of Foreign Affairs 1.10.1988–27.10.1998.</note>) that there
+               was nothing to negotiate with USSR on issue, since they had no leverage. However, USA
+               preoccupation with USSR leadership comfort levels would suggest using 2 plus 4 as
+               forum for arguing out at least respective points of view on stationed foreign forces
+               and possibly more.</p>
+            <p>13. President Bush said in his press conference 11 February, “I suspect, though I
+               cannot prove it, that some of the WTO countries want us in Europe: not as a threat,
+               but as a stabilizing factor”. From what was said privately and publicly here in last
+               few days, President Bush’s suspicion is probably right. Shevardnadze said to SSEA
+               that he would see USA and Canada and USSR troops all out of “Europe” by 1995 and by
+               year 2000 all forces in Europe on a nationally-stationed basis and with a defensive
+               posture. But he also said to SSEA “we are not afraid of Canada but of Bundeswehr”. He
+               made it clear it was not with his friends Genscher and Kohl<note xml:id="e4013">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> at
+               helm that Russians had this fear but with view to decade or so hence. All of this to
+               suggest that process of German unification has deepest political and security
+               preoccupations for USSR. Emotional memories of WW II are political reality. They will
+               seek satisfaction on fundamental issues, probably in two plus four grouping.</p>
+            <p>14. This may well have implications for NATO in terms of established institutional
+               prerogatives and process and it will have to be worked out as a NATO matter.</p>
+            <p>15. NATO fretting on this point is ironic counterpoint to most frequently made Ottawa
+               conference joke. As WTO delegations inadvertently and repeatedly wandered into NATO
+               caucus meetings to retrieve briefcases, or Shoppers Drug Mart purchases, left at
+               previous session, they ritualistically intoned when they realised where they were,
+               “We are joining, but not quite yet.”</p>
+            <p>16. In public debate, WTO members at conference were relatively restrained. Plenary
+               debate was remarkable in that almost all of the speeches from WTO and NATO used same
+               speech-writers lexicon of political phrases about rights, democracy, openness,
+               stability, security, etc. and for once words used meant the same to all the users.
+               Privately, WTO delegations (except for hapless East Germans) acknowledged WTO was
+               finished. Publicly they continued to refer to value of alliances for accelerating
+               force reductions and arms control. To the extent that they can indulge in long-term
+               thinking, they see arms reduction activity shifting toward an alliance-free forum, a
+               new CSCE, but as Dienstbier<note xml:id="e4025">Jiří Dienstbier (1937–2011), <ref target="https://dodis.ch/P57467">dodis.ch/P57467</ref>, Foreign Minister of the
+                  CSSR 10.12.1989–2.7.1992.</note> put it privately, he and others can hardly
+               strategize past the end of each week. Shevardnadze spoke eloquently to SSEA about the
+               serious disconnect in timing in Eastern Europe and the USSR between political reform
+               and economic reform. The economic reform task is much more enormous and difficult
+               than Westerners think, he said. Laws have to be re-written, debated, approved on such
+               fundamental issues as the nature of property. Even more significant is the
+               established command economy network both between the USSR and the COMECON countries
+               and within the USSR itself, which is a lot easier to wish away than to actually
+               replace. The real problem here is frustrated expectations, a basic ingredient of the
+               dangerous instability which so troubled the USSR internally and externally. These
+               realizations no doubt tempered behaviour of the other foreign ministers from Eastern
+               Europe, who (except for Poles and Czech undercutting of Karpov<note xml:id="e4031">Victor Karpov (*1928), <ref target="https://dodis.ch/P57456">dodis.ch/P57456</ref>, Deputy Foreign Minister of the Soviet Union
+                  1990–1991.</note> during negotiations on Open Skies communique) did not take issue
+               with the USSR (except perhaps for Czechoslovakia), bearing in mind perhaps that it
+               was Gorbachev and perestroika which had helped put them here.</p>
+            <p>17. However, all accepted that Ottawa conference represented a new departure in
+               attitude and direction. The question is where will it lead.</p>
+            <p>18. Given that stability and predictability are the goals, and that existing
+               institutional structures are in flux or in case of WTO virtually defunct, tendency is
+               to think ahead to an englobing security framework which seems to be a more muscular
+               and more effective CSCE.</p>
+            <p>19. All delegations here were in favour of a CSCE Summit before end of 1990 –
+               virtually all anticipated signature of CFE Agreement to be a prominent achievement of
+               summit. But there was a range of views as to substantive preparation of summit,
+               substance to be expected from summit, and thus from renewed CSCE itself.</p>
+            <p>20. As you know, USSR position has been in favour of “institutionalizing” the CSCE
+               process, which seems to mean giving it ongoing secretariat and member state presence
+               and functions to propel negotiation, consultation, and programs in political
+               security, social, economic, and environmental areas. Shevardnadze told SSEA they saw
+               the summit identifying the CSCE as the successor agency for the CFE I process and as
+               the locale as well for consolidating the final post-WW II settlement process. The
+               summit should set a mandate to enable the CSCE to encourage and eventually to codify
+               the conversion of states to defensive military postures, as well as to engage in the
+               other critical economic, social and environmental adjustment activities.</p>
+            <p>21. Deeper Soviet interests were also acknowledged. Shevardnadze spoke with reference
+               to German unification of the importance for stability of USA and Canadian presence in
+               the CSCE. He wishes to “accelerate the process of englobing structures in the CSCE.”
+               USA officials told us that in their view USSR is also looking to stable pluralistic
+               framework of CSCE as sort of counter to Federal instability within USSR itself. USA
+               considers this a serious concern and will probably upgrade their own creative
+               attention to CSCE potential in consequence. USA officials privately accept
+               inevitability of an institutionalized CSCE.</p>
+            <p>22. Genscher also spoke of CSCE as locale for next phase of conventional weapons
+               negotiations and as “permanent stage” for disarmament process. On unification, FRG is
+               going to report to CSCE Summit on details, but does not intend any discussion or
+               negotiation there, which, of course, remains to be seen re external aspects.</p>
+            <p>23. French too see CSCE as useful to englobe changing security situation but our
+               conversations with Dufourq do not reveal much in way of French thinking regarding any
+               substantive ongoing role for CSCE itself apart from preparing 1992 FU<note xml:id="e4051">Follow-up meeting of the CSCE.</note> meeting. Other delegations
+               including Canada do not wish to disrupt or replace 1992 meeting but believe events
+               require concrete strengthening of CSCE before then. French views are probably
+               unexpressed pending EC discussion and settlement of Paris-Vienna venue contest (Paris
+               will win; <add type="edition">[other]</add> delegations cannot swallow even proximity
+               of Waldheim<note xml:id="e4057">Kurt Waldheim (1918–2007), <ref target="https://dodis.ch/P15484">dodis.ch/P15484</ref>, President of Austria
+                  8.7.1986–8.7.1992.</note> to summit of this character.) Surprisingly, Hurd foresaw
+               quite considerable security role for new CSCE including notion of conflict resolution
+               mechanism which interested SSEA.</p>
+            <p>24. These divergent views on CSCE need urgent reconciliation, at least to point where
+               a preparatory process for summit can be identified. There were various proposals for
+               an officials prepcom, use of Vienna CSBM forum, ministerial meetings either on the
+               margin of Budapest Open Skies finale, or Copenhagen Human Dimension conference or a
+               special prepcom at separate ministerial meeting. SSEA in chair at both impromptu NATO
+               caucus and closed session of 23 <add type="edition">[on]</add> 13 February was not
+               able to draw out a very open discussion of positions we know existed.</p>
+            <p>25. Tendency now will be for serious official discussion to proceed on all these
+               issues in various venues: bilateral, 2 plus 4, and EC 12, and only then in NATO,
+               though summit seven sherpa meetings may provide opportunity.</p>
+            <p>26. For these reasons, steps by posts to dialogue at most senior levels of host
+               governments will be important. There is considerable credit available from Open Skies
+               host functions and SSEA leadership to draw upon. You will have read PM and SSEA
+               statements to Open Skies plenary. As general supplementary guidance, we would add
+               that a reinforced and more effective CSCE process is very much a Canadian objective.
+               SSEA found in discussion with Shevardnadze there is much Canada and USSR shared on
+               this issue and on proposals for an active preparatory process. We shall provide more
+               specific guidance on CSCE and on other issues shortly.</p>
+            <p>27. This telegram is to try in haste to return some very tentative analysis to those
+               of you who have so thoughtfully contributed in recent months to our understanding of
+               these truly momentous issues, and specifically to preparation of this very important
+               meeting of 23 ministers which has, we think it fair to say, worked out very well.
+               Accurate and substantial political understanding of the various needs and positions
+               at play in the unfolding of these events will now be needed more than ever if
+               Canadian opportunities and interests are to be aptly assessed and advanced. We count
+               on your contribution and we shall do our best to ensure you are well positioned in
+               regard to thinking here. More detailed and factual reports on specific meetings and
+               sessions are, of course, going out to those concerned in usual way.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

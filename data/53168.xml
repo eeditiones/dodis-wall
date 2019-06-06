@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53168</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-05-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53168">dodis.ch/53168</ref>
+               <title type="main">Draft memo<note xml:id="e47">Draft memo (translated from Polish):
+                        <idno>Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep. IV
+                        31/92, w. 3.</idno>
+                  </note> by the Director of the 4<hi>th</hi> Department of the Polish Ministry of
+                  Foreign Affairs, Janusz Fekecz<note xml:id="e53">Janusz Fekecz (*1930), <ref target="https://dodis.ch/P53484">dodis.ch/P57377</ref>, Polish Minister of
+                     Foreign Affairs 12.9.1989–26.10.1993.</note>
+               </title>
+               <title type="sub">Memorandum Concerning the Citizens of the German Democratic
+                  Republic who Remain at the Embassy of the Federal Republic of Germany in
+                  Warsaw</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Warsaw, 14 September 1989</dateline>
+            </opener>
+            <p n="1">I. On 13 September, Minister K. Skubiszewski<note xml:id="e67">Friedrich Bauer
+                  (*1930), <ref target="https://dodis.ch/P51060">dodis.ch/P51060</ref>, Austrian
+                  Ambassador in Bonn 1986–1990.</note> received the Director of the MFA’s Political
+               Department Kastrup<note xml:id="e73">Dieter Kastrup (*1937), <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref>, Political Director in
+                  the FRG Foreign Ministry, 1988–1991 and head of delegation to the 2+4
+                  conference.</note>, who arrived in Poland as Minister Genscher’s<note xml:id="e79">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and Minister for Foreign Affairs of the
+                  FRG 1.10.1982–17.5.1992.</note> special envoy to discuss the group of GDR citizens
+               remaining at the FRG Embassy in Warsaw. The talks were also attended by Ambassador
+                  Schoeller<note xml:id="e85">Franz Jochen Schoeller (*1926), <ref target="https://dodis.ch/P57583">dodis.ch/P57583</ref>, Ambassador of the FRG
+                  in Warsaw 1987–1989.</note> and Deputy Director of the MFA’s 4<hi>th</hi>
+               Department Sułek<note xml:id="e94">Jerzy Sułek (*1939), <ref target="https://dodis.ch/P57584">dodis.ch/P57584</ref>, Deputy Director of the
+                     4<hi>th</hi> Department in the Ministry of Foreign Affairs and from May 1990
+                  Director of the Polish MFA’s Europe Department.</note>.</p>
+            <p>Director Kastrup explained that the aim of his trip to Poland was to hold talks with
+               over 50 GDR citizens who are currently at the FRG Embassy in Warsaw and seeking to
+               leave for the FRG for a permanent stay, and to present the official position of the
+               West German side to the Polish authorities.</p>
+            <p>He referred to a conversation between Minister Genscher and L. Wałęsa<note xml:id="e107">Lech Wałęsa (*1943), <ref target="https://dodis.ch/P57585">dodis.ch/P57585</ref>, Chairman of the Independent Self-Governing Trade Union
+                  “Solidarity” and President of Poland 22.12.1990–22.12.1995.</note> held in Bonn on
+               8 September, during which the West German foreign minister praised the Hungarian
+               authorities for their approach to the departure of GDR citizens from the FRG Embassy
+               in Budapest and the Hungarian territory for the FRG via Austria, and requested L.
+               Wałęsa, as a representative of the new Poland, to apply “the Hungarian solution” to
+               the group of GDR citizens remaining at the FRG Embassy in Warsaw. At the same time,
+               Minister Genscher emphasized the historic importance of this issue for the West-East
+               relationship in Europe, and to human rights in general. According to Kastrup, L.
+               Wałęsa promised Genscher that the “Hungarian model” would be followed in Poland.</p>
+            <p>Director Kastrup made it clear that the FRG would not set out German legal positions
+               in the case at hand (“it would be irrelevant which travel documents entitled the GDR
+               citizens to leave Poland”). The FRG would prefer a pragmatic solution that took
+               account of humanitarian considerations. To that end, they would be ready to get the
+               Polish Red Cross, the German Red Cross and possibly also the International Committee
+               of the Red Cross in Geneva on board. Both Kastrup and Ambassador Schoeller expressed
+               their hope that the Polish authorities would show understanding and support for West
+               German efforts to arrange the departure of GDR citizens for the FRG. They emphasized
+               that the focus of attention of the West German public and media was on the GDR
+               citizens at the FRG Embassy in Warsaw, just as it was for those at the FRG Embassy in
+               Prague. In reply to Minister Skubiszewski’s question, Director Kastrup described the
+               Hungarian authorities’ decision to allow GDR citizens to leave for the FRG en masse
+               as a “humanitarian gesture in a European spirit”. In this context, he recalled
+               Genscher’s words to the Hungarian authorities: “We will never forget what you
+               did.”</p>
+            <p>Minister Skubiszewski observed that the Polish side was also in favour of a pragmatic
+               and humanitarian solution to the issue of the GDR citizens remaining at the FRG
+               Embassy in Warsaw. From our standpoint, the best option would be an amicable
+               settlement reached by the East and West German authorities, one that would respect
+               the interests of both governments as well as the people concerned. Poland advocated
+               the observance of human rights, including the principle of free flow of people. In
+               the case at hand, however, we had to bear in mind the good of Poland’s relations with
+               West and East Germany. He explained that he had not had the opportunity to
+               familiarize himself with the content of Minister Genscher’s conversation with L.
+               Wałęsa. The stance of the Polish authorities would be determined by arrangements to
+               be made directly by the governments of the two German states with respect to the GDR
+               citizens remaining at the FRG Embassy in Warsaw.</p>
+            <p>Director Kastrup recalled that the FRG had held talks with the GDR about the East
+               German citizens staying at the FRG Permanent Representation in Berlin and at FRG
+               diplomatic missions accredited in socialist countries. In contrast to the
+               arrangements that had regulated similar cases in the past, this time the GDR
+               authorities were reluctant to issue a “silent guarantee” allowing such people to
+               leave for the FRG (the GDR’s policy at the time had been to “consider favourably”
+               applications for an exit permit). This time round, the GDR would only be willing to
+               guarantee its citizens staying at the Embassies in Prague and Warsaw (until recently
+               also Budapest) that after their return to the GDR, they would avoid punishment or
+               consequences at their workplace, and would be granted representation by a lawyer when
+               they appeared before East German administrative authorities. What the GDR authorities
+               would not accept was that such citizens should be able to leave a third state
+               directly for the FRG, as had been happening under “the Hungarian solution”.
+               Consequently, people who were staying at the FRG Embassy in Warsaw could only have “a
+               very vague hope” of leaving for West Germany. In Kastrup’s view, the GDR authorities
+               were unlikely to change their position at that stage, which was why talks between
+               both German states had stalled.</p>
+            <p>Minister Skubiszewski concluded the meeting by reiterating that we appreciated the
+               importance of the humanitarian aspect involved in the issue of GDR citizens remaining
+               at the FRG Embassy in Warsaw, and were aware of the possible ramifications for our
+               relations with West and East Germany. He promised to look into the matter and give a
+               concrete reply setting out the Polish position.</p>
+            <p/>
+            <p n="1">II. On 13 September, Director Kastrup and Ambassador Schoeller were also
+               received by J. Czyrek<note xml:id="e125">Józef Czyrek (1928–2013), <ref target="https://dodis.ch/P44031">dodis.ch/P44031</ref>, member of the Political
+                  Bureau and Secretary of the Central Committee of the Polish United Workers’ Party
+                  and Minister of State in the Office of the Polish President 1989–1991.</note>, the
+               Minister of State at the President’s Office. One of the topics discussed was the
+               problem of over 50 GDR citizens staying at the FRG Embassy in Warsaw and wanting to
+               leave for West Germany.</p>
+            <p>Director Kastrup emphasized that he was aware of the fundamental differences on legal
+               matters between the People’s Republic of Poland and the Federal Republic of Germany.
+               Even so, the West German side sought a pragmatic solution with humanitarian
+               dimensions. Minister Czyrek asked for an explanation of the political context of the
+               problem, given recent declarations by the Federal Republic of Germany that it was not
+               interested in destabilizing the GDR, and was keen to ensure the appropriate standards
+               in that country in order to stem emigration. Did the current situation point to a
+               shift in West German policy? (The FRG was creating many incentives to encourage
+               immigration). K<add type="edition">[astrup]</add> emphasized that “human matters”
+               could not be separated from politics. Young East Germans saw no opportunities for
+               themselves (this went beyond mere economic motivation); they had been following news
+               about the progress of reforms in the USSR, Poland and Hungary. Meanwhile, the current
+               East German leadership was unable to solve these problems. “Mass fleeing” had its
+               roots solely in the GDR, so a policy change in the FRG was not a factor here. K<add type="edition">[astrup]</add> underscored that he was requesting “humanitarian
+               assistance in solving this problem, while taking account of human rights”. Minister
+               Czyrek replied that he appreciated the humanitarian dimension of the issue. We would
+               not try to “turn it into a problem”. From the logical and substantive points of view,
+               this was primarily a matter to be settled between East and West Germany, however, and
+               as such should be resolved by way of an understanding between the two countries. Such
+               an understanding would be decisive for Poland, as we could be loyal both to the FRG
+               and GDR. Minister Czyrek referred to Minister Skubiszewski’s decision as presented
+               during the talks with K<add type="edition">[astrup]</add> , whereby a working group
+               would be set up as a matter of urgency to draft proposals for a Polish position.</p>
+            <p>Minister Czyrek went on to underline that the matter was very difficult for Poland,
+               as we viewed our friendly relations with the GDR as a serious issue and, unlike
+               Hungary, we have no direct border with any Western states.</p>
+            <p/>
+            <p n="1">III. Conclusions</p>
+            <p>a) The issue of GDR citizens remaining at the FRG Embassy in Warsaw could have
+               negative repercussions for either of the two German states, depending on which
+               solution we support. If we side with the GDR, we risk negative effects in the context
+               of Kohl’s<note xml:id="e150">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> visit to Poland<note xml:id="e156">Helmut Kohl
+                  visited Poland on 9–10 and 12–14 November 1989 (following the fall of the Berlin
+                  Wall, Chancellor Kohl interrupted his visit to go back to the FRG).</note>; if we
+               go along with West German proposals, the political fallout could affect our
+               relationship with the GDR.</p>
+            <p>b) From our point of view, the best way out would be if the two German states
+               achieved an amicable settlement between themselves. At this stage, however, such a
+               solution is unlikely and we are under permanent pressure from representatives of both
+               countries (see J. Mąkosa’s<note xml:id="e161">Jerzy Mąkosa, <ref target="https://dodis.ch/P50485">dodis.ch/P50485</ref>, Director of the
+                     1<hi>st</hi> Department at the Polish Ministry of Foreign Affairs
+                  1989–1990.</note> memo of 12 September on the conversation with GDR Ambassador J.
+               van Zwoll<note xml:id="e170">Jürgen van Zwoll (*1939), <ref target="https://dodis.ch/P57587">dodis.ch/P57587</ref>, Ambassador of the GDR
+                  in Warsaw 1988–1990.</note>).</p>
+            <p>c) In these circumstances, the MFA has set up a working group headed by B.
+                  Kulski<note xml:id="e178">Bolesław Kulski, <ref target="https://dodis.ch/P50550">dodis.ch/P50550</ref>, Polish Deputy Minister of Foreign Affairs
+                  1988–1990.</note> to come up with possible solutions. What could prove helpful for
+               us would be a solution to be adopted in the next few days in the similar case in
+               Prague.</p>
+            <p>d) One should bear in mind that the problem will continue to grow (the number of GDR
+               citizens at the FRG Embassy in Warsaw increased to 50 in the course of two
+               weeks).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

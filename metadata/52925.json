@@ -1,0 +1,1237 @@
+{
+    "total": null,
+    "data": {
+        "id": 52925,
+        "title": "No. 12. The German Question: Our Public Line",
+        "langCode": "en",
+        "language": "English",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "5.1.1990",
+        "documentDateDayOfWeek": "Friday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Concern at the perception of the UK attitude towards German unity is expressed.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "CONFIDENTIAL",
+        "classificationText": "confidential",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98247,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101660,
+                "tagId": 374,
+                "name": "Great Britain (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.043.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Great Britain (Politics)",
+                    "Gran Bretagna (Politica)",
+                    "Grossbritannien (Politik)",
+                    "Grande-Bretagne (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Grande-Bretagne (Politique)",
+                "deName": "Grossbritannien (Politik)",
+                "enName": "Great Britain (Politics)",
+                "itName": "Gran Bretagna (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101661,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101662,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59420,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "The National Archives",
+                "archiveCode": "UK-NA",
+                "box": null,
+                "aisCode": "FCO 33/10716",
+                "dossierId": 31516,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "Kew",
+                "id": 59420
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16395,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "29"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36360,
+                "sort": 0,
+                "attachment": {
+                    "id": 36620,
+                    "attachmentId": 36620,
+                    "date": "",
+                    "fileRef": "dodis-52925-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52925-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59420,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37021,
+                "sort": 0,
+                "attachment": {
+                    "id": 36162,
+                    "attachmentId": 36162,
+                    "date": "",
+                    "fileRef": "dodis-52925.xml",
+                    "fileRefThumbnail": "thumb_dodis-52925.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59420,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36746,
+                "sort": 0,
+                "attachment": {
+                    "id": 37004,
+                    "attachmentId": 37004,
+                    "date": "",
+                    "fileRef": "dodis-52925-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52925-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59420,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34860,
+                "sort": 0,
+                "attachment": {
+                    "id": 35169,
+                    "attachmentId": 35169,
+                    "date": "",
+                    "fileRef": "dodis-52925.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52925.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59420,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Christopher",
+                    "lastName": "Mallaby",
+                    "fullName": "Mallaby, Christopher (1936\u2013)",
+                    "id": 57461,
+                    "comment": "",
+                    "dateBirth": "7.6.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Mallaby, Christopher"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Douglas R.",
+                    "lastName": "Hurd",
+                    "fullName": "Hurd, Douglas R. (1930\u2013)",
+                    "id": 57401,
+                    "comment": "",
+                    "dateBirth": "8.3.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15380,
+                    "birthPlaceText": "Marlborough",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hurd, Douglas R."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Christopher",
+                    "lastName": "Mallaby",
+                    "fullName": "Mallaby, Christopher (1936\u2013)",
+                    "id": 57461,
+                    "comment": "",
+                    "dateBirth": "7.6.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Mallaby, Christopher"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "James ",
+                    "lastName": "Baker",
+                    "fullName": "Baker, James  (1930\u2013)",
+                    "id": 56605,
+                    "comment": "",
+                    "dateBirth": "28.4.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 11236,
+                    "birthPlaceText": "Houston",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Baker, James A. ",
+                        "Baker, James ",
+                        "Baker III, James Addison",
+                        "Baker, James Addison",
+                        "Baker, Jim"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "George Herbert Walker",
+                    "lastName": "Bush",
+                    "fullName": "Bush, George Herbert Walker (1924\u20132018)",
+                    "id": 47406,
+                    "comment": "",
+                    "dateBirth": "23.6.1924",
+                    "dateDeath": "30.11.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 11236,
+                    "deathPlaceText": "Houston",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Bush, George Herbert Walker",
+                        "Bush, George H. W."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Douglas R.",
+                    "lastName": "Hurd",
+                    "fullName": "Hurd, Douglas R. (1930\u2013)",
+                    "id": 57401,
+                    "comment": "",
+                    "dateBirth": "8.3.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15380,
+                    "birthPlaceText": "Marlborough",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hurd, Douglas R."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "François",
+                    "lastName": "Mitterrand",
+                    "fullName": "Mitterrand, François (1916\u20131996)",
+                    "id": 13775,
+                    "comment": "",
+                    "dateBirth": "26.10.1916",
+                    "dateDeath": "8.1.1996",
+                    "wikidataId": "",
+                    "birthPlaceId": 13993,
+                    "birthPlaceText": "Jarnac ",
+                    "deathPlaceId": 18,
+                    "deathPlaceText": "Paris",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mitterand, François",
+                        "Mitterrand, François"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Margaret",
+                    "lastName": "Thatcher",
+                    "fullName": "Thatcher, Margaret (1925\u20132013)",
+                    "id": 32055,
+                    "comment": "",
+                    "dateBirth": "13.10.1925",
+                    "dateDeath": "8.4.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 10485,
+                    "birthPlaceText": "Grantham",
+                    "deathPlaceId": 55,
+                    "deathPlaceText": "London",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "female",
+                    "names": [
+                        "La Dame de Fer",
+                        "Thatcher, Margaret",
+                        "Iron Lady"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 26529,
+                    "name": "Great Britain/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 223,
+                    "name": "GB/Foreign Office",
+                    "comment": "Cf. Meier, Aussenwirtschaftspolitik, 2002 dodis.ch/13935, S. 537 (index)\r\nCf. Frech, Clearing, 2001 dodis.ch/13897, S.161, 174f.\r\n\r\n1968: Zusammenschluss 'Foreign Office' und 'Commonwealth Office' (R24456) zum 'Foreign and Commonwealth Office' (1968-)",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "Londres",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2837,
+                    "name": "North Atlantic Treaty Organisation (NATO)",
+                    "comment": "\"Pacte de sécurité mutuelle sans obligation automatique d'assistance. Durée 20 ans\". Entré en vigueur le 24.8.1949.\nMembres signataires: Belgique, Canada, Danemark, Etats-Unis, France, Islande, Italie, Luxembourg, Norvège, Pays-Bas, Portugal, Royaume-Uni (1949); Grèce, Turquie (1952); RFA (1955); Espagne (1982); République Tchèque, Hongrie, Pologne (1999); Bulgarie, Estonie, Lettonie, Lithuanie, Roumanie, Slovaquie, Slovénie (2004); Albanie, Croatie (2009). Cf. http://www.rulers.org/intorgs1.html#nato.\nDéfense collective de la paix, de la sécurité, de la démocratie et des libertés individuelles dans le cadre de la Charte des Nations-Unies.\nCf. dodis.ch/31612, p.6-7.\n\nB.51.10.5 Stellung der Schweiz zur NATO, Signatur AIS: E2001E#1972/33#7013*, 1952-1960, E 2001 (E) 1972/33_290, Papier.\n\nB.51.10.5 Äusserungen in der Öffentlichkeit über die Neutralität der Schweiz, Signatur AIS: E2001E#1976/17#631*, 1961-1963, E 2001(E) 1976/17_99\nPapier\nB.51.10.5 Stellung der Schweiz zur NATO, Zusätzliche Informationen: Dieses Dossier befindet sich im Bestand \"Aktenverlegung\", Signatur AIS: E2001E#1976/17#5216*.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Londres, puis Paris, puis Bruxelles (dès 1966)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25156,
+                    "name": "EU/European Council (2009-)",
+                    "comment": "Existiert erst seit 1974, Gremium der Staats- und Regierungschefs. Nicht zu verwechseln mit dodis.ch/R23652 (Ministerrat).",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 223,
+                    "name": "GB/Foreign Office",
+                    "comment": "Cf. Meier, Aussenwirtschaftspolitik, 2002 dodis.ch/13935, S. 537 (index)\r\nCf. Frech, Clearing, 2001 dodis.ch/13897, S.161, 174f.\r\n\r\n1968: Zusammenschluss 'Foreign Office' und 'Commonwealth Office' (R24456) zum 'Foreign and Commonwealth Office' (1968-)",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "Londres",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 26529,
+                    "name": "Great Britain/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 137,
+                    "name": "Brussels",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.850338,
+                    "longitude": 4.351710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 13,
+                    "name": "France",
+                    "comment": "",
+                    "countryCode": "FR",
+                    "regionCode": null,
+                    "latitude": 46.227640,
+                    "longitude": 2.213749,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5959,
+                    "name": "Kiev",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.450100,
+                    "longitude": 30.523400,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2361,
+                    "name": "Strasbourg",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.583150,
+                    "longitude": 7.747882,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14,
+                    "name": "United Kingdom",
+                    "comment": "",
+                    "countryCode": "GB",
+                    "regionCode": null,
+                    "latitude": 55.378050,
+                    "longitude": -3.435973,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11,
+                    "name": "United States of America (1776-)",
+                    "comment": "",
+                    "countryCode": "US",
+                    "regionCode": null,
+                    "latitude": 37.090240,
+                    "longitude": -95.712890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Christopher",
+                    "lastName": "Mallaby",
+                    "fullName": "Mallaby, Christopher (1936\u2013)",
+                    "id": 57461,
+                    "comment": "",
+                    "dateBirth": "7.6.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Mallaby, Christopher"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Douglas R.",
+                    "lastName": "Hurd",
+                    "fullName": "Hurd, Douglas R. (1930\u2013)",
+                    "id": 57401,
+                    "comment": "",
+                    "dateBirth": "8.3.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15380,
+                    "birthPlaceText": "Marlborough",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hurd, Douglas R."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Christopher",
+                    "lastName": "Mallaby",
+                    "fullName": "Mallaby, Christopher (1936\u2013)",
+                    "id": 57461,
+                    "comment": "",
+                    "dateBirth": "7.6.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Mallaby, Christopher"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "James ",
+                    "lastName": "Baker",
+                    "fullName": "Baker, James  (1930\u2013)",
+                    "id": 56605,
+                    "comment": "",
+                    "dateBirth": "28.4.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 11236,
+                    "birthPlaceText": "Houston",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Baker, James A. ",
+                        "Baker, James ",
+                        "Baker III, James Addison",
+                        "Baker, James Addison",
+                        "Baker, Jim"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "George Herbert Walker",
+                    "lastName": "Bush",
+                    "fullName": "Bush, George Herbert Walker (1924\u20132018)",
+                    "id": 47406,
+                    "comment": "",
+                    "dateBirth": "23.6.1924",
+                    "dateDeath": "30.11.2018",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 11236,
+                    "deathPlaceText": "Houston",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Bush, George Herbert Walker",
+                        "Bush, George H. W."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Douglas R.",
+                    "lastName": "Hurd",
+                    "fullName": "Hurd, Douglas R. (1930\u2013)",
+                    "id": 57401,
+                    "comment": "",
+                    "dateBirth": "8.3.1930",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15380,
+                    "birthPlaceText": "Marlborough",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hurd, Douglas R."],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "François",
+                    "lastName": "Mitterrand",
+                    "fullName": "Mitterrand, François (1916\u20131996)",
+                    "id": 13775,
+                    "comment": "",
+                    "dateBirth": "26.10.1916",
+                    "dateDeath": "8.1.1996",
+                    "wikidataId": "",
+                    "birthPlaceId": 13993,
+                    "birthPlaceText": "Jarnac ",
+                    "deathPlaceId": 18,
+                    "deathPlaceText": "Paris",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mitterand, François",
+                        "Mitterrand, François"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Margaret",
+                    "lastName": "Thatcher",
+                    "fullName": "Thatcher, Margaret (1925\u20132013)",
+                    "id": 32055,
+                    "comment": "",
+                    "dateBirth": "13.10.1925",
+                    "dateDeath": "8.4.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 10485,
+                    "birthPlaceText": "Grantham",
+                    "deathPlaceId": 55,
+                    "deathPlaceText": "London",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "female",
+                    "names": [
+                        "La Dame de Fer",
+                        "Thatcher, Margaret",
+                        "Iron Lady"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 26529,
+                    "name": "Great Britain/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 223,
+                    "name": "GB/Foreign Office",
+                    "comment": "Cf. Meier, Aussenwirtschaftspolitik, 2002 dodis.ch/13935, S. 537 (index)\r\nCf. Frech, Clearing, 2001 dodis.ch/13897, S.161, 174f.\r\n\r\n1968: Zusammenschluss 'Foreign Office' und 'Commonwealth Office' (R24456) zum 'Foreign and Commonwealth Office' (1968-)",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "Londres",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2837,
+                    "name": "North Atlantic Treaty Organisation (NATO)",
+                    "comment": "\"Pacte de sécurité mutuelle sans obligation automatique d'assistance. Durée 20 ans\". Entré en vigueur le 24.8.1949.\nMembres signataires: Belgique, Canada, Danemark, Etats-Unis, France, Islande, Italie, Luxembourg, Norvège, Pays-Bas, Portugal, Royaume-Uni (1949); Grèce, Turquie (1952); RFA (1955); Espagne (1982); République Tchèque, Hongrie, Pologne (1999); Bulgarie, Estonie, Lettonie, Lithuanie, Roumanie, Slovaquie, Slovénie (2004); Albanie, Croatie (2009). Cf. http://www.rulers.org/intorgs1.html#nato.\nDéfense collective de la paix, de la sécurité, de la démocratie et des libertés individuelles dans le cadre de la Charte des Nations-Unies.\nCf. dodis.ch/31612, p.6-7.\n\nB.51.10.5 Stellung der Schweiz zur NATO, Signatur AIS: E2001E#1972/33#7013*, 1952-1960, E 2001 (E) 1972/33_290, Papier.\n\nB.51.10.5 Äusserungen in der Öffentlichkeit über die Neutralität der Schweiz, Signatur AIS: E2001E#1976/17#631*, 1961-1963, E 2001(E) 1976/17_99\nPapier\nB.51.10.5 Stellung der Schweiz zur NATO, Zusätzliche Informationen: Dieses Dossier befindet sich im Bestand \"Aktenverlegung\", Signatur AIS: E2001E#1976/17#5216*.",
+                    "placeId": 137,
+                    "placeText": "Brussels",
+                    "hq": "Londres, puis Paris, puis Bruxelles (dès 1966)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25156,
+                    "name": "EU/European Council (2009-)",
+                    "comment": "Existiert erst seit 1974, Gremium der Staats- und Regierungschefs. Nicht zu verwechseln mit dodis.ch/R23652 (Ministerrat).",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 223,
+                    "name": "GB/Foreign Office",
+                    "comment": "Cf. Meier, Aussenwirtschaftspolitik, 2002 dodis.ch/13935, S. 537 (index)\r\nCf. Frech, Clearing, 2001 dodis.ch/13897, S.161, 174f.\r\n\r\n1968: Zusammenschluss 'Foreign Office' und 'Commonwealth Office' (R24456) zum 'Foreign and Commonwealth Office' (1968-)",
+                    "placeId": 55,
+                    "placeText": "London",
+                    "hq": "Londres",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 26529,
+                    "name": "Great Britain/Embassy in Bonn",
+                    "comment": null,
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 137,
+                    "name": "Brussels",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.850338,
+                    "longitude": 4.351710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 13,
+                    "name": "France",
+                    "comment": "",
+                    "countryCode": "FR",
+                    "regionCode": null,
+                    "latitude": 46.227640,
+                    "longitude": 2.213749,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5959,
+                    "name": "Kiev",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.450100,
+                    "longitude": 30.523400,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2361,
+                    "name": "Strasbourg",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.583150,
+                    "longitude": 7.747882,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14,
+                    "name": "United Kingdom",
+                    "comment": "",
+                    "countryCode": "GB",
+                    "regionCode": null,
+                    "latitude": 55.378050,
+                    "longitude": -3.435973,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11,
+                    "name": "United States of America (1776-)",
+                    "comment": "",
+                    "countryCode": "US",
+                    "regionCode": null,
+                    "latitude": 37.090240,
+                    "longitude": -95.712890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

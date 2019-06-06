@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52958</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52958">dodis.ch/52958</ref>
+               <title type="main">Telegram<note xml:id="e1451">Telegram No. 461 (incoming,
+                     translated from Dutch): <idno>Netherlands Ministry of Foreign Affairs BZ, 5e
+                        BloK</idno>
+                     <add type="edition">
+                        <idno>[NA 2.05.392]</idno>
+                     </add>
+                     <idno>, inv.nr. 3704</idno>.<idno/>
+                     <idno/>
+                     <idno/>
+                  </note> from the Dutch Ambassador in Bonn, Jan van der Tas<note xml:id="e1457">Jan
+                     von der Tas (1928–2009), <ref target="https://dodis.ch/P57557">dodis.ch/P57557</ref>, Dutch Ambassador in Bonn 1986–1993.</note>, to the
+                  Dutch Minister of Foreign Affairs, Hans van den Broek<note xml:id="e1463">Hans van
+                     den Broek (*1936), <ref target="https://dodis.ch/P57462">dodis.ch/P57462</ref>,
+                     Dutch Minister of Foreign Affairs 4.11.1982–3.1.1993.</note>
+               </title>
+               <title type="sub">Berlin 9 November 1989 – the Wall Loses its Relevance</title>
+            </head>
+            <opener>
+               <add>
+                  <emph>Extract</emph> Confidential</add>
+               <dateline>Bonn, 14 November 1989</dateline>
+            </opener>
+            <p n="1">
+               <add type="edition">[…]</add>
+               <note xml:id="e1478">For the complete version of the document in Dutch cf. <ref target="https://dodis.ch/52958">dodis.ch/52958</ref>.</note>
+            </p>
+            <p/>
+            <p n="1">
+               <emph>Report</emph>
+            </p>
+            <p>“Ab sofort” was the answer of the SED Politburo member responsible for information,
+                  Schabowski<note xml:id="e1489">Günter Schabowski (1929–2015), <ref target="https://dodis.ch/P56902">dodis.ch/P56902</ref>, member of the SED
+                  Politburo and spokesman of the GDR government 1989.</note>, after the meeting of
+               the Central Committee on the 9<hi>th</hi> on the question when the arrangement for
+               travel to the Federal Republic and West Berlin that he had just made public would
+               enter into force. A directive that he presumed was already known to the assembled
+               press, but which he himself clearly did not know intimately. The border guards were
+               also unprepared, but confronted by the inflowing masses they threw open the gates at
+               the Borholmer Strasse crossing, stepped back and let the flow of people pass by.
+               Shortly afterwards the other border crossings followed including Checkpoint Charlie.
+               The Wall had – in the words of governing mayor Momper<note xml:id="e1498">Walter
+                  Momper (*1945), <ref target="https://dodis.ch/P57440">dodis.ch/P57440</ref>,
+                  Governing Mayor of West Berlin 16.2.1989–24.1.1991.</note> – lost its relevance.
+               On 9 November 1989, this inhuman and monstrous edifice that was founded on 13 August
+               1961 fell. The cornered leadership of the collapsing “First State of Workers and
+               Farmers on German Soil”<note xml:id="e1504">Quoted in German: <orig>Erster Arbeiter
+                     und Bauernstaat auf deutschem Boden.</orig>
+               </note> had risked the desperate flight forward to stem the bloodletting of
+                  “Republikflucht”<note xml:id="e1509">
+                  <orig>Republikflucht</orig>: the act of fleeing from the GDR (culpable under GDR
+                  legislation).</note> and regain the trust of the population.</p>
+            <p>In Berlin (West) this “Day of Re-Encounter”<note xml:id="e1514">Quoted in German:
+                     <orig>Tag des Wiedersehens.</orig>
+               </note> (Momper) led to an emotionally charged cheerfully chaotic exuberant weekend
+               in which nearly two million people from the Eastern Sector and all parts of the GDR
+               flowed into the city. Many with tears in their eyes, hand in hand, elderly, young
+               people, families with children, toddlers and babies (one was even born here), they
+               came in their small two-stroke cars or on foot in a ceaseless flow of people. Some
+               came to reunite with relatives, others for a specific purpose “having my car repaired
+               and taking a beer” – as one of them told me – to shop, but most of them came to
+               establish in person that the incredible had become true and see the forbidden land.
+               Only a few, about 5000, mostly immediate family members of previous refugees, decided
+               to stay. This incredible coming and going led to enormous traffic chaos both in the
+               East at the few border crossings, where most left their cars to cross on foot, and in
+               the West, where the public transport system could barely handle the flow, despite
+               deploying all available resources. The GDR quickly opened new crossings, one of them
+               located on the historically significant Potsdammer Platz in the middle of the
+                  “Todesstreifen”<note xml:id="e1519">
+                  <orig>Todesstreifen</orig>: the Death Perimeter (on the Eastern side of the
+                  Wall).</note> on the 12<hi>th</hi>. In about three hours��� time, some 15,000
+               flower bouquets from the Netherlands were handed out to welcome those from the East
+               at the initiative of the flower trade fair Aalsmeer. It was a gesture witnessed by
+               Federal President Weizsäcker<note xml:id="e1525">Richard von Weizsäcker (1920–2015),
+                     <ref target="https://dodis.ch/P5944">dodis.ch/P5944</ref>, President of the FRG
+                  1.7.1984 –30.6.1994.</note> and governing mayor Momper.</p>
+            <p>The western part of the city responded openly, warmly and enthusiastically. The first
+               people to arrive were showered with champagne and many were welcomed as guests in the
+               house. Special arrangements for the quick payment of the so-called “Begrüssungsgeld”
+               (DM 100 per year per person), special offers of coveted goods in stores (sometimes
+               acceptance of parity between the DM and GDR currency), free concerts and
+               performances, etc. etc. The event, however, focused on the Kurfürstendamm, where
+               visitors flocked to witness the big unknown of capitalist consumption economics with
+               their own eyes. Here a true people’s party of fraternization developed. Striking was
+               the festive but very disciplined and controlled atmosphere.</p>
+            <p>Below are some points of special significance:</p>
+            <p/>
+            <p n="1">
+               <emph>a. Reunification</emph>
+            </p>
+            <p>A false note was introduced into the festivities by the politicians, namely the CDU
+               and Federal Chancellor Kohl<note xml:id="e1541">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note>, who could not refrain from emphasizing this theme.
+               This was expressed on the one hand in a sharp disagreement at the Special Session of
+               the Berlin House of Deputies on 10 November in the presence of the Federal Chancellor
+               and the SPD honorary chairman Brandt<note xml:id="e1547">Willy Brandt (1913–1992),
+                     <ref target="https://dodis.ch/P15409">dodis.ch/P15409</ref>, Governing Mayor of
+                  West Berlin 3.10.1957–1.12.1966 and Chancellor of the FRG
+                  22.10.1969–7.5.1974.</note> and Minister Genscher<note xml:id="e1553">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and Minster for Foreign Affairs of the
+                  FRG 1.10.1982–17.5.1992.</note> when the CDU and the SPD (the latter under
+               pressure from their coalition partner the AL) could not agree to the text of a joint
+               statement (text by telex). SPD/AL could not go beyond “The House of Representatives
+               of Berlin firmly adheres to the goal of working towards a state of peace and the
+               unity of Europe, in which the German people are also free to determine their
+               coexistence, <emph>on which it decides by exercising its right of
+                  self-determination</emph>”<note xml:id="e1559">Quoted in German: <orig>das
+                     Abgeordnetenhaus von Berlin hält fest an dem Ziel auf einen Zustand des
+                     Friedens und der Einheit Europas hinzuwirken, in dem auch das deutsche Volk in
+                     freier Selbstbestimmung zu der Gestaltung seines Zusammenlebens gelangen kann,
+                     für die es sich in Ausübung seines Selbstbestimmungsrecht entscheidet.</orig>
+               </note>. While the CDU insisted on the words “<emph>can achieve its
+                  unity</emph>”<note xml:id="e1564">Quoted in German: <orig>Seine Einheit erlangen
+                     kann.</orig>
+               </note> instead of the phrase in italics. Therefore the final text was adopted with
+               only the votes of the SPD/AL.</p>
+            <p>It was painful that the Chancellor was afterwards whistled at by many of the
+               thousands who were present, but a significant indication of the prevailing mood was
+               that in his speech he later reproached ruling mayor Momper as having spoken of “the
+               people of the GDR”, which led to a sharp exchange of words.</p>
+            <p>The appeal made by the Berlin CDU leader Diepgen<note xml:id="e1573">Eberhard Diepgen
+                  (*1941), <ref target="https://dodis.ch/P57478">dodis.ch/P57478</ref>, Mayor of
+                  West Berlin, 1984–16.3.1989.</note>, who also called for the GDR to break down the
+               Wall and open the Brandenburg Gate was a false note.</p>
+            <p>The visitors and the West Berlin population, did not appear to support this theme.
+               For them it was a meeting, an association and a rediscovery. The rest could wait.</p>
+            <p/>
+            <p n="1">
+               <emph>b. Brandenburg Gate</emph>
+            </p>
+            <p>The only incident of significance occurred on this historic spot. A clear separation
+               here is symbolic for both the political and international legal identity of the GDR.
+               The GDR decision is limited to the broadening of the travel options for its own
+               citizens to the Federal Republic and Berlin (West) and possibly other states. The
+               national border of the independent nation of the GDR will therefore remain
+               unaffected. Attempts by Berlin’s youths to pull down segments of the Wall and occupy
+               the outer Wall at the Brandenburg Gate in the evening hours of 10 November were, from
+               this perspective, border crossings. The GDR responded very cautiously and in a
+               controlled manner. The water cannon gave the young people wet suits but was effective
+               and afterwards posting a detachment of unarmed border troops on the Wall
+               sufficed.</p>
+            <p>An agreement with the West Berlin police that included a promise that it would
+               counter further disturbances made even this redundant.</p>
+            <p/>
+            <p n="1">
+               <emph>c. Cooperation</emph>
+            </p>
+            <p>The situation that arose as a result of the GDR decree forced the government and
+               public services of both districts to contact and cooperation that was unheard of and
+               which ran counter to many existing regulations. Most characteristic was the joint
+               inauguration of the Potsdamer Platz crossing by reigning mayor Momper and
+               Oberbürgermeister Krack<note xml:id="e1595">Erhard Krack (1931–2000), <ref target="https://dodis.ch/P55386">dodis.ch/P55386</ref>, Mayor of East Berlin
+                  11.2.1974–15.2.1990.</note> on the morning of 12 November. In their official
+               capacities, they had never previously had any contact with each other. Afterwards,
+               Federal President von Weizsäcker had a conversation with GDR border troops on GDR
+               territory.</p>
+            <p>The nature of the discussion was pragmatic, the goal an undisturbed and smooth flow
+               of visitor traffic. From the GDR side, breaches were made, stations opened and the
+               West Berlin police, fire brigade and public transport took care of the removal of
+               watchtowers, traffic safety and lines and public transport from the new crossings
+               (sometimes even on GDR territory where for example a West Berlin bus service was
+               extended to Potsdam). An emergency telephone connection between the two police
+               headquarters and contact at the highest level has now become a fact while on the work
+               floor at the crossings the GDR border soldier and the West Berlin policeman stand
+               side by side, beaming enthusiastically.</p>
+            <p/>
+            <p n="1">
+               <emph>d. The Future</emph>
+            </p>
+            <p>The euphoria will soon fade and then the question will arise how to proceed. From the
+               GDR side the assurance has now been given that all this will not be reversed or
+               adjusted in a limiting sense of the word. However, things, in particular the
+               “non-bureaucratic” conduct of affairs, will have to be replaced by a more regular
+               settlement. This means a continuous flow of visitors who will come to do their
+               shopping here and maybe find employment.</p>
+            <p>More serious is the danger of illegal exports of scarce GDR consumer goods for
+               illegal trade in Berlin (West). Since a cross-country skiing boot is available over
+               there for 49 GDR mark and the unofficial exchange rate is 1 DM for 10 GDR marks
+               (official parity) this will speak for itself. The ominous word monetary reform, to
+               prevent the “Clearance sale of the GDR”<note xml:id="e1611">Quoted in German:
+                     <orig>Ausverkauf der DDR.</orig>
+               </note> has already been used over there and seems to be a compelling first step
+               towards economic sanitation. Meanwhile interim arrangements and agreements will be
+               required. Here too, intensive cooperation between Senate and GDR authorities will be
+               necessary.</p>
+            <p>Given that it is not to be expected that the GDR state and (party) leadership will
+               accept that the Soviets will resume their formal role as occupying forces, and in
+               fact the Soviet Union will certainly not be willing to do so, the Allies are now
+               facing a more difficult reconsideration. In some respects they have been passed on
+               the left hand side by developments and can do little else than accept that they too
+               are spectators at events in which they play no role. The situation at Check Point
+               Charlie during the weekend was significant. Between the crowd of West Berliners who
+               rejoiced in welcoming their East German countrymen and fellow city inhabitants, an
+               American, a French and a British military policeman appeared lost in observing the
+               formalities of painstakingly checking returning compatriots (military or civil).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

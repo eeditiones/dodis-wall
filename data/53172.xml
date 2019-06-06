@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53172</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53172">dodis.ch/53172</ref>
+               <title type="main">Circular telegram<note xml:id="e3466">Telegram No. 775 (copy,
+                     translated from Polish): <idno>Archives of the Polish Ministry of Foreign
+                        Affairs AMSZ, ZD 33/92</idno>. Delivered to the Cryptography Section:
+                        <orig>1 February 1990, 2.30 p.m.</orig> Addressed to the heads of post in
+                     Moscow, Berlin A., Prague, Budapest, Sofia, Bucharest, Belgrade, II Paris, I
+                     London, I Rome, I Berlin – I Mission, Cologne, I The Hague, II Madrid, I
+                     Lisbon, I Vienna, I Bern, II Athens, II Stockholm, I Copenhagen, II Helsinki, I
+                     Oslo, I Washington, IV Ottawa, IV Mexico City, IV Buenos Aires, Brasilia, New
+                     Delhi, Beijing, Tokyo, Canberra, New York – Mission, IV Geneva – Mission
+                     II.</note> by the Polish Minister of Foreign Affairs, Krzysztof
+                     Skubiszewski<note xml:id="e3469">Krzysztof Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of
+                     Foreign Affairs 12.9.1989–26.10.1993.</note>
+               </title>
+            </head>
+            <opener>
+               <add>Urgent</add>
+               <dateline>Warsaw, 1 February 1990</dateline>
+            </opener>
+            <p n="1">With regard to the ongoing discussion about German reunification, please find
+               below the position to be presented during talks:</p>
+            <p>The Polish government set out its position on the unity of the German nation under
+               international law or as a state in the foreign minister’s statement to the Sejm of 7
+               December 1989. The Polish government made it clear that it respects the right of the
+               Germans to self-determination. However, this right can be realized in the framework
+               of European order and stabilization. This order includes the existing borders between
+               the two German states and their neighbours. Both German states can only unite – in
+               one form or another – provided that Poland’s western border along the Oder and
+               Lusatian Neisse rivers is maintained. The rapprochement and ultimately fusion of the
+               two German states should proceed gradually even as our continent’s unity is restored
+               and a new security system is built in Europe. This is a complex and multi-stage
+               process. The unity of the German nation cannot be restored with a one-off declaration
+               or act. Changes across German territory must go hand-in-hand with changes in Europe
+               that support building structures that would encompass the whole of Europe. This does
+               not rule out regional institutions made up of certain countries, however. A reunited
+               German state will have its place in a thoroughly reformed and united Europe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

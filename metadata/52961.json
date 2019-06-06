@@ -1,0 +1,1283 @@
+{
+    "total": null,
+    "data": {
+        "id": 52961,
+        "title": "GDR in Final Phase",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "4.7.1990",
+        "documentDateDayOfWeek": "Wednesday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Report on the state of affairs in the GDR, where people appear pleased with the prospect of reunification and see no reason to stretch out the country\u2019s existence. These mental changes have had a profound impact on the internal political situation in the GDR.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "CONFIDENTIAL",
+        "classificationText": "confidential",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98290,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101710,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101711,
+                "tagId": 466,
+                "name": "Netherlands (the) (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.082.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Niederlande (Politik)",
+                    "Pays-Bas (Politique)",
+                    "Netherlands (the) (Politics)",
+                    "Paesi Bassi (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Pays-Bas (Politique)",
+                "deName": "Niederlande (Politik)",
+                "enName": "Netherlands (the) (Politics)",
+                "itName": "Paesi Bassi (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101712,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59661,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Netherlands Ministry of Foreign Affairs Block 5, 1985\u20131990",
+                "archiveCode": "NL-MFA",
+                "box": null,
+                "aisCode": "NA 2.05.392, inv.nr. 4601",
+                "dossierId": 31584,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "The Hague",
+                "id": 59661
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16421,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "54"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36105,
+                "sort": 0,
+                "attachment": {
+                    "id": 36368,
+                    "attachmentId": 36368,
+                    "date": "",
+                    "fileRef": "dodis-52961-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52961-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59661,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37002,
+                "sort": 0,
+                "attachment": {
+                    "id": 37251,
+                    "attachmentId": 37251,
+                    "date": "",
+                    "fileRef": "dodis-52961.xml",
+                    "fileRefThumbnail": "thumb_dodis-52961.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59661,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36773,
+                "sort": 0,
+                "attachment": {
+                    "id": 37031,
+                    "attachmentId": 37031,
+                    "date": "",
+                    "fileRef": "dodis-52961-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52961-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59661,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 35047,
+                "sort": 0,
+                "attachment": {
+                    "id": 35356,
+                    "attachmentId": 35356,
+                    "date": "",
+                    "fileRef": "dodis-52961.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52961.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59661,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Egbert",
+                    "lastName": "Jacobs",
+                    "fullName": "Jacobs, Egbert (1945\u2013)",
+                    "id": 57545,
+                    "comment": "",
+                    "dateBirth": "1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Jacobs, Egbert",
+                        "Jacobs, Egbert Frederik"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Hans",
+                    "lastName": "van den Broek",
+                    "fullName": "van den Broek, Hans (1936\u2013)",
+                    "id": 57462,
+                    "comment": "",
+                    "dateBirth": "11.12.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "van den Broek, Henri",
+                        "van den Broek, Hans"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Egbert",
+                    "lastName": "Jacobs",
+                    "fullName": "Jacobs, Egbert (1945\u2013)",
+                    "id": 57545,
+                    "comment": "",
+                    "dateBirth": "1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Jacobs, Egbert",
+                        "Jacobs, Egbert Frederik"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Peter-Michael",
+                    "lastName": "Diestel",
+                    "fullName": "Diestel, Peter-Michael (1952\u2013)",
+                    "id": 57574,
+                    "comment": "",
+                    "dateBirth": "14.2.1952",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Diestel, Peter-Michael"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans-Wilhelm",
+                    "lastName": "Ebeling",
+                    "fullName": "Ebeling, Hans-Wilhelm (1934\u2013)",
+                    "id": 57573,
+                    "comment": "",
+                    "dateBirth": "15.1.1934",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Ebeling, Hans-Wilhelm"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Rainer",
+                    "lastName": "Eppelmann",
+                    "fullName": "Eppelmann, Rainer (1943\u2013)",
+                    "id": 57572,
+                    "comment": "",
+                    "dateBirth": "12.2.1943",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Eppelmann, Rainer"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Lothar de",
+                    "lastName": "Maizière",
+                    "fullName": "Maizière, Lothar de (1940\u2013)",
+                    "id": 54809,
+                    "comment": "",
+                    "dateBirth": "2.3.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14452,
+                    "birthPlaceText": "Nordhausen ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Maizière, Lothar de"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Kurt",
+                    "lastName": "Wünsche",
+                    "fullName": "Wünsche, Kurt (1929\u2013)",
+                    "id": 57575,
+                    "comment": "",
+                    "dateBirth": "14.12.1929",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Wünsche, Kurt"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33496,
+                    "name": "Netherlands/Embassy in Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 6991,
+                    "name": "Netherlands/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 88,
+                    "placeText": "The Hague",
+                    "hq": "La Haye",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2345,
+                    "name": "Deutschland/BRD/Christlich Demokratische Union Deutschlands",
+                    "comment": "Polit. Partei, gegr. im Mai 1945 in Berlin sowie im Juni 1945 im Rheinland, organisierte sich seit Dez. 1945 auf der Ebene der Besatzungszonen und der neugeschaffenen dt. Länder. Nach der Gründung der BRD (1949) schlossen sich die in den drei westl. Besatzungszonen entstandenen Landesverbände 1950 auf Bundesebene unter dem Vorsitz von K. Adenauer (1955-66) zusammen, cf. Brockhaus Enzyklopädie, Mannheim 1987 (19. Auflage), Bd. 4, S. 552f. Siehe auch DDR/CDU.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33498,
+                    "name": "Deutschland/DDR/Innenministerium",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3944,
+                    "name": "Deutschland/DDR/Liberal-Demokratische Partei Deutschlands (Ost) (1949-1990)",
+                    "comment": "Vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 544ff. Eine der DDR-Blockparteien. Sie existierte bis 1990 und ging im selben Jahr in der bundesdeutschen FDP auf. -",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33484,
+                    "name": "Germany/FRG/Parliament/FDP faction",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32007,
+                    "name": "Germany/GDR/Democratic Awakening",
+                    "comment": "Zunächst eine politische Gruppierung in der DDR, welche sich während der Zeit der Wende (1989/90) konstituierte. Sie trat dem Wahlbündnis \"Allianz für Deutschland\" bei und fusionierte am 4.8.1990 mit der Christlich-Demokratischen Union Deutschlands (DDR), dodis.ch/R3942. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32023,
+                    "name": "Germany/GDR/Democratic Farmers' Party of Germany",
+                    "comment": "Die DBD war eine der Blockparteien der DDR, welche 1948 in der Sowjetischen Besatzungszone in Deutschland gegründet wurde. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31996,
+                    "name": "Germany/GDR/German Social Union",
+                    "comment": "Rechtskonservative Kleinpartei, welche als Teil des Wahlbündnisses \"Allianz für Deutschland\" während der Wendezeit an der letzten DDR-Regierung beteiligt war.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 22780,
+                    "name": "Germany/GDR/Ministry for State Security",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ostberlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33502,
+                    "name": "Germany/GDR/Ministry of Economic Cooperation",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3942,
+                    "name": "SED",
+                    "comment": "Zusammenschluss der KPD und der SPD der deutschen Ostzone am 22.4.1946 in Ostberlin, vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 481.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 131,
+                    "name": "USSR/Government",
+                    "comment": "Die Regierung der Sowjetunion hiess zwischen 1946 und 1990 Ministerrat der UdSSR. Von 1923 bis 1946 hiess sie Rat der Volkskommissare.",
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Moscou",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 88,
+                    "name": "The Hague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.070500,
+                    "longitude": 4.300700,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 936,
+                    "name": "Eastern Bloc states",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 862,
+                    "name": "Munich",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.135124,
+                    "longitude": 11.581981,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Egbert",
+                    "lastName": "Jacobs",
+                    "fullName": "Jacobs, Egbert (1945\u2013)",
+                    "id": 57545,
+                    "comment": "",
+                    "dateBirth": "1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Jacobs, Egbert",
+                        "Jacobs, Egbert Frederik"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "adressee": [
+                {
+                    "firstName": "Hans",
+                    "lastName": "van den Broek",
+                    "fullName": "van den Broek, Hans (1936\u2013)",
+                    "id": 57462,
+                    "comment": "",
+                    "dateBirth": "11.12.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "van den Broek, Henri",
+                        "van den Broek, Hans"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Egbert",
+                    "lastName": "Jacobs",
+                    "fullName": "Jacobs, Egbert (1945\u2013)",
+                    "id": 57545,
+                    "comment": "",
+                    "dateBirth": "1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Jacobs, Egbert",
+                        "Jacobs, Egbert Frederik"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Peter-Michael",
+                    "lastName": "Diestel",
+                    "fullName": "Diestel, Peter-Michael (1952\u2013)",
+                    "id": 57574,
+                    "comment": "",
+                    "dateBirth": "14.2.1952",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Diestel, Peter-Michael"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Hans-Wilhelm",
+                    "lastName": "Ebeling",
+                    "fullName": "Ebeling, Hans-Wilhelm (1934\u2013)",
+                    "id": 57573,
+                    "comment": "",
+                    "dateBirth": "15.1.1934",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Ebeling, Hans-Wilhelm"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Rainer",
+                    "lastName": "Eppelmann",
+                    "fullName": "Eppelmann, Rainer (1943\u2013)",
+                    "id": 57572,
+                    "comment": "",
+                    "dateBirth": "12.2.1943",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Eppelmann, Rainer"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Lothar de",
+                    "lastName": "Maizière",
+                    "fullName": "Maizière, Lothar de (1940\u2013)",
+                    "id": 54809,
+                    "comment": "",
+                    "dateBirth": "2.3.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14452,
+                    "birthPlaceText": "Nordhausen ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Maizière, Lothar de"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Kurt",
+                    "lastName": "Wünsche",
+                    "fullName": "Wünsche, Kurt (1929\u2013)",
+                    "id": 57575,
+                    "comment": "",
+                    "dateBirth": "14.12.1929",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Wünsche, Kurt"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33496,
+                    "name": "Netherlands/Embassy in Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 6991,
+                    "name": "Netherlands/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 88,
+                    "placeText": "The Hague",
+                    "hq": "La Haye",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 2345,
+                    "name": "Deutschland/BRD/Christlich Demokratische Union Deutschlands",
+                    "comment": "Polit. Partei, gegr. im Mai 1945 in Berlin sowie im Juni 1945 im Rheinland, organisierte sich seit Dez. 1945 auf der Ebene der Besatzungszonen und der neugeschaffenen dt. Länder. Nach der Gründung der BRD (1949) schlossen sich die in den drei westl. Besatzungszonen entstandenen Landesverbände 1950 auf Bundesebene unter dem Vorsitz von K. Adenauer (1955-66) zusammen, cf. Brockhaus Enzyklopädie, Mannheim 1987 (19. Auflage), Bd. 4, S. 552f. Siehe auch DDR/CDU.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33498,
+                    "name": "Deutschland/DDR/Innenministerium",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3944,
+                    "name": "Deutschland/DDR/Liberal-Demokratische Partei Deutschlands (Ost) (1949-1990)",
+                    "comment": "Vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 544ff. Eine der DDR-Blockparteien. Sie existierte bis 1990 und ging im selben Jahr in der bundesdeutschen FDP auf. -",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4180,
+                    "name": "Germany/FRG/Government",
+                    "comment": "Cf. dodis.ch/13897, p.172, 177.\r\nCf. UEK, Öffentliches Recht, 2001 dodis.ch/13984, Aufsatz Frowein.\r\nCf. Online-Version der Edition \"Die Kabinettsprotokolle der Bundesregierung\", cf. URL(519372)",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33484,
+                    "name": "Germany/FRG/Parliament/FDP faction",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32007,
+                    "name": "Germany/GDR/Democratic Awakening",
+                    "comment": "Zunächst eine politische Gruppierung in der DDR, welche sich während der Zeit der Wende (1989/90) konstituierte. Sie trat dem Wahlbündnis \"Allianz für Deutschland\" bei und fusionierte am 4.8.1990 mit der Christlich-Demokratischen Union Deutschlands (DDR), dodis.ch/R3942. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32023,
+                    "name": "Germany/GDR/Democratic Farmers' Party of Germany",
+                    "comment": "Die DBD war eine der Blockparteien der DDR, welche 1948 in der Sowjetischen Besatzungszone in Deutschland gegründet wurde. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31996,
+                    "name": "Germany/GDR/German Social Union",
+                    "comment": "Rechtskonservative Kleinpartei, welche als Teil des Wahlbündnisses \"Allianz für Deutschland\" während der Wendezeit an der letzten DDR-Regierung beteiligt war.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 22780,
+                    "name": "Germany/GDR/Ministry for State Security",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ostberlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33502,
+                    "name": "Germany/GDR/Ministry of Economic Cooperation",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3942,
+                    "name": "SED",
+                    "comment": "Zusammenschluss der KPD und der SPD der deutschen Ostzone am 22.4.1946 in Ostberlin, vgl. Martin Broszat et al. (Hg.), SBZ Handbuch, S. 481.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 131,
+                    "name": "USSR/Government",
+                    "comment": "Die Regierung der Sowjetunion hiess zwischen 1946 und 1990 Ministerrat der UdSSR. Von 1923 bis 1946 hiess sie Rat der Volkskommissare.",
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": "Moscou",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 88,
+                    "name": "The Hague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.070500,
+                    "longitude": 4.300700,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 936,
+                    "name": "Eastern Bloc states",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 862,
+                    "name": "Munich",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.135124,
+                    "longitude": 11.581981,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

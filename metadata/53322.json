@@ -1,0 +1,1019 @@
+{
+    "total": null,
+    "data": {
+        "id": 53322,
+        "title": "No 58/2",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "13.6.1990",
+        "documentDateDayOfWeek": "Wednesday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Report regarding the joint meeting held by the Mayors of East and West Berlin.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 1,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 99910,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101740,
+                "tagId": 327,
+                "name": "Turkey (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.099.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Turkey (Politics)",
+                    "Turchia (Politica)",
+                    "Türkei (Politik)",
+                    "Turquie (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Turquie (Politique)",
+                "deName": "Türkei (Politik)",
+                "enName": "Turkey (Politics)",
+                "itName": "Turchia (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101741,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101742,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59380,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Turkish Diplomatic Archives",
+                "archiveCode": "TR-DA",
+                "box": null,
+                "aisCode": "3181295",
+                "dossierId": 31492,
+                "hasPdf": null,
+                "original": false,
+                "archiveUrl": "",
+                "archivePlace": "Ankara",
+                "id": 59380
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16461,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "50"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36107,
+                "sort": 0,
+                "attachment": {
+                    "id": 36370,
+                    "attachmentId": 36370,
+                    "date": "",
+                    "fileRef": "dodis-53322-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53322-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59380,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37067,
+                "sort": 0,
+                "attachment": {
+                    "id": 37284,
+                    "attachmentId": 37284,
+                    "date": "",
+                    "fileRef": "dodis-53322-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53322-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53322\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53322<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_3_1_1_2_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_3\">1<\/a><\/span> from the Turkish Ambassador in East\n                  Berlin, Metin Mekik<span id=\"fnref_1_3_1_1_2_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_5\">2<\/a><\/span>, to the Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n                    <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Normal<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 13 June 1990, 12.00<\/div>\n            <\/div>\n                    <p class=\"tei-p1 tei-p1\">For the first time in 42 years, the mayors of East Berlin and West Berlin held\n               a joint meeting in the \u201cRote Rathaus (Red Municipal Building)\u201d on Tuesday, 12\n               June.<\/p>\n                    <p class=\"tei-p2 tei-p\">East Berlin Mayor Tino Schwierzina<span id=\"fnref_1_3_1_1_5_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_2\">3<\/a><\/span> (SPD) and West Berlin Mayor Walter Momper<span id=\"fnref_1_3_1_1_5_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_4\">4<\/a><\/span> (SPD) have underlined the historical nature of the\n               meeting and stated that they decided to meet in the same building every\n               fortnight.<\/p>\n                    <p class=\"tei-p2 tei-p\">The demolition of the Berlin Wall and holding the Olympic Games in Berlin in the year\n               2000 were the main topics discussed at the meetings between the two mayors.<\/p>\n                    <p class=\"tei-p2 tei-p\">In fact, the demolition of the Berlin Wall has begun as of today (13 June). Momper\n               announced that border controls between Berlin\u2019s two sides will be eliminated as of 1\n               July 1990. The mayors declared that the unification of Berlin will be completed\n               following the election of the joint city council and emphasized that the unified\n               Berlin should be the capital of the new and united Germany.<\/p>\n                    <p class=\"tei-p2 tei-p\">As you may recall, after World War II, Berlin City Council convened for the first\n               time on 21 May 1945 and elected engineer Dr Arthur Werner<span id=\"fnref_1_3_1_1_8_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_8_2\">5<\/a><\/span>, aged 70, as mayor.<\/p>\n                    <p class=\"tei-p2 tei-p\">Three years later, the joint city council was included in the British Occupation\n               Region. Upon this, a separate municipality was established in East Berlin, which was\n               under the occupation of the USSR, and Friedrich Ebert<span id=\"fnref_1_3_1_1_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_2\">6<\/a><\/span> was elected as the\n               first mayor on 30 November 1948.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 58/2 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archive 3181295<\/span>. Copy to the\n                  Turkish Embassy in Bonn. Reference: <span class=\"tei-idno tei-idno\">our communication dated 4 May 1990\n                     and numbered 0584/446-228<\/span>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador\n                     in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Tino Schwierzina (1927\u20132003),\n               <a href=\"https://dodis.ch/P57536\" class=\"tei-ref7 tei-link\">dodis.ch/P57536<\/a>, Mayor of East\n               Berlin 30.5.1990\u201311.1.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Walter Momper (*1945), <a href=\"https://dodis.ch/P57440\" class=\"tei-ref7 tei-link\">dodis.ch/P57440<\/a>, Governing Mayor of West Berlin\n                  16.2.1989\u201324.1.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_8_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Arthur\n                  Werner (1877\u20131967), <a href=\"https://dodis.ch/P57537\" class=\"tei-ref7 tei-link\">dodis.ch/P57537<\/a>,\n                  Mayor of Berlin 17.5.1945\u20135.12.1946.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_8_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Friedrich\n                  Ebert Jr. (1894\u20131979), <a href=\"https://dodis.ch/P57539\" class=\"tei-ref7 tei-link\">dodis.ch/P57539<\/a>, Mayor of East Berlin 1948\u20131967.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59380,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 37006,
+                "sort": 0,
+                "attachment": {
+                    "id": 37255,
+                    "attachmentId": 37255,
+                    "date": "",
+                    "fileRef": "dodis-53322.xml",
+                    "fileRefThumbnail": "thumb_dodis-53322.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59380,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36789,
+                "sort": 0,
+                "attachment": {
+                    "id": 37047,
+                    "attachmentId": 37047,
+                    "date": "",
+                    "fileRef": "dodis-53322-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53322-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59380,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34868,
+                "sort": 0,
+                "attachment": {
+                    "id": 35177,
+                    "attachmentId": 35177,
+                    "date": "",
+                    "fileRef": "dodis-53322.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53322.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59380,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Friedrich",
+                    "lastName": "Ebert junior",
+                    "fullName": "Ebert junior, Friedrich (1894\u20131979)",
+                    "id": 57539,
+                    "comment": "",
+                    "dateBirth": "12.9.1894",
+                    "dateDeath": "4.12.1979",
+                    "wikidataId": "",
+                    "birthPlaceId": 2546,
+                    "birthPlaceText": "Bremen",
+                    "deathPlaceId": 3061,
+                    "deathPlaceText": "East Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Ebert junior, Friedrich",
+                        "Ebert, Fritz"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Walter",
+                    "lastName": "Momper",
+                    "fullName": "Momper, Walter (1945\u2013)",
+                    "id": 57440,
+                    "comment": "",
+                    "dateBirth": "21.2.1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Momper, Walter"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Tino",
+                    "lastName": "Schwierzina",
+                    "fullName": "Schwierzina, Tino (1927\u20132003)",
+                    "id": 57536,
+                    "comment": "",
+                    "dateBirth": "30.5.1927",
+                    "dateDeath": "29.12.2003",
+                    "wikidataId": "",
+                    "birthPlaceId": 5985,
+                    "birthPlaceText": "Königshütte",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Schwierzina, Tino Antoni",
+                        "Schwierzina, Tino"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Arthur",
+                    "lastName": "Werner",
+                    "fullName": "Werner, Arthur (1877\u20131967)",
+                    "id": 57537,
+                    "comment": "",
+                    "dateBirth": "15.4.1877",
+                    "dateDeath": "27.7.1967",
+                    "wikidataId": "",
+                    "birthPlaceId": 25,
+                    "birthPlaceText": "Berlin",
+                    "deathPlaceId": 3581,
+                    "deathPlaceText": "West Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Werner, Arthur"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8171,
+                    "name": "Berlin/City Council",
+                    "comment": null,
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32011,
+                    "name": "Deutschland/DDR/Sozialdemokratische Partei in der DDR",
+                    "comment": "1989 wurde die Sozialdemokratische Partei in der DDR (SDP) im Zuge der Wendezeit gegründet und vereinigte sich kurz vor der Wiedervereinigung Deutschlands am 26.10.1990 mit der Sozialdemokratischen Partei Deutschlands (SPD) der Bundesrepublik, dodis.ch/R4141. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5600,
+                    "name": "East Berlin/City Council",
+                    "comment": "Stadtverordnetenversammlung = kommunales Parlament 1809-1990 (1948-1991 nur Ost-Berlin)",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9417,
+                    "name": "East Berlin/Magistrat",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14,
+                    "name": "United Kingdom",
+                    "comment": "",
+                    "countryCode": "GB",
+                    "regionCode": null,
+                    "latitude": 55.378050,
+                    "longitude": -3.435973,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Friedrich",
+                    "lastName": "Ebert junior",
+                    "fullName": "Ebert junior, Friedrich (1894\u20131979)",
+                    "id": 57539,
+                    "comment": "",
+                    "dateBirth": "12.9.1894",
+                    "dateDeath": "4.12.1979",
+                    "wikidataId": "",
+                    "birthPlaceId": 2546,
+                    "birthPlaceText": "Bremen",
+                    "deathPlaceId": 3061,
+                    "deathPlaceText": "East Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Ebert junior, Friedrich",
+                        "Ebert, Fritz"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Walter",
+                    "lastName": "Momper",
+                    "fullName": "Momper, Walter (1945\u2013)",
+                    "id": 57440,
+                    "comment": "",
+                    "dateBirth": "21.2.1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Momper, Walter"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Tino",
+                    "lastName": "Schwierzina",
+                    "fullName": "Schwierzina, Tino (1927\u20132003)",
+                    "id": 57536,
+                    "comment": "",
+                    "dateBirth": "30.5.1927",
+                    "dateDeath": "29.12.2003",
+                    "wikidataId": "",
+                    "birthPlaceId": 5985,
+                    "birthPlaceText": "Königshütte",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Schwierzina, Tino Antoni",
+                        "Schwierzina, Tino"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Arthur",
+                    "lastName": "Werner",
+                    "fullName": "Werner, Arthur (1877\u20131967)",
+                    "id": 57537,
+                    "comment": "",
+                    "dateBirth": "15.4.1877",
+                    "dateDeath": "27.7.1967",
+                    "wikidataId": "",
+                    "birthPlaceId": 25,
+                    "birthPlaceText": "Berlin",
+                    "deathPlaceId": 3581,
+                    "deathPlaceText": "West Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Werner, Arthur"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8171,
+                    "name": "Berlin/City Council",
+                    "comment": null,
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32011,
+                    "name": "Deutschland/DDR/Sozialdemokratische Partei in der DDR",
+                    "comment": "1989 wurde die Sozialdemokratische Partei in der DDR (SDP) im Zuge der Wendezeit gegründet und vereinigte sich kurz vor der Wiedervereinigung Deutschlands am 26.10.1990 mit der Sozialdemokratischen Partei Deutschlands (SPD) der Bundesrepublik, dodis.ch/R4141. ",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5600,
+                    "name": "East Berlin/City Council",
+                    "comment": "Stadtverordnetenversammlung = kommunales Parlament 1809-1990 (1948-1991 nur Ost-Berlin)",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9417,
+                    "name": "East Berlin/Magistrat",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14,
+                    "name": "United Kingdom",
+                    "comment": "",
+                    "countryCode": "GB",
+                    "regionCode": null,
+                    "latitude": 55.378050,
+                    "longitude": -3.435973,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

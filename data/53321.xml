@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53321</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53321">dodis.ch/53321</ref>
+               <title type="main">Telegram<note xml:id="e1217">Telegram No. 386 (copy, translated
+                     from Turkish): <idno>Turkish Diplomatic Archive 3211299</idno>. Reference:
+                        <idno>our non-confidential telegram numbered 1481</idno>.</note> from the
+                  Turkish Ambassador in Bonn, Reşat Arim<note xml:id="e1220">Reşat Arim (1931–2017),
+                        <ref target="https://dodis.ch/P53697">dodis.ch/P53697</ref>, Turkish
+                     Ambassador in Bonn 31.8.1988–26.11.1990.</note>, to the Turkish Ministry of
+                  Foreign Affairs</title>
+            </head>
+            <opener>
+               <add>Urgent</add>
+               <dateline>Bonn, 11 November 1989, 10.00 a.m.</dateline>
+            </opener>
+            <p/>
+            <p n="1">Having returned from Berlin, Chancellor Kohl<note xml:id="e1235">Helmut Kohl
+                  (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>,
+                  Chancellor of the FRG 1.10.1982–27.10.1998.</note> made a statement about the
+               developments in the German Democratic Republic in the press conference organized
+               following the cabinet meeting.</p>
+            <p>Having stated that the Federal Government had summoned the State and Party
+               Administration of the German Democratic Republic to open their gates for a radical
+               change in the fields of state, economy and society, Kohl reiterated that they are
+               ready for assistance. He also declared that he had had a detailed phone conversation
+               with Krenz<note xml:id="e1243">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>, General Secretary of
+                  the SED 18.10.1989–3.12.1989 and Chairman of the GDR State Council
+                  18.10.1989–6.12.1989.</note>, the leader of the German Democratic Republic and
+               that he had informed Krenz about his appreciation of their decision concerning the
+               opening of the borders, that they agreed upon a visit by Federal Minister
+                  Seiters<note xml:id="e1249">Rudolf Seiters (*1937), <ref target="https://dodis.ch/P57431">dodis.ch/P57431</ref>, Chief of Staff of the
+                  Chancellery and Minister of Special Affairs of the FRG
+                  21.4.1989–26.11.1991.</note> to Berlin on 20 November to conduct preparatory
+               meetings with the Administration of the German Democratic Republic and that Seiters
+               would meet with Krenz and the Prime Minister of the German Democratic Republic<note xml:id="e1255">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR Council of Ministers
+                  13.11.1989–12.4.1990.</note>, who will have been elected by then. He noted that
+               they would want to know in these meetings the concrete steps which the Administration
+               of the German Democratic Republic intend to take, especially how and when they will
+               organize the free elections which have been announced. He also stated that Krenz and
+               he decided to meet somewhere outside East Berlin in the German Democratic
+               Republic.</p>
+            <p>Having indicated that he had also had telephone conversations with President
+                  Bush<note xml:id="e1263">George Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United
+                  States, 20.1.1989–20.1.1993.</note>, President Mitterrand<note xml:id="e1269">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France 21.5.1981–17.5.1995.</note> and
+               Prime Minister Thatcher<note xml:id="e1275">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  United Kingdom 4.5.1979–28.11.1990.</note>, Kohl also declared that he informed
+               his colleagues about his visit to Poland and he mentioned his first impressions of
+               the opening of the Berlin Wall, that he was in constant contact with Gorbachev<note xml:id="e1281">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union 15.3.1990–25.12.1991.</note>
+               and that he had notified Gorbachev by telephone an hour earlier about his assessment
+               of the situation.</p>
+            <p>Having reported that Germans from the German Democratic Republic were still coming to
+               stay in the Federal Republic of Germany despite the first indications of change in
+               the German Democratic Republic, Kohl said, “I absolutely object to the fact that the
+               notable social democrats now try to provoke embarrassingly the excitement and
+               feelings against these citizens”, and called on the public for help. He also declared
+               that there was still a long way to go to reach the target and that all the Germans
+               had not yet gained the right to self-determination and he recommended being
+               moderate.</p>
+            <p>At the end of the press conference, Kohl reported that he would resume his visit by
+               returning to Warsaw that afternoon.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

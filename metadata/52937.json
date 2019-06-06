@@ -1,0 +1,1441 @@
+{
+    "total": null,
+    "data": {
+        "id": 52937,
+        "title": "No. ZQR1482. The Berlin Game \u2013 The Morning After",
+        "langCode": "en",
+        "language": "English",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "15.11.1989",
+        "documentDateDayOfWeek": "Wednesday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Observations on the mood in East Berlin in the immediate aftermath of the opening of the Berlin Wall.",
+        "publicationYear": "1989",
+        "canShowAtPresentDate": true,
+        "pagesCount": 5,
+        "classification": "CONFIDENTIAL",
+        "classificationText": "confidential",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98266,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101665,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101666,
+                "tagId": 178,
+                "name": "Canada (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.019.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Kanada (Politik)",
+                    "Canada (Politique)",
+                    "Canada (Politics)",
+                    "Canada (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Canada (Politique)",
+                "deName": "Kanada (Politik)",
+                "enName": "Canada (Politics)",
+                "itName": "Canada (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101667,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59328,
+                "dossierTitle": "Germany / Confidential",
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Global Affairs Canada",
+                "archiveCode": "CA-GA",
+                "box": null,
+                "aisCode": "file 25-3-5",
+                "dossierId": 31465,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "Ottawa",
+                "id": 59328
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16401,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "19"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36355,
+                "sort": 0,
+                "attachment": {
+                    "id": 36616,
+                    "attachmentId": 36616,
+                    "date": "",
+                    "fileRef": "dodis-52937-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52937-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59328,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37031,
+                "sort": 0,
+                "attachment": {
+                    "id": 36313,
+                    "attachmentId": 36313,
+                    "date": "",
+                    "fileRef": "dodis-52937.xml",
+                    "fileRefThumbnail": "thumb_dodis-52937.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59328,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36753,
+                "sort": 0,
+                "attachment": {
+                    "id": 37011,
+                    "attachmentId": 37011,
+                    "date": "",
+                    "fileRef": "dodis-52937-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52937-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59328,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34861,
+                "sort": 0,
+                "attachment": {
+                    "id": 35170,
+                    "attachmentId": 35170,
+                    "date": "",
+                    "fileRef": "dodis-52937.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52937.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59328,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Thomas W.",
+                    "lastName": "Delworth",
+                    "fullName": "Delworth, Thomas W. (1929\u20132012)",
+                    "id": 51338,
+                    "comment": "",
+                    "dateBirth": "24.2.1929",
+                    "dateDeath": "29.10.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Delworth, Thomas W.",
+                        "Delworth, William Thomas"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Thomas W.",
+                    "lastName": "Delworth",
+                    "fullName": "Delworth, Thomas W. (1929\u20132012)",
+                    "id": 51338,
+                    "comment": "",
+                    "dateBirth": "24.2.1929",
+                    "dateDeath": "29.10.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Delworth, Thomas W.",
+                        "Delworth, William Thomas"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Anthony",
+                    "lastName": "Advokaat",
+                    "fullName": "Advokaat, Anthony",
+                    "id": 57645,
+                    "comment": "",
+                    "dateBirth": "",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Advokaat, Anthony"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "François",
+                    "lastName": "Cann",
+                    "fullName": "Cann, François (1932\u2013)",
+                    "id": 57446,
+                    "comment": "",
+                    "dateBirth": "13.5.1932",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Cann, François"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Robert",
+                    "lastName": "Corbett",
+                    "fullName": "Corbett, Robert (1940\u2013)",
+                    "id": 57445,
+                    "comment": "",
+                    "dateBirth": "16.5.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Corbett, Robert",
+                        "Corbett, Robert John Swan",
+                        "Corbett, Robert J. S."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Thomas W.",
+                    "lastName": "Delworth",
+                    "fullName": "Delworth, Thomas W. (1929\u20132012)",
+                    "id": 51338,
+                    "comment": "",
+                    "dateBirth": "24.2.1929",
+                    "dateDeath": "29.10.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Delworth, Thomas W.",
+                        "Delworth, William Thomas"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Raymond E.",
+                    "lastName": "Haddock",
+                    "fullName": "Haddock, Raymond E. (1936\u2013)",
+                    "id": 57444,
+                    "comment": "",
+                    "dateBirth": "26.9.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Haccock, Raymond Earl",
+                        "Haddock, Raymond E."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Walter",
+                    "lastName": "Momper",
+                    "fullName": "Momper, Walter (1945\u2013)",
+                    "id": 57440,
+                    "comment": "",
+                    "dateBirth": "21.2.1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Momper, Walter"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Günter",
+                    "lastName": "Schabowski",
+                    "fullName": "Schabowski, Günter (1929\u20132015)",
+                    "id": 56902,
+                    "comment": "",
+                    "dateBirth": "4.1.1929",
+                    "dateDeath": "1.11.2015",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Schabowski, Günter",
+                        "Schabovsky, Günther"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 23945,
+                    "name": "Canada/Embassy in Berlin (1999-",
+                    "comment": "",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 821,
+                    "name": "Canada/Global Affairs",
+                    "comment": null,
+                    "placeId": 169,
+                    "placeText": "Ottawa",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 1508,
+                    "name": "British Military Government in Germany",
+                    "comment": "\r\n________________________\r\n\r\nInfo UEK/CIE/ICE (URL(519117)deutsch URL(519118)français URL(519119)italiano URL(519120)english):\r\n\r\nCf. aussi Organisation \"Britische Kontrollkommission für Deutschland (brit. Zone)\".",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11201,
+                    "name": "Deutschland/BRD/Polizei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32025,
+                    "name": "Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Politbüro des ZK der SED",
+                    "comment": "Das Politbüro des Zentralkomitees stellte das höchste Führungsgremium und das eigentliche politische Machtzentrum innerhalb der Sozialistischen Einheitspartei Deutschlands (SED) in der DDR dar. Seine Mitglieder wurden jeweils vom Zentalkomitee der SED gewählt.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1557,
+                    "name": "France/Occupation authority in Germany",
+                    "comment": "Cf. B. Bonhage, Bodenkreditanstalt, 2001 dodis.ch/13987, 74.",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31997,
+                    "name": "Germany/FRG/The Greens",
+                    "comment": "Polit. Partei in der Bundesrepublik Deutschland, gegründet am 13.1.1980.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9541,
+                    "name": "Tagesspiegel",
+                    "comment": "Westdeutsche Zeitung",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 803,
+                    "name": "USA/Office of Military Government for Germany",
+                    "comment": "Cette catégorie regroupe toutes les instances mises en place par les Etats-Unis pour garantir l'administration dans leur zone de l'Allemagne occupée.\r\nCf. OMGUS-Handbuch. Die Militärregierung in Deutschland 1945-1949, Hg. v. C. Weisz, 1995, Oldenbourg, Quellen und Darstellungen zur Zeitgeschichte, 35.",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 169,
+                    "name": "Ottawa",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.421528,
+                    "longitude": -75.697190,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5265,
+                    "name": "Brandenburger Tor",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.516273,
+                    "longitude": 13.377704,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 73,
+                    "name": "Czechoslovakia",
+                    "comment": "",
+                    "countryCode": "CSHH",
+                    "regionCode": null,
+                    "latitude": 50.083333,
+                    "longitude": 14.416667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 13,
+                    "name": "France",
+                    "comment": "",
+                    "countryCode": "FR",
+                    "regionCode": null,
+                    "latitude": 46.227640,
+                    "longitude": 2.213749,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20,
+                    "name": "Hungary",
+                    "comment": " ",
+                    "countryCode": "HU",
+                    "regionCode": null,
+                    "latitude": 47.162495,
+                    "longitude": 19.503304,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14,
+                    "name": "United Kingdom",
+                    "comment": "",
+                    "countryCode": "GB",
+                    "regionCode": null,
+                    "latitude": 55.378050,
+                    "longitude": -3.435973,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11,
+                    "name": "United States of America (1776-)",
+                    "comment": "",
+                    "countryCode": "US",
+                    "regionCode": null,
+                    "latitude": 37.090240,
+                    "longitude": -95.712890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Thomas W.",
+                    "lastName": "Delworth",
+                    "fullName": "Delworth, Thomas W. (1929\u20132012)",
+                    "id": 51338,
+                    "comment": "",
+                    "dateBirth": "24.2.1929",
+                    "dateDeath": "29.10.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Delworth, Thomas W.",
+                        "Delworth, William Thomas"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Thomas W.",
+                    "lastName": "Delworth",
+                    "fullName": "Delworth, Thomas W. (1929\u20132012)",
+                    "id": 51338,
+                    "comment": "",
+                    "dateBirth": "24.2.1929",
+                    "dateDeath": "29.10.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Delworth, Thomas W.",
+                        "Delworth, William Thomas"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Anthony",
+                    "lastName": "Advokaat",
+                    "fullName": "Advokaat, Anthony",
+                    "id": 57645,
+                    "comment": "",
+                    "dateBirth": "",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Advokaat, Anthony"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "François",
+                    "lastName": "Cann",
+                    "fullName": "Cann, François (1932\u2013)",
+                    "id": 57446,
+                    "comment": "",
+                    "dateBirth": "13.5.1932",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Cann, François"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Robert",
+                    "lastName": "Corbett",
+                    "fullName": "Corbett, Robert (1940\u2013)",
+                    "id": 57445,
+                    "comment": "",
+                    "dateBirth": "16.5.1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Corbett, Robert",
+                        "Corbett, Robert John Swan",
+                        "Corbett, Robert J. S."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Thomas W.",
+                    "lastName": "Delworth",
+                    "fullName": "Delworth, Thomas W. (1929\u20132012)",
+                    "id": 51338,
+                    "comment": "",
+                    "dateBirth": "24.2.1929",
+                    "dateDeath": "29.10.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Delworth, Thomas W.",
+                        "Delworth, William Thomas"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Raymond E.",
+                    "lastName": "Haddock",
+                    "fullName": "Haddock, Raymond E. (1936\u2013)",
+                    "id": 57444,
+                    "comment": "",
+                    "dateBirth": "26.9.1936",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Haccock, Raymond Earl",
+                        "Haddock, Raymond E."
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Walter",
+                    "lastName": "Momper",
+                    "fullName": "Momper, Walter (1945\u2013)",
+                    "id": 57440,
+                    "comment": "",
+                    "dateBirth": "21.2.1945",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Momper, Walter"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Günter",
+                    "lastName": "Schabowski",
+                    "fullName": "Schabowski, Günter (1929\u20132015)",
+                    "id": 56902,
+                    "comment": "",
+                    "dateBirth": "4.1.1929",
+                    "dateDeath": "1.11.2015",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Schabowski, Günter",
+                        "Schabovsky, Günther"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 23945,
+                    "name": "Canada/Embassy in Berlin (1999-",
+                    "comment": "",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 821,
+                    "name": "Canada/Global Affairs",
+                    "comment": null,
+                    "placeId": 169,
+                    "placeText": "Ottawa",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 1508,
+                    "name": "British Military Government in Germany",
+                    "comment": "\r\n________________________\r\n\r\nInfo UEK/CIE/ICE (URL(519117)deutsch URL(519118)français URL(519119)italiano URL(519120)english):\r\n\r\nCf. aussi Organisation \"Britische Kontrollkommission für Deutschland (brit. Zone)\".",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11201,
+                    "name": "Deutschland/BRD/Polizei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4141,
+                    "name": "Deutschland/BRD/Sozialdemokratische Partei (1946-)",
+                    "comment": "Cf. dodis.ch/13899, p. 80.\n\nIst die Nachfolgeorganisation von dodis.ch/R9483.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32025,
+                    "name": "Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Politbüro des ZK der SED",
+                    "comment": "Das Politbüro des Zentralkomitees stellte das höchste Führungsgremium und das eigentliche politische Machtzentrum innerhalb der Sozialistischen Einheitspartei Deutschlands (SED) in der DDR dar. Seine Mitglieder wurden jeweils vom Zentalkomitee der SED gewählt.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1557,
+                    "name": "France/Occupation authority in Germany",
+                    "comment": "Cf. B. Bonhage, Bodenkreditanstalt, 2001 dodis.ch/13987, 74.",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31997,
+                    "name": "Germany/FRG/The Greens",
+                    "comment": "Polit. Partei in der Bundesrepublik Deutschland, gegründet am 13.1.1980.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9541,
+                    "name": "Tagesspiegel",
+                    "comment": "Westdeutsche Zeitung",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 803,
+                    "name": "USA/Office of Military Government for Germany",
+                    "comment": "Cette catégorie regroupe toutes les instances mises en place par les Etats-Unis pour garantir l'administration dans leur zone de l'Allemagne occupée.\r\nCf. OMGUS-Handbuch. Die Militärregierung in Deutschland 1945-1949, Hg. v. C. Weisz, 1995, Oldenbourg, Quellen und Darstellungen zur Zeitgeschichte, 35.",
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": "Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 169,
+                    "name": "Ottawa",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.421528,
+                    "longitude": -75.697190,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5265,
+                    "name": "Brandenburger Tor",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.516273,
+                    "longitude": 13.377704,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 73,
+                    "name": "Czechoslovakia",
+                    "comment": "",
+                    "countryCode": "CSHH",
+                    "regionCode": null,
+                    "latitude": 50.083333,
+                    "longitude": 14.416667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 13,
+                    "name": "France",
+                    "comment": "",
+                    "countryCode": "FR",
+                    "regionCode": null,
+                    "latitude": 46.227640,
+                    "longitude": 2.213749,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20,
+                    "name": "Hungary",
+                    "comment": " ",
+                    "countryCode": "HU",
+                    "regionCode": null,
+                    "latitude": 47.162495,
+                    "longitude": 19.503304,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1858,
+                    "name": "The West",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.691160,
+                    "longitude": -85.478300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 14,
+                    "name": "United Kingdom",
+                    "comment": "",
+                    "countryCode": "GB",
+                    "regionCode": null,
+                    "latitude": 55.378050,
+                    "longitude": -3.435973,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11,
+                    "name": "United States of America (1776-)",
+                    "comment": "",
+                    "countryCode": "US",
+                    "regionCode": null,
+                    "latitude": 37.090240,
+                    "longitude": -95.712890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53169</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53169">dodis.ch/53169</ref>
+               <title type="main">Telegram<note xml:id="e998">Telegram No. 0-1789/IV (incoming,
+                     translated from Polish): <idno>Archives of the Polish Ministry of Foreign
+                        Affairs AMSZ, ZD 24/91, w. 3, t. 9</idno>. Delivered by: <orig>10 November
+                        1989, 4.00 a.m.</orig></note> from the Polish Ambassador in East Berlin,
+                  Janusz Obodowski<note xml:id="e1001">Janusz Obodowski (1930–2011), <ref
+                        target="https://dodis.ch/P57588">dodis.ch/P57588</ref>, Polish Ambassador in
+                     East Berlin 1986–1990.</note>, to the Polish Minister of Foreign Affairs,
+                  Krzysztof Skubiszewski<note xml:id="e1007">Krzysztof Skubiszewski (1926–2010),
+                        <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister
+                     of Foreign Affairs 12.9.1989–26.10.1993.</note></title>
+            </head>
+            <opener>
+               <add>For immediate action</add>
+               <dateline>East Berlin, 10 November 1989, 1.00 a.m.</dateline>
+            </opener>
+            <p>Following Schabowski’s<note xml:id="e1019">Günter Schabowski (1929–2015), <ref
+                     target="https://dodis.ch/P56902">dodis.ch/P56902</ref>, member of the SED
+                  Politburo and spokesman of the GDR government 1989.</note> statement about the
+               opening of borders with the West, the border with the FRG has burst. Masses of people
+               are crossing into West Berlin. Some are moving back and forth. Rallies at the W<add
+                  type="edition">[est]</add> B<add type="edition">[erlin]</add> border.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53319</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53319">dodis.ch/53319</ref>
+               <title type="main">Memo<note xml:id="e6498">Memo (translated from Russian):
+                        <idno>Archive of the Foreign Ministry of the Russian Federation АВП РФ, ф.
+                        757, оп. 35, п. 196, д. 9, л. 151–161.</idno></note> for the Foreign
+                  Minister of the Soviet Union, Eduard Shevardnaze<note xml:id="e6501">Eduard
+                     Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603"
+                        >dodis.ch/P54603</ref>, Minister of Foreign Affairs of the Soviet Union
+                     2.7.1985–26.12.1990.</note></title>
+            </head>
+            <opener>
+               <dateline>Moscow, 6 August 1990</dateline>
+            </opener>
+            <p>This is the draft of the “Final International Legal Settlement with Germany”,
+               prepared in the light of agreements reached in Arkhyz.</p>
+            <p>As it was agreed at the experts’ meeting of the “Six” held 19 July in Bonn (after the
+               ministerial meeting in Paris), the Western participants and the Soviet side must
+               exchange their drafts of the final document before 15 August in order to facilitate
+               the work of the experts when they come to Berlin at the beginning of September to
+               agree the final text of the said document.</p>
+            <p>It would be advisable to hand our project to the rest of the “Six” participants as
+               soon as possible, at any rate before the arrival of Kastrup<note xml:id="e6515"
+                  >Dieter Kastrup (*1937), <ref target="https://dodis.ch/P57383"
+                     >dodis.ch/P57383</ref>, Political Director in the FRG Foreign Ministry,
+                  1988–1991.</note> (August 13) and especially Genscher<note xml:id="e6521"
+                  >Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414"
+                     >dodis.ch/P15414</ref>, Vice-Chancellor and Minister for Foreign Affairs of the
+                  FRG 1.10.1982–17.5.1992.</note> (August 17) in Moscow. In this case, we may
+               knowthe reaction of West Germany to the Soviet draft even before experts start
+               working in Berlin and give it due consideration.</p>
+            <p>If there are no other instructions or comments from your side, we will pass the
+               proposed draft to the embassies of the FRG, GDR and the three Western powers in
+               Moscow (with adequate translations into foreign languages).</p>
+            <p>Please approve.</p>
+            <p/>
+            <p>
+               <emph>Draft</emph>
+            </p>
+            <p/>
+            <p>
+               <emph>Final International legal settlement with Germany</emph>
+            </p>
+            <p>Preamble</p>
+            <p>The Governments of the German Democratic Republic, the Federal Republic of Germany,
+               the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and
+               Northern Ireland, the United States of America and the French Republic,</p>
+            <p>– realizing that the peoples of their states have been living in peace with each
+               other since 1945;</p>
+            <p>– taking into account the historical changes of recent time in Europe, which provide
+               an opportunity to overcome its division;</p>
+            <p>– taking into account the rights and responsibilities of the Four powers relating to
+               Germany as a whole and to Berlin, as well as respective agreements and decisions of
+               the Four powers taken during war and the post-war period;</p>
+            <p>– determined, in accordance with their obligations under the Charter of the United
+               Nations, to develop friendly relations among nations on the basis of respect for the
+               principle of equal rights and self-determination of peoples, and to take other
+               appropriate measures to strengthen universal peace;</p>
+            <p>– referring to the principles and provisions of the CSCE Helsinki Final Act;</p>
+            <p>– recognizing that these principles have laid a solid foundation for the
+               establishment of a just and to secure a peaceful arrangement in Europe;</p>
+            <p>– determined to take into consideration the security interests of all concerned;</p>
+            <p>– convinced of the need to finally overcome antagonism and develop cooperation in
+               Europe;</p>
+            <p>– reaffirming its readiness to take effective measures for the purpose of further
+               disarmament, transformation of existing military and political alliances,
+               establishment relations of trust and partnership between them, institutionalization
+               of the CSCE process, including the establishment of all-European security
+               frameworks;</p>
+            <p>– noting that the German people, freely exercising their right of self-determination,
+               have expressed their will towards building the state unity of Germany in order to
+               serve the cause of world peace as an equal and sovereign member of Europe following
+               the path of unity;</p>
+            <p>– convinced that the unification of Germany into a state with finalized borders is a
+               significant contribution to the cause of peace and stability in the conti‑ nent;</p>
+            <p>– submitted by their foreign Ministers in accordance with the Declaration of 13
+               February 1990 adopted in Ottawa, met on 5 May 1990 in Bonn, on 22 June 1990 in
+               Berlin, on 17 July 1990 in Paris … September 1990 in Moscow … In Washington and … In
+               London. The Minister of Foreign Affairs of the Republic of Poland participated in the
+               meeting 17 July 1990 in Paris.</p>
+            <p>The Governments of the participating States have agreed on the international aspects
+               of building German unity as follows.</p>
+            <p>1. The united Germany will include the territories of the German Democratic Republic,
+               the Federal Republic of Germany and the whole of Berlin. Its external borders in the
+               final analysis will become the borders of the German Democratic Republic and the
+               Federal Republic of Germany from the date of entry into force of the final
+               settlement. Confirmation of the final nature of borders is a fundamental part of the
+               peaceful order in Europe.</p>
+            <p>The united Germany and the Republic of Poland confirm the existing border between
+               them in a treaty that is binding in accordance with international law.</p>
+            <p>The united Germany has no territorial claims against other States and will not make
+               such claims in the future.</p>
+            <p>The Governments of the German Democratic Republic and the Federal Republic of Germany
+               will ensure that the Constitution of the united Germany will not contain any
+               provisions contrary to these principles. Accordingly, this applies to the provisions
+               set out in the preamble, in articles 23 (phrase 2) and 146 of the Basic Law of the
+               Federal Republic of Germany.</p>
+            <p/>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of the relevant commitments and statements made by the Government
+               of the German Democratic Republic and the Federal Republic of Germany and declare
+               that with their implementation the final character of the borders of the unified
+               Germany will be confirmed.</p>
+            <p>2. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany, on behalf of the German people proclaim that the united Germany will build
+               its policy in such a way that only peace could come from its territory. No military
+               action will be taken from its territory against anyone, either on its own or in
+               alliance with other states, except in the exercise of the legitimate right of
+               self-defense. There will also be no military activities of third States in its
+               territory directed against anyone.</p>
+            <p>The Union of Soviet Socialist Republics, the United Kingdom of Great Britain and
+               Northern Ireland, the United States of America and the French Republic take note of
+               that Declaration and, for their part, confirm that they will be guided by the same
+               principles in their relations with the United Germany.</p>
+            <p>3. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany declare that the united Germany will not produce, possess or acquire nuclear,
+               chemical and biological weapons. The United Germany reaffirms its participation in
+               the Nuclear Non-Proliferation Treaty.</p>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of this obligation.</p>
+            <p>4. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany reaffirm their joint declaration at the Vienna talks on the reduction of
+               conventional weapons meaning that the military strength of the united Germany will
+               not exceed in total the limit of 370 thousand persons for Ground, Air and Naval
+               forces. Reductions to this level will be made over a maximum period of four years,
+               starting with the entry into force of the first Vienna Agreement.</p>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of this statement.</p>
+            <p>5. The United Germany and the Soviet Union will conclude a treaty on conditions of
+               stay, reduction and withdrawal of Soviet troops from the territory of the former GDR
+               in the context of the decisions to be taken at the negotiations in Vienna to reduce
+               to a certain level the military forces and weapons of each participant of
+               negotiations.</p>
+            <p>During the period of stay of the Soviet troops, which will not exceed 4 years from
+               the date of entry into force of the aforementioned treaty, in the territory of the
+               united Germany with the exception of the area of Greater Berlin, there should be no
+               other foreign troops, as well as German troops integrated into NATO. The German
+               territorial defense forces may be deployed there, including the Greater Berlin area.
+               When the withdrawal of Soviet troops is completed, the said territory will remain
+               free from the presence of any foreign troops. Neither will nuclear weapons and the
+               means of their delivery be deployed there.</p>
+            <p>6. The question of the temporary stay, reduction and withdrawal of troops of the
+               United Kingdom of Great Britain and Northern Ireland, the United States of America
+               and the French Republic from the territory of the former FRG is to be resolved by
+               concluding appropriate treaties between the united Germany and the States
+               mentioned.</p>
+            <p>7. The troops of the United Kingdom of Great Britain and Northern Ireland, the United
+               States of America and the French Republic will not cross the line coinciding with the
+               current state border between the German Democratic Republic and the Federal Republic
+               of Germany, excluding the movement of their troops located in the Western sectors of
+               Berlin. The troops of the Soviet Union, for their part, will also not cross the
+               line.</p>
+            <p>8. With the entry in force of the final international legal settlement with Germany,
+               the occupation regime of the western sectors of Berlin is terminated.</p>
+            <p>At the same time, allied agreements on the Berlin air corridors, the Berlin control
+               zone and the military transit via ground communications shall cease to have effect.
+               The tripartite Allied Commandant’s office in the western sectors of Berlin is to be
+               disbanded and military missions and other diplomatic missions accredited to the
+               Allied authorities in Berlin should be abolished.</p>
+            <p>The quadripartite Agreement of 3 September 1971 is to be annulled.</p>
+            <p>The troops of the Four powers will remain in Berlin for the period Soviet troops are
+               in the GDR. The terms of their stay will be regulated by the treaties between the
+               united Germany and the Governments concerned. The number of military contingents of
+               the Four powers, areas of their deployment and the nature of their weapons will
+               remain unchanged. Nuclear weapons and means of their delivery will not be deployed in
+               Berlin.</p>
+            <p>The parties will facilitate the use of Berlin’s resources for the establishment of
+               all-European security and cooperation structures, including the placement of relevant
+               authorities in this city.</p>
+            <p>9. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany declare that the united Germany</p>
+            <p>– recognizes the legality of the measures and decisions taken by the Four powers in
+               matters of denazification, demilitarization and democratization, jointly or
+               separately in their former occupation zones. The legality of these decisions,
+               including those related to property and land issues, will not be subject to review by
+               German courts or other German state bodies;</p>
+            <p>– will help to ensure that fair compensation is provided to persons employed for
+               forced labor in Germany during the Second World War;</p>
+            <p>– will take all measures to prevent the revival of Nazi political ideology, as well
+               as National Socialist political parties and movements. If such parties and movements
+               are created, their activities will be prohibited;</p>
+            <p>– will ensure inviolability of memorials and other monuments erected on the German
+               territory in memory of sacrifices made by peoples to defeat fascism, as well as of
+               military graves of citizens of the countries of the anti-Hitler<note xml:id="e6621"
+                  >Adolf Hitler (1889–1945), <ref target="https://dodis.ch/P535"
+                  >dodis.ch/P535</ref>, Führer of the German Third Reich 1933–1945.</note> coalition
+               and will provide proper care for these objects;</p>
+            <p>– confirm the validity of international treaties and agreements concluded by the
+               German Democratic Republic and the Federal Republic of Germany in accordance with the
+               principle “Pacta sunt servanda” and, if necessary, conduct negotiations with States
+               party to previously concluded treaties on clarifying, amending or terminating of
+               existing obligations and replacing them with new ones on the basis of mutual
+               agreement of the Parties.</p>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of this statement.</p>
+            <p>10. The Union of Soviet Socialist Republics, the United Kingdom of Great Britain and
+               Northern Ireland, the United States of America and the French Republic declare that
+               with the entry into force of the Final International Legal Settlement with Germany,
+               their rights and responsibility for Germany on the whole and Berlin are to be
+               terminated, and the united Germany acquires all the prerogatives of a sovereign
+               state. Accordingly, all the reservations made by the Four powers with the admission
+               of the two German states to the United Nations are recalled.</p>
+            <p>This statement should be considered as an integral part of all the foregoing
+               provisions of this document.</p>
+            <p>11. This Final international legal settlement with Germany will be submitted to the
+               meeting of the Heads of States and Governments who signed the Helsinki Final Act.</p>
+            <p>It will be entered in force after the implementation of the constitutional procedures
+               as stipulated in the legislation of the States parties.</p>
+            <p>Done at (place) (date),</p>
+            <p>Copies, in the Russian, English, French and German languages, each of which is
+               equally authentic.</p>
+            <p>Signatures</p>
+         </div>
+      </body>
+   </text>
+</TEI>

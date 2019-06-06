@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title> Diplomatische Dokumente der Schweiz, Band 27 </title>
+				<author> Diplomatische Dokumente der Schweiz </author>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> Diplomatische Dokumente der Schweiz </publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p> </p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="doc">
+				<head>
+					<ref target="http://dodis.ch/52928"> dodis.ch/52928 </ref>
+					<title type="main"> Circular <note xml:id="e1041"> Circular (translated from
+							German): <idno type="AT-ÖStA"> Austrian State Archive ÖStA, AdR, BMAA,
+								II-Pol 1989, GZ. 22.17.01/8-II.1/89. </idno> Written and signed by
+							Johann Plattner, <ref target="dodis.ch/P57520"> dodis.ch/P57520 </ref> ;
+							also published in Wilson Center, doc.165713. Sent to the Foreign
+							Minister, the General Secretary, the Section Heads, the Departments II.3
+							and II.6 as well as the Austrian diplomatic representations according to
+							the distribution list “East + West.” The head of the department for
+							Eastern and Southeastern Europe in the Political Section of the Austrian
+							Foreign Ministry, Ernst Sucharipa, had demanded major changes in the
+							wording. </note> by the Austrian Ministry of Foreign Affairs </title>
+					<title type="sub"> Debate on German Reunification; Information and Language
+						Regime </title>
+				</head>
+				<opener>
+					<dateline>
+						<placeName> Vienna, </placeName>
+						<date when="1989-11-10"> 10 November 1989 </date>
+					</dateline>
+				</opener>
+				<p> Concerning a possible redesigning of the German-German relationship in
+					connection with the current debate on the East-West development, the following
+					information and language regime in agreement with Dep. II.3 <note xml:id="e518">
+						Ernst Sucharipa (1947–2005), <ref target="dodis.ch/P57511"> dodis.ch/P57511
+						</ref> , Head of the Department for Eastern and Southeastern Europe in the
+						Political Section of the Austrian Foreign Ministry 1987–1990. </note> are
+					being disclosed <title type="doc"> 1) Basic documents </title> The victorious
+					powers had already agreed at the <emph> Yalta Conference </emph> (in early 1945)
+					about division of Germany ("westward shift" of Poland; breaking up of Germany:
+					"In the exercise of this power, they (the victorious powers) will take such
+					measures ... including the complete disarmament ... and dismemberment of Germany
+					... as they see necessary … for keeping the future peace"). </p>
+				<p> With the resolutions of the <emph> Potsdam Conference </emph> (summer 1945) the
+					victors took over authority of Germany and divided the country into occupation
+					zones. Until further notice, no central German Government was to be installed.
+					The final territorial settlement should be reserved for a peace conference. A
+					formulation from the Yalta conference report was included again ("... take
+					measures which are necessary to assure that Germany can never again ... threaten
+					world peace"). </p>
+				<p> In the preamble of the Basic Law, the entire German people is called upon to in
+					free self-determination, bring about the unity and freedom of Germany in a
+					united Europe. </p>
+				<p> The "Convention on relations between the Three Powers and the FRG" (1952), by
+					which the occupation regime was ended and the FRG gained full sovereignty,
+					states: "In view of the international situation, which until now has prevented
+					the reunification of Germany and the conclusion of a peace treaty, the Three
+					Powers retain their heretofore exercised or held rights and responsibilities
+					with respect to Berlin and Germany as a whole, including the reunification of
+					Germany and a peace settlement. </p>
+				<p> In the <emph> Treaty on the basis of relations between the Federal Republic of
+						Germany and the German Democratic Republic </emph> (1972) both countries
+					argue for the development of normal good-neighborly relations on the basis of
+					equality and reaffirm the inviolability of the existing borders. In the
+					preamble, however, the differing views of the FRG and the GDR on fundamental
+					questions, including the national question, are determined. </p>
+				<p> In “ <emph> Letter on German Unity </emph> ” (1970 <note xml:id="e628"> In the
+						original falsely indicated as 1979. </note> ), the FRG affirmed its claim to
+					reunification (“... to work for a state of peace in Europe in which the German
+					nation will regain its unity through free self-determination”). </p>
+				<p> Retention of the reunification claim is also put down in <emph> Additional
+						Clarifications of the FRG on the Treaty of Rome </emph> (non-recognition of
+					East German citizenship; protocol on inter-German trade; reservation concerning
+					a possible future EC membership of the GDR). </p>
+				<p> The <emph> Federal Constitutional Court </emph> asserted in its judgments on the
+					Eastern Treaties (1973 and 1975) that the German Reich continues to exist under
+					international law, and the restoration of national unity may not be given up by
+					any constitutional body as a political goal. </p>
+				<p> The <emph> Constitution of the GDR </emph> (1974) does not contain any intention
+					to reunify. <title type="doc"> 2) The Policy of the Bonn Government </title>
+					Despite their retention of the claim to reunification, the government in Bonn
+					operates under the current reality of the existence of two German States,
+					respects the inviolability of existing borders and maintains a "Permanent
+					Representation" in (East)-Berlin. This representation is, however, not under the
+					control of the Foreign Office, but by the Federal Chancellery and is headed by a
+					Secretary of State. A GDR citizenship has, however, never been recognized. </p>
+				<p> The government in Bonn has tried in recent years to work through a policy of
+					small steps to improve the status quo in relations with the GDR (improving the
+					human rights situation, more freedom and democracy in the GDR, more freedom to
+					travel through a "permeable" border). </p>
+				<p> In his previous statements on German-German relations, Foreign Minister Genscher
+						<note xml:id="e780"> Hans-Dietrich Genscher (1927–2016), <ref target="http://dodis.ch/P15414"> dodis.ch/P15414 </ref> ,
+						Vice-Chancellor and Minster for Foreign Affairs of the FGR 1982–1992.
+					</note> has pointed out in light of recent developments that the FRG also sees
+					the framework for the goal, which was formulated in the Letter on German Unity,
+					in the European Peace Order. This goal can only be achieved in full respect of
+					the concluded treaties and only with all countries in Europe, not against them.
+					In accordance with the thought expressed in the Basic Law (“... in a united
+					Europe ...”), Genscher wants changes in the German-German relationship to be
+					embedded in a pan-European development. With regard to statements made by West
+					German politicians, in which the existing borders of Poland are questioned,
+					Chancellor Kohl <note xml:id="e790"> Helmut Kohl (1930–2017), <ref target="http://dodis.ch/P32852"> dodis.ch/P32852 </ref> , Chancellor of
+						the FRG 1982–1998. </note> and Foreign Minister Genscher have since
+					clarified that the FRG makes no territorial claims toward Poland. <title type="doc"> 3) The Attitude of the GDR </title> The government of the GDR
+					without change emphasizes - not least in the context of citizenship - the
+					existence and international recognition of two German states. </p>
+				<p> It appears worth noticing that the reform groups have not in any way called the
+					independent existence of the GDR into question so far: the right to
+					reunification is not raised in opposition circles. <title type="doc"> 4) The
+						Attitude of the European States </title> From Gorbachev’s <note xml:id="e834"> Mikhail Gorbachev (*1931), <ref target="http://dodis.ch/P31707"> dodis.ch/P31707 </ref> , General
+						Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+						Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+						President of the Soviet Union 15.3.1990–25.12.1991. </note> statements (the
+					current European order is not being idealized, but recognition of the post-war
+					reality has so far secured peace on the continent) and Foreign Minister
+					Shevardnadze’s <note xml:id="e847"> Eduard Shevardnadze (1928–2014), <ref target="http://dodis.ch/P54603"> dodis.ch/P54603 </ref> , Minister of
+						Foreign Affairs of the Soviet Union 2.7.1985–26.12.1990 </note> statements
+					(rejection of revanchist forces that tried to revise postwar realities in
+					Europe) it is clear that the Moscow leadership still holds on to the “status quo
+					ante” and will not allow any change of this order. </p>
+				<p> In the relevant parts of the joint statement signed by Gorbachev and Kohl on 13
+					June 1989, formulations are used which are compatible with the position of the
+					Soviet Union (namely the right to freely choose one's system, but respect for
+					the integrity of each State; participation of Berlin (West) in the developing
+					cooperation under strict observation of the Four Power Agreement of 1971). A
+					rethinking in Moscow of the Berlin question or even the Germany question has not
+					yet come about. </p>
+				<p> Of the Western European countries only statements by France and Belgium on the
+					German-German question have become known. President Mitterrand <note xml:id="e870"> François Mitterrand (1916–1996), <ref target="http://dodis.ch/P47396"> dodis.ch/P47396 </ref> , President of
+						France 1981–1995. </note> noted that the reunification of the two German
+					states is a legitimate concern of the German people, but that this issue also
+					concerns the four victorious powers and that European stability must be given
+					priority. Foreign Minister Eyskens <note xml:id="e883"> Mark Eyskens (*1933),
+							<ref target="http://dodis.ch/57464"> dodis.ch/57464 </ref> , Belgian
+						Foreign Minister 1989–1992. </note> declared in the Belgian senate that
+					there is sympathy for the German people’s desire for reunification, but that a
+					solution to this problem must be integrated into the pan-European development. </p>
+				<p> The overall conclusion is that the Western European countries assess the
+					opportunity of German reunification with great reserve. </p>
+				<p> The United States is much more positive towards a reunification of the two
+					German states. </p>
+				<p> What solutions are to be found for the German-German question (the continuation
+					of a second German state but with democratic structures, a federal solution,
+					reunification) are not foreseeable. It is highly probable that the topic of
+					reunification will occupy and influence European policy in the coming years. </p>
+				<p> Only in the case that the embassy is addressed in this regard, it should state
+					that the right to self-determination, which Austria supports without
+					restriction, must of course also apply to the population of the GDR. Any change
+					in the German-German relationship, however, should be such that the process
+					détente and peace in Europe is not endangered. </p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52913</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52913">dodis.ch/52913</ref>
+               <title type="main">Memorandum<note xml:id="e2961">Memorandum (copy). <idno>Bush
+                        Presidential Library 91111-005</idno>. Participants: George H. W. Bush,
+                     Helmut Kohl, Philip Zelikow, <ref target="https://dodis.ch/P57411"
+                        >dodis.ch/P57411</ref> and Erika Konuk, <ref
+                        target="https://dodis.ch/P57412">dodis.ch/P57412</ref>. The conversation
+                     took place in the Oval Office on 26 January 1990, 1989, 1.19–1.55PM.</note> by
+                  the United States National Security Council</title>
+               <title type="sub">Telephone Conversation with Chancellor Helmut Kohl<note
+                     xml:id="e2972">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852"
+                        >dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note>
+                  of the Federal Republic of Germany</title>
+            </head>
+            <opener>
+               <add>Sensitive</add>
+               <dateline>Washington, D.C., 26 January 1990</dateline>
+            </opener>
+            <p><emph>The President</emph><note xml:id="e2985">George Herbert Walker Bush
+                  (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>,
+                  President of the United States, 20.1.1989–20.1.1993.</note>: Hello, Helmut.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: All the best. I hear all is going well. I am pleased
+               the Panama matter<note xml:id="e2995">The United States invasion of Panama occurred
+                  between 20 December 1989 and 31 January 1990.</note> went so well. The
+                  scoundrel<note xml:id="e2998">Manuel Noriega (1934–2017), <ref
+                     target="https://dodis.ch/P54758">dodis.ch/P54758</ref>, de facto ruler of
+                  Panama 1983–1989.</note> is where he belongs.</p>
+            <p/>
+            <p><emph>The President</emph>: I appreciate your views very much. If you have a moment,
+               I want to talk to you today about the way the political situation is developing in
+               Eastern Europe and the Soviet Union, and how these events relate to our position in
+               the talks on conventional arms in Vienna.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I would be very pleased. Take all the time you
+               need.</p>
+            <p/>
+            <p><emph>The President</emph>: Our proposal on the table is for both the United States
+               and the Soviet Union to have no more than 275,000 troops stationed in Europe when the
+               CFE reductions are complete, in the mid-1990s. The Soviets have been putting out
+               hints the figure is completely unrealistic, and I believe, given recent events, they
+               are correct.</p>
+            <p>The Czech and Hungarian governments are negotiating now for Soviet troop pullouts by
+               the end of this year or next.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I do believe they will pull out.</p>
+            <p/>
+            <p><emph>The President</emph>: Meanwhile, President Havel<note xml:id="e3026">Václav
+                  Havel (1936–2011), <ref target="https://dodis.ch/P52679">dodis.ch/P52679</ref>,
+                  President of the CSSR 29.12.1989–20.7.1992.</note> has indicated that he plans to
+               ask in February for greater U.S. and Soviet troop cuts than those now in our CFE
+               proposal.</p>
+            <p/>
+            <p>We have heard from various people, including the Soviet negotiator in Vienna<note
+                  xml:id="e3036">Oleg Grinevsky (*1930), <ref target="https://dodis.ch/P57632"
+                     >dodis.ch/P57632</ref>, Chief Soviet Arms Control Negociator for the CFE Treaty
+                  in Vienna.</note>, that Moscow is moving toward our position on capping U.S. and
+               Soviet stationed forces, but we understand they’ll come at us with a number well
+               below 275,000.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: That is quite possible too.</p>
+            <p/>
+            <p><emph>The President</emph>: We need to be out in front. It would otherwise seem to
+               the East Europeans as if we were trying to keep Soviet troops where they are not
+               wanted.</p>
+            <p/>
+            <p>In my view, nothing we do should in any way complicate or delay achieving CFE in 1990
+               and we should redouble our efforts to accomplish this.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I completely agree. It is of the utmost importance.
+               I’ll wait until you finish; then I’ll make a proposal.</p>
+            <p/>
+            <p><emph>The President</emph>: We believe, after talking to our military experts about
+               this, that a force of 195,000 U.S. troops in the Central zone in Europe in the
+               mid-1990s is a significant and sustainable level to maintain forward defense and
+               implement the NATO strategy of flexible response. 195 U.S. in the Central Zone
+               (interpreter repeated only “195 U.S.”). I am persuaded that the best way to make
+               these manpower reductions and to sustain the new force levels is within an arms
+               control negotiating process, keeping the U.S. in Central Europe and NATO strong.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I believe that is something. Do you plan to introduce
+               this into the negotiations now?</p>
+            <p/>
+            <p><emph>The President</emph>: I want to send Larry Eagleburger<note xml:id="e3070"
+                  >Lawrence S. Eagleburger (1930–2011), <ref target="https://dodis.ch/P57397"
+                     >dodis.ch/P57397</ref>, United States Deputy Secretary of State
+                  20.3.1989–8.12.1992.</note> and Bob Gates<note xml:id="e3076">Robert M. Gates
+                  (*1943), <ref target="https://dodis.ch/P57404">dodis.ch/P57404</ref>, United
+                  States Deputy National Security Advisor 20.3.1989–6.11.1991.</note> over to talk
+               to you quietly, and to Rome, London, and Paris, to be sure how key allies feel on
+               this.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: It is a very good idea, and we should soon set a date
+               for these two gentlemen.</p>
+            <p/>
+            <p><emph>The President</emph>: I propose early next week, or in a few days. We should
+               get out front with our objective so it will not seem as if we’re being dragged there
+               by the Soviets or East Europeans.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: That is exactly the point.</p>
+            <p/>
+            <p><emph>The President</emph>: We have pressure from our Congress, as you do with your
+               Bundestag. We should get out front so they won’t take the heart out of our defense
+               programs.</p>
+            <p>What do you think about this? How do you think the key allies will react?</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: First, it is absolutely correct and right to take the
+               initiative, and state this openly. The most important improvement in this
+               Administration, compared to previous ones, is that you are always taking the
+               offensive – for the Federal Republic, the US, and Europe in general. This is also my
+               view with Eastern Europe, and I’ll have more on that later.</p>
+            <p>So, first, the principle of the idea is very good and useful. We’ll have to discuss
+               the details. In Europe: Margaret<note xml:id="e3106">Margaret Thatcher (1925–2013),
+                     <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of
+                  the United Kingdom 4.5.1979–28.11.1990.</note> will be difficult for various
+               reasons not necessarily involved with this issue. I believe Mitterrand,<note
+                  xml:id="e3112">François Mitterrand (1916–1996), <ref
+                     target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  21.5.1981–17.5.1995.</note> if he is consulted sufficiently to defer to his
+               psychological judgment, will probably follow my position. Let me phrase it
+               differently: You know my old assessment – salute the flag of the FRG once, but the
+               tricolor three times. That is very important, because there are French domestic
+               policy issues. But I have a very friendly feeling about that. If you address
+               Mitterrand directly, it will be OK.</p>
+            <p>Italy and Spain will most likely take the same position as we do, as will the Benelux
+               and other countries. The most important thing is that Europeans see George Bush as
+               taking the initiative, not just getting it from the Soviets.</p>
+            <p>When your people are over here next week, in my view next Thursday would be most
+               convenient, I’ll talk to them for 3 or 4 hours and we can easily establish a
+               German-US position.</p>
+            <p/>
+            <p><emph>The President</emph>: Is there any way you could see them on Monday or Tuesday?
+               I have a State of the Union message next week on January 31. If we could do it before
+               then, we’d like to announce this idea on January 31. This will be an enormous
+               nationally and internationally noted speech.</p>
+            <p>I have one alternative proposal: If in principle this sounds agreeable, I could send
+               it to you in writing and we could agree to work ·on the details after January 31, or
+               have our people talk to your experts.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I am interested in talking to your people. I could
+               accommodate them on Tuesday, at 1500 our time.</p>
+            <p/>
+            <p><emph>The President</emph>: They’ll be there.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: That will be 0900 in the morning your time. Our talks
+               will be complete by noon your time, and that should be sufficient for you. So,
+                  Teltschik<note xml:id="e3140">Horst M. Teltschik (*1940), <ref
+                     target="https://dodis.ch/P57413">dodis.ch/P57413</ref>, Head of Division in the
+                  Foreign Ministry of the FRG.</note> will call on Monday to arrange the details.
+               Then we could also talk on the phone on Tuesday evening, if that should be useful. I
+               also agree that it is very important to announce this idea during your State of the
+               Union address.</p>
+            <p/>
+            <p><emph>The President</emph>: Thank you my friend. Eagleburger and Gates will call on
+               your office at 1500 Bonn time on Tuesday, January 30. Following that, if necessary,
+               we’ll talk on the telephone.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: OK. So, I would like to add a short remark on
+               developments in Europe.</p>
+            <p/>
+            <p><emph>The President</emph>: Yes, I am very interested.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I hear the problems are increasing in Moscow, but there
+               is no alternative with the personnel – I mean the number one<note xml:id="e3162"
+                  >Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707"
+                     >dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union
+               15.3.1990–25.12.1991.</note>. But I think the situation is one where we should think
+               on how we can help them, perhaps simply with food, food for some major cities.
+               Apparently he has tremendous difficulties in moving supplies of food. This would not
+               be as a gift, but with as few conditions for them as possible. I will call you again
+               when I’ve progressed further in my considerations. Perhaps I will talk about this
+               with Eagleburger.</p>
+            <p/>
+            <p><emph>The President</emph>: That would be very timely.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: On Poland, Hungary, and Czechoslovakia, they are
+               developing. It needs much time; the problems there are serious. But I believe they
+               can handle them.</p>
+            <p>The situation is dramatic in the GDR. The reason is, <emph>that</emph> administration
+               is having a very hard time in pushing things forward in a sensible manner. The reason
+               is not that they don’t want to do it. They just <emph>cannot</emph> do it right.
+               There is a considerable difference with Czechoslovakia. Havel has strong moral
+               authority; Mazowiecki<note xml:id="e3178">Tadeusz Mazowiecki (1927–2013), <ref
+                     target="https://dodis.ch/P57378">dodis.ch/P57378</ref>, Prime Minister of
+                  Poland 24.8.1989–12.1.1991.</note> too, and the government in Hungary has much
+               less authority, but some authority plus the support of the opposition. The
+                  Modrow<note xml:id="e3184">Hans Modrow (*1928), <ref
+                     target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                  Council of Ministers 13.11.1989–12.4.1990.</note> administration has hardly any
+               authority at all.</p>
+            <p>I myself am pushing necessary reforms forward piece by piece. There is some success
+               in the economic field, but things that should take one day take weeks. The result:
+               confidence of the population in the administration is catastrophic. People are
+               leaving in the thousands, and the rest are sitting on packed suitcases. Since January
+               1,043,000 have come over. In the long term this is unsustainable. Those are the good
+               people – doctors, engineers, specialists. They cannot be replaced.</p>
+            <p>I will be meeting with Modrow a week from Sunday in Switzerland for an hour, and he
+               will be here on February 13, and I’ll do all I can to stabilize matters.
+               Destabilization would have tremendous consequences for everyone else. I try to see
+               this from an overall perspective, in connection with all the things to be considered
+               like NATO, the EC, and disarmament questions. My job is now to stop destabilization
+               in Central Europe. That is the matter I work on day and night now.</p>
+            <p>George, it’s my great wish that soon we might have a few hours to talk, just the two
+               of us, with only a few people present. I’d like you to think about whether I could
+               come over for a few hours. In November we talked about a possible visit to Camp
+               David. Could we realize that in the next few weeks?</p>
+            <p/>
+            <p><emph>The President</emph>: I am very enthusiastic about that. Come and spend the
+               night, perhaps on a weekend. I will talk to Eagleburger and give you some dates. It
+               is very important that we sit down in just that setting.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: I have some concrete ideas. I would have called you.
+               I’m considering coming on a Saturday, returning on Sunday, in the evening.</p>
+            <p/>
+            <p><emph>The President</emph>: Perfect. I’ll be flexible on that.</p>
+            <p>Also, let’s keep this other idea in our confidence. If it leaks, the Soviets could
+               get out in front.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: That was understood. Rest assured.</p>
+            <p/>
+            <p><emph>The President</emph>: It worked last time. Baker is here; he sends his
+               best.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: My best to him too. Looking at my calendar, the best
+               days would be February 24 and 25.</p>
+            <p/>
+            <p><emph>The President</emph>: Those look good for me.</p>
+            <p/>
+            <p><emph>Chancellor Kohl</emph>: Good. We’ll confirm in the next few days. Please accept
+               my best wishes. Hannelore<note xml:id="e3230">Hannelore Kohl (1933–2001), <ref
+                     target="https://dodis.ch/P57407">dodis.ch/P57407</ref>, Wife of Helmut
+                  Kohl.</note> says goodbye.</p>
+            <p>(The President briefly conversed with Hannelore Kohl and assured her that she was
+               welcome to come to Camp David and, if she came, Barbara<note xml:id="e3238">Barbara
+                  Bush (1925–2018), <ref target="https://dodis.ch/P57406">dodis.ch/P57406</ref>,
+                  United States First Lady 20.1.1989–20.1.1993.</note> would also be there.)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

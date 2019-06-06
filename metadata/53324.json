@@ -1,0 +1,879 @@
+{
+    "total": null,
+    "data": {
+        "id": 53324,
+        "title": "No 367/D.401. Meetings of the Senate of West Berlin and the Government of East Berlin",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "21.6.1990",
+        "documentDateDayOfWeek": "Thursday",
+        "documentTypeCode": "RP",
+        "documentTypeText": "Political report",
+        "summary": "Summary of the decisions taken at the meeting between the Senate of West Berlin and the Government of East Berlin, who gathered in the City Hall of East Berlin for the first time in 42 years.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 99912,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101746,
+                "tagId": 327,
+                "name": "Turkey (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.099.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Turkey (Politics)",
+                    "Turchia (Politica)",
+                    "Türkei (Politik)",
+                    "Turquie (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Turquie (Politique)",
+                "deName": "Türkei (Politik)",
+                "enName": "Turkey (Politics)",
+                "itName": "Turchia (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101747,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101748,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59388,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Turkish Diplomatic Archives",
+                "archiveCode": "TR-DA",
+                "box": null,
+                "aisCode": "3180235",
+                "dossierId": 31499,
+                "hasPdf": null,
+                "original": false,
+                "archiveUrl": "",
+                "archivePlace": "Ankara",
+                "id": 59388
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16463,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "52"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36109,
+                "sort": 0,
+                "attachment": {
+                    "id": 36372,
+                    "attachmentId": 36372,
+                    "date": "",
+                    "fileRef": "dodis-53324-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53324-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59388,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37004,
+                "sort": 0,
+                "attachment": {
+                    "id": 37253,
+                    "attachmentId": 37253,
+                    "date": "",
+                    "fileRef": "dodis-53324.xml",
+                    "fileRefThumbnail": "thumb_dodis-53324.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59388,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36791,
+                "sort": 0,
+                "attachment": {
+                    "id": 37049,
+                    "attachmentId": 37049,
+                    "date": "",
+                    "fileRef": "dodis-53324-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53324-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59388,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34870,
+                "sort": 0,
+                "attachment": {
+                    "id": 35179,
+                    "attachmentId": 35179,
+                    "date": "",
+                    "fileRef": "dodis-53324.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53324.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59388,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Akin",
+                    "lastName": "Emregül",
+                    "fullName": "Emregül, Akin (1937\u2013)",
+                    "id": 57551,
+                    "comment": "",
+                    "dateBirth": "1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Emregül, Akın",
+                        "Emregül, Akin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Akin",
+                    "lastName": "Emregül",
+                    "fullName": "Emregül, Akin (1937\u2013)",
+                    "id": 57551,
+                    "comment": "",
+                    "dateBirth": "1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Emregül, Akın",
+                        "Emregül, Akin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33499,
+                    "name": "Turkey/Consulate General in Berlin",
+                    "comment": null,
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8173,
+                    "name": "East Berlin/City Administration",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9417,
+                    "name": "East Berlin/Magistrat",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20591,
+                    "name": "Organization for Security and Co-operation in Europe",
+                    "comment": "URL(520551)\r\n\r\n________________________\r\n\r\nURL(520556)\r\n\" <b>History<\/b>\r\nThe OSCE traces its origins to the détente phase of the early 1970s, when the Conference on Security and Co-operation in Europe (CSCE) was created to serve as a multilateral forum for dialogue and negotiation between East and West. Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1.8.1975. This document contained a number of key commitments on polito-military, economic and environmental and human rights issues that became central to the so-called 'Helsinki process'. It also established ten fundamental principles (the 'Decalogue') governing the behaviour of States towards their citizens, as well as towards each other.\r\n\r\nUntil 1990, the CSCE functioned mainly as a series of meetings and conferences that built on and extended the participating States' commitments, while periodically reviewing their implementation. However, with the end of the Cold War, the Paris Summit of November 1990 set the CSCE on a new course. In the Charter of Paris for a New Europe, the CSCE was called upon to play its part in managing the historic change taking place in Europe and responding to the new challenges of the post-Cold War period, which led to its acquiring permanent institutions and operational capabilities.\r\n\r\nAs part of this institutionalization process, the name was changed from the CSCE to the OSCE by a decision of the Budapest Summit of Heads of State or Government in December 1994.\"\r\n________________________\r\n\r\ncf. dodis.ch/15305, e.a. p. 13.\r\n\r\ncf. dans les dossiers du DPF: B.72.9.15.1.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8170,
+                    "name": "West Berlin/City Administration",
+                    "comment": null,
+                    "placeId": 3581,
+                    "placeText": "West Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9436,
+                    "name": "West Berlin/Senate",
+                    "comment": null,
+                    "placeId": 3581,
+                    "placeText": "West Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4454,
+                    "name": "Brandenburg",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.412530,
+                    "longitude": 12.531645,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 18,
+                    "name": "Paris",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.856613,
+                    "longitude": 2.352222,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Akin",
+                    "lastName": "Emregül",
+                    "fullName": "Emregül, Akin (1937\u2013)",
+                    "id": 57551,
+                    "comment": "",
+                    "dateBirth": "1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Emregül, Akın",
+                        "Emregül, Akin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Akin",
+                    "lastName": "Emregül",
+                    "fullName": "Emregül, Akin (1937\u2013)",
+                    "id": 57551,
+                    "comment": "",
+                    "dateBirth": "1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Emregül, Akın",
+                        "Emregül, Akin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33499,
+                    "name": "Turkey/Consulate General in Berlin",
+                    "comment": null,
+                    "placeId": 25,
+                    "placeText": "Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8173,
+                    "name": "East Berlin/City Administration",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9417,
+                    "name": "East Berlin/Magistrat",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20591,
+                    "name": "Organization for Security and Co-operation in Europe",
+                    "comment": "URL(520551)\r\n\r\n________________________\r\n\r\nURL(520556)\r\n\" <b>History<\/b>\r\nThe OSCE traces its origins to the détente phase of the early 1970s, when the Conference on Security and Co-operation in Europe (CSCE) was created to serve as a multilateral forum for dialogue and negotiation between East and West. Meeting over two years in Helsinki and Geneva, the CSCE reached agreement on the Helsinki Final Act, which was signed on 1.8.1975. This document contained a number of key commitments on polito-military, economic and environmental and human rights issues that became central to the so-called 'Helsinki process'. It also established ten fundamental principles (the 'Decalogue') governing the behaviour of States towards their citizens, as well as towards each other.\r\n\r\nUntil 1990, the CSCE functioned mainly as a series of meetings and conferences that built on and extended the participating States' commitments, while periodically reviewing their implementation. However, with the end of the Cold War, the Paris Summit of November 1990 set the CSCE on a new course. In the Charter of Paris for a New Europe, the CSCE was called upon to play its part in managing the historic change taking place in Europe and responding to the new challenges of the post-Cold War period, which led to its acquiring permanent institutions and operational capabilities.\r\n\r\nAs part of this institutionalization process, the name was changed from the CSCE to the OSCE by a decision of the Budapest Summit of Heads of State or Government in December 1994.\"\r\n________________________\r\n\r\ncf. dodis.ch/15305, e.a. p. 13.\r\n\r\ncf. dans les dossiers du DPF: B.72.9.15.1.",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8170,
+                    "name": "West Berlin/City Administration",
+                    "comment": null,
+                    "placeId": 3581,
+                    "placeText": "West Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 9436,
+                    "name": "West Berlin/Senate",
+                    "comment": null,
+                    "placeId": 3581,
+                    "placeText": "West Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4454,
+                    "name": "Brandenburg",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.412530,
+                    "longitude": 12.531645,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 18,
+                    "name": "Paris",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.856613,
+                    "longitude": 2.352222,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

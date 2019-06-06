@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53174</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53174">dodis.ch/53174</ref>
+               <title type="main">Memorandum<note xml:id="e7087">Memorandum (translated from
+                     Polish): <idno>Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep. IV
+                        15/94, w. 1</idno>. Prepared by Jerzy Sułek, <ref target="https://dodis.ch/P57584">dodis.ch/P57584</ref>.</note> by the Polish
+                  Minister of Foreign Affairs, Krzysztof Skubiszewski<note xml:id="e7093">Krzysztof
+                     Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of Foreign Affairs
+                     12.9.1989–26.10.1993.</note>
+               </title>
+               <title type="sub">Urgent Note Concerning the Talks between Prime Minister T.
+                     Mazowiecki<note xml:id="e7100">Tadeusz Mazowiecki (1927–2013), <ref target="https://dodis.ch/P57378">dodis.ch/P57378</ref>, Prime Minister of
+                     Poland 24.8.1989–12.1.1991.</note> and Chancellor H. Kohl<note xml:id="e7106">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note>
+                  in Frankfurt an der Oder and Slubice on 8 November this Year</title>
+            </head>
+            <opener>
+               <dateline>Warsaw, 11 November 1990</dateline>
+            </opener>
+            <p n="1">I. In the course of talks held by Prime Minister T. Mazowiecki and the FRG’s
+               Federal Chancellor H. Kohl in Frankfurt an der Oder and Slubice on 8 November the
+               following was arranged:</p>
+            <p/>
+            <p n="1">
+               <emph>1. Treaties</emph>
+            </p>
+            <p>a) This November in Warsaw, the Foreign Ministers are to sign a Treaty between the
+               Republic of Poland and the Federal Republic of Germany confirming the existing border
+               between them<note xml:id="e7123">
+                  <orig>Treaty between the Republic of Poland and the Federal Republic of Germany
+                     Concerning the Demarcation of the Established and Existing Polish-German State
+                     Frontier</orig> signed in Warsaw on 14 November 1990.</note>.</p>
+            <p>b) The process to negotiate the Treaty on Good Neighbourhood and Friendly Cooperation
+               is to be completed by late January 1991<note xml:id="e7128">
+                  <orig>Treaty between the Republic of Poland and the Federal Republic of Germany on
+                     Good Neighbourly Relations and Friendly Cooperation</orig> signed in Bonn on 17
+                  June 1991.</note>.</p>
+            <p>c) The two aforementioned treaties will be submitted together for ratification by the
+               parliaments of Poland and FRG, by late February 1991 at the latest.</p>
+            <p/>
+            <p n="1">
+               <emph>2. Movement of people</emph>
+            </p>
+            <p>a) The FRG government has already decided to lift the visa requirement for Polish
+               citizens (on a reciprocal basis) and intends to implement this decision later this
+                  year<note xml:id="e7139">
+                  <orig>Agreement on the Abolition of the Visa Requirement</orig> concluded in the
+                  form of exchange of notes on 4 April 1991.</note>. With this in mind, it entered
+               into official consultations with France and the Benelux countries (the so-called
+               Schengen group). A positive decision by the Schengen Five is due in late November; it
+               would make it possible to remove visas for travel to these countries, before
+               Christmas if possible (by way of an exchange of diplomatic notes).</p>
+            <p>b) Polish consular, passport, and customs services will take actions — in
+               coordination with their counterparts from the FRG, France, Belgium, the Netherlands,
+               and Luxembourg — to ensure smooth handling of the expected increased movement of
+               people from and to Poland and to ensure it is not abused for purposes that contradict
+               the agreement about to be concluded (e.g. illicit trade, smuggling, taking up work
+               without permit). The number of border crossings will be expanded; they will be
+               extended and upgraded; passport and customs clearances will be simplified and
+               streamlined but with the simultaneous introduction of more stringent customs checks
+               and more severe administrative measures against people who abuse the freedom of
+               visa-free travel, etc.</p>
+            <p>c) As soon as possible, i.e. to the extent practicable in the first quarter of 1991,
+               a pilot project will be launched: the construction, at the FRG’s cost, of a
+               10km-section of a six-lane motorway on both sides of the border (5km from Frankfurt
+               an der Oder into Germany + 5km from Swiecko into Poland.</p>
+            <p/>
+            <p n="1">
+               <emph>3. Regional cooperation, especially between border regions</emph>
+            </p>
+            <p>a) The following will be established: A Joint Inter-Governmental Commission for
+               Regional Cooperation and a Joint Border Commission (composed of representatives of
+               Polish provinces, border towns, communes and FRG Länder located along the
+               border).</p>
+            <p>b) In 1991, a separate Poland-FRG treaty will be made on regional cooperation.</p>
+            <p>c) Relevant provisions will be adopted in the Treaty on Good Neighbourhood and
+               Friendly Cooperation.</p>
+            <p/>
+            <p n="1">
+               <emph>4. Youth exchange</emph>
+            </p>
+            <p>Youth exchanges should grow several times in 1991 as compared with this year
+               (expected levels of 6,000–7,000 people). The composition of the Polish-German Youth
+               Exchange Council will be considerably changed. Furthermore, a joint Office for the
+               organisation of youth exchanges will be established (modelled after the
+               Deutsch-Französisches Jugendwerk).</p>
+            <p/>
+            <p n="1">
+               <emph>5. Aid for forced labourers and concentration camp prisoners</emph>
+            </p>
+            <p>In January 1991, the heads of government of the two countries will reach agreement
+               about using a pragmatic approach (foundation, fund) with respect to the
+               aforementioned category of Polish citizens who had suffered under the Third
+               Reich.</p>
+            <p/>
+            <p n="1">II. On <emph>economic and financial cooperation</emph> between Poland and the
+               FRG:</p>
+            <p>1. A list of our most important proposals and suggestions will be drawn up, together
+               with a short statement of grounds (non-paper), which will be conveyed to the FRG
+               accompanied by a personal letter from Prime Minister T. Mazowiecki to Chancellor
+               Kohl; this will be a working basis for talks between Deputy Prime Minister L.
+                  Balcerowicz<note xml:id="e7174">Leszek Balcerowicz (*1947), <ref target="https://dodis.ch/P57596">dodis.ch/P57596</ref>, Polish Deputy Prime
+                  Minister and Minister of Finance 1989–1991.</note> and H. Kohl (the FRG Chancellor
+               reiterated his invitation for a visit). On this basis, H. Kohl will support relevant
+               Polish efforts at the EEC summit (14 December this year), in the Paris Club, and
+               among the 24 countries. The non-paper should specifically address such issues as
+               Poland’s association with the EEC, write-off of Poland’s debts, compensation for the
+               losses over the Gulf crisis, cooperation projects within the FRG-Poland-USSR triangle
+               (e.g. construction of homes for Soviet soldiers returning from the former GDR, food
+               shipments for the USSR), or perhaps the issue of Poland’s losses in connection with
+               the reunification of Germany.</p>
+            <p>2. <emph>Employment of Polish contract workers in Germany:</emph> Our consent to
+               signing a new Polish-German pension agreement has been made conditional on the
+               acceptance of our proposal, i.e. retention of the current employment limits (11,000
+               in the FRG, 35,000 in the former GDR).</p>
+            <p>
+               <emph>3. Financial and economic costs of German reunification</emph>
+            </p>
+            <p>If this issue cannot be resolved still this year, the heads of Polish and FRG
+               governments will raise the issue of <emph>rouble conversions</emph> in our trade with
+               the former GDR area in January 1991.</p>
+            <p/>
+            <p n="1">
+               <emph>III. Other</emph>
+            </p>
+            <p>1. <emph>Transfer of military equipment, weapons and ammunition from the FRG to
+                  Poland from the stocks of the former GDR National People’s Army:</emph> H. Kohl
+               has agreed to meet some of the Polish side’s requests (mainly with respect to
+               ammunition, rifles, and combat vehicles); this matter will be conclusively settled
+               during the coming FRG visit of the Polish Minister of National Defence<note xml:id="e7192">Piotr Kołodziejczyk (*1939), <ref target="https://dodis.ch/P57612">dodis.ch/P57612</ref>, Polish Minister of National Defence
+                  6.7.1990–23.12.1991.</note>. It will be also essential for Poland to obtain
+               approval from the USSR. At H. Kohl’s request, this matter should for the time being
+               be given a low profile (pending its successful conclusion), among others because of
+               similar efforts by Hungary and the Czech and Slovak Federative Republic.</p>
+            <p>2. <emph>Transit of Soviet troops from the former GDR through Poland into the
+                  USSR</emph> (costs to be covered by the FRG). A joint panel of experts will be set
+               up to discuss this issue. It will be also raised during the FRG visit of the Polish
+               Minister of National Defence.</p>
+            <p>3. <emph>Reinstallation of a TV/radio transmitter on Sniezka</emph> (removed in 1980
+               at the request of the GDR), funded by the FRG, for broadcasting in Polish, German,
+               and Czech. Prime Minister T. Mazowiecki has promised to grant this FRG request; at
+               the same time he noted the need to implement projects to launch TV/radio channels for
+               the Polish diaspora and emigrants in the FRG.</p>
+            <p/>
+            <p n="1">IV. I ask the ministries concerned to promptly contact the relevant FRG
+               authorities in order to implement the aforementioned decisions. The Ministry of
+               Foreign Affairs is to be updated on an ongoing basis on progress in this area.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

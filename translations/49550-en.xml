@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/49550</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/49550">dodis.ch/49550</ref>
+               <title type="main">Memo<note xml:id="e5258">Memo (translated from German):
+                        <idno>Swiss Federal Archives CH-BAR#E2010A#1999/250#7145*(B.73.0)</idno>.
+                     Written by Daniel Woker, <ref target="https://dodis.ch/P27996"
+                        >dodis.ch/P27996</ref>, signed in Woker’s absence by Heidi Ifrid, <ref
+                        target="https://dodis.ch/P57668">dodis.ch/P57668</ref>. Copies to the
+                     Federal Office for Foreigners’ Affairs (FOFA), the Federal Office of Foreign
+                     Economic Affairs, five copies for internal use of the Federal Department of
+                     Foreign Affairs (FDFA), and to the Swiss Embassy in East Berlin. Following
+                     references on visa questions were included for the FOFA: the FOFA draft of 16
+                     March 1990, <ref target="https://dodis.ch/53405">dodis.ch/53405</ref>, the FDFA
+                     answers of 27 March 1990, <ref target="https://dodis.ch/53407"
+                        >dodis.ch/53407</ref> and <ref target="https://dodis.ch/53410"
+                        >dodis.ch/53410</ref> and the letter of the Swiss Embassy in Berlin of 7
+                     February 1990, <ref target="https://dodis.ch/53402"
+                     >dodis.ch/53402</ref>.</note> by the Swiss Federal Department of Foreign
+                  Affairs</title>
+               <title type="sub">GDR — New Government and Policy</title>
+            </head>
+            <opener>
+               <dateline>Bern, 18 April 1990</dateline>
+            </opener>
+            <p/>
+            <p>This Wednesday, 18.4., GDR Ambassador (B<add type="edition">[ibow]</add> )<note
+                  xml:id="e5291">Eckhard Bibow (*1930), <ref target="https://dodis.ch/P54792"
+                     >dodis.ch/P54792</ref>, GDR Ambassador in Bern 1986–1990.</note> contacts me
+               with the following requests:</p>
+            <p/>
+            <p>1. He presents the <emph>joint declaration by all factions of the People’s
+                  Parliament</emph> of 12.4.1990 (attachment<note xml:id="e5301">Joint declaration
+                  by all factions of the People’s Parliament, 12 April 1990, <ref
+                     target="https://dodis.ch/52352">dodis.ch/52352</ref>.</note>). The declaration,
+               whose main points were made known by the media, constitutes, in B<add type="edition"
+                  >[ibow]</add> ’s words, a general reckoning with the German people’s deplorable
+               past, disowned by the GDR until now, as well as with more recent inglorious GDR
+               activities. Official apologies are made to the Jewish people and Israel, to the
+               Soviet Union, to the ČSSR (for the suppression of the Prague Spring), and the
+               inviolability of the current Polish Western border is noted.</p>
+            <p/>
+            <p>2. B<add type="edition">[ibow]</add> furthermore emphasises the new government’s
+               interest in <emph>bilateral rela</emph>tions with Switzerland. He enquires about a
+               possible date for the visit, already agreed on in principle, of State Secretary
+                  Jacobi<note xml:id="e5317">Klaus Jacobi (1929–2004), <ref
+                     target="https://dodis.ch/P19511">dodis.ch/P19511</ref>, State Secretary of the
+                  Swiss Federal Department of Foreign Affairs 1989–1992.</note> in Berlin. The
+               signatory confirms this interest and suggests July 1990<note xml:id="e5323">The visit
+                  took place on 11 October 1990.</note>.</p>
+            <p>The ball is now in the GDR’s court, which intends to provide a specific suggestion
+               for a date as soon as the identity of the host, the foreign ministry’s future No. 2,
+               is known. According to B<add type="edition">[ibow]</add> , the current interim
+               incumbent, Fleck, is most likely to be supplanted (Nier<note xml:id="e5331">Kurt Nier
+                  (*1927), <ref target="https://dodis.ch/P51057">dodis.ch/P51057</ref>, Deputy
+                  Foreign Minister of the GDR 1973–1989.</note> has been retired a while ago) and
+               replaced by a DSU politician (the CSU of the GDR). The new foreign minister, Social
+               Democrat Meckel<note xml:id="e5337">Markus Meckel (*1952), <ref
+                     target="https://dodis.ch/P54793">dodis.ch/P54793</ref>, Foreign Minister of the
+                  GDR 12.4.–20.8.1990.</note>, has already stated that he will accept a DSU
+               member.</p>
+            <p/>
+            <p>3. Finally, B<add type="edition">[ibow]</add> comes to the <emph>topic of
+               visa</emph>. He says that at his embassy, the practical difficulties in coping with
+               Swiss visa applications are growing. (A Swiss visa application has to be submitted
+               through a travel agency and after 4 – 8 weeks and approval procedures by internal GDR
+               authorities (according to B<add type="edition">[ibow]</add> for securing
+               accommodation, amongst other things) reaches the local embassy to be issued.) He,
+                  B<add type="edition">[ibow]</add> , can grant an immediate issuing of visa only in
+               exceptional cases. I draw B<add type="edition">[ibow]</add> ’s attention to the
+               discrepancy between terms (GDR 4 – 8 weeks, Swiss visa for GDR citizens no more than
+               24 hours); B<add type="edition">[ibow]</add> has already broached this subject with
+               Berlin and will now do so again, in order to gain leeway from his authorities for the
+               immediate issuing of visas.</p>
+            <p>Basically, B<add type="edition">[ibow]</add> and the signatory agree, however, that
+               the problem can only be solved by suspending the visa requirement. B<add
+                  type="edition">[ibow]</add> declares the GDR government’s willingness to
+               temporarily abolish the requirement, with immediate effect, based on an informal,
+               oral, and mutual declaration. After a trial period, the abolition can be
+               contractually settled. This is how the GDR proceeded with Austria, for instance.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

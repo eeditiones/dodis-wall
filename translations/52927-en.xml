@@ -1,0 +1,423 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52927</title>
+            <author><orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName></author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p><ref target="https://www.dodis.ch/en/profile">Dodis Website</ref></p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52927">dodis.ch/52927</ref>
+               <title type="main">Memo<note xml:id="e192">Memo (translated from German):
+                        <idno>Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1989, GZ.
+                        22.17.01/4-II.6/89</idno>. Written and signed by Thomas Nowotny,
+                     dodis.ch/P57516; also published in Wilson Center, doc. 165711. This memo was
+                     sent to all section leaders, the Cabinet of the Foreign Minister, all
+                     departments of the Political Section as well as to all Austrian diplomatic
+                     missions in states participating in the CSCE. On 20 September 1989, Ernst
+                     Sucharipa attached a note to this file entitled <orig>German reunification? On
+                        the ghost train ride of Department II.6</orig>. The statement should have
+                     been forwarded to the Section Heads, the Cabinet of the Federal Minister, all
+                     departments of the Political Section, the General Secretary, the Austrian
+                     Embassies in Bonn, Berlin (East) and Moscow, the Austrian delegation in Berlin
+                     as well as to all Austrian diplomatic representations in states participating
+                     in the CSCE. However, for unknown reasons, it was not forwarded. The note read:
+                        <orig>1) It is correct that there is again increasing talk everywhere about
+                        the question of German reunification (or “new unification”, according to
+                        IISS Director Heisbourg). Basic consideration of the issues raised in the
+                        essay of department II.6 therefore seem inevitable in Austria. Here are the
+                        first brief remarks from the perspective of the Eastern Europe Department;
+                        2) In foreign policy, perception is often more important than reality:
+                        Despite the circumstances mentioned by Department II.6., which “trivialize”
+                        the dimension of a Germany consisting of the FRG and GDR, the impression
+                        (the fear) will persist in Eastern (and also Western) Europe that such a
+                        structure cannot be integrated into the European Peace Order. 3) Despite the
+                        publicity-effective emigration movements from the GDR (Scale in 1989:
+                        approx. 100,000 citizens, of which approx. 5/6 “legally”, 1/6 “illegally”)
+                        there is a “GDR national consciousness” and pride in the benefits of its
+                        “own”, “other” German state, which is not to be underestimated. The silent
+                        majority is still a majority even in the GDR. The slowly forming opposition
+                        groups want to keep their GDR (reformed and completely overhauled, but
+                        distinct from the FRG). 4) In spite of Perestroika and Glasnost, the Soviet
+                        Union looks everywhere to strictly maintain the territorial status quo.
+                        German-political changes that go beyond, ‘change through rapprochement’ are
+                        therefore not to be achieved without argument with Moscow.</orig></note> by
+                  the Austrian Ministry of Foreign Affairs</title>
+               <title type="sub">The Specter of German Reunification</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 19 September 1989</dateline>
+            </opener>
+            <p>A specter is haunting Europe. The specter of German reunification, and it scares the
+               Western Europeans. This fear – rarely acknowledged – is behind many discussions about
+               the future of European security.</p>
+            <p>The two superpowers are apparently less bound by fear. One sometimes hears from both
+               the US and the USSR that German “reunification” is not only possible, but perhaps
+               even desirable. The expectations of the US and the USSR are, however, contradictory:
+               The United States expects that a reunified Germany would push against the East, and
+               weaken the USSR. The Soviet Union expects that a reunified Germany would step out of
+               NATO, and thus fatally weaken NATO.</p>
+            <p>This discussion of German reunification is surprising in some respects. After all,
+               because of its treaties with the East, through its recognition of the GDR, and
+               through its involvement in the CSCE process, the FRG seemed to have finally and
+               irrevocably accepted the status quo in Europe and thus the existence of two</p>
+            <p> German states, and without ulterior motives. Against the backdrop of these hard
+               facts, the question begs to be asked: How serious is this new flare-up talk of
+               reunification? Is there really nothing more to it than a mere superficial and purely
+               verbal response to the advance of the right-wing nationalist “Republicans” in the
+               FRG? Or is it to be taken more seriously?</p>
+            <p> The question was broached at the Ambassadors’ Conference in early September. The
+               ambassadors in both Berlin<note xml:id="e210">Franz Wunderbaldinger (*1927), <ref
+                     target="https://dodis.ch/P52001">dodis.ch/P52001</ref>, Austrian Ambassador in
+                  West Berlin 1985–1990.</note> and Bonn<note xml:id="e216">Friedrich Bauer (*1930),
+                     <ref target="https://dodis.ch/P51060">dodis.ch/P51060</ref>, Austrian
+                  Ambassador in Bonn 1986–1990.</note> were unanimously convinced that this talk is
+               not to be taken seriously. Nobody in a position of political responsibility,
+               according to the Austrian ambassador in Bonn, would really aim for a “reunification”
+               with the GDR.<note xml:id="e222">During the ambassadors’ conference at the Austrian
+                  Foreign Ministry on 8 September 1989 Wunderbaldinger noted: <orig>German-German
+                     relationship: contractual regulations in many areas, strong contacts at various
+                     low levels. Large flow of visitors in both directions. Bauer later added: The
+                     West was not prepared for the so strongly desired reform process in the East,
+                     and has no concept. The FRG sees the EC as a place to embed itself in Western
+                     Europe (leading it out of the status of a defeated country). Bonn wants to
+                     include the EC in its own policy on Germany. Relationship FRG-GDR: little
+                     information about intra-German trade. Meeting of Bonn-Berlin representatives
+                     about adapting intra-German to internal market rules. FRG seeks osmotic
+                     relationship with GDR. Reunification in the Bismarkian sense is not
+                     sought.</orig> The head of the political section of the Austrian foreign
+                  ministry ambassador Erich Maximilian Schmid summarized: <orig>The transformation
+                     process in the East was desired by the West, yet it was completely unprepared
+                     for this. The reduction of tensions resulted from the economic impossibility of
+                     a permanent arms race. This should have been predictable. Processes in the East
+                     are to be assessed positively, but there is a danger of it spiraling out of
+                     control and resulting in destabilization. Austria welcomes upheavals in the
+                     East, but these pose a danger that Austria could be associated with a kind of
+                     gray zone in Central Europe. German reunification: a theoretical discussion
+                     topic indeed, but not currently a reality.</orig> Cf. the minutes of the
+                  Ambassadors’ Conference, 1989; <idno>Working group East-West, Envoy Johann
+                     Plattner, Vienna, 8 September 1989, ÖStA, AdR, BMAA, II-Pol 1989, GZ.
+                     502.00.00/13-II.1/89.</idno></note> The coexistence of the two states would be
+               accepted by virtually all. The maximum goal supported by almost all political parties
+               would merely be a “Germany policy” that intensifies existing contacts between both
+               States at all levels.</p>
+            <p>The Austrian Ambassador in Berlin claimed there was no great pressure for radical
+               changes in the GDR. Sudden outbursts and changes of course are not to be expected.
+               Because it works on the whole, the state would also be accepted by the
+               population.</p>
+            <p>The opinions expressed by the two ambassadors describe – probably accurately – the
+               current state, which is not a given. They assume that this state will essentially
+               remain unchanged. This may be correct, but need not be so. There is some evidence
+               that attitudes toward “reunification” are changing in the two German states. In the
+               two German states, there are signs of a fundamental change in the political climate.
+               In the FRG, for example, the Historians’ Dispute (in which German war-guilt was
+               relativized) changed the emotional-political framework in which postwar international
+               relations were anchored. Three to four years ago it would have been unthinkable that
+               the Polish-German border would be called into question again by a high-ranking
+               politician and many years after its recognition by the Warsaw Treaty.</p>
+            <p>Three or four years ago this would have signified the end of every political career.
+               Not so today. A whole new attitude towards the European East has established itself–
+               obviously and gradually there is a renewed belief in a special “German mission in the
+               East.” This mission goes far beyond the “Ostpolitik” of Willy Brandt<note
+                  xml:id="e231">Willy Brandt (1913–1992), <ref target="https://dodis.ch/P15409"
+                     >dodis.ch/P15409</ref>, Foreign Minister of the FRG 1966–1969 and Chancellor of
+                  the FRG 1969–1974.</note>. Its essential goal had only been the acceptance of the
+               status quo. But the objectives of today’s German Ostpolitik are more ambitious. In
+               their new nationalism, the aggressive advocacy of unification, and their skepticism
+               towards the west and European integration the right-wing “Republicans” are thus a
+               symptom of a political change in mood that encompasses more than just their
+               voters.</p>
+            <p>The GDR appears to be the most solid of the communist states – especially in economic
+               terms. Nevertheless, this country has political feet of clay. The binding power of
+               communist ideology has – if it ever was great – anyhow disappeared. This also
+               happened in other communist countries. These other states, however, base their social
+               cohesion and identity on something other than communist ideology – on religion or –
+               mostly – on nationalism. There is probably no such thing as GDR nationalism. At best,
+               there is a certain feeling of connection with their homeland. One probably got used
+               to some convenient facilities of “real existing socialism” in the GDR – such as
+               secure jobs, cheap food staples and apartments, etc. But that alone does not secure
+               identity, and this comfort will gradually wane in the course of necessary economic
+               reforms, which will come sooner or later, even in the GDR. Likewise, it is becoming
+               increasingly difficult to hold the state together with dictatorial measures. Where,
+               if not mainly to the FRG, would the GDR turn if its economic and political opening
+               can no longer be delayed?</p>
+            <p>Reunification may, therefore, very well be on the future political agenda of the two
+               German states. Formally, the other – and especially Western European – states cannot
+               object. The principle of self-determination is recognized internationally. This
+               principle will not be questioned openly by any Western European country and not when
+               applied to the two German states. Actually, no one wants a real application of this
+               principle by a “reunification.” This fear, however, is not articulated openly. One is
+               only too aware of the fact that taking an open stand against reunification would only
+               strengthen the extreme and nationalist forces in the Federal Republic. Hence, there
+               is no open political dialogue with the FRG on this issue – only unadmitted silent
+               fear.</p>
+            <p>If, in what form, and when there is a merger of the German states, is certainly
+               uncertain. In any case, the desire for “reunification” in both German states cannot
+               be ruled out, especially in the FRG, once it ceases to be a merely abstract and
+               distant goal and becomes a specific concern. One should thus take the possibility of
+               a reunification seriously and really examine what the consequences would be. Would
+               such a reunification actually blow up the entire postwar order?</p>
+            <p>Reunification would certainly be a huge shock for this order. It is argued below that
+               the European postwar order would not have to fall apart because of this. Even a
+               reunified Germany would not be so strong that it would dominate the European
+               continent economically and militarily. It would just be a very big country among the
+               other major European states.</p>
+            <p/>
+            <p>
+               <table rows="8" cols="4">
+                  <row>
+                     <cell/>
+                     <cell>Inhabitants 1985 </cell>
+                     <cell>Inhabitants 2025 </cell>
+                     <cell>Surface in km<hi>2</hi></cell>
+                  </row>
+                  <row>
+                     <cell>FRG </cell>
+                     <cell>61.0 </cell>
+                     <cell>57.2 </cell>
+                     <cell>249,000</cell>
+                  </row>
+                  <row>
+                     <cell>GDR</cell>
+                     <cell>16.6</cell>
+                     <cell>17.3</cell>
+                     <cell>108,000</cell>
+                  </row>
+                  <row>
+                     <cell>Together</cell>
+                     <cell>77.6</cell>
+                     <cell>74.5</cell>
+                     <cell>357,000</cell>
+                  </row>
+                  <row>
+                     <cell>France</cell>
+                     <cell>55.2</cell>
+                     <cell>63.7</cell>
+                     <cell>547.000</cell>
+                  </row>
+                  <row>
+                     <cell>Italy</cell>
+                     <cell>57.1</cell>
+                     <cell>58.5</cell>
+                     <cell>301.000</cell>
+                  </row>
+                  <row>
+                     <cell>Czechoslovakia</cell>
+                     <cell>17.5</cell>
+                     <cell>18.5</cell>
+                     <cell>127.000</cell>
+                  </row>
+                  <row>
+                     <cell>Poland</cell>
+                     <cell>37.2</cell>
+                     <cell>48.0</cell>
+                     <cell>312.000</cell>
+                  </row>
+                  <row>
+                     <cell>Together</cell>
+                     <cell>54.7</cell>
+                     <cell>66.5</cell>
+                     <cell>439.000</cell>
+                  </row>
+               </table>
+            </p>
+            <p n="1"/>
+            <p>The surface of a reunified Germany would be 357,000 km<hi>2</hi>, far less than the
+               combined area of Poland and Czechoslovakia (439,000 km<hi>2</hi>).</p>
+            <p>In the GDR, the population is growing slowly, in West Germany it is dropping sharply.
+               In 2025, a “unified Germany” would have a population of 74.5 million. France would,
+               in contrast, have a population of 63.7 million, and Czechoslovakia and Poland
+               together would have a combined population of 66.5 million.</p>
+            <p>Not only is the FRG’s population growth low (or even negative), the FRG’s economy is
+               also far less dynamic than itself and other European countries assume. The most
+               reliable measure of the development of economic power is the development of
+               productivity. The development of productivity in the Federal Republic of Germany has
+               been slow since 1960 and risen far less than in either France or Italy.</p>
+            <p>These trends are likely to continue, and in 10 years at the latest France will have
+               caught up in absolute economic power with the FRG.</p>
+            <p>One must assume that even with reunification the current GDR could not immediately be
+               brought up to the economic level of the FRG. One could therefore assume that the
+               productivity of the area that is the GDR today, even in 2025, would be somewhere –
+               perhaps around 15% – below the productivity of the current FRG. The entire economic
+               potential of the two unified areas would therefore in 2025 approximately match the
+               economic power that France will then have.</p>
+            <p>The economic power of a “unified Germany” must not just be compared with France, but
+               also with the rest of the Western European states. Above all, the southern EC
+               countries (such as Italy and Spain) will – as in the past, but also in the future –
+               develop more rapidly economically, so the economic and political weight of these EC
+               countries will increase when compared to the FRG or a “reunified Germany”.</p>
+            <p>A reunified Germany would not be significantly greater in population and economic
+               strength than the FRG is today: namely, one among the most powerful nations of
+               Europe.</p>
+            <p>The consequences of a “reunification” cannot, however, only be looked at from a
+               purely economic standpoint: they also need to be viewed from a military security
+               perspective. What would be the consequences of “reunification” in this area?</p>
+
+            <p/>
+            <p><figure>
+                  <graphic url="https://www.dodis.ch/res/img/qdd12-img1.jpg"/>
+                  <figDesc>Gross domestic product per capita at purchasing power parities 1960, 1986
+                     and 1987</figDesc>
+               </figure></p>
+            <p>
+               <emph>Military and Security Policy Aspects of a “Reunification”</emph>
+            </p>
+            <p>“Reunification” is sometimes associated with a “neutralization” of the then united
+               Germany. Neutralization would thus be condition or result of an association of the
+               two German states.</p>
+            <p/>
+            <p><emph>First</emph>, as Khrushchev<note xml:id="e287">Nikita Khrushchev (1894–1971),
+                     <ref target="https://dodis.ch/P14485">dodis.ch/P14485</ref>, First Secretary of
+                  the Communist Party of the Soviet Union 1953–1964 and Chairman of the Council of
+                  Ministers of the Soviet Union 1958–1964.</note> said during his tenure to the then
+               Foreign Minister Kreisky:<note xml:id="e293">Bruno Kreisky (1911–1990), <ref
+                     target="https://dodis.ch/P2507">dodis.ch/P2507</ref>, Austrian Foreign Minister
+                  1959–1966 and Federal Chancellor 1970–1983.</note> “Neutrality is a status which
+               is appropriate for a small country located geographically and security-politics-wise
+               between two powers.” Neutrality does not apply to a state that, because of its own
+               great influence, whether it wants that or not, becomes a significant factor in
+               international relations. The Ostpolitik of a reunified Germany, even if that state is
+               formally “neutral”, in practice would not be neutral. Whatever a large state
+               undertakes has far-reaching consequences, both in the West and in the East of the
+               continent. For example, whether a small neutral country participates in sanctions
+               does not significantly increase or reduce the effectiveness of such sanctions, but
+               whether a country with more than 70 million inhabitants participates, this determines
+               very well whether such sanctions are effective or not.</p>
+            <p><emph>Second</emph>, a “neutralization” of the current FRG (as proposed by the
+               neoconservative American intellectual Irving Kristol<note xml:id="e301">Irving
+                  Kristol (1920–2009), <ref target="https://dodis.ch/P57517">dodis.ch/P57517</ref>,
+                  American author and social scientist, protagonist of the neoconservative
+                  movement.</note> in the enclosed article) would weaken the Western defense
+               alliance so much as to make it insubstantial. “Geopolitically”, geography simply
+               privileges a large landmass to the east of the continent. In contrast, NATO-allied
+               Western Europe has less strategic depth. If this depth were further reduced by the
+               “neutralization” of the FRG, a military counterweight to the Soviet Union could in no
+               way be maintained on such shrunken territory. A “balance” (or better: a
+               conflict-hindering balance of power) would no longer exist.</p>
+            <p><emph>Third</emph>, the neutralization of West Germany would naturally bring about
+               the withdrawal of US troops from Europe (which are stationed for the most part in the
+               FRG). Europeans doubt – probably rightly – the ultimate effectiveness of the “nuclear
+               guarantee” granted to them by the US. More important is the guarantee – or “hostage”
+               function of American troops. These troops enable – more effectively than nuclear
+               missiles – the “coupling” of the European theater of war to the United States. This
+               coupling would be lost with the withdrawal of US troops.</p>
+            <p><emph>Fourth</emph>, there is perhaps a problem with a reunited Germany arming itself
+               with nuclear weapons. Nuclear weapons are today quite “cheap” to produce. The
+               technical know-how is certainly available in the FRG. The incentive to guarantee
+               one’s security in such a “cheap” way through nuclear deterrence is therefore
+               considerable. Speaking against the purchase of national nuclear weapons is certainly
+               the uncertainty that the possession of such weapons would trigger in European
+               countries in East and West. Speaking for the possession of nuclear weapons is the
+               fact that a reunified and neutral Germany would be surrounded by potential enemies,
+               who could be held at bay best and most “cheaply” with the aid of nuclear
+               deterrence.</p>
+            <p><emph>Fifth</emph>, one must question if the FRG stepping out of the western defense
+               alliance would even be physically possible as things stand. The FRG is nowadays very
+               tightly integrated economically and socially with the rest of Western Europe. This
+               Western European integration and cooperation will increasingly extend to security
+               matters. The situation where European security is provided largely by the United
+               States can historically not be maintained indefinitely. Western Europe will
+               increasingly have to provide for its own security – sooner rather than later.</p>
+            <p>Security policy is all-embracing. It also has a specifically economic aspect and an
+               economic basis. If a “neutralized” reunified Germany were to pursue an independent
+               security policy, then the FRG would have to, at least in some important areas (such
+               as in technology), free itself from already existing dependencies and connections
+               with Western European countries. But the integration of Western Europe has already
+               progressed too far. This option of stepping out of Western European cooperation is no
+               longer open to the FRG. For example, the FRG no longer has the option to develop its
+               own aviation and aerospace industry separately from the rest of Western Europe.</p>
+            <p>It is of course the – acknowledged or unacknowledged – objective of the remaining
+               Western European countries to strengthen the integration of the FRG into Western
+               Europe and make it irreversible. Behind the integration-friendly policy of France is
+               not just France’s desire to secure its influence through a united Western Europe,
+               which it could not exercise acting alone in today’s world. With this policy, France
+               is also pursuing its objective of strengthening the “Western tying” of the FRG to an
+               extent that makes it inextricable.</p>
+            <p>Hence, it is both unlikely and undesirable that the FRG should withdraw from NATO to
+               become neutral simply in order to “unite” with the GDR. This would also not be in the
+               long-term interests of the Warsaw Pact and the USSR. A united Western Europe (also
+               including the FRG) would certainly have a far less ambitious “Ostpolitik” than a
+               reunified, neutral Germany.</p>
+            <p>What would be the consequences of the more likely solution in which the reunified
+               Germany does not become “neutral” and the FRG remains in the Western defense
+               alliance? This would certainly result in a military shift at the expense of the East.
+               But this shift is less far-reaching than one would at first assume.</p>
+            <p>The advantage that the Warsaw Pact currently draws from the fact that the GDR is a
+               member shows itself in the light of the present – still – ruling Soviet military
+               doctrine. This demands that in the event of an East-West war, Warsaw Pact troops will
+               advance to the Atlantic Ocean as quickly as possible in order to prevent the arrival
+               of reinforcements from the US. The “Spur” in the south of the GDR that protrudes into
+               West Germany (“Fulda Gap”) would serve as a springboard for such an offensive.</p>
+            <p><figure>
+                  <graphic url="https://www.dodis.ch/res/img/qdd12-img2.jpg"/>
+                  <figDesc>Gross domestic product per capita at purchasing power parities 1960, 1986
+                     and 1987</figDesc>
+               </figure></p>
+            <p>However, it is intended and also probable that the military doctrines will be
+               changed. The predominant doctrines in both the West (“deep strike,” FOFA) and the
+               East (“forward defense”) assume “attack is the best defense”. These offensive
+               military tactics are contrary to the principally defensive strategic objectives of
+               the two alliances, who just want to maintain the status quo and seek no territorial
+               gains.</p>
+            <p>If the military alliances and, especially, the Warsaw Pact convert their “defense” to
+               a purely defensive one, with no element of attack against Western Europe, this
+               removes the goal of reaching the Atlantic coast as quickly as possible, thus lowering
+               the military value of the East German spur protruding into the FRG. This reduces the
+               military disadvantage of withdrawing the GDR from the Warsaw Pact. The loss of
+               militarily useable terrain is hardly decisive strategically. The GDR is, in its
+               east-west dimensions of 200–300 km, a relatively narrow state. In contrast, the new
+               East-West border, also being the eastern border of a reunified Germany, would have
+               the advantage of being straighter than the previous military East-West border and
+               therefore easier to defend.</p>
+            <p>Indeed, Czechoslovakia would be more negatively affected by such a shift in the
+               military dividing line to the east. Its north-west border is currently covered
+               against NATO by the GDR. If the GDR withdraws from the Warsaw Pact, this border would
+               be directly exposed to NATO. A solution to this problem could be to “demilitarize”
+               the territory of the present GDR even after reunification with the FRG, although the
+               reunified Germany would belong to NATO, and this demilitarization could be secured
+               through international guarantees.</p>
+            <p/>
+            <p><emph>Summary</emph>:</p>
+            <p>Despite lip service supporting the right of “self-determination”, at present no
+               European country desires German “reunification”. The fear of such a reunification
+               can, however, become a highly destabilizing element for European policy, even without
+               being able to prevent reunification. Whether reunification actually happens is, of
+               course, uncertain, but it cannot be excluded. In both German states there are
+               developments that make such a reunification more probable today than it was just two
+               to three years ago. A reunified Germany could and should not be neutral or
+               neutralized. If at least the western part of the reunified Germany remains integrated
+               in NATO, and the entire Germany is a member of the EC, then no threat would arise
+               through a newly formed military and economically dominant superstate, which is the
+               general fear.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

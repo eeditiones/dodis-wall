@@ -1,0 +1,901 @@
+{
+    "total": null,
+    "data": {
+        "id": 53320,
+        "title": "No 105/2",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "11.11.1989",
+        "documentDateDayOfWeek": "Saturday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "News obtained from local and Western press on 10th and 11th of November regarding the fall of the Berlin Wall.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "URGENT",
+        "classificationText": "urgent",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 99907,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101734,
+                "tagId": 327,
+                "name": "Turkey (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.099.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Turkey (Politics)",
+                    "Turchia (Politica)",
+                    "Türkei (Politik)",
+                    "Turquie (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Turquie (Politique)",
+                "deName": "Türkei (Politik)",
+                "enName": "Turkey (Politics)",
+                "itName": "Turchia (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101735,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101736,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59373,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Turkish Diplomatic Archives",
+                "archiveCode": "TR-DA",
+                "box": null,
+                "aisCode": "3211439",
+                "dossierId": 31487,
+                "hasPdf": null,
+                "original": false,
+                "archiveUrl": "",
+                "archivePlace": "Ankara",
+                "id": 59373
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16459,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "11"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36949,
+                "sort": 0,
+                "attachment": {
+                    "id": 37203,
+                    "attachmentId": 37203,
+                    "date": "",
+                    "fileRef": "dodis-53320-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53320-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53320\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53320<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Turkish Ambassador in East Berlin, Metin\n                  Mekik<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span> , to the Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Extremely urgent<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 11 November 1989, 1.00 p.m.<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">1) Following the opening of the Berlin Wall, the important information and\n               observation gathered by our embassy from the western and local media concerning the\n               recent developments which occurred in Berlin during the night of 10 November and this\n               morning (11 November) are summarized as submitted below:<\/p>\n            <p class=\"tei-p2 tei-p\">On 10 November, more than 40 thousand citizens of the German Democratic Republic\n               crossed to West Berlin. The crossing process continues at a rate of 100 vehicles and\n               3,000 people per hour. It is estimated that approximately one million East Berlin\n               citizens will cross to West Berlin for touristic purposes during the weekend. The\n               police of the German Democratic Republic are providing the necessary convenience on\n               the border and around the Wall, and their demeanor is moderate and pleasant. The\n               Berlin subway has been opened.<\/p>\n            <p class=\"tei-p2 tei-p\">Over the last 24 hours, a mere 2,500 people crossing to the west indented for\n               permanent migration.<\/p>\n            <p class=\"tei-p2 tei-p\">The citizens of East Germany are being welcomed in a festive atmosphere by their\n               cognates in West Berlin. The traffic police are not fining them for parking illegally\n               (negative), city-dwellers are distributing gifts, and the banks in the Federal German\n               Republic are distributing an allowance of 100 DM to each arriving guest. In the bars\n               of West Berlin, the East German Mark was also accepted last night.<\/p>\n            <p class=\"tei-p2 tei-p\">At the border gates along the Berlin Wall, there is a stampede. All the families\n               seeking to cross over together with the intention to \u201cvisit\u201d formed queues of tens of\n               thousands of people at the train and subway stations by the border gates.<\/p>\n            <p class=\"tei-p2 tei-p\">The west and east side of the Berlin Wall, built 28 years ago over one night and\n               responsible for the deaths of 71,000 innocents trying to escape from the east over\n               the course of its existence, was demolished during the night of 10 November 1989\n               under the supervision of engineers from the German Democratic Republic, opening the\n               way for easy transits.<\/p>\n            <p class=\"tei-p2 tei-p\">In addition to these gates, four additional gates will be opened on Tuesday, 14\n               November. It was indicated that the number of gates for crossing to West Berlin would\n               be increased from 13 to 31. It has been suggested that the historic Brandenburg Gate\n               will also be opened; thousands of Berlin\u2019s youths are sitting on the Wall at this\n               point and protesting.<\/p>\n            <p class=\"tei-p2 tei-p\">During the night of 10 November, Helmut Kohl<span id=\"fnref_1_5_2_2_21_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_2\">3<\/a><\/span>, the Prime Minister of the\n               Federal Republic of Germany and Willy Brandt<span id=\"fnref_1_5_2_2_21_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_4\">4<\/a><\/span>, who was the mayor of West Berlin when the Berlin Wall\n               was built in the summer of 1961, arrived in Berlin and made speeches in front of the\n               Wall.<\/p>\n            <p class=\"tei-p2 tei-p\">In his speech, the Prime Minister of the Federal Republic of Germany said \u201cwe are one\n               nation, let\u2019s struggle together.\u201d<\/p>\n            <p class=\"tei-p2 tei-p\"><\/p>\n            <p class=\"tei-p1 tei-p1\">2) During the meeting of the Central Committee of the said party, decisions\n               concerning the realisation of free democratic elections, ensuring a secret ballot,\n               providing for the freedom of press and submitting the secret police for trial were\n               taken.<\/p>\n            <p class=\"tei-p2 tei-p\">Thanks to the maturity of the people of the German Democratic Republic, who are aware\n               of having suffered hard times and the moderate and rationalist attitudes of their\n               leaders, the incidents that are occurring are adding momentum to the shift towards\n               democracy.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 105/2 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archives 3211439<\/span>. Delivered to\n                  the duty officer at the communications centre: 1<span class=\"tei-orig tei-orig\">1 November 1989 2.10\n                     p.m.<\/span> Copy to the Turkish Embassy in Bonn. Ref: <span class=\"tei-idno tei-idno\">a)\n                        non-confidential telegram No. 905 b) non-confidential telegram No.\n                        941<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador\n                     in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl\n               (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>,\n               Chancellor of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Willy Brandt\n                  (1913\u20131992), <a href=\"https://dodis.ch/P15409\" class=\"tei-ref7 tei-link\">dodis.ch/P15409<\/a>,\n                  Governing Mayor of West Berlin 3.10.1957\u20131.12.1966 and Chancellor of the FRG\n                  22.10.1969\u20137.5.1974.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59373,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36334,
+                "sort": 0,
+                "attachment": {
+                    "id": 36595,
+                    "attachmentId": 36595,
+                    "date": "",
+                    "fileRef": "dodis-53320-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53320-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59373,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37060,
+                "sort": 0,
+                "attachment": {
+                    "id": 37277,
+                    "attachmentId": 37277,
+                    "date": "",
+                    "fileRef": "dodis-53320.html",
+                    "fileRefThumbnail": "thumb_dodis-53320.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53320\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53320<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Turkish Ambassador in East Berlin, Metin\n                  Mekik<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span> , to the Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Extremely urgent<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 11 November 1989, 1.00 p.m.<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">1) Following the opening of the Berlin Wall, the important information and\n               observation gathered by our embassy from the western and local media concerning the\n               recent developments which occurred in Berlin during the night of 10 November and this\n               morning (11 November) are summarized as submitted below:<\/p>\n            <p class=\"tei-p2 tei-p\">On 10 November, more than 40 thousand citizens of the German Democratic Republic\n               crossed to West Berlin. The crossing process continues at a rate of 100 vehicles and\n               3,000 people per hour. It is estimated that approximately one million East Berlin\n               citizens will cross to West Berlin for touristic purposes during the weekend. The\n               police of the German Democratic Republic are providing the necessary convenience on\n               the border and around the Wall, and their demeanor is moderate and pleasant. The\n               Berlin subway has been opened.<\/p>\n            <p class=\"tei-p2 tei-p\">Over the last 24 hours, a mere 2,500 people crossing to the west indented for\n               permanent migration.<\/p>\n            <p class=\"tei-p2 tei-p\">The citizens of East Germany are being welcomed in a festive atmosphere by their\n               cognates in West Berlin. The traffic police are not fining them for parking illegally\n               (negative), city-dwellers are distributing gifts, and the banks in the Federal German\n               Republic are distributing an allowance of 100 DM to each arriving guest. In the bars\n               of West Berlin, the East German Mark was also accepted last night.<\/p>\n            <p class=\"tei-p2 tei-p\">At the border gates along the Berlin Wall, there is a stampede. All the families\n               seeking to cross over together with the intention to \u201cvisit\u201d formed queues of tens of\n               thousands of people at the train and subway stations by the border gates.<\/p>\n            <p class=\"tei-p2 tei-p\">The west and east side of the Berlin Wall, built 28 years ago over one night and\n               responsible for the deaths of 71,000 innocents trying to escape from the east over\n               the course of its existence, was demolished during the night of 10 November 1989\n               under the supervision of engineers from the German Democratic Republic, opening the\n               way for easy transits.<\/p>\n            <p class=\"tei-p2 tei-p\">In addition to these gates, four additional gates will be opened on Tuesday, 14\n               November. It was indicated that the number of gates for crossing to West Berlin would\n               be increased from 13 to 31. It has been suggested that the historic Brandenburg Gate\n               will also be opened; thousands of Berlin\u2019s youths are sitting on the Wall at this\n               point and protesting.<\/p>\n            <p class=\"tei-p2 tei-p\">During the night of 10 November, Helmut Kohl<span id=\"fnref_1_5_2_2_21_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_2\">3<\/a><\/span>, the Prime Minister of the\n               Federal Republic of Germany and Willy Brandt<span id=\"fnref_1_5_2_2_21_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_4\">4<\/a><\/span>, who was the mayor of West Berlin when the Berlin Wall\n               was built in the summer of 1961, arrived in Berlin and made speeches in front of the\n               Wall.<\/p>\n            <p class=\"tei-p2 tei-p\">In his speech, the Prime Minister of the Federal Republic of Germany said \u201cwe are one\n               nation, let\u2019s struggle together.\u201d<\/p>\n            <p class=\"tei-p2 tei-p\"><\/p>\n            <p class=\"tei-p1 tei-p1\">2) During the meeting of the Central Committee of the said party, decisions\n               concerning the realisation of free democratic elections, ensuring a secret ballot,\n               providing for the freedom of press and submitting the secret police for trial were\n               taken.<\/p>\n            <p class=\"tei-p2 tei-p\">Thanks to the maturity of the people of the German Democratic Republic, who are aware\n               of having suffered hard times and the moderate and rationalist attitudes of their\n               leaders, the incidents that are occurring are adding momentum to the shift towards\n               democracy.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 105/2 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archives 3211439<\/span>. Delivered to\n                  the duty officer at the communications centre: 1<span class=\"tei-orig tei-orig\">1 November 1989 2.10\n                     p.m.<\/span> Copy to the Turkish Embassy in Bonn. Ref: <span class=\"tei-idno tei-idno\">a)\n                        non-confidential telegram No. 905 b) non-confidential telegram No.\n                        941<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador\n                     in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl\n               (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>,\n               Chancellor of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Willy Brandt\n                  (1913\u20131992), <a href=\"https://dodis.ch/P15409\" class=\"tei-ref7 tei-link\">dodis.ch/P15409<\/a>,\n                  Governing Mayor of West Berlin 3.10.1957\u20131.12.1966 and Chancellor of the FRG\n                  22.10.1969\u20137.5.1974.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 59373,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 37037,
+                "sort": 0,
+                "attachment": {
+                    "id": 36258,
+                    "attachmentId": 36258,
+                    "date": "",
+                    "fileRef": "dodis-53320.xml",
+                    "fileRefThumbnail": "thumb_dodis-53320.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59373,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36787,
+                "sort": 0,
+                "attachment": {
+                    "id": 37045,
+                    "attachmentId": 37045,
+                    "date": "",
+                    "fileRef": "dodis-53320-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53320-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59373,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34866,
+                "sort": 0,
+                "attachment": {
+                    "id": 35175,
+                    "attachmentId": 35175,
+                    "date": "",
+                    "fileRef": "dodis-53320.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53320.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59373,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Willy",
+                    "lastName": "Brandt",
+                    "fullName": "Brandt, Willy (1913\u20131992)",
+                    "id": 15409,
+                    "comment": "",
+                    "dateBirth": "18.12.1913",
+                    "dateDeath": "8.10.1992",
+                    "wikidataId": "",
+                    "birthPlaceId": 388,
+                    "birthPlaceText": "Lübeck",
+                    "deathPlaceId": 12957,
+                    "deathPlaceText": "Unkel",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Brandt, Willy",
+                        "Frahm, Herbert Ernst Karl"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8859,
+                    "name": "Deutschland/DDR/Polizei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11614,
+                    "name": "Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Zentralkomitee",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Metin",
+                    "lastName": "Mekik",
+                    "fullName": "Mekik, Metin (1932\u20132013)",
+                    "id": 57531,
+                    "comment": "",
+                    "dateBirth": "30.1.1932",
+                    "dateDeath": "7.2.2013",
+                    "wikidataId": "",
+                    "birthPlaceId": 1847,
+                    "birthPlaceText": "Istanbul",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mekik, Metin",
+                        "Mekik, Mehmet Metin"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Willy",
+                    "lastName": "Brandt",
+                    "fullName": "Brandt, Willy (1913\u20131992)",
+                    "id": 15409,
+                    "comment": "",
+                    "dateBirth": "18.12.1913",
+                    "dateDeath": "8.10.1992",
+                    "wikidataId": "",
+                    "birthPlaceId": 388,
+                    "birthPlaceText": "Lübeck",
+                    "deathPlaceId": 12957,
+                    "deathPlaceText": "Unkel",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Brandt, Willy",
+                        "Frahm, Herbert Ernst Karl"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Helmut",
+                    "lastName": "Kohl",
+                    "fullName": "Kohl, Helmut (1930\u20132017)",
+                    "id": 31852,
+                    "comment": "",
+                    "dateBirth": "3.4.1930",
+                    "dateDeath": "16.6.2017",
+                    "wikidataId": "",
+                    "birthPlaceId": 8805,
+                    "birthPlaceText": "Ludwigshafen am Rhein",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Kohl, Helmut"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 841,
+                    "name": "Turkey/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 471,
+                    "placeText": "Ankara",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8859,
+                    "name": "Deutschland/DDR/Polizei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11614,
+                    "name": "Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Zentralkomitee",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33493,
+                    "name": "Turkey/Embassy in East Berlin",
+                    "comment": null,
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 471,
+                    "name": "Ankara",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.920770,
+                    "longitude": 32.854110,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 25,
+                    "name": "Berlin",
+                    "comment": "siehe auch:\r\nBerlin (Ost): dodis.ch/G3061\r\nBerlin (West): dodis.ch/G3581",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.520008,
+                    "longitude": 13.404954,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

@@ -1,0 +1,1103 @@
+{
+    "total": null,
+    "data": {
+        "id": 52942,
+        "title": "Telegram from the Israeli Ambassador in Bonn, Benjamin Navon, to the Israeli Foreign Ministry",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "27.10.1989",
+        "documentDateDayOfWeek": "Friday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Report on a discussion with Wolfgang Mischnick of the FDP on his impressions of a visit to East Berlin; Israel's concerns are voiced.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 1,
+        "classification": "SECRET",
+        "classificationText": "secret",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98271,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101716,
+                "tagId": 464,
+                "name": "Israel (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.057.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Israel (Politics)",
+                    "Israele (Politica)",
+                    "Israel (Politik)",
+                    "Israël (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Israël (Politique)",
+                "deName": "Israel (Politik)",
+                "enName": "Israel (Politics)",
+                "itName": "Israele (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101717,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101718,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59647,
+                "dossierTitle": "גרמניה \u2013 סקירות והערכות מצב",
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": "1.4.1988\u201313.12.1989",
+                "fund": "MFA, Germany- Surveys and assessments",
+                "archive": "Israel State Archives",
+                "archiveCode": "IL",
+                "box": "Box 9537, File 11",
+                "aisCode": null,
+                "dossierId": 31573,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "http://www.bar.admin.ch/org/",
+                "archivePlace": "Jerusalem",
+                "id": 59647
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16406,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "3"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36352,
+                "sort": 0,
+                "attachment": {
+                    "id": 36613,
+                    "attachmentId": 36613,
+                    "date": "",
+                    "fileRef": "dodis-52942-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52942-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59647,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36940,
+                "sort": 0,
+                "attachment": {
+                    "id": 37194,
+                    "attachmentId": 37194,
+                    "date": "",
+                    "fileRef": "dodis-52942-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52942-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52942\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52942<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span>\n                  from the Israeli Ambassador in Bonn, Benjamin Navon<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Israeli Foreign\n                  Ministry<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Secret/Usual <span class=\"tei-add1 tei-add-edition\">[priority]<\/span><\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 27 October 1989<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">Today I had a long talk with Wolfgang Mischnick<span id=\"fnref_1_5_2_2_7_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_3\">3<\/a><\/span>, the chairman of the FDP faction. Mischnick returned 48 hours\n               ago from a visit to East Berlin and was in fact the first Western politician to meet\n               with Egon Krenz<span id=\"fnref_1_5_2_2_7_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_5\">4<\/a><\/span> and the East German leadership.<\/p>\n            <p class=\"tei-p2 tei-p\">In interviews with the media he spoke of his optimistic impressions with regard to\n               expected developments in East Germany.<\/p>\n            <p class=\"tei-p2 tei-p\">When talking to me, he admitted that he had taken this line not so much because he\n               believes it is actually correct, but because he tends to believe that in this case\n               impressions and public reports about them can influence the process. His impression\n               is that there is indeed an atmosphere of change and a strong expectation <span class=\"tei-add1 tei-add-edition\">[of it]<\/span> among the public, but in private he would not dare to\n               predict that this atmosphere of change will become reality.<\/p>\n            <p class=\"tei-p2 tei-p\">He mentioned that Krenz and Gorbachev<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">5<\/a><\/span> had studied at around the same time at the\n               senior Party college in Moscow, and it is not impossible that this will influence\n               Krenz. He emphasized repeatedly that in the USSR change is coming from the top down,\n               whereas in East Germany it is coming from below. It is being adopted \u2013 even if only\n               partially \u2013 by the local functionaries who are trying to pass it up the line, but it\n               is not certain to what extent this will go through. In his opinion a process like\n               that taking place in Hungary or Poland is not to be expected, due to the significant\n               difference caused by the German aspect.<\/p>\n            <p class=\"tei-p2 tei-p\">First, <span class=\"tei-add1 tei-add-edition\">[concerning]<\/span> the justification for the existence of\n               a second German state if it is not socialist and second \u2013 the question of a possible\n               reunification.<\/p>\n            <p class=\"tei-p2 tei-p\">I told him about the Israeli-Jewiss dilemma with regard to East Germany, especially\n               that country\u2019s unwillingness to relate to its past. I also described the traditional\n               hostility of East Germany towards Israel and its unsuccessful efforts to gain support\n               in the U.S. by displaying a seemingly positive attitude to the restoration of a\n               cemetery and a synagogue and the employment of a rabbi for the tiny Jewish community\n               in East Berlin. He told me that at the end of January 1990 he would visit East\n               Germany at the head of an FDP party delegation and we agreed that we would discuss\n               the latter subject before he leaves.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Coded telegram (incoming, translated\n                  from Hebrew): <span class=\"tei-idno tei-idno\">Israel State Archives MFA9537/11<\/span>. Delivered by:\n                  <span class=\"tei-orig tei-orig\">28 October 1989.<\/span> Addressed to Europe divisions 1 and 3.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Benjamin\n                     Navon (*1933), <a href=\"https://dodis.ch/P57507\" class=\"tei-ref7 tei-link\">dodis.ch/P57507<\/a>,\n                     Israeli Ambassador in Bonn, 1989\u20131993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_3\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Wolfgang\n               Mischnick (1921\u20132002), <a href=\"https://dodis.ch/P57508\" class=\"tei-ref7 tei-link\">dodis.ch/P57508<\/a>, Chairman of the FDP faction in the Bundestag of the FRG\n               1968\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_5\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Egon Krenz (*1937), <a href=\"https://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of\n                  the SED 18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                  18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931),\n               <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary\n               of the Communist Party of the Soviet Union 11.3.1985\u201324.8.1991, Chairman of the\n               Supreme Soviet of the Soviet Union 25.5.1989\u201315.3.1990 and President of the Soviet\n               Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59647,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 37044,
+                "sort": 0,
+                "attachment": {
+                    "id": 36251,
+                    "attachmentId": 36251,
+                    "date": "",
+                    "fileRef": "dodis-52942.xml",
+                    "fileRefThumbnail": "thumb_dodis-52942.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59647,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37052,
+                "sort": 0,
+                "attachment": {
+                    "id": 37269,
+                    "attachmentId": 37269,
+                    "date": "",
+                    "fileRef": "dodis-52942.html",
+                    "fileRefThumbnail": "thumb_dodis-52942.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52942\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52942<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span>\n                  from the Israeli Ambassador in Bonn, Benjamin Navon<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Israeli Foreign\n                  Ministry<\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Secret/Usual <span class=\"tei-add1 tei-add-edition\">[priority]<\/span><\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 27 October 1989<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">Today I had a long talk with Wolfgang Mischnick<span id=\"fnref_1_5_2_2_7_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_3\">3<\/a><\/span>, the chairman of the FDP faction. Mischnick returned 48 hours\n               ago from a visit to East Berlin and was in fact the first Western politician to meet\n               with Egon Krenz<span id=\"fnref_1_5_2_2_7_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_5\">4<\/a><\/span> and the East German leadership.<\/p>\n            <p class=\"tei-p2 tei-p\">In interviews with the media he spoke of his optimistic impressions with regard to\n               expected developments in East Germany.<\/p>\n            <p class=\"tei-p2 tei-p\">When talking to me, he admitted that he had taken this line not so much because he\n               believes it is actually correct, but because he tends to believe that in this case\n               impressions and public reports about them can influence the process. His impression\n               is that there is indeed an atmosphere of change and a strong expectation <span class=\"tei-add1 tei-add-edition\">[of it]<\/span> among the public, but in private he would not dare to\n               predict that this atmosphere of change will become reality.<\/p>\n            <p class=\"tei-p2 tei-p\">He mentioned that Krenz and Gorbachev<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">5<\/a><\/span> had studied at around the same time at the\n               senior Party college in Moscow, and it is not impossible that this will influence\n               Krenz. He emphasized repeatedly that in the USSR change is coming from the top down,\n               whereas in East Germany it is coming from below. It is being adopted \u2013 even if only\n               partially \u2013 by the local functionaries who are trying to pass it up the line, but it\n               is not certain to what extent this will go through. In his opinion a process like\n               that taking place in Hungary or Poland is not to be expected, due to the significant\n               difference caused by the German aspect.<\/p>\n            <p class=\"tei-p2 tei-p\">First, <span class=\"tei-add1 tei-add-edition\">[concerning]<\/span> the justification for the existence of\n               a second German state if it is not socialist and second \u2013 the question of a possible\n               reunification.<\/p>\n            <p class=\"tei-p2 tei-p\">I told him about the Israeli-Jewiss dilemma with regard to East Germany, especially\n               that country\u2019s unwillingness to relate to its past. I also described the traditional\n               hostility of East Germany towards Israel and its unsuccessful efforts to gain support\n               in the U.S. by displaying a seemingly positive attitude to the restoration of a\n               cemetery and a synagogue and the employment of a rabbi for the tiny Jewish community\n               in East Berlin. He told me that at the end of January 1990 he would visit East\n               Germany at the head of an FDP party delegation and we agreed that we would discuss\n               the latter subject before he leaves.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Coded telegram (incoming, translated\n                  from Hebrew): <span class=\"tei-idno tei-idno\">Israel State Archives MFA9537/11<\/span>. Delivered by:\n                  <span class=\"tei-orig tei-orig\">28 October 1989.<\/span> Addressed to Europe divisions 1 and 3.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Benjamin\n                     Navon (*1933), <a href=\"https://dodis.ch/P57507\" class=\"tei-ref7 tei-link\">dodis.ch/P57507<\/a>,\n                     Israeli Ambassador in Bonn, 1989\u20131993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_3\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Wolfgang\n               Mischnick (1921\u20132002), <a href=\"https://dodis.ch/P57508\" class=\"tei-ref7 tei-link\">dodis.ch/P57508<\/a>, Chairman of the FDP faction in the Bundestag of the FRG\n               1968\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_5\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Egon Krenz (*1937), <a href=\"https://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of\n                  the SED 18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                  18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931),\n               <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary\n               of the Communist Party of the Soviet Union 11.3.1985\u201324.8.1991, Chairman of the\n               Supreme Soviet of the Soviet Union 25.5.1989\u201315.3.1990 and President of the Soviet\n               Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 59647,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36758,
+                "sort": 0,
+                "attachment": {
+                    "id": 37016,
+                    "attachmentId": 37016,
+                    "date": "",
+                    "fileRef": "dodis-52942-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52942-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59647,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 34983,
+                "sort": 0,
+                "attachment": {
+                    "id": 35292,
+                    "attachmentId": 35292,
+                    "date": "",
+                    "fileRef": "dodis-52942.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52942.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59647,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Benjamin",
+                    "lastName": "Navon",
+                    "fullName": "Navon, Benjamin (1933\u2013)",
+                    "id": 57507,
+                    "comment": "",
+                    "dateBirth": "23.7.1933",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Navon, Benjamin"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Benjamin",
+                    "lastName": "Navon",
+                    "fullName": "Navon, Benjamin (1933\u2013)",
+                    "id": 57507,
+                    "comment": "",
+                    "dateBirth": "23.7.1933",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Navon, Benjamin"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Mikhail Sergeyevich",
+                    "lastName": "Gorbachev",
+                    "fullName": "Gorbachev, Mikhail Sergeyevich (1931\u2013)",
+                    "id": 31707,
+                    "comment": "",
+                    "dateBirth": "2.3.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14322,
+                    "birthPlaceText": "Priwolnoje ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Gorbatschow, Michail Sergejewitsch",
+                        "Gorbatchev, Mikhaïl Sergueïevitch",
+                        "Gorbatschow, Michail",
+                        "Gorbačëv, Michail Sergeevič",
+                        "Gorbatchev, Mikhaïl",
+                        "Gorbačëv, Michail",
+                        "Gorbaciov, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail Sergeyevich",
+                        "Gorbatschow, Michael",
+                        "Горбачёв, Михаи́л",
+                        "Горбачёв, Михаи́л Серге́евич"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Wolfgang",
+                    "lastName": "Mischnick",
+                    "fullName": "Mischnick, Wolfgang (1921\u20132002)",
+                    "id": 57508,
+                    "comment": "",
+                    "dateBirth": "21.9.1921",
+                    "dateDeath": "6.10.2002",
+                    "wikidataId": "",
+                    "birthPlaceId": 807,
+                    "birthPlaceText": "Dresden",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mischnick, Friedrich Adolf Wolfgang",
+                        "Mischnick, Wolfgang"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 26238,
+                    "name": "Israel/Embassy in Bonn",
+                    "comment": "",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 4531,
+                    "name": "Israel/Foreign Ministry",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Jerusalem (1953-)/Tel Aviv (1948-1953)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8058,
+                    "name": "Deutschland/BRD/Freie Demokratische Partei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8864,
+                    "name": "Germany/FRG/Parliament",
+                    "comment": "(Zusammenschluss von Bundestag und Länderdelegierten, welche von Reg. und Parl. der dt. Länder bezeichnet werden).\r\nAugust 1949 Wahl zum 1. Bundestag (CDU 139 Sitze, SPD 131 Sitze).\r\nCf. Der Parlamentarische Rat 1948-1949. Akten und Protokolle. Herausgegeben vom Deutschen Bundestag und Bundesarchiv, Band 9, 1996, Oldenbourg, ISBN 3-486-56228.-2",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33484,
+                    "name": "Germany/FRG/Parliament/FDP faction",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33482,
+                    "name": "USSR/CPSU Party Academy ",
+                    "comment": null,
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 324,
+                    "name": "Jerusalem",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 31.768318,
+                    "longitude": 35.213710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20,
+                    "name": "Hungary",
+                    "comment": " ",
+                    "countryCode": "HU",
+                    "regionCode": null,
+                    "latitude": 47.162495,
+                    "longitude": 19.503304,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1761,
+                    "name": "Israel",
+                    "comment": "",
+                    "countryCode": "IL",
+                    "regionCode": null,
+                    "latitude": 31.046051,
+                    "longitude": 34.851612,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11,
+                    "name": "United States of America (1776-)",
+                    "comment": "",
+                    "countryCode": "US",
+                    "regionCode": null,
+                    "latitude": 37.090240,
+                    "longitude": -95.712890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Benjamin",
+                    "lastName": "Navon",
+                    "fullName": "Navon, Benjamin (1933\u2013)",
+                    "id": 57507,
+                    "comment": "",
+                    "dateBirth": "23.7.1933",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Navon, Benjamin"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Benjamin",
+                    "lastName": "Navon",
+                    "fullName": "Navon, Benjamin (1933\u2013)",
+                    "id": 57507,
+                    "comment": "",
+                    "dateBirth": "23.7.1933",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 15391,
+                    "birthPlaceText": "Czernowitz",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Navon, Benjamin"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Mikhail Sergeyevich",
+                    "lastName": "Gorbachev",
+                    "fullName": "Gorbachev, Mikhail Sergeyevich (1931\u2013)",
+                    "id": 31707,
+                    "comment": "",
+                    "dateBirth": "2.3.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14322,
+                    "birthPlaceText": "Priwolnoje ",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Gorbatschow, Michail Sergejewitsch",
+                        "Gorbatchev, Mikhaïl Sergueïevitch",
+                        "Gorbatschow, Michail",
+                        "Gorbačëv, Michail Sergeevič",
+                        "Gorbatchev, Mikhaïl",
+                        "Gorbačëv, Michail",
+                        "Gorbaciov, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail",
+                        "Gorbachev, Mikhail Sergeyevich",
+                        "Gorbatschow, Michael",
+                        "Горбачёв, Михаи́л",
+                        "Горбачёв, Михаи́л Серге́евич"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Egon",
+                    "lastName": "Krenz",
+                    "fullName": "Krenz, Egon (1937\u2013)",
+                    "id": 54794,
+                    "comment": "",
+                    "dateBirth": "19.3.1937",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 14030,
+                    "birthPlaceText": "Kołobrzeg",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Krenz, Egon",
+                        "Krenz, Egon Rudi Ernst"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Wolfgang",
+                    "lastName": "Mischnick",
+                    "fullName": "Mischnick, Wolfgang (1921\u20132002)",
+                    "id": 57508,
+                    "comment": "",
+                    "dateBirth": "21.9.1921",
+                    "dateDeath": "6.10.2002",
+                    "wikidataId": "",
+                    "birthPlaceId": 807,
+                    "birthPlaceText": "Dresden",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Mischnick, Friedrich Adolf Wolfgang",
+                        "Mischnick, Wolfgang"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 26238,
+                    "name": "Israel/Embassy in Bonn",
+                    "comment": "",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 4531,
+                    "name": "Israel/Foreign Ministry",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Jerusalem (1953-)/Tel Aviv (1948-1953)",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 8058,
+                    "name": "Deutschland/BRD/Freie Demokratische Partei",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8864,
+                    "name": "Germany/FRG/Parliament",
+                    "comment": "(Zusammenschluss von Bundestag und Länderdelegierten, welche von Reg. und Parl. der dt. Länder bezeichnet werden).\r\nAugust 1949 Wahl zum 1. Bundestag (CDU 139 Sitze, SPD 131 Sitze).\r\nCf. Der Parlamentarische Rat 1948-1949. Akten und Protokolle. Herausgegeben vom Deutschen Bundestag und Bundesarchiv, Band 9, 1996, Oldenbourg, ISBN 3-486-56228.-2",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33484,
+                    "name": "Germany/FRG/Parliament/FDP faction",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4181,
+                    "name": "Germany/GDR/Government",
+                    "comment": "Cf. dodis.ch/13897p.173.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33482,
+                    "name": "USSR/CPSU Party Academy ",
+                    "comment": null,
+                    "placeId": 21,
+                    "placeText": "Moscow",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 324,
+                    "name": "Jerusalem",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 31.768318,
+                    "longitude": 35.213710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 20,
+                    "name": "Hungary",
+                    "comment": " ",
+                    "countryCode": "HU",
+                    "regionCode": null,
+                    "latitude": 47.162495,
+                    "longitude": 19.503304,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1761,
+                    "name": "Israel",
+                    "comment": "",
+                    "countryCode": "IL",
+                    "regionCode": null,
+                    "latitude": 31.046051,
+                    "longitude": 34.851612,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30,
+                    "name": "Russia",
+                    "comment": "",
+                    "countryCode": "RU",
+                    "regionCode": null,
+                    "latitude": 63.722500,
+                    "longitude": 83.577778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 11,
+                    "name": "United States of America (1776-)",
+                    "comment": "",
+                    "countryCode": "US",
+                    "regionCode": null,
+                    "latitude": 37.090240,
+                    "longitude": -95.712890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

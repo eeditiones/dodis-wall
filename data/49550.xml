@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quaderni di Dodis 12</title>
+                <author>Diplomatische Dokumente der Schweiz</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="http://dodis.ch/49550">dodis.ch/49550</ref>
+                    <title type="main">Interne Notiz<note xml:id="e642">Notiz: <idno type="CH-BAR">CH-BAR#E2010A#1999/250#7145*(B.73.0).</idno> Verfasst von D. Woker,
+                                <ref target="http://dodis.ch/27996">dodis.ch/P27996</ref>,
+                            unterzeichnet in Wokers Abweseheit von Heidi Ilfrid, <ref target="http://dodis.ch/57668">dodis.ch/P57668</ref>. Kopie an Klaus
+                            Jacobi, Jenno Staehelin, Daniel Woker, René Pascge, die Sektion Mittel-
+                            und Osteuropäische Länder, die Direktion für Verwaltungsangelegenheiten
+                            und Aussendienst, die Völkerrechtsdirektion sowie das Politisches
+                            Sekretariat des Politischen Departements, die schweizerische Botschaft
+                            in Berlin sowie an das Bundesamt für Ausländerfragen des Justiz- und
+                            Polizeidepartements <orig>(Für Para 3, mit Hinweis auf Ihre Vorlage vom
+                                16.3. «Visumspolitische Standortbestimmung», </orig>
+                            <ref target="http://dodis.ch/53405">dodis.ch/53405</ref>, <orig>unsere
+                                Stellungnahme dazu vom 27.03.</orig>, <ref target="http://dodis.ch/53407">dodis.ch/53407</ref> und <ref target="http://dodis.ch/53410">dodis.ch/53410</ref>, <orig>und das
+                                Schreiben unserer Botschaft in Berlin vom 07.02. «Visumpflicht
+                                DDR-Schweiz»</orig>, <ref target="http://dodis.ch/53402">dodis.ch/53402</ref>
+                            <orig>, sowie der freundlichen Bitte um Hinweis, wie Sie nun weiter
+                                vorgehen wollen.) </orig>
+                        </note> des Eidgenösssichen Departements für auswärtige
+                        Angelegenheiten</title>
+                    <title type="sub">DDR — Neue Regierung und Politik</title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Bern, </placeName>
+                        <date when="1990-04-18">18. April 1990</date>
+                    </dateline>
+                </opener>
+                <p n="1">Heute Mittwoch, 18.4. sucht mich der Botschafter der DDR (B<add type="edition">[ibow]</add>
+                    <note xml:id="e864">Eckhard Bibow (*1930), <ref target="http://dodis.ch/P54792">dodis.ch/P54792</ref>, Botschafter der DDR in der Schweiz
+                        1986–1990.</note>) auf mit folgendem Anliegen:</p>
+                <p>1. Er übergibt die <emph n="1"> «Gemeinsame Erklärung aller Fraktionen der
+                        Volkskammer»</emph> vom 12.4.1990 (Beilage<note xml:id="e874">Gemeinsame
+                        Erklärung aller Fraktion des Volkskammer vom 12. April 1990, <ref target="http://dodis.ch/52353">dodis.ch/52353</ref>.</note>). Bei der
+                    aus den Medien in den Hauptpunkten ja bekannten Erklärung handelt es sich, in
+                    den Worten von B <add type="edition">[ibow] </add> , um eine Generalabrechnung
+                    mit der bisher von der DDR verleugneten unseligen Vergangenheit der Deutschen,
+                    sowie späterer unrühmlicher DDR-Aktionen. Offizielle Entschuldigungen werden das
+                    jüdische Volk und Israel, an die Sowjetunion, an die CFSR (wegen der
+                    Niederschlagung des Prager Frühlings) gerichtet und die Unverletzlichkeit der
+                    gegenwärtigen polnischen Westgrenze festgestellt.</p>
+                <p n="1">2. B<add type="edition">[ibow] </add> unterstreicht weiter das Interesse
+                    der neuen Regierung an <emph> bilateralen Beziehungen</emph> mit der Schweiz. Er
+                    erkundigt sich nach einem möglichen Termin des grundsätzlich bereits
+                    festgelegten Besuches von Staatssekretär Jacobi<note xml:id="e884">Klaus Jacobi
+                        (1929–2004), <ref target="http://dodis.ch/P19511">dodis.ch/P19511</ref>,
+                        Staatssekretär des Departements für auswärtige Angelegenheiten
+                        1989–1992.</note> in Berlin. Der Unterzeichnete bestätigt dieses Interesse
+                    und schlägt Juli 1990 vor<note xml:id="e888">Der Besuch fand am 11. Oktober 1990
+                        statt.</note>.</p>
+                <p>Der Ball liegt nun auf Seiten der DDR, welche mit einem konkreten Datumsvorschlag
+                    aufwarten will, sobald die Person des Gastgebers, des künftigen Nr. 2 im A<add type="edition">[ussenministerium]</add> bekannt ist. Laut B<add type="edition">[ibow] </add> wird der derzeitige interimistische Inhaber,
+                    Fleck, sehr wahrscheinlich abgelöst (Nier<note xml:id="e902">Kurt Nier (*1927),
+                            <ref target="http://dodis.ch/P51057">dodis.ch/P51057</ref>,
+                        stellvertretender Aussenminister der DDR 1973–1989.</note> wurde bereits vor
+                    einiger Zeit in Pension geschickt) und durch einen Politiker der DSU (CSU der
+                    DDR) ersetzt. Der sozialdemokratische neue AM Meckel<note xml:id="e918">Markus
+                        Mecker (*1952), <ref target="http://dodis.ch/P54793">dodis.ch/P54793</ref>,
+                        Aussenminister der DDR 12.4.–20.8.1990.</note> habe sich bereits dahingehend
+                    geäussert, dass er mit einem DSU-Mann leben könne.</p>
+                <p n="1">3. Schliesslich kommt B<add type="edition">[ibow] </add> auf die
+                        <emph>Visafrage</emph> zu sprechen. Die praktischen Schwierigkeiten zur
+                    Bewältigung schweizerischer Visagesuche würden an seiner Botschaft immer
+                    grösser. (Ein schweizerisches Visagesuch muss via ein Reiseunternehmen
+                    eingereicht werden und gelangt nach 4–8 Wochen und Bewilligungsverfahren
+                    interner DDR-Behörden (laut B<add type="edition">[ibow] </add> u. a. zur
+                    Sicherung der Unterkunft) an die hiesige Botschaft zur Ausstellung)
+                    Direktvisaausstellung könne er, B<add type="edition">[ibow]</add>, nur in
+                    Ausnahmefällen gestatten. Ich weise B<add type="edition">[ibow]</add> auf die
+                    Diskrepanz hin im Fristenzug (DDR 4–8 Wochen, schweizerische Visa für DDR-Bürger
+                    höchstens 24 Stunden); B<add type="edition">[ibow]</add> habe dieses Problem
+                    bereits mit Berlin aufgenommen und werde dies nun wieder tun, um von seinen
+                    Behörden erweiterten Spielraum für Direktvisaausstellung zu erhalten.</p>
+                <p>Grundsätzlich, darin sind sich B<add type="edition">[ibow]</add> und der
+                    Unterzeichnete einig, kann das Problem aber nur durch Abschaffung des Visazwangs
+                    gelöst werden. B<add type="edition">[ibow]</add> erklärt die Bereitschaft der
+                    DDR-Regierung, durch eine formlose, mündliche und gegenseitige Erklärung den
+                    Visazwang probeweise mit unmittelbarer Wirkung aufzuheben. Nach Ablauf der
+                    Probefrist könne die Aufhebung vertraglich abgesichert werden. Die DDR sei z.B.
+                    mit Österreich so vorgegangen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

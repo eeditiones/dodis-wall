@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53323</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53323">dodis.ch/53323</ref>
+               <title type="main">Telegram<note xml:id="e5835">Telegram No. 82/9 (copy, translated
+                     from Turkish): <idno>Turkish Diplomatic Archives 3180745</idno>. Copies to the
+                     Turkish Embassies in Washington, Moscow, Bonn, London and Paris and the Turkish
+                     Missions to NATO in Brussels, to EC in Brussels and to the CFE Talks in
+                     Vienna.</note> from the Turkish Ambassador in East Berlin, Metin Mekik<note
+                     xml:id="e5838">Metin Mekik (1932–2013), <ref target="https://dodis.ch/P57531"
+                        >dodis.ch/P57531</ref>, Turkish Ambassador in East Berlin.</note>, to the
+                  Turkish Ministry of Foreign Affairs</title>
+            </head>
+            <opener>
+               <add>Normal</add>
+               <dateline>East Berlin, 18 June 1990, 5.00 p.m.</dateline>
+            </opener>
+            <p>During the private session held on 17 June 1990 by GDR People’s Chamber, the
+               coalition partner DSU submitted a draft providing the annexation of the GDR into the
+               territory of FRG under article 23 of the Basic Law of the FRG. This vital submission,
+               which is described as the end of the GDR, has been put on the agenda by a two-thirds
+               majority.</p>
+            <p>With regards to that development, it has been stated that if the draft is adopted,
+               the GDR Council of Ministers will be repealed because the Basic Law recognizes only
+               one council. Furthermore, it has been stated that President de Maizière<note
+                  xml:id="e5853">Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809"
+                     >dodis.ch/P54809</ref>, GDR Prime Minister 12.4–2.10.1990.</note> will have to
+               lay down his office on the same day and this office will be taken over by Chancellor
+                  Kohl<note xml:id="e5859">Helmut Kohl (1930–2017), <ref
+                     target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note>.</p>
+            <p>While advising to be calm and cautious, President de Maizière has explained that he
+               also supports an early annexation. However, it was pointed out that a second
+               unification treaty including the general conditions should be made beforehand.
+               Moreover, the need for federal states to also be established in the GDR before the
+               annexation has been underlined.</p>
+            <p>It has been asserted that in case of the adoption of GDR’s draft, this will be a
+               “fait accompli” and 2+4 meetings will no longer be needed. SPD Parliamentary Leader
+               Richard Schröder<note xml:id="e5869">Richard Schröder (*1943), <ref
+                     target="https://dodis.ch/P57559">dodis.ch/P57559</ref>, Member of the People’s
+                  Chamber 5.4.1990–2.10.1990 and SPD Parliamentary Leader 3.4.– 21.8.1990.</note>
+               argued that political union should be made through agreement with the “super powers”.
+               CDU/DA Chief Negotiator of the Financial, Economic and Social Unification Treaty
+               Günther Krause<note xml:id="e5875">Günther Krause (*1953), <ref
+                     target="https://dodis.ch/P57560">dodis.ch/P57560</ref>, GDR chief negotiator
+                  and signatory of the German Reunification Treaty.</note> noted that the annexation
+               should be carried out in the summer and the annexation procedure will be determined
+               by the second unification treaty.</p>
+            <p>According to Krause, this second unification treaty will enter into force following
+               the election which will be held for the whole of Germany on the 2<hi>nd</hi> or
+                  16<hi>th</hi> of December in 1990. Before that, GDR federal state elections will
+               be held on 23 September 1990.</p>
+            <p>The draft has been referred to the Constitutional Committee and the Inter-German
+               Committee by a two-thirds majority.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52915</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52915">dodis.ch/52915</ref>
+               <title type="main">Information Memorandum<note xml:id="e646">Memorandum (copy):
+                        <idno>Bush Presidential Library CF01414-008</idno>. Written by James F.
+                     Dobbins, <ref target="https://dodis.ch/P57393">dodis.ch/P57393</ref>, and
+                     transmitted through Robert M. Kimmitt, <ref target="https://dodis.ch/P57396"
+                        >dodis.ch/P57396</ref>.</note> for the United States Secretary of State,
+                  James A. Baker<note xml:id="e655">James A. Baker (*1930), <ref
+                        target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, United States
+                     Secretary of State 25.1.1989–23.8.1992.</note></title>
+               <title type="sub">The Wall Breached: Implications for Malta, Your Trip to Europe,
+                  Relations with the GDR, and the Reunification Debate</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Washington, D.C., 10 November 1989</dateline>
+            </opener>
+            <p>The East German decision to lift travel restrictions has created a new situation in
+               Europe. This memo is a first attempt to address the implications for the Malta
+               meeting and your December trip, for relations with the GDR, and for our handling of
+               the debate on reunification.</p>
+            <p/>
+            <p>
+               <emph>The Malta Meeting</emph>
+            </p>
+            <p>Events in Germany further demonstrate the wisdom of the President’s<note
+                  xml:id="e675">George Herbert Walker Bush (1924–2018), <ref
+                     target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United
+                  States, 20.1.1989–20.1.1993.</note> decision to hold an early, informal exchange
+               with Gorbachev<note xml:id="e681">Mikhail Gorbachev (*1931), <ref
+                     target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of
+                  the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman of the
+                  Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the Soviet
+                  Union 15.3.1990–25.12.1991.</note>. Attention will very much be on Europe and
+               German events. At the same time, it is all the more important to avoid creating the
+               impression that these issues will dominate the Malta discussion. We need to avoid
+               both any suggestion of superpower condominium (the “Malta rhymes with Yalta” concern)
+               and also recognize that the results of a Bush-Gorbachev discussion on Germany and
+               Eastern Europe are liable to be meager and thus for the public disappointing.
+               Consequently, we should begin to emphasize that the Malta discussions are designed to
+               move the US-Soviet dialogue forward across the board, and that we are looking for
+               substantial exchanges on arms control, regional and transnational issues as well as
+               on the situation in Europe. We should also consider how events in the GDR might
+               affect our approach to the economic issues. Gorbachev’s support for open borders in
+               Germany, combined with Soviet passage of their own immigration legislation, could
+               provide a basis for early forward movement on Jackson-Vanik, MFN and perhaps even
+               Ex-Im Bank lending restrictions.</p>
+            <p/>
+            <p>
+               <emph>Pre- and Post-Malta Consultations and Your Trip to Europe</emph>
+            </p>
+            <p>The NSC<note xml:id="e693">National Security Council.</note> has said the President
+               wants to enhance pre-Malta consultations, and asked our advice. We recommend an early
+               Presidential message to the NATO colleagues, followed by a pre-Malta briefing here of
+               Allied Ambassadors. We anticipate high interest among your Foreign Minister
+               colleagues in an early post-Malta readout. If you agree, we should contact
+                  Genscher<note xml:id="e696">Hans-Dietrich Genscher (1927–2016), <ref
+                     target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+                  Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>, Dumas<note
+                  xml:id="e702">Roland Dumas (*1922), <ref target="https://dodis.ch/P15651"
+                     >dodis.ch/P15651</ref>, Foreign Minister of France 10.5.1988–28.3.1993.</note>,
+               and Hurd<note xml:id="e708">Douglas Hurd (*1930), <ref
+                     target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British Secretary of
+                  State for Foreign and Commonwealth Affairs 26.10.1989–5.7.1995.</note> to see
+               whether they would be ready to travel to Brussels for an immediate post-Malta
+               debrief. If at least two out of these three are prepared to participate, we recommend
+               you schedule such a session. The quickened pace of events in Europe also makes the
+               full range of consultations under consideration for the following week (the EC, a
+               G-24, and NATO Ministerials) all the more important. Finally, we continue to
+               recommend a visit to Bonn and West Berlin to accentuate our solidarity with the FRG
+               and the central role of the United States in promoting a peaceful change in Europe.
+               If you concur, we could begin arranging for such visits, but hold up on announcement
+               till somewhat closer to the event.</p>
+            <p/>
+            <p>
+               <emph>Relations with the GDR</emph>
+            </p>
+            <p>Assuming they do not back-pedal from the steps already announced, we should move to
+               expand our relations with the GDR. An early Presidential message to Krenz<note
+                  xml:id="e720">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794"
+                     >dodis.ch/P54794</ref>, General Secretary of the SED 18.10.1989–3.12.1989 and
+                  Chairman of the GDR State Council 18.10.1989–6.12.1989.</note> expressing approval
+               for the travel liberalization and support for further reforms should be considered.
+               If the new permanent GDR travel regime, reportedly to be promulgated in a few weeks
+               leaves the borders open, we should consider a Jackson-Vanik waiver for the GDR.</p>
+            <p>An early senior level visit to East Berlin (e.g., by Eagleburger<note xml:id="e728"
+                  >Lawrence S. Eagleburger (1930–2011), <ref target="https://dodis.ch/P57397"
+                     >dodis.ch/P57397</ref>, United States Deputy Secretary of State
+                  20.3.1989–8.12.1992.</note>, Kimmitt<note xml:id="e734">Robert M. Kimmitt (*1947),
+                     <ref target="https://dodis.ch/P57396">dodis.ch/P57396</ref>, United States
+                  Under Secretary of State for Political Affairs 2.3.1989–23.8.1991.</note> or
+                  Seitz<note xml:id="e740">Raymond G. H. Seitz (*1940), <ref
+                     target="https://dodis.ch/P57399">dodis.ch/P57399</ref>, United States Assistant
+                  Secretary of State for European and Canadian Affairs 8.8.1989–30.4.1991.</note>)
+               would demonstrate our interest in an improved relationship, launch serious talks to
+               remove some old bilateral obstacles (i.e., unresolved claims issues), and open the
+               way for yet higher level contacts next year (e.g., a visit by yourself). Any actual
+               U.S. economic assistance to the GDR, of the sort we are providing Hungary and Poland,
+               should be tied to the holding of genuinely free elections, as Kohl has recently done.
+               Given the FRG stake, the amount of US assistance would in any case be minimal, but
+               even a symbolic US participation might be useful in the context of a truly reformed
+               GDR.</p>
+            <p/>
+            <p>
+               <emph>Discussing German Reunification</emph>
+            </p>
+            <p>The reunification debate will become all the more immediate, concrete, and delicate.
+               There will be pressures both domestic and from Allies for the United States to take
+               the lead in sketching out a blueprint and timetable for the new European order. With
+               the Germans increasingly seizing control of their own destiny, there will be those
+               who will urge us to reassert more forcefully our own rights and responsibilities for
+               Germany, growing out of the war and the four power Yalta and Potsdam agreements. The
+               problems with such an approach are that it puts the onus on us to come forward with
+               plans for a new European architecture, that it legitimizes the Soviet veto, and that
+               it makes us appear a possible obstacle to German aspirations. We should, therefore,
+               keep the emphasis where we have put it, upon the principle of self-determination.</p>
+            <p>The time has come, however, to begin to address more concretely with the FRG, the
+               British and the French the issues which the prospect of reunification in some form
+               pose. We should seek agreement among these Allies, and then among NATO more
+               generally, not on a blueprint, let alone a timetable for reunification, but on a set
+               of guidelines for channeling any developments in this direction. The key guideline is
+               that the process of West European integration, and of transatlantic cooperation
+               should continue to be intensified, and that any new relationship between the two
+               German states must not weaken Germany’s Western ties. Kohl<note xml:id="e754">Helmut
+                  Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>,
+                  Chancellor of the FRG 1.10.1982–27.10.1998.</note>, of course, has stressed this
+               very theme repeatedly. We now need to begin considering how Germany’s Western ties
+               can in practice be assured in a transformed European context. The British and French
+               will welcome such a discussion, while the Germans will hold back. But we need to make
+               an effort. The next Quad meeting, which Dumas, Genscher and Hurd are proposing be
+               held over dinner December 13, provides an occasion to launch this exchange.</p>
+            <p>I have reviewed these recommendations with Ray Seitz, who concurs.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

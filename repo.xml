@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Dodis Facets</description>
+    <author/>
+    <status>beta</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <!--<prepare>pre-install.xql</prepare>-->
+    <finish>post-install.xql</finish>
+    <target>dodis-facets</target>
+    <permissions user="tei" group="tei" mode="rw-rw-r--"/>
+
+<deployed>2019-06-05T00:19:05.944-04:00</deployed>
+</meta>

@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/53171</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53171">dodis.ch/53171</ref>
+               <title type="main">Telegram<note xml:id="e2339">Telegram No. 0-2787/IV (incoming,
+                     translated from Polish): <idno>Archives of the Polish Ministry of Foreign
+                        Affairs AMSZ, ZD 24/91, w. 11, w. 37</idno>. Delivered by: <orig>30 November
+                        1989, 12.20 a.m.</orig></note> from the Polish Ambassador in Cologne,
+                  Ryszard Karski<note xml:id="e2342">Ryszard Karski (*1926), <ref
+                        target="https://dodis.ch/P57590">dodis.ch/P57590</ref>, Polish Ambassador in
+                     Cologne 1987–1990.</note>, to the Polish Deputy Minister of Foreign Affairs,
+                  Bolesław Kulski<note xml:id="e2348">Bolesław Kulski, <ref
+                        target="https://dodis.ch/P50550">dodis.ch/P50550</ref>, Polish Deputy
+                     Minister of Foreign Affairs 1988–1990.</note></title>
+            </head>
+            <opener>
+               <dateline>Immediately Cologne<note xml:id="e2356">The Polish Embassy in the FRG was
+                     situated in Cologne.</note>, 29 November 1989, 6.20 p.m.</dateline>
+            </opener>
+            <p>Assessment of Chancellor Kohl’s<note xml:id="e2361">Helmut Kohl (1930–2017), <ref
+                     target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> 10-point “German policy” programme presented at the
+               Bundestag on 29 November (résumé by diplomatic cable, full version 29 November<note
+                  xml:id="e2367"><idno>Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep.
+                     IV 31/92, w. 2</idno>.</note>).</p>
+            <p>1. Kohl’s address marks a new quality in Bonn’s reunification policy, a transition to
+               its operative and concrete phase.</p>
+            <p>2. The programme he set out involves the creation of a political and economic
+               infrastructure, the concept of confederation followed by federation of the two states
+               (while pursuing the aim of full reunification of Germany), but without defining a
+               specific timeframe. The vision is very compelling and broad, without precluding any
+               modifications and other solutions heading in the same direction.</p>
+            <p>3. Kohl’s concept meets the expectations of West German political circles and its
+               public; it allows the Chancellor and government to seize the initiative on this
+               subject matter, both with respect to the GDR and internal politics of the FRG. Given
+               the broad support for the programme from all major political parties (except for the
+               “Greens”), it can be viewed as a national mission.</p>
+            <p>4. Kohl’s political and – crucially – economic offer addressed to the GDR (immediate
+               assistance in many fields, substantial increase in such assistance in the future,
+               facilitating links with the EEC) on condition of fundamental and irreversible
+               internal changes in the GDR is aimed at invigorating and enhancing reunification
+               sentiments among the public and the political circles of the GDR (notably in view of
+               discussions ahead of a convention of the Socialist Unity Party of Germany (SED), and
+               the important decisions about further development at home and relations with the
+               FRG). Special importance is attached to free elections in the hope that they will
+               change power relations and make it easier for Bonn to achieve its objectives.</p>
+            <p>5. It is apparent that Kohl is making a strong connection between reunification and a
+               future European architecture, the CSCE and disarmament process, and W<add
+                  type="edition">[estern]</add> E<add type="edition">[uropean]</add> integration so
+               as to alleviate widespread concerns (harboured also by the Allies) that the
+               integration of both German states is proceeding too quickly and could slip out of
+               control. However, the very fact that Bonn has introduced such an initiative at this
+               stage is due to a belief that is gaining ground in the FRG whereby both the East
+               (including the USSR) and the West are less and less capable of slowing down the
+               dynamic process towards reunification. At the same time, attempts are being made to
+               create an impression that Bonn’s current actions are being taken with the consent of
+               the main Allies, including the USSR (as suggested by Teltschik<note xml:id="e2386"
+                  >Horst M. Teltschik (*1940), <ref target="https://dodis.ch/P57413"
+                     >dodis.ch/P57413</ref>, Foreign policy advisor to the Chancellor of the
+                  FRG.</note> at an internal briefing for leading West German journalists on 27
+               November).</p>
+            <p>6. From the Polish point of view, it is unfavourable that guarantees for the
+               Oder-Neisse border should be completely left aside (even though Bonn is aware of
+               Poland’s strong position, which was communicated during Kohl’s visit, and the fact
+               that the FRG’s allies – especially France – have been raising this issue). Practical
+               implementation of the programme outlined, which gives absolute priority to relations
+               with the GDR, creates the prospect – despite official assurances – of our country
+               being side-lined in FRG policy (especially in economic collaboration) behind the GDR,
+               USSR and CSSR.</p>
+            <p>In the present situation, we believe that it would be advisable to:</p>
+            <p>– Consider reiterating the Polish position, notably by highlighting territorial
+               guarantees as one of the fundamental conditions for any further examination of the
+               development of the “German problem”;</p>
+            <p>– Step up efforts to coordinate views on this subject matter with the most interested
+               stakeholders in the East and West.</p>
+            <p>It is especially important that the broadest possible consensus should be built at
+               home over German affairs, which are of vital importance to the nation and state.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

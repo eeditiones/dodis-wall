@@ -1,0 +1,1056 @@
+{
+    "total": null,
+    "data": {
+        "id": 49548,
+        "title": "DDR: Nicht nur die Mauer zittert",
+        "langCode": "de",
+        "language": "German",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "13.11.1989",
+        "documentDateDayOfWeek": "Monday",
+        "documentTypeCode": "No",
+        "documentTypeText": "Memo",
+        "summary": "Aufgrund der Bekanntgabe der neuen Reiseregelungen für DDR-Bürger wird mit DDR-Vertreter Tschierlich unter anderem über die künftige Visapraxis der Schweiz gegenüber der DDR diskutiert.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 2,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 97626,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 102586,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 102587,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [
+            {
+                "firstId": 52350,
+                "secondId": 49548,
+                "id": 2208,
+                "relationTypeId": 9,
+                "relationType": "is the supplement to",
+                "titleDoc1": "Information",
+                "status1": "Accepted",
+                "status2": "Accepted",
+                "titleDoc2": "DDR: Nicht nur die Mauer zittert",
+                "summaryDoc1": "Es wurden mit sofortiger Wirkung Bestimmungen für Privatpersonen und ständige Ausreisen aus der DDR ins Ausland beschlossen: Privatreisen können ohne Vorliegen von Voraussetzungen beantragt werden, Visa zu ständigen Ausreise sind unverzüglich zu erteilen und die Ausreise kann über alle Grenzübergänge geschehen.",
+                "summaryDoc2": "Aufgrund der Bekanntgabe der neuen Reiseregelungen für DDR-Bürger wird mit DDR-Vertreter Tschierlich unter anderem über die künftige Visapraxis der Schweiz gegenüber der DDR diskutiert.",
+                "comment": "",
+                "documentDate": "13.11.1989",
+                "langCode": "de",
+                "documentType": "Memo",
+                "volumeNumber": null,
+                "assessment": "Document A",
+                "editedBy": null
+            },
+            {
+                "firstId": 52351,
+                "secondId": 49548,
+                "id": 2209,
+                "relationTypeId": 9,
+                "relationType": "is the supplement to",
+                "titleDoc1": "Nr. 72",
+                "status1": "Accepted",
+                "status2": "Accepted",
+                "titleDoc2": "DDR: Nicht nur die Mauer zittert",
+                "summaryDoc1": "Die Öffnung der DDR-Grenze hat zur Folge, dass die Schweizer Botschaft mit telefonischen Anfragen nach den Bedingungen zur Erteilung eines Einreisevisums überflutet wird. Die Enttäuschungen sind gross, wenn die Bedingungen erwähnt werden.",
+                "summaryDoc2": "Aufgrund der Bekanntgabe der neuen Reiseregelungen für DDR-Bürger wird mit DDR-Vertreter Tschierlich unter anderem über die künftige Visapraxis der Schweiz gegenüber der DDR diskutiert.",
+                "comment": "",
+                "documentDate": "13.11.1989",
+                "langCode": "de",
+                "documentType": "Memo",
+                "volumeNumber": null,
+                "assessment": "Document A",
+                "editedBy": null
+            }
+        ],
+        "specimens": [
+            {
+                "specimenId": 52526,
+                "dossierTitle": "Allgemeines",
+                "archiveNumber": "B.73.0",
+                "additionalComponent": "République démocrat.allemande",
+                "period": "1988\u20131990",
+                "fund": "E 2010(A)1999/250",
+                "archive": "Swiss Federal Archives",
+                "archiveCode": "CH-BAR",
+                "box": "981",
+                "aisCode": "E2010A#1999/250#7145*",
+                "dossierId": 28429,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "http://www.bar.admin.ch/org/",
+                "archivePlace": "Bern",
+                "id": 52526
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16471,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "14"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36325,
+                "sort": 0,
+                "attachment": {
+                    "id": 36586,
+                    "attachmentId": 36586,
+                    "date": "",
+                    "fileRef": "dodis-49548-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-49548-en.xml.jpg",
+                    "roundedNumber": 49000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 52526,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37063,
+                "sort": 0,
+                "attachment": {
+                    "id": 37280,
+                    "attachmentId": 37280,
+                    "date": "",
+                    "fileRef": "dodis-49548-en.html",
+                    "fileRefThumbnail": "thumb_dodis-49548-en.html.jpg",
+                    "roundedNumber": 49000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/49548\" class=\"tei-ref3 tei-head-nr\">dodis.ch/49548<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memo<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Swiss Federal Department of Foreign Affairs<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">GDR: It\u2019s not Just the Wall that\u2019s Shaking<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Bern, 13 November 1989<\/div>\n            <\/div>\n            <p class=\"tei-p1 tei-p1\">On Friday, 10.11.1989, the signatory meets GDR embassy counsellor\n               Tschirlich<span id=\"fnref_1_5_2_2_7_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_3\">2<\/a><\/span>, following the latter\u2019s urgent request and, in\n               T<span class=\"tei-add1 tei-add-edition\">[schirlich]<\/span> \u2019s words, by way of the GDR officially\n               approaching the Swiss authorities with regard to today\u2019s historic event.<\/p>\n            <p class=\"tei-p2 tei-p\">T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span> appears distinctly \u201cdépassé par les\n               évènements\u201d. He begins by delivering the attached memo<span id=\"fnref_1_5_2_2_9_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_4\">3<\/a><\/span>. At the time of\n               his intervention (late Friday afternoon), both the regulations set down there and\n               T<span class=\"tei-add1 tei-add-edition\">[schirlich]<\/span> \u2019s remark that the Wall invariably\n               persists, and continues to function as a border, are in part already obsolete. Two\n               aspects of T<span class=\"tei-add1 tei-add-edition\">[schirlich]<\/span> \u2019s in part somewhat confused\n               deliberations, however, deserve attention:<\/p>\n            <p class=\"tei-p2 tei-p\">\u2013 Today, a great number of Swiss citizens inquired at his embassy about options for\n               informal departure from the GDR to Switzerland (for relatives etc.) and similar\n               options for travelling into the GDR, respectively. GDR authorities assumed that the\n               existing visa regulations between the GDR and Switzerland continue to apply.<\/p>\n            <p class=\"tei-p2 tei-p\">\u2013 T<span class=\"tei-add1 tei-add-edition\">[schirlich]<\/span> appears to be inquiring, although in a very\n               hedged manner, whether Switzerland would lend support to a \u201cnow reformed\u201d GDR, \u201csince\n               a lot of substance will be lost due to the new travel regulations\u201d.<\/p>\n            <p class=\"tei-p2 tei-p\">Adhering to the announcement issued today by the press and information service, I\n               answered T<span class=\"tei-add1 tei-add-edition\">[schirlich]<\/span> that we welcome the opening of the\n               GDR border as a step towards freedom and democracy.<\/p>\n            <p class=\"tei-p2 tei-p\"><span class=\"tei-emph tei-emph\">To be determined:<\/span> Should and must the Swiss visa policy in relation to\n               the GDR be revised in light of the most recent events? This also in light of the\n               notification just in from our embassy in Berlin (T<span class=\"tei-add1 tei-add-edition\">[elex]<\/span> 72\n               of 10.11. in attachment<span id=\"fnref_1_5_2_2_17_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_17_5\">4<\/a><\/span>), which is likewise being swamped with\n               inquiries.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memo (translated from German):\n                  <span class=\"tei-idno tei-idno\">Swiss Federal Archives CH-BAR#E2010A#1999/250#7145*(B.73.0)<\/span>.\n                  Written and signed by Daniel Woker, <a href=\"https://dodis.ch/P27996\" class=\"tei-ref7 tei-link\">dodis.ch/P27996<\/a>. Copies to Silvio Arioli, <a href=\"https://dodis.ch/P24523\" class=\"tei-ref7 tei-link\">dodis.ch/P24523<\/a>, Klaus Jacobi, <a href=\"https://dodis.ch/P19511\" class=\"tei-ref7 tei-link\">dodis.ch/P19511<\/a>, the Federal Office\n                  for Foreigners\u2019 Affairs, five copies for internal use of the Federal Department\n                  of Foreign Affairs and to the Swiss Embassies in East Berlin and in\n                  Bonn.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_3\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Arnold Tschirlich, <a href=\"https://dodis.ch/P54816\" class=\"tei-ref7 tei-link\">dodis.ch/P54816<\/a>, GDR Embassy Counsellor\n                  in Bern 27.6.1986\u20131990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_4\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Memo of\n                  the Embassy of the GDR in Bern, 10 November 1989, <a href=\"https://dodis.ch/52350\" class=\"tei-ref7 tei-link\">dodis.ch/52350<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_17_5\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Telex No. 72 from the Swiss Embassy in\n                  East Berlin, 10 November 1989, <a href=\"https://dodis.ch/52351\" class=\"tei-ref7 tei-link\">dodis.ch/52351<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_17_5\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 52526,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 36952,
+                "sort": 0,
+                "attachment": {
+                    "id": 37206,
+                    "attachmentId": 37206,
+                    "date": "",
+                    "fileRef": "dodis-49548.html",
+                    "fileRefThumbnail": "thumb_dodis-49548.html.jpg",
+                    "roundedNumber": 49000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\"><a href=\"http://dodis.ch/49548\" class=\"tei-ref3 tei-head-nr\">dodis.ch/49548<\/a><span class=\"tei-title5 tei-title-main\">Interne Notiz<span id=\"fnref_1_3_1_1_2_2_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_2_3\">1<\/a><\/span> des Eidgenössischen Departements für auswärtige Angelegenheiten<\/span>\n                        <h1 class=\"tei-title4 tei-title-sub\">DDR: Nicht nur die Mauer zittert<\/h1>\n                    <\/h1>\n                    <div class=\"tei-opener tei-opener\">\n                        <div class=\"tei-dateline tei-dateline\">Bern, <span class=\"alternate tei-date3 tei-date-when\"><span>13. November 1989<\/span><span class=\"altcontent\">1989-11-13<\/span><\/span><\/div>\n                    <\/div>\n                    <p class=\"tei-p2 tei-p\">Am Freitag, 10.11.1989, empfängt der Unterzeichnete den DDR-Botschaftsrat Tschierlich, auf dessen dringendes Ersuchen und, in T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span><span id=\"fnref_1_3_1_1_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_4_3\">2<\/a><\/span>\u2019s Worten, als offizielle Vorstellung der DDR gegenüber den schweizerischen Behörden mit Blick auf das heutige historische Ereignis.<\/p>\n                    <p class=\"tei-p2 tei-p\">T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span> erscheint ausgesprochen «dépassé par les évènements». Er übergibt zunächst die beiliegende Informationsnotiz<span id=\"fnref_1_3_1_1_5_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_4\">3<\/a><\/span>. Sowohl die darin enthaltene Regelung wie auch T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span>\u2019s Anmerkung, die Mauer bestehe unveränderlich weiter und habe weiterhin ihre Funktion als Grenze sind zum Zeitpunkt seiner Intervention (später Freitag Nachmittag) teilweise bereits überholt. Zwei Aspekte in T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span>\u2019s teilweise etwas wirren Ausführungen verdienen indes Aufmerksamkeit:<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 In seiner Botschaft hatten sich heute eine grosse Anzahl Schweizer nach formlosen Ausreisemöglichkeiten DDR \u2013 Schweiz (für Verwandte etc.) rsp. ebensolche Reisemöglichkeiten in die DDR erkundigt. Die DDR-Behörden gingen davon aus, dass die geltenden Visa-Vorschriften zwischen der DDR und der Schweiz weiterhin gelten.<\/p>\n                    <p class=\"tei-p2 tei-p\">\u2013 T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span> scheint sich, allerdings sehr verklausuliert, zu erkundigen, ob die Schweiz einer «nun reformierten» DDR Unterstützung gewähren würde, «da durch die neue Reiseregelung sehr viel Substanz verloren gehe».<\/p>\n                    <p class=\"tei-p2 tei-p\">Ich antwortete T<span class=\"tei-add1 tei-add-edition\">[schierlich]<\/span> im Sinne der heute von Presse- und Informationsdienst aufgelegten Mitteilung, dass wir die Öffnung der DDR-Grenze als Schritt Richtung Freiheit und Demokratie sehr begrüssten.<\/p>\n                    <p class=\"tei-p2 tei-p\"><span class=\"tei-emph tei-emph\">Abzuklären:<\/span> Soll und muss die schweizerische Visapraxis mit der DDR im Lichte der jüngsten Ereignisse überprüft werden? Dies auch im Lichte der eben eingetroffenen Mitteilung unserer Botschaft in Berlin (Tlx 72 vom 10.11. in Beilage<span id=\"fnref_1_3_1_1_9_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_3\">4<\/a><\/span>) die ebenfalls mit Anfragen überschwemmt wird.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_2_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Notiz: <span class=\"tei-idno tei-idno\"> CH-BAR#E2010A#1999/250#7145*(B.73.0).<\/span> Verfasst und unterzeichnet von Daniel Woker, <a href=\"dodis.ch/P27996\" class=\"tei-ref7 tei-link\">dodis.ch/P27996<\/a>. Kopie an: Silvio Arioli, <a href=\"http://dodis.ch/P24523\" class=\"tei-ref7 tei-link\">dodis.ch/P24523<\/a>, Klaus Jacobi, <a href=\"http://dodis.ch/P19511\" class=\"tei-ref7 tei-link\">dodis.ch/P19511<\/a>, die Sektion Mittel- und Osteuropäische Länder, das Sekratariat des Departementschefs, das Politisches Sekretariat, die Direktion für Verwaltungsangelegenheiten und Aussendienst sowie der Presse- und Informationsdienst des Politischen Departements, das Bundesamt für Ausländerfragen des Justiz- und Polizeidepartements sowie die schweizerischen Botschaften in Berlin und Bonn.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_2_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_4_3\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Arnold Tschirlich, <a href=\"http://dodis.ch/P54816\" class=\"tei-ref7 tei-link\">dodis.ch/P54816<\/a>, Botschaftsrat an der Botschaft der DDR in Bern 27.6.1986\u20131990.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_4\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Notiz der Botschaft der DDR in Bern vom 10. November 1989, <a href=\"http://dodis.ch/52350\" class=\"tei-ref7 tei-link\">dodis.ch/52350<\/a>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_3\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Telex Nr. 72 der schweizerischen Botschaft in Berlin vom 10. November 1989, <a href=\"http://dodis.ch/52351\" class=\"tei-ref7 tei-link\">dodis.ch/52351<\/a>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_3\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "",
+                "specimenId": 52526,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 29259,
+                "sort": 0,
+                "attachment": {
+                    "id": 32150,
+                    "attachmentId": 32150,
+                    "date": "",
+                    "fileRef": "dodis-49548.xml",
+                    "fileRefThumbnail": null,
+                    "roundedNumber": 49000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 52526,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36727,
+                "sort": 0,
+                "attachment": {
+                    "id": 36985,
+                    "attachmentId": 36985,
+                    "date": "",
+                    "fileRef": "dodis-49548-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-49548-qdd.pdf.jpg",
+                    "roundedNumber": 49000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 52526,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 29802,
+                "sort": 0,
+                "attachment": {
+                    "id": 32699,
+                    "attachmentId": 32699,
+                    "date": "13.11.1989",
+                    "fileRef": "dodis-49548.pdf",
+                    "fileRefThumbnail": "thumb_dodis-49548.pdf.jpg",
+                    "roundedNumber": 49000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 52526,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "address_of_copy": [
+                {
+                    "firstName": "Silvio",
+                    "lastName": "Arioli",
+                    "fullName": "Arioli, Silvio (1938\u2013)",
+                    "id": 24523,
+                    "comment": "",
+                    "dateBirth": "1938",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "As",
+                        "A",
+                        "AR",
+                        "Arioli, Silvio"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Klaus",
+                    "lastName": "Jacobi",
+                    "fullName": "Jacobi, Klaus (1929\u20132004)",
+                    "id": 19511,
+                    "comment": "",
+                    "dateBirth": "12.11.1929",
+                    "dateDeath": "13.7.2004",
+                    "wikidataId": "",
+                    "birthPlaceId": 3681,
+                    "birthPlaceText": "Biel/Bienne",
+                    "deathPlaceId": 43,
+                    "deathPlaceText": "Bern",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Jacobi, Klaus Christoph",
+                        "Jacobi, Klaus",
+                        "JB",
+                        "Ja",
+                        "JK",
+                        "KJ"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "author": [
+                {
+                    "firstName": "Daniel",
+                    "lastName": "Woker",
+                    "fullName": "Woker, Daniel (1948\u2013)",
+                    "id": 27996,
+                    "comment": "",
+                    "dateBirth": "10.10.1948",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Wo",
+                        "Woker, Daniel",
+                        "WOK"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Daniel",
+                    "lastName": "Woker",
+                    "fullName": "Woker, Daniel (1948\u2013)",
+                    "id": 27996,
+                    "comment": "",
+                    "dateBirth": "10.10.1948",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Wo",
+                        "Woker, Daniel",
+                        "WOK"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Arnold",
+                    "lastName": "Tschirlich",
+                    "fullName": "Tschirlich, Arnold",
+                    "id": 54816,
+                    "comment": "",
+                    "dateBirth": "",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Tschirlich, Arnold",
+                        "Tschierlich, Arnold"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "address_of_copy": [
+                {
+                    "id": 26545,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Politisches Sekretariat",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 442,
+                    "name": "EDA/Direktion für Verwaltungsangelegenheiten und Aussendienst",
+                    "comment": "Cf. Procès-verbal du Conseil fédéral N°  810 du 25.3.1946, E 1004.1(-)-/1/467 et E 4001(C)-/1/78. \nVgl. BR-Prot. Nr. 145 vom 20.1.1950, E 1004.1(-)-/1/513 (dodis.ch/4820).\nVgl. Antrag EPD an BR vom 9.12.1953, E 2004(B)1970/2/9-10.\n\nCf. \"Das Eidgenössische Politische Departement (Zentrale) von 1848 bis 1970\", BAR Sig. DAH: 2000. dodis.ch/14074, p. 31 + 61 + 81 (p. 45 + 74 + 94 du pdf).\n\n\nCf. \"Das Eidgenössische Politische Departement (Zentrale) von 1848 bis 1970\", BAR Sig. DAH: 2000, dodis.ch/14074, p. 44.",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 354,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Information und Presse",
+                    "comment": "",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 759,
+                    "name": "EJPD/Eidgenössische Fremdenpolizei",
+                    "comment": "Sur son histoire de 1917 à 1939, cf. DDS, vol. XIII, document 123, dodis.ch/14257.\r\nAktenzeichen S 4035 existiert nicht in der Registratur, vergebliche Suche\r\ncf.dodis.ch/13614, p.265.\r\nCf. dodis.ch/13899, p.103, 175, 261.\r\nCf. UEK, Goldtransaktionen, 2002 dodis.ch/13982, 263f.\r\nCf. Zeugin/Sandkühler, Lösegelderpressungen, 2001 dodis.ch/13989, 92, 94, 114 (Anm.), 125.\r\nCf. Huonker/Ludi, Roma, 2001 dodis.ch/13988, 80 (Anm.), 92, 98, 100.\r\n\r\nSur l'organisation interne, cf. le Weisung du 9.3.1943.",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10195,
+                    "name": "EJPD/Generalsekretariat",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32063,
+                    "name": "EVD/Handelsabteilung/Wirtschaftliche Zusammenarbeit Ost-West (ECE/UNO)",
+                    "comment": "Service créé le 1er janvier 1977 ; cf. dodis.ch/52964.",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1208,
+                    "name": "Swiss Embassy in Bonn (1977-)",
+                    "comment": "Diplomatische Mission bei der Alliierten Hohen Kommission in Bonn 1949, Gesandtschaft bei der Bundesrepublik Deutschland 1951, Botschaft 1957, 1967 Konsularabteilung aufgehoben (cf. PVCF N° 2091 du 3.12.1965), Verlegung der Botschaft nach Bonn 1977, vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, S. 180.\n\nAndere Bezeichnung: Schweizerische Diplomatische Mission bei der Alliierten Hohen Kommission in Deutschland (ab 1949), vgl. E 2300 Frankfurt a./M. 3.\nVgl. DDS-volume XV, annexe VII.2.\n________________________\n\nCf. E 2807 (-) 1974/ 12, vol. 9, 26/11 Velegung des Sitzes der Botschaft von Köln nach Bonn [1963-1964].\n\nCf. Todt, Manfred, \"Anfangsjahre der Bundesrepublik Deutschland: Berichte der Schweizer Gesandtschaft in Bonn 1949-1955\", in: Ausgabe 55 von Schriftenreihe der Vierteljahrshefte für Zeitgeschichte, Oldenbourg 1987.\n________________________",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Bonn / Köln",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 19314,
+                    "name": "Swiss Embassy in East Berlin",
+                    "comment": "Die diplomatischen Beziehungen zwischen der Schweiz und der DDR wurden im Dezember 1972 aufgenommen, vgl. dodis.ch/39072.\nDurch eine am 12.1.1973 getroffene Vereinbarung wurde die schweizerische Handelsmission in Berlin in eine Botschaft umgewandelt, vgl. dodis.ch/39406.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "author": [
+                {
+                    "id": 28815,
+                    "name": "EDA/Politische Direktion/Politische Abteilung I",
+                    "comment": "E2004B#1990/219#184*, Note du 13.7.1973 du DPF aux missions diplomatiques à Berne pour informer sur la nouvelle organisation du DPF (cf. PVCF du 27.6.1973).\nCharles Müller dirigera la Division I. [...] \"La Division européenne se composera d'une section multilatérale et d'une section bilatérale, MM. Edouard Brunner et Karl Frischti assumeront les fonctions de suppléants du Chef de division, M. Brunner pour les affaires multilatérales, M. Fritschi pour les problèmes bilatéraux.\"\n\nMit der Reorganisation der Politischen Direktion des EPD 1973 wurden die Aufgaben und Kompetenzen neu verteilt. Der Politische Dienst Ost (dodis.ch/R9492) und der Politischen Dienst West (dodis.ch/9493) wurden umgewandelt zur Politischen Abteilung I (Europa und Nordamerika) und Politischen Abteilung II (Afrika, Asien, Ozeanien und Lateinamerika) (dodis.ch/R28816). Zur Reorganisation vgl. BR-Prot. Nr. 1099 vom 27.6.1973 (dodis.ch/37179).",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 354,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Information und Presse",
+                    "comment": "",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 28813,
+                    "name": "Germany/GDR/Embassy in Bern",
+                    "comment": "",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 19314,
+                    "name": "Swiss Embassy in East Berlin",
+                    "comment": "Die diplomatischen Beziehungen zwischen der Schweiz und der DDR wurden im Dezember 1972 aufgenommen, vgl. dodis.ch/39072.\nDurch eine am 12.1.1973 getroffene Vereinbarung wurde die schweizerische Handelsmission in Berlin in eine Botschaft umgewandelt, vgl. dodis.ch/39406.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "mention": [
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [
+            {
+                "id": 22188,
+                "org": "Federal Department for Foreign Affairs",
+                "cadre": "B.73.RDA.0",
+                "orgId": 27
+            },
+            {
+                "id": 22197,
+                "org": "Federal Department for Foreign Affairs",
+                "cadre": "B.44.32.RDA.0.",
+                "orgId": 27
+            },
+            {
+                "id": 22205,
+                "org": "Federal Department for Foreign Affairs",
+                "cadre": "B.35.51.RDA.10.",
+                "orgId": 27
+            }
+        ],
+        "relPersons": {
+            "address_of_copy": [
+                {
+                    "firstName": "Silvio",
+                    "lastName": "Arioli",
+                    "fullName": "Arioli, Silvio (1938\u2013)",
+                    "id": 24523,
+                    "comment": "",
+                    "dateBirth": "1938",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "As",
+                        "A",
+                        "AR",
+                        "Arioli, Silvio"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Klaus",
+                    "lastName": "Jacobi",
+                    "fullName": "Jacobi, Klaus (1929\u20132004)",
+                    "id": 19511,
+                    "comment": "",
+                    "dateBirth": "12.11.1929",
+                    "dateDeath": "13.7.2004",
+                    "wikidataId": "",
+                    "birthPlaceId": 3681,
+                    "birthPlaceText": "Biel/Bienne",
+                    "deathPlaceId": 43,
+                    "deathPlaceText": "Bern",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Jacobi, Klaus Christoph",
+                        "Jacobi, Klaus",
+                        "JB",
+                        "Ja",
+                        "JK",
+                        "KJ"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "author": [
+                {
+                    "firstName": "Daniel",
+                    "lastName": "Woker",
+                    "fullName": "Woker, Daniel (1948\u2013)",
+                    "id": 27996,
+                    "comment": "",
+                    "dateBirth": "10.10.1948",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Wo",
+                        "Woker, Daniel",
+                        "WOK"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Daniel",
+                    "lastName": "Woker",
+                    "fullName": "Woker, Daniel (1948\u2013)",
+                    "id": 27996,
+                    "comment": "",
+                    "dateBirth": "10.10.1948",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Wo",
+                        "Woker, Daniel",
+                        "WOK"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Arnold",
+                    "lastName": "Tschirlich",
+                    "fullName": "Tschirlich, Arnold",
+                    "id": 54816,
+                    "comment": "",
+                    "dateBirth": "",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Tschirlich, Arnold",
+                        "Tschierlich, Arnold"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "address_of_copy": [
+                {
+                    "id": 26545,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Politisches Sekretariat",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 442,
+                    "name": "EDA/Direktion für Verwaltungsangelegenheiten und Aussendienst",
+                    "comment": "Cf. Procès-verbal du Conseil fédéral N°  810 du 25.3.1946, E 1004.1(-)-/1/467 et E 4001(C)-/1/78. \nVgl. BR-Prot. Nr. 145 vom 20.1.1950, E 1004.1(-)-/1/513 (dodis.ch/4820).\nVgl. Antrag EPD an BR vom 9.12.1953, E 2004(B)1970/2/9-10.\n\nCf. \"Das Eidgenössische Politische Departement (Zentrale) von 1848 bis 1970\", BAR Sig. DAH: 2000. dodis.ch/14074, p. 31 + 61 + 81 (p. 45 + 74 + 94 du pdf).\n\n\nCf. \"Das Eidgenössische Politische Departement (Zentrale) von 1848 bis 1970\", BAR Sig. DAH: 2000, dodis.ch/14074, p. 44.",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 354,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Information und Presse",
+                    "comment": "",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 759,
+                    "name": "EJPD/Eidgenössische Fremdenpolizei",
+                    "comment": "Sur son histoire de 1917 à 1939, cf. DDS, vol. XIII, document 123, dodis.ch/14257.\r\nAktenzeichen S 4035 existiert nicht in der Registratur, vergebliche Suche\r\ncf.dodis.ch/13614, p.265.\r\nCf. dodis.ch/13899, p.103, 175, 261.\r\nCf. UEK, Goldtransaktionen, 2002 dodis.ch/13982, 263f.\r\nCf. Zeugin/Sandkühler, Lösegelderpressungen, 2001 dodis.ch/13989, 92, 94, 114 (Anm.), 125.\r\nCf. Huonker/Ludi, Roma, 2001 dodis.ch/13988, 80 (Anm.), 92, 98, 100.\r\n\r\nSur l'organisation interne, cf. le Weisung du 9.3.1943.",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10195,
+                    "name": "EJPD/Generalsekretariat",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 32063,
+                    "name": "EVD/Handelsabteilung/Wirtschaftliche Zusammenarbeit Ost-West (ECE/UNO)",
+                    "comment": "Service créé le 1er janvier 1977 ; cf. dodis.ch/52964.",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1208,
+                    "name": "Swiss Embassy in Bonn (1977-)",
+                    "comment": "Diplomatische Mission bei der Alliierten Hohen Kommission in Bonn 1949, Gesandtschaft bei der Bundesrepublik Deutschland 1951, Botschaft 1957, 1967 Konsularabteilung aufgehoben (cf. PVCF N° 2091 du 3.12.1965), Verlegung der Botschaft nach Bonn 1977, vgl. Die diplomatischen und konsularischen Vertretungen der Schweiz seit 1798, 1997, S. 180.\n\nAndere Bezeichnung: Schweizerische Diplomatische Mission bei der Alliierten Hohen Kommission in Deutschland (ab 1949), vgl. E 2300 Frankfurt a./M. 3.\nVgl. DDS-volume XV, annexe VII.2.\n________________________\n\nCf. E 2807 (-) 1974/ 12, vol. 9, 26/11 Velegung des Sitzes der Botschaft von Köln nach Bonn [1963-1964].\n\nCf. Todt, Manfred, \"Anfangsjahre der Bundesrepublik Deutschland: Berichte der Schweizer Gesandtschaft in Bonn 1949-1955\", in: Ausgabe 55 von Schriftenreihe der Vierteljahrshefte für Zeitgeschichte, Oldenbourg 1987.\n________________________",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": "Bonn / Köln",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 19314,
+                    "name": "Swiss Embassy in East Berlin",
+                    "comment": "Die diplomatischen Beziehungen zwischen der Schweiz und der DDR wurden im Dezember 1972 aufgenommen, vgl. dodis.ch/39072.\nDurch eine am 12.1.1973 getroffene Vereinbarung wurde die schweizerische Handelsmission in Berlin in eine Botschaft umgewandelt, vgl. dodis.ch/39406.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "author": [
+                {
+                    "id": 28815,
+                    "name": "EDA/Politische Direktion/Politische Abteilung I",
+                    "comment": "E2004B#1990/219#184*, Note du 13.7.1973 du DPF aux missions diplomatiques à Berne pour informer sur la nouvelle organisation du DPF (cf. PVCF du 27.6.1973).\nCharles Müller dirigera la Division I. [...] \"La Division européenne se composera d'une section multilatérale et d'une section bilatérale, MM. Edouard Brunner et Karl Frischti assumeront les fonctions de suppléants du Chef de division, M. Brunner pour les affaires multilatérales, M. Fritschi pour les problèmes bilatéraux.\"\n\nMit der Reorganisation der Politischen Direktion des EPD 1973 wurden die Aufgaben und Kompetenzen neu verteilt. Der Politische Dienst Ost (dodis.ch/R9492) und der Politischen Dienst West (dodis.ch/9493) wurden umgewandelt zur Politischen Abteilung I (Europa und Nordamerika) und Politischen Abteilung II (Afrika, Asien, Ozeanien und Lateinamerika) (dodis.ch/R28816). Zur Reorganisation vgl. BR-Prot. Nr. 1099 vom 27.6.1973 (dodis.ch/37179).",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 354,
+                    "name": "EDA/Politische Direktion/Zentrale Dienste/Information und Presse",
+                    "comment": "",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "Berne",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 28813,
+                    "name": "Germany/GDR/Embassy in Bern",
+                    "comment": "",
+                    "placeId": 43,
+                    "placeText": "Bern",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 10937,
+                    "name": "Germany/GDR/State",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 19314,
+                    "name": "Swiss Embassy in East Berlin",
+                    "comment": "Die diplomatischen Beziehungen zwischen der Schweiz und der DDR wurden im Dezember 1972 aufgenommen, vgl. dodis.ch/39072.\nDurch eine am 12.1.1973 getroffene Vereinbarung wurde die schweizerische Handelsmission in Berlin in eine Botschaft umgewandelt, vgl. dodis.ch/39406.",
+                    "placeId": 3061,
+                    "placeText": "East Berlin",
+                    "hq": "Ost-Berlin",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "mention": [
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

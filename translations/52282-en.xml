@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52282</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52282">dodis.ch/52282</ref>
+               <title type="main">Political report<note xml:id="e5012">Political report No. 24 and
+                     Telegram No. 97 (incoming, translated from German): <idno>Swiss Federal
+                        Archives CH-BAR#E2010-02A#1996/400#19* (A.21.31)</idno>.</note> of the Swiss
+                  Ambassador in Bonn, Alfred Hohl<note xml:id="e5015">Alfred Hohl (1930–2004), <ref
+                        target="https://dodis.ch/P16080">dodis.ch/P16080</ref>, Swiss Ambassador in
+                     Bonn 1.9.1987–16.11.1991.</note></title>
+               <title type="sub">Too Early?</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 10 April 1990</dateline>
+            </opener>
+            <p>A state secretary of the Federal Foreign Office excitedly remarked to the signatory
+               that Bonn had been confronted with the task of reunification 20 years too early, pure
+               and simple. “We are not yet integrated into Europe fully enough and the chances of
+               German-national upsurges remain much too real.”</p>
+            <p>Meanwhile, in Europe, the perpetuum mobile of 19<hi>th</hi> / 20<hi>th</hi> century
+               national problems, connected to the dissolution of empires, amongst other things, is
+               keeping busy the Balkan states most of all, whose borders were arbitrarily drawn,
+               back in the day, right through ethnic territories and thus from the start ensured
+               considerable controversy. The same goes for the dissolution of the Soviet empire
+               built by the Czars and their epigones that intended, for instance, to bring together
+               Europe and Asia, Christianity and Islam in the grip of its party-bureaucratic manner
+               of rule. Is Europe now about to face a general rise of those who came up short e.g.
+               in Versailles, Potsdam, and Yalta?</p>
+            <p>In Hessen, nationally inspired unknowns are thought to have recently painted the
+               slogan “Ami go home” on a wall, and the press there discussed governor
+                  Wallmann’s<note xml:id="e5039">Walter Wallmann (1932–2013), <ref
+                     target="https://dodis.ch/P56923">dodis.ch/P56923</ref>, Minister President of
+                  Hesse 1987–1991.</note> alleged plans to house one’s own lodgers and migrants in
+               living quarters becoming vacant with the Americans’ withdrawal. In my opinion,
+               however, this is for now only rumour-mongering by the media that is not to be taken
+               seriously.</p>
+            <p>We have already reported elsewhere, however, that the Germans’ basic mentality, a
+               kind of penitent’s attitude combined with the readiness to help the weak and
+               disenfranchised, has at least partially changed. The thinking here is once again
+               German first, although most of my interlocutors attest to the chancellor’s<note
+                  xml:id="e5047">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852"
+                     >dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note>
+               reliability in term of European politics. Kohl possibly means to ultimately become
+               not only the chancellor of reunification but also Europe’s deus ex machina. As the
+               French have so far reserved this role for themselves, things will get interesting.
+                  Delors<note xml:id="e5053">Jacques Delors (*1925), French politician, <ref
+                     target="https://dodis.ch/P47396">dodis.ch/P47396</ref>, President of the
+                  European Commission 7.1.1985–24.1.1995.</note> surely has as little interest as
+                  Mitterand<note xml:id="e5059">François Mitterrand (1916–1996), <ref
+                     target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  21.5.1981–17.5.1995.</note> in letting Kohl pave the way for European success. But
+               the chancellor’s ambitions are apparently growing increasingly more global: a
+               German-German monetary union, reunification, united Germany participating in Europe,
+               a European monetary union, the relinquishing of national prerogatives of political
+               sovereignty to a European executive and its parliamentary substructure.</p>
+            <p>A daring transformation from the German “Michel” to Euro-citizen. At times, it almost
+               seems this way.</p>
+            <p>One may thus honestly wonder why the above-cited state secretary of the Federal
+               Foreign Affairs Office thinks that the reunification barged in 20 years too early.
+               Are there really still national territorial ambitions here as in the times of the
+               Prussian kings, of Bismarck<note xml:id="e5069">Otto von Bismarck (1815–1898), <ref
+                     target="https://dodis.ch/P3822">dodis.ch/P3822</ref>, Chancellor of the German
+                  Empire 1871–1890.</note>, or of Hitler<note xml:id="e5075">Adolf Hitler
+                  (1889–1945), <ref target="https://dodis.ch/P535">dodis.ch/P535</ref>, Führer of
+                  the German Third Reich 1933–1945.</note>? As far as Kohl is concerned: no. With
+               him, one rather feels a true willingness to let Germany come to bloom as a part of
+               Europe. This is genuine and reminiscent of Walter Hallstein<note xml:id="e5081"
+                  >Walter Hallstein (1901–1982), <ref target="https://dodis.ch/P2869"
+                     >dodis.ch/P2869</ref>, Civil servant in the FRG Foreign Office who had the
+                  “Hallstein Doctrine” that meant that the FRG would regard it as an unfriendly act
+                  if third countries were to recognize the FRG, named after him and President of the
+                  Commission of the European Economic Community 1958–1967.</note> – with the one
+               nuance that the chancellor reasons more sentimentally. When he speaks of the
+               German-French handshake over the graves of Verdun, he does so with a tearful voice.
+               Compared to this attitude, the advocates of federations of Expellees, including
+                  Schönhuber’s<note xml:id="e5087">Franz Schönhuber (1923–2005), <ref
+                     target="https://dodis.ch/P54840">dodis.ch/P54840</ref>, journalist and
+                  politician of the FRG, founder and later chairman of The Republicans.</note>
+               camarilla, remain a rather ephemeral Don Quixotism.</p>
+            <p>Generally speaking, nationalism these days appears to have become the religion of the
+               poor. It rages in Kosovo, Romania, or Bulgaria – soon perhaps also in Albania. Here,
+               German saturation in the context of the materialism fuelled by Erhard’s<note
+                  xml:id="e5095">Ludwig Erhard (1897–1977), <ref target="https://dodis.ch/P2893"
+                     >dodis.ch/P2893</ref>, Chancellor of the FRG 1963–1966.</note>
+               “Wirtschaftswunder” seems to have mostly eradicated the infamous appetite for
+               “Lebensraum”. One rather pursues ideas of qualitative growth.</p>
+            <p>Kohl may ultimately disappoint many ambitions and hopes: for instance, the still
+               existing feelings of entitlement regarding lost territories in the East, or GDR hopes
+               for prosperity through an automatic bonanza, French aspirations to push for European
+               integration according to concepts created in Paris, etc.</p>
+            <p>Whether reunification, then, is coming around 20 years too early is hard to tell.
+               Such fears are based on the assumption that, preferably, the FRG would have been
+               irrevocably and strongly rooted in Europa for now. But revolutions elude all timing.
+               And no one can say whether a process of Europeanization controlled by French
+               computers and coupled with a postponed reunification would have produced more
+               suitable results.</p>
+            <p>In fact, why does no one make use of Kohl’s almost clumsily lovable openness to
+               Europe? Why does everyone suspect the ponderous giant from the Palatinate of deviant
+               Germanic Machiavellianism? Why, by contrast, the premium for Oskar<note
+                  xml:id="e5107">Oskar Lafontaine (*1943), <ref target="https://dodis.ch/P54839"
+                     >dodis.ch/P54839</ref>, Minister President of Saarland 1985–1998 and SPD
+                  candidate for Chancellor in the German federal elections of 1990.</note> the tin
+               drummer from the Saarland?</p>
+            <p/>
+            <p>Europe has often seen dishonest politics. But in my opinion, Bonn is not currently a
+               target of legitimate suspicions in this regard. Perhaps the reunification came too
+               early for the keepers of the grail of European distrust, but so far, the chancellor
+               seems to be coping just fine with the enormous problems he is facing.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

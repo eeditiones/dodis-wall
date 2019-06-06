@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52912</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52912">dodis.ch/52912</ref>
+               <title type="main">Memorandum<note xml:id="e2279">Memorandum: <idno>Bush Presidential
+                        Library 91116-001</idno>. Signed by Brent Scowcroft, <ref
+                        target="https://dodis.ch/P57408">dodis.ch/P57408</ref>.</note> for the
+                  President of the United States, George H. W. Bush<note xml:id="e2285">George
+                     Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406"
+                        >dodis.ch/P47406</ref>, President of the United States,
+                     20.1.1989–20.1.1993.</note></title>
+               <title type="sub">The Soviets and the German Question</title>
+            </head>
+            <opener>
+               <add>Secret</add>
+               <dateline>Washington, D.C., 29 November 1989</dateline>
+            </opener>
+            <p>This paper responds to your request for further analysis of the Soviet Union’s policy
+               toward Germany in light of changes in the GDR and Eastern Europe.</p>
+            <p>Soviet policy toward Germany is – like everything else – in a state of flux. The
+               Soviets have lost control of their policy toward Eastern Europe and are largely
+               reacting to events on a day to day basis. Gorbachev<note xml:id="e2301">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> foresaw neither the
+               pace nor the direction of change there and is increasingly powerless to do anything
+               about it. The threat of the use of Soviet military power to reverse events
+               increasingly lacks credibility and no one knows where Moscow’s tolerance will
+               end.</p>
+            <p>The Soviet reaction to events in the GDR is the clearest indication to date that
+               Moscow has come to believe that peaceful economic and political change is the only
+               alternative to a popular explosion. Earlier Gorbachev probably hoped that reform in
+               these countries would take place within the boundaries of a single party system – a
+               kind of mirror of Soviet perestroika. But he was mistaken.</p>
+            <p>The GDR is not Poland or Hungary and the likelihood of a noncommunist East Germany
+               has reopened the long dormant core issue of Soviet security – the German question. If
+               the communists lose power in the GDR, the rationale for a divided Germany goes away.
+               Yet the reunification of Germany would rip the heart out of the Soviet security
+               system since East Germany and the 390,000 Soviet forces based on its territory
+               constitute the fulcrum of the Warsaw Pact.</p>
+            <p>Gorbachev’s communication to you on the issue of German reunification was unequivocal
+               – he emphasized the “political realities of the postwar era, namely the existence of
+               two German states.”</p>
+            <p>The reunification of Germany conjures up deeply held memories and residual fears of
+               repeated German invasions of Russia and the Soviet Union. The Soviet Union’s worst
+               nightmare is a reunified Germany allied with NATO or, alternatively, nominally allied
+               with the West and heavily militarized. The Warsaw Pact, having lost its East German
+               anchor, would quickly disintegrate and the Soviet line of defense would begin at the
+               Ukrainian border. A companion fear is that this reunified Germany would be able to
+               dominate East-Central Europe economically, including a weak Soviet Union.</p>
+            <p>No Soviet leader can allow German reunification on these terms: The gains of World
+               War II, achieved at the cost of 20 million lives, would be gone.</p>
+            <p>The best outcome for Moscow would be the continued existence of two viable German
+               states. The GDR would reform politically and economically, maintain its identity and
+               develop closer economic and political ties with FRG. The continued existence of two
+               German states would allow the GDR to anchor the Warsaw Pact, keeping the Soviet
+               security system nominally intact. At the same time, Moscow would enjoy not only the
+               benefits of direct economic cooperation with the FRG but the contribution of an
+               improved East German economy to COME‑ CON.</p>
+            <p>The problem for Moscow now is to design a new policy to promote a favorable outcome
+               when Soviet control over events in Eastern Europe is weak. The Soviets can still use
+               force to stop unwelcomed events. Were there instability and violence in the GDR, the
+               Soviets would most certainly act to protect the 390,000 Soviet troops stationed
+               there. But short of that, it is hard to imagine a pretext for the use of Soviet force
+               which would not discredit perestroika. Even a Soviet response to instability in the
+               GDR carries risks for Gorbachev since the use of force, whatever its rationale, would
+               destroy the chances for full Soviet economic and political rapprochement with the
+               FRG.</p>
+            <p>Moscow’s most likely diplomatic approach is to try and blunt the impact of change in
+               the GDR by solidifying international support for two German states. Betting that
+               there is little true enthusiasm for German reunification in the West – particularly
+               in France and Britain – the Soviets would take every opportunity to stabilize the
+               existing system of alliances while holding out the “common Eu‑ ropean home” as the
+               promised end-point. While Soviet rhetoric might continue to call for the dissolution
+               of blocs, we could expect a constant stream of new proposals for alliance to alliance
+               talks and negotiations. Gorbachev might even use the CFE process, with its timetable
+               for partial withdrawal of U.S. and Soviet forces, to give the Soviet presence a
+               longer life in Europe than it might have if pressures for Soviet withdrawal grow from
+               the populations of Eastern Europe. Finally, we could expect Soviet efforts to
+               strengthen the CSCE’s role in inter-German affairs and European security in order to
+               draw upon the angst of smaller European states about a stronger Germany. But like
+               Gorbachev’s earlier tactics toward Eastern Europe, this policy is likely to fail
+               too.</p>
+            <p>There is currently no evidence of panic in Moscow on the German issue but if the
+               Soviets begin to see their influence over European affairs deteriorating more
+               rapidly, Gorbachev could revert to Soviet calls from the 1950s for a general treaty
+               on collective security in Europe or a German peace treaty. The goal would be to
+               regain control of the pace and form of German reunification. The Soviets might count
+               on the British and French as natural allies in delaying German reunification or
+               pushing it toward confederation.</p>
+            <p>Gorbachev will come to Malta with these issues uppermost in his mind. There is, to
+               date, no evidence that the Soviets have worked out a new policy toward Eastern Europe
+               or Germany. As one Soviet commentator recently remarked, the Soviets have decided
+               that their security interests are not served by the Brezhnev<note xml:id="e2327"
+                  >Leonid Brezhnev (1906–1982), <ref target="https://dodis.ch/P15543"
+                     >dodis.ch/P15543</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 14.10.1964–10.11.1982, Chairman of the Supreme Soviet of the Soviet Union
+                  16.6.1977–10.11.1982.</note> doctrine’s emphasis on preservation of the leading
+               role of the Party in Eastern Europe. They have not, however, defined a new set of
+               limits. Reformers in Eastern Europe seem to believe that membership in the Warsaw
+               Pact is Moscow’s last line in the sand. But reform in the GDR and the attendant
+               specter of German reunification call even that requirement into question. That is why
+               the German question is – in a way that it has not been for many years – high on the
+               Soviet security agenda and they are clearly uncertain about how best to protect their
+               interests over the long-term.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

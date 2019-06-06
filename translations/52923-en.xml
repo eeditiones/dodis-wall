@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quaderni di Dodis 12</title>
+                <author>Diplomatische Dokumente der Schweiz</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="http://dodis.ch/52923">dodis.ch/52923</ref>
+                    <title type="main">Telegram<note xml:id="e736">Telegram No. 381 (incoming):
+                                <idno type="UK-NA">UK National Archives FCO 33/10154</idno>. Ref.
+                                <orig>My Telegram No. 377. </orig>Repeated for Information Immediate
+                            to the British Embassies in Bonn, Washington, Moscow and Paris, the
+                            British Military Government in Berlin, the UK Delegation to NATO;
+                            Information Routine to Eastern European posts; Information Saving to EC
+                            posts, the UK Representation in Brussels and the British Embassy in
+                            Beijing.</note> from the British Ambassador in East Berlin, Nigel
+                            Broomfield<note xml:id="e491">Nigel Broomfield (1937–2018), <ref
+                                target="http://dodis.ch/P57477">dodis.ch/P57477</ref>, British
+                            Ambassador in East Berlin, 1988–1990.</note>, to the British Secretary
+                        of State for Foreign and Commonwealth Affairs, Douglas Hurd<note
+                            xml:id="e504">Douglas Hurd (*1930), <ref target="http://dodis.ch/P57401"
+                                >dodis.ch/P57401</ref>, British Secretary of State for Foreign and
+                            Commonwealth Affairs, 26.10.1989–5.7.1995.</note></title>
+                    <title type="sub">Future Developments in the GDR</title>
+                </head>
+                <opener>
+                    <add>Confidential, Immediate</add>
+                    <dateline>
+                        <placeName>East Berlin, </placeName>
+                        <date when="1989-11-13">13 November 1989, 9.10 a.m.</date>
+                    </dateline>
+                </opener>
+                <p/>
+                <p>1. A new chapter in Germany’s post war history.</p>
+                <p/>
+                <p>2. It is not for me to comment on the effect on West Berlin and the FRG of the
+                    influx of some three million East Germans over the past four days. But viewed
+                    from East Berlin the last four days mark a decisive change in the political life
+                    of the GDR.</p>
+                <p>3. Even though 4.2 million visas were issued since 9 November, only 10,144 were
+                    for emigration according to GDR figures. This is an encouraging ratio for the
+                    leadership, and indeed there are reports of people returning. But the situation
+                    remains fluid, the exodus could begin again at any time if the leadership
+                    started to resile on the numerous promises they have given in the last few days
+                    about new policies. The Politburo will have to learn to live under this sword of
+                    Damocles.</p>
+                <p>4. The breaching of the Berlin Wall, the opening of a new crossing at Potsdamer
+                    Platz, the scene of the 1953 uprising and the heart of old Berlin, by the mayors
+                    of East and West Berlin<note xml:id="e603">Walter Momper (*1945), <ref
+                            target="http://dodis.ch/P57440">dodis.ch/P57440</ref>, Governing Mayor
+                        of West Berlin 16.2.1989–24.1.1991 and Erhard Krack (1931–2000), <ref
+                            target="https://dodis.ch/P55386">dodis.ch/P55386</ref>, Mayor of East
+                        Berlin 11.2.1974–15.2.1990.</note>, are deeply symbolic acts. The millions
+                    who crossed into West Berlin and the FRG since 9 November are fundamental
+                    political facts for the future of this country.</p>
+                <p>5. The tears and euphoria will die down and no doubt aggravations and resentments
+                    will surface in some areas but first-hand knowledge of the other German state
+                    and of their friendly reception there over this weekend has spread very widely
+                    among the population here and not just as before, among the privileged few with
+                    relatives in the West. This cannot be taken away again without risking an
+                    overwhelming political reaction.</p>
+                <p>6. Krenz<note xml:id="e616">Krenz (*1937), <ref target="http://dodis.ch/P54794"
+                            >dodis.ch/P54794</ref>, General Secretary of the SED
+                        18.10.1989–3.12.1989 and Chairman of the GDR State Council
+                        18.10.1989–6.12.1989.</note> may claim as he did on GDR television on 11
+                    November after talking to Kohl<note xml:id="e838">Helmut Kohl (1930–2017), <ref
+                            target="http://dodis.ch/P31852">dodis.ch/P31852</ref>,Chancellor of the
+                        FRG 1.10.1982–27.10.1998.</note> and agreeing to meet “soon”, that what had
+                    happened were sovereign decisions by the GDR and that for him reunification was
+                    not on the agenda. But power has passed in substantial measure to the people and
+                    it is they who from now on will increasingly decide the future of this country.
+                    How they will decide is not yet clear.</p>
+                <p>7. Unless a cataclysm occurs in the Soviet Union and sets back with it the
+                    reforms in Poland and Hungary I cannot see how a rapid process of growing
+                    together of the two German states can be avoided. Krenz may be replaced by
+                        Modrow<note xml:id="e634">Hans Modrow (*1928), <ref
+                            target="http://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the
+                        GDR Council of Ministers 13.11.1989–12.4.1990.</note>, who may succeed for a
+                    time in making the party popular again. There is wide support among the bloc
+                    parties as well as the protest groups for the principles of socialism variously
+                    defined. But the present system of planning the economy based on widespread
+                    public ownership cannot satisfy the peoples, demands sharpened as they will be
+                    by increasing familiarity with West Berlin and the FRG.</p>
+                <p>8. Whether in a dramatic move to stave off economic collapse in the next few
+                    months or in a more gradual process, the strength of the FRG economy acting on
+                    the structural and systemic weaknesses of the GDR is bound to have a profound
+                    effect. (I think it impossible that the structural alterations to the GDR’s
+                    economy can take place by the time Kohl and Krenz have their first meeting in
+                    November/December. And without these alterations Kohl has said, quite sensibly
+                    in my view, investment from the FRG will not be attracted to the GDR. The threat
+                    of imminent economic collapse looks to be a more likely trigger for West German
+                    assistance than slow structural change.)</p>
+                <p>9. I do not think it fanciful to see something of the same process happening on
+                    the political front with existing links between parties in East and West
+                    Germany. The CDU (West) has just begun to have contact with the CDU (East). The
+                    same is true for the SPD (West) and the SPD (East, still unofficial) whose
+                    membership of the socialist international the former will support. The FDP
+                    (West) has long had links with the LDPD (East, “liberal”). The SED will derive
+                    little benefit from its close contacts with DKP (West) and the SEW (West
+                    Berlin).</p>
+                <p>10. There will no doubt be many twists and surprises in the way events actually
+                    work out between the two German states. But from the point of view of our policy
+                    towards the GDR we should take note of underlying realities which the events of
+                    the last few days and weeks have exposed so clearly.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

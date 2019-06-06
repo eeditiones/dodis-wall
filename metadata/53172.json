@@ -1,0 +1,1463 @@
+{
+    "total": null,
+    "data": {
+        "id": 53172,
+        "title": "No 775.",
+        "langCode": "ot",
+        "language": "ot",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "1.2.1990",
+        "documentDateDayOfWeek": "Thursday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "The heads of Polish diplomatic missions abroad are given the following instruction: Polish support for German reunification is made contingent upon Germany recognizing Poland\u2019s western border along the Oder and Lusatian Neisse Rivers.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 1,
+        "classification": "URGENT",
+        "classificationText": "urgent",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98969,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101692,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101693,
+                "tagId": 483,
+                "name": "Germany \u2013 GDR (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.3.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Repubblica democratica tedesca (Politica)",
+                    "Deutschland \u2013 DDR (Politik)",
+                    "Germany \u2013 GDR (Politics)",
+                    "Allemagne \u2013 RDA (Politique)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RDA (Politique)",
+                "deName": "Deutschland \u2013 DDR (Politik)",
+                "enName": "Germany \u2013 GDR (Politics)",
+                "itName": "Repubblica democratica tedesca (Politica)",
+                "relatedAttachments": []
+            },
+            {
+                "id": 101694,
+                "tagId": 467,
+                "name": "Poland (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.085.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Polonia (Politica)",
+                    "Polen (Politik)",
+                    "Pologne (Politique)",
+                    "Poland (Politics)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Pologne (Politique)",
+                "deName": "Polen (Politik)",
+                "enName": "Poland (Politics)",
+                "itName": "Polonia (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 59741,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Archives of the Ministry of Foreign Affairs of the Republic of Poland",
+                "archiveCode": "PL-AMSZ",
+                "box": null,
+                "aisCode": "ZD 33/92",
+                "dossierId": 31610,
+                "hasPdf": null,
+                "original": true,
+                "archiveUrl": "",
+                "archivePlace": "Warsaw",
+                "id": 59741
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16452,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": "33"
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36335,
+                "sort": 0,
+                "attachment": {
+                    "id": 36596,
+                    "attachmentId": 36596,
+                    "date": "",
+                    "fileRef": "dodis-53172-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-53172-en.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 59741,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37017,
+                "sort": 0,
+                "attachment": {
+                    "id": 36325,
+                    "attachmentId": 36325,
+                    "date": "",
+                    "fileRef": "dodis-53172.xml",
+                    "fileRefThumbnail": "thumb_dodis-53172.xml.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 59741,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36780,
+                "sort": 0,
+                "attachment": {
+                    "id": 37038,
+                    "attachmentId": 37038,
+                    "date": "",
+                    "fileRef": "dodis-53172-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53172-qdd.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 59741,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 35057,
+                "sort": 0,
+                "attachment": {
+                    "id": 35366,
+                    "attachmentId": 35366,
+                    "date": "",
+                    "fileRef": "dodis-53172.pdf",
+                    "fileRefThumbnail": "thumb_dodis-53172.pdf.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 59741,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "author": [
+                {
+                    "id": 8541,
+                    "name": "Poland/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 391,
+                    "name": "Poland/Government",
+                    "comment": "Cf. Pologne/Gouv. prov. et Allemagne/Protectorat de Bohême et de Moravie",
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": "Varsovie",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 467,
+                    "name": "Athens",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 37.983917,
+                    "longitude": 23.729360,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 85,
+                    "name": "Belgrade",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 44.816666,
+                    "longitude": 20.466667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8923,
+                    "name": "Brasilia",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": -15.800000,
+                    "longitude": -47.850000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 233,
+                    "name": "Bucharest",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 44.432500,
+                    "longitude": 26.103890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8,
+                    "name": "Budapest",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 47.497913,
+                    "longitude": 19.040236,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 208,
+                    "name": "Buenos Aires",
+                    "comment": "Cité autonome et capitale de l'Argentine. Elle forme le district fédéral et ne fait donc pas partie de la province de Buenos Aires.",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": -34.603720,
+                    "longitude": -58.381590,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 42,
+                    "name": "Canberra",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": -35.283460,
+                    "longitude": 149.128070,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 215,
+                    "name": "Copenhagen",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.676098,
+                    "longitude": 12.568337,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 28,
+                    "name": "Geneva",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 46.198390,
+                    "longitude": 6.142296,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 622,
+                    "name": "Helsinki",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 60.173325,
+                    "longitude": 24.941025,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 780,
+                    "name": "Cologne",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.937530,
+                    "longitude": 6.960279,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 349,
+                    "name": "Lisbon",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.722250,
+                    "longitude": -9.139337,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 941,
+                    "name": "Madrid",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 40.416775,
+                    "longitude": -3.703790,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4660,
+                    "name": "Mexico City",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 19.432608,
+                    "longitude": -99.133210,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 516,
+                    "name": "New Delhi",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 28.635307,
+                    "longitude": 77.224960,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 23,
+                    "name": "New York",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 40.712784,
+                    "longitude": -74.005940,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 406,
+                    "name": "Oslo",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 59.913868,
+                    "longitude": 10.752245,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 169,
+                    "name": "Ottawa",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.421528,
+                    "longitude": -75.697190,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 18,
+                    "name": "Paris",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.856613,
+                    "longitude": 2.352222,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1203,
+                    "name": "Beijing",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.904030,
+                    "longitude": 116.407524,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 71,
+                    "name": "Prague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.075540,
+                    "longitude": 14.437800,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 361,
+                    "name": "Rome",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 41.900000,
+                    "longitude": 12.483300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 755,
+                    "name": "Sofia",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 42.697710,
+                    "longitude": 23.321867,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 94,
+                    "name": "Stockholm",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 59.329323,
+                    "longitude": 18.068580,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 88,
+                    "name": "The Hague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.070500,
+                    "longitude": 4.300700,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 35,
+                    "name": "Tokyo",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 35.689487,
+                    "longitude": 139.691710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 238,
+                    "name": "Vienna",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.208176,
+                    "longitude": 16.373820,
+                    "wikidataId": "Q1741",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 16,
+                    "name": "Washington DC",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.895000,
+                    "longitude": -77.036667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4452,
+                    "name": "Oder\u2013Neisse line",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.696540,
+                    "longitude": 14.715844,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Krysztof",
+                    "lastName": "Skubiszweski",
+                    "fullName": "Skubiszweski, Krysztof (1926\u20132010)",
+                    "id": 57377,
+                    "comment": "",
+                    "dateBirth": "8.10.1926",
+                    "dateDeath": "8.2.2010",
+                    "wikidataId": "",
+                    "birthPlaceId": 4601,
+                    "birthPlaceText": "Poznan",
+                    "deathPlaceId": 144,
+                    "deathPlaceText": "Varsovie",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Skubiszewski, Krzysztof Jan",
+                        "Skubiszweski, Krysztof"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "author": [
+                {
+                    "id": 8541,
+                    "name": "Poland/Ministry of Foreign Affairs",
+                    "comment": null,
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 391,
+                    "name": "Poland/Government",
+                    "comment": "Cf. Pologne/Gouv. prov. et Allemagne/Protectorat de Bohême et de Moravie",
+                    "placeId": 144,
+                    "placeText": "Varsovie",
+                    "hq": "Varsovie",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 144,
+                    "name": "Warsaw",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.229675,
+                    "longitude": 21.012228,
+                    "wikidataId": "Q270",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 467,
+                    "name": "Athens",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 37.983917,
+                    "longitude": 23.729360,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 85,
+                    "name": "Belgrade",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 44.816666,
+                    "longitude": 20.466667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8923,
+                    "name": "Brasilia",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": -15.800000,
+                    "longitude": -47.850000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 233,
+                    "name": "Bucharest",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 44.432500,
+                    "longitude": 26.103890,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8,
+                    "name": "Budapest",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 47.497913,
+                    "longitude": 19.040236,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 208,
+                    "name": "Buenos Aires",
+                    "comment": "Cité autonome et capitale de l'Argentine. Elle forme le district fédéral et ne fait donc pas partie de la province de Buenos Aires.",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": -34.603720,
+                    "longitude": -58.381590,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 42,
+                    "name": "Canberra",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": -35.283460,
+                    "longitude": 149.128070,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 215,
+                    "name": "Copenhagen",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.676098,
+                    "longitude": 12.568337,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3061,
+                    "name": "East Berlin",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.578387,
+                    "longitude": 13.405563,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 28,
+                    "name": "Geneva",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 46.198390,
+                    "longitude": 6.142296,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 622,
+                    "name": "Helsinki",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 60.173325,
+                    "longitude": 24.941025,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 780,
+                    "name": "Cologne",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.937530,
+                    "longitude": 6.960279,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 349,
+                    "name": "Lisbon",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.722250,
+                    "longitude": -9.139337,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 55,
+                    "name": "London",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.507350,
+                    "longitude": -0.127758,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 941,
+                    "name": "Madrid",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 40.416775,
+                    "longitude": -3.703790,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4660,
+                    "name": "Mexico City",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 19.432608,
+                    "longitude": -99.133210,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 21,
+                    "name": "Moscow",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 55.750000,
+                    "longitude": 37.616667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 516,
+                    "name": "New Delhi",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 28.635307,
+                    "longitude": 77.224960,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 23,
+                    "name": "New York",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 40.712784,
+                    "longitude": -74.005940,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 406,
+                    "name": "Oslo",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 59.913868,
+                    "longitude": 10.752245,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 169,
+                    "name": "Ottawa",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 45.421528,
+                    "longitude": -75.697190,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 18,
+                    "name": "Paris",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.856613,
+                    "longitude": 2.352222,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1203,
+                    "name": "Beijing",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 39.904030,
+                    "longitude": 116.407524,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 71,
+                    "name": "Prague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.075540,
+                    "longitude": 14.437800,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 361,
+                    "name": "Rome",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 41.900000,
+                    "longitude": 12.483300,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 755,
+                    "name": "Sofia",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 42.697710,
+                    "longitude": 23.321867,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 94,
+                    "name": "Stockholm",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 59.329323,
+                    "longitude": 18.068580,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 88,
+                    "name": "The Hague",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.070500,
+                    "longitude": 4.300700,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 35,
+                    "name": "Tokyo",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 35.689487,
+                    "longitude": 139.691710,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 238,
+                    "name": "Vienna",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 48.208176,
+                    "longitude": 16.373820,
+                    "wikidataId": "Q1741",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 16,
+                    "name": "Washington DC",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.895000,
+                    "longitude": -77.036667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 3581,
+                    "name": "West Berlin",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 52.484946,
+                    "longitude": 13.343708,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 12,
+                    "name": "Europe",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 54.525963,
+                    "longitude": 15.255118,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4452,
+                    "name": "Oder\u2013Neisse line",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 51.696540,
+                    "longitude": 14.715844,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 68,
+                    "name": "Poland",
+                    "comment": "",
+                    "countryCode": "PL",
+                    "regionCode": null,
+                    "latitude": 51.919437,
+                    "longitude": 19.145136,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

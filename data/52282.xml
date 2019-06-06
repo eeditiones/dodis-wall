@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quaderni di Dodis 12</title>
+                <author>Diplomatische Dokumente der Schweiz</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="http://dodis.ch/52282">dodis.ch/52282</ref>
+                    <title type="main">Politischer Bericht<note xml:id="e579">Politischer Bericht
+                            Nr. 24 und Telegramm Nr. 97 (Empfangskopie): <idno type="CH-BAR">CH-BAR#E2010-02A#1996/400#19* (A.21.31).</idno>
+                        </note> des schweizerischen Botschaft in Bonn, Alfred Hohl<note xml:id="e596">Alfred Hohl (1930–2004), <ref target="http://dodis.ch/P16080">dodis.ch/P16080</ref>,
+                            schweizerischer Botschafter in Bonn 1.9.1987–16.11.1991.</note>
+                    </title>
+                    <title type="sub">Zu früh?</title>
+                </head>
+                <opener>
+                    <add>Vetraulich</add>
+                    <dateline>
+                        <placeName>Bonn, </placeName>
+                        <date when="1990-04-10">10. April 1990</date>
+                    </dateline>
+                </opener>
+                <p>Aufgeregt äusserte sich Unterzeichnetem gegenüber ein Staatssekretär des
+                    auswärtigen Amts dahin, dass die Wiedervereinigung als Aufgabe schlicht und
+                    einfach 20 Jahre zu früh an Bonn herangetragen worden sei. «Wir sind noch nicht
+                    voll genug in Europa integriert und die Chancen für deutsch-nationale
+                    Aufwallungen bleiben noch viel zu reell.</p>
+                <p>Das Perpetuum Mobile, der u.a. mit Reichsauflösungen verbundenen nationalen
+                    Probleme des 19./20. Jahrhunderts, halten in Europa indessen vorderhand vor
+                    allem die Balkanstaaten in Gang, deren Grenzen seinerzeit arbiträr quer durch
+                    ethnische Räume gezogen worden waren und deshalb von Anfang an beträchtliche
+                    Brisanz versprachen. Das Gleiche gilt für die Auflösung des durch die Zaren und
+                    deren Epigonen aufgebauten sowjetischen Imperiums, das z.B. Europa und Asien,
+                    Christentum und Islam in den Klammern seiner parteibürokratischen
+                    Herrschaftsmethoden unter einen Hut zu bringen trachtete. Steht Europa nun
+                    generell ein sich-aufbäumen der u.a. in Versailles, Potsdam und Jalta zu kurz
+                    gekommen bevor?</p>
+                <p>In Hessen sollen kürzlich unbekannte national beflügelte Geister den Slogan «Ami
+                    go home» an die Wand gemalt haben und die Presse diskutierte dort angebliche
+                    Pläne Ministerpräsident Wallmanns<note xml:id="e626">Walter Wallmann
+                        (1932–2013), <ref target="http://dodis.ch/P56923">dodis.ch/P56923</ref>,
+                        Ministerpräsident von Hessen 1987–1991.</note>, durch den Abzug der
+                    Amerikaner frei werdende Wohnquartiere für die Unterbringung von eigenen
+                    Logissuchern und Übersiedlern zu nutzen. Vorderhand ist das indessen m.E.wenig
+                    ernst zu nehmende Medienkolportage.</p>
+                <p>Wie haben aber schon anderswo berichtet, dass sich die mentale Grundeinstellung
+                    der Deutschen, eine Art Büsserattitude verbunden mit der Bereitschaft den
+                    Schwachen und Defavorisierten zu helfen, zum mindesten partiell geändert hat.
+                    Man denkt hier wieder vorab deutsch, aber dem Kanzler<note xml:id="e641">Helmut
+                        Kohl (1930-2017), <ref target="http://dodis.ch/P31852">dodis.ch/P31852</ref>, Bundeskanzler der BRD 1.10.1982–27.10.1998.</note>
+                    attestieren die meisten meiner Gesprächspartner europapolitische
+                    Zuverlässigkeit. Kohl will möglicherweise letztlich nicht nur Kanzler der
+                    Wiedervereinigung sondern auch Deus ex Machina Europas werden. Da sich diese
+                    Rolle bisher die Franzosen vorbehalten hatten, wird das Spiel spannend.
+                        Delors<note xml:id="e651">Jacques Delors (*1925), <ref target="http://dodis.ch/P47396">dodis.ch/P47396</ref>, Französischer
+                        Politiker, Präsident der Europäischen Kommission 7.1.1985–24.1.1995.</note>
+                    möchte sich sicher so wenig wie Mitterand<note xml:id="e662">François Mitterand
+                        (1916–1996), <ref target="http://dodis.ch/P13775">dodis.ch/P13775</ref>,
+                        französischer Staatspräsident 21.5.1981–17.5.195</note> von Kohl die Bresche
+                    zum europäischen Erfolg schlagen lassen. Aber des Kanzlers Ambitionen werden
+                    anscheinend allmählich globaler: deutsch-deutsche Währungsunion,
+                    Wiedervereinigung, Einbringung Gesamtdeutschlands in Europa, europäische
+                    Währungsunion, Abtretung von nationalen Prärogativen politischer Souveränität an
+                    eineeuropäische Exekutive und deren parlamentarischen Unterbau.</p>
+                <p>Eine Parforcetour vom deutschen Michel zum Eurobürger. Manchmal sieht es fast so
+                    aus.</p>
+                <p>Man kann sich somit in guten Treuen fragen, warum für den eingangs zitierten
+                    Staatssektretär im A<add type="edition">[uswärtigen]</add> A<add type="sub">[mt]</add>. die Wiedervereinigung 20 Jahre zu früh ins Haus fällt. Gibt es
+                    hier wirklich noch nationale Territorialambitionen wie zu Zeiten der Könige von
+                    Preussen, Bismarcks<note xml:id="e681">Otto von Bismark (1815–1898), <ref target="http://dodis.ch/3822">dodis.ch/P3822</ref>, deutscher
+                        Reichskanzler 1871–1890.</note> oder Hitlers<note xml:id="e691">Adolf Hitler
+                        (1889–1945), <ref target="http://dodis.ch/P535">dodis.ch/P535</ref>, Führer
+                        des Deutschen Reichs 1933–1945.</note>? Bei Kohl: nein. Bei ihm registriert
+                    man vielmehr eine wirkliche Bereitschaft, Deutschland in Europa aufgehen zu
+                    lassen. Das ist echt und gemahnt an Walter Hallstein<note xml:id="e677">Walter
+                        Hallstein (1901–1982), <ref target="http://dodis.ch/P2869">dodis.ch/P2869</ref>, Beamter im Auswärtigen Amt der BRD und
+                        Vorsitzender der Kommission der Europäischen Wirtschaftsgemeinschaft. Nach
+                        ihm wurde die “Hallstein-Doktrin“ beannt, die besagt, dass die BRD es als
+                        unfreundlichen Akt ansähe, wenn Drittstaaten die DDR anerkennen
+                        sollten.</note> – mit der einen Nuance, dass der Kanzler sentimentaler
+                    argumentiert. Wenn er vom deutsch-französischen Handschlag über den Gräbern von
+                    Verdun spricht, dann erstickt seine Stimme in Tränen. Die Fürsprecher der
+                    Vertriebenen Verbände bleiben dieser Haltung gegenüber mitsamt der
+                        schönhuberschen<note xml:id="e712">Franz Schönhuber (1923–2005), <ref target="http://dodis.ch/P54840">dodis.ch/P54840</ref>, Journalist und
+                        Politiker in der BRD, Gründer und später Vorsitzender der
+                        Republikaner.</note> Camarilla eher eine ephemere Donquichotterie.</p>
+                <p>Die Nationalismus ist wohl ganz allgemein heute eher die Religion der Armen
+                    geworden. Wütet in Kosowo, Rumänien oder Bulgarien – bald einmal vielleicht auch
+                    in Albanien. Hier hat die deutsche Sättigung, im Umfeld des von Erhards<note xml:id="e724">Ludwig Erhard (1897–1977), <ref target="http://dodis.ch/P2893">dodis.ch/P2893</ref>, Bundeskanzler der BRD 1963–1966.</note>
+                    Wirtschaftswunder portierten Materialismus, den berüchtigten Appetit auf
+                    Lebensraum wohl weitgehend ausgeräumt. Man jagt da schon eher Vorstellungen
+                    eines qualitativen Wachstums nach.</p>
+                <p>Kohl mag letztlich mancherlei Ambitionen und Hoffnungen enttäuschen: so z.B. hier
+                    noch vorhandene Ansprüche auf die verlorenen Ostgebiete oder DDR-Hoffnungen auf
+                    Wohlstand durch einen automatischen Goldregen, französische Aspirationen auf ein
+                    Vorantreiben der europäischen Integration nach in Paris entworfenen Konzepten
+                    usw.</p>
+                <p>Ob somit die Wiedervereinigung 20 Jahre zu früh ins Haus fällt, ist schwer zu
+                    beurteilen. Solche Ängste basieren auf der Annahme, dass die BRD besser
+                    vorgängig unwiederruflich fest in Europa verankert gewesen wäre. Aber
+                    Revolutionen entziehen sich jedem Timing. Und ob ein von französischen Computern
+                    gesteurter Europäisierungsprozess mit auf später verschobener Wiedervereinung
+                    rationellere Resultate eingebracht hätte, vermag niemand zu sagen.</p>
+                <p>Warum nutzt eigentlich niemand Kohl’s fast täppisch liebenwürdige
+                    Europabereitschaft? Warum verdächtigt männiglich den behäbigen Riesen aus der
+                    Pfalz abartiger germanischer Macchiavellismen? Warum anderseits der Bonus für
+                    den Blechtrommler Oskar<note xml:id="e734">Oskar Lafontaine (*1943), <ref target="http://dodis.ch/P54839">dodis.ch/P54839</ref>, Ministerpräsient
+                        des Saarlands 1985–1998 und Kanzlerkandidat der SPD für die Bundestagswahl
+                        1990.</note> aus dem Saarland?</p>
+                <p>Falsche Politik ist in Europa oft gemacht worden. Aber Bonn liegt diesbezüglich
+                    m.E. heute nicht in der Schusslinie berechtiger Verdächtigungen. Vielleicht kam
+                    die Wiedervereinigung für die Gralshüter des europäischen Misstrauens zu früh,
+                    aber der Kanzler scheint bis anhin nicht schlecht mit den gewaltigen für ihn
+                    anstehenden Problemen fertig zu werden.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

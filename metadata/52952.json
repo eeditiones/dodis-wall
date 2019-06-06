@@ -1,0 +1,1277 @@
+{
+    "total": null,
+    "data": {
+        "id": 52952,
+        "title": "Visit by Foreign Minister Arens to Bonn on 15 February 1990 \u2013 media coverage of comments on German unification",
+        "langCode": "de",
+        "language": "German",
+        "assessment": 0,
+        "assessmentText": "Document A",
+        "documentDate": "20.2.1990",
+        "documentDateDayOfWeek": "Tuesday",
+        "documentTypeCode": "T",
+        "documentTypeText": "Telegram",
+        "summary": "Haas reports critical reactions on behalf of the Israeli press and some cabinet members to remarks by Israel\u2019s Foreign Minister Moshe Arens on the possibility of German unification.",
+        "publicationYear": "2019",
+        "canShowAtPresentDate": true,
+        "pagesCount": 3,
+        "classification": "-",
+        "classificationText": "",
+        "hasPdf": true,
+        "dontIndex": false,
+        "relatedTags": [
+            {
+                "id": 98281,
+                "tagId": 1443,
+                "name": "International perceptions of the German reunification 1989-1990",
+                "totalDocuments": 0,
+                "section": null,
+                "kind": "T",
+                "pos": "TD-080",
+                "mainTag": true,
+                "relatedDocuments": {},
+                "names": [
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                    "International perceptions of the German reunification 1989-1990",
+                    "Perceptions internationales de la réunification allemande 1989-1990",
+                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "When the Wall Came Down"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "enName": "When the Wall Came Down",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "relatedAttachments": []
+            },
+            {
+                "id": 102526,
+                "tagId": 481,
+                "name": "Germany \u2013 FRG (Politics)",
+                "totalDocuments": 0,
+                "section": "Politics",
+                "kind": "D",
+                "pos": "2.005.2.1",
+                "mainTag": false,
+                "relatedDocuments": {},
+                "names": [
+                    "Deutschland \u2013 BRD (Politik)",
+                    "Germany \u2013 FRG (Politics)",
+                    "Allemagne \u2013 RFA (Politique)",
+                    "Repubblica federale tedesca (Politica)"
+                ],
+                "pages": {},
+                "enabled": true,
+                "actualName": null,
+                "frName": "Allemagne \u2013 RFA (Politique)",
+                "deName": "Deutschland \u2013 BRD (Politik)",
+                "enName": "Germany \u2013 FRG (Politics)",
+                "itName": "Repubblica federale tedesca (Politica)",
+                "relatedAttachments": []
+            }
+        ],
+        "relatedDocuments": [],
+        "specimens": [
+            {
+                "specimenId": 60017,
+                "dossierTitle": null,
+                "archiveNumber": null,
+                "additionalComponent": null,
+                "period": null,
+                "fund": null,
+                "archive": "Political Archives of the German Federal Foreign Office",
+                "archiveCode": "DE-PA/AA",
+                "box": null,
+                "aisCode": "B 38, Bd. 140724",
+                "dossierId": 31775,
+                "hasPdf": null,
+                "original": false,
+                "archiveUrl": "",
+                "archivePlace": "Berlin",
+                "id": 60017
+            }
+        ],
+        "volumes": [
+            {
+                "id": 16416,
+                "volume": {
+                    "id": 35,
+                    "dateLower": "",
+                    "dateUpper": "",
+                    "title": "When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989\u20131990 (Quaderni di Dodis 12)",
+                    "acronym": "QdD",
+                    "publicationDate": "",
+                    "publicationDateRaw": {"present": false},
+                    "comments": null,
+                    "volumeNumber": 12,
+                    "subVolume": "",
+                    "url": "http://dodis.ch/q12",
+                    "doi": "10.5907/Q12",
+                    "author": "Marc Dierikx, Sacha Zala",
+                    "place": "Bern",
+                    "date": "2019"
+                },
+                "numberInVolume": null
+            }
+        ],
+        "attachments": [
+            {
+                "id": 36344,
+                "sort": 0,
+                "attachment": {
+                    "id": 36605,
+                    "attachmentId": 36605,
+                    "date": "",
+                    "fileRef": "dodis-52952-en.xml",
+                    "fileRefThumbnail": "thumb_dodis-52952-en.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "English",
+                "specimenId": 60017,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 37012,
+                "sort": 0,
+                "attachment": {
+                    "id": 36331,
+                    "attachmentId": 36331,
+                    "date": "",
+                    "fileRef": "dodis-52952.xml",
+                    "fileRefThumbnail": "thumb_dodis-52952.xml.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml",
+                    "attachmentTypeText": "xml",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/xml",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "XML Source code",
+                "documentAttachmentTag": "",
+                "specimenId": 60017,
+                "volume": null,
+                "tab": false,
+                "downloadable": true
+            },
+            {
+                "id": 36768,
+                "sort": 0,
+                "attachment": {
+                    "id": 37026,
+                    "attachmentId": 37026,
+                    "date": "",
+                    "fileRef": "dodis-52952-qdd.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52952-qdd.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Volume",
+                "documentAttachmentTag": "",
+                "specimenId": 60017,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
+                "id": 35098,
+                "sort": 0,
+                "attachment": {
+                    "id": 35406,
+                    "attachmentId": 35406,
+                    "date": "",
+                    "fileRef": "dodis-52952.pdf",
+                    "fileRefThumbnail": "thumb_dodis-52952.pdf.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "pdf",
+                    "attachmentTypeText": "PDF",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "application/pdf",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "Error loading file."
+                },
+                "documentAttachmentType": "Facsimile",
+                "documentAttachmentTag": "",
+                "specimenId": 60017,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            }
+        ],
+        "relatedPersons": {
+            "author": [
+                {
+                    "firstName": "Wilhelm",
+                    "lastName": "Haas",
+                    "fullName": "Haas, Wilhelm (1931\u2013)",
+                    "id": 57437,
+                    "comment": "",
+                    "dateBirth": "18.8.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 25,
+                    "birthPlaceText": "Berlin",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Haas, Wilhelm"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Heimo",
+                    "lastName": "Richter",
+                    "fullName": "Richter, Heimo (1940\u2013)",
+                    "id": 57438,
+                    "comment": "",
+                    "dateBirth": "1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Richter, Heimo"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Wilhelm",
+                    "lastName": "Haas",
+                    "fullName": "Haas, Wilhelm (1931\u2013)",
+                    "id": 57437,
+                    "comment": "",
+                    "dateBirth": "18.8.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 25,
+                    "birthPlaceText": "Berlin",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Haas, Wilhelm"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Moshe",
+                    "lastName": "Arens",
+                    "fullName": "Arens, Moshe (1925\u20132019)",
+                    "id": 57439,
+                    "comment": "",
+                    "dateBirth": "27.12.1925",
+                    "dateDeath": "7.1.2019",
+                    "wikidataId": "",
+                    "birthPlaceId": 8717,
+                    "birthPlaceText": "Kaunas",
+                    "deathPlaceId": 12078,
+                    "deathPlaceText": "Savyon",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arens, Moshe",
+                        "Arens, Mosche"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Adolf",
+                    "lastName": "Hitler",
+                    "fullName": "Hitler, Adolf (1889\u20131945)",
+                    "id": 535,
+                    "comment": "",
+                    "dateBirth": "20.4.1889",
+                    "dateDeath": "30.4.1945",
+                    "wikidataId": "",
+                    "birthPlaceId": 13808,
+                    "birthPlaceText": "Braunau am Inn",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hitler, Adolf"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Roni",
+                    "lastName": "Milo",
+                    "fullName": "Milo, Roni (1949\u2013)",
+                    "id": 57441,
+                    "comment": "",
+                    "dateBirth": "26.11.1949",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Milo, Roni",
+                        "Milikovsky , Ron"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Yitzhak",
+                    "lastName": "Modai",
+                    "fullName": "Modai, Yitzhak (1926\u20131998)",
+                    "id": 53915,
+                    "comment": "",
+                    "dateBirth": "17.1.1926",
+                    "dateDeath": "22.5.1998",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Moda'i, Yitzhak",
+                        "Modai, Yitzhak"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Benjamin",
+                    "lastName": "Netanyahu",
+                    "fullName": "Netanyahu, Benjamin (1949\u2013)",
+                    "id": 57443,
+                    "comment": "",
+                    "dateBirth": "21.10.1949",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Netanyahu, Benjamin",
+                        "Netanyahu, Binyamin ",
+                        "Netanyahu, Bibi"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Yitzhak",
+                    "lastName": "Shamir",
+                    "fullName": "Shamir, Yitzhak (1915\u20132012)",
+                    "id": 54271,
+                    "comment": "",
+                    "dateBirth": "22.10.1915",
+                    "dateDeath": "30.6.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": 14539,
+                    "birthPlaceText": "Ruzhany",
+                    "deathPlaceId": 1766,
+                    "deathPlaceText": "Tel-Aviv",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Shamir, Yitzhak",
+                        "Schamir, Jitzchak",
+                        "שמיר, יצחק",
+                        "Shamir, Itzak",
+                        "Jaziernicki, Jitzchak",
+                        "Шамир, Ицхак",
+                        "Езерницкий, Ицхак"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Gad",
+                    "lastName": "Yaacobi",
+                    "fullName": "Yaacobi, Gad (1935\u20132007)",
+                    "id": 57442,
+                    "comment": "",
+                    "dateBirth": "18.1.1935",
+                    "dateDeath": "27.8.2007",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Yaacobi, Gad"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relatedOrganizations": {
+            "address_of_copy": [
+                {
+                    "id": 23013,
+                    "name": "Germany/FRG/Embassy in Washington",
+                    "comment": null,
+                    "placeId": 16,
+                    "placeText": "Washington DC",
+                    "hq": "Washington",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "author": [
+                {
+                    "id": 31390,
+                    "name": "Germany/FRG/Embassy in Tel Aviv",
+                    "comment": "",
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 9256,
+                    "name": "Germany/FRG/Federal Foreign Office",
+                    "comment": "1951 gegründet.",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 33795,
+                    "name": "Davar",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33791,
+                    "name": "Haaretz",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30447,
+                    "name": "Israel/Avoda",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4140,
+                    "name": "Israel/Government",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31280,
+                    "name": "Israel/Likud",
+                    "comment": "",
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8098,
+                    "name": "Israel/Parliament",
+                    "comment": "URL(518186)",
+                    "placeId": 324,
+                    "placeText": "Jérusalem",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33792,
+                    "name": "Maariv",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33794,
+                    "name": "The Jerusalem Post",
+                    "comment": null,
+                    "placeId": 324,
+                    "placeText": "Jérusalem",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33793,
+                    "name": "Yedioth Ahronoth",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relatedPlaces": {
+            "origin": [
+                {
+                    "id": 1766,
+                    "name": "Tel-Aviv",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 32.085300,
+                    "longitude": 34.781770,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination_of_copy": [
+                {
+                    "id": 16,
+                    "name": "Washington DC",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.895000,
+                    "longitude": -77.036667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 381,
+                    "name": "Auschwitz",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.034397,
+                    "longitude": 19.209778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5,
+                    "name": "German Reich",
+                    "comment": "Umfasst die Zeit bis 1945. Für die BRD, vgl. dodis.ch/G806. Für die DDR, vgl. dodis.ch/G283.",
+                    "countryCode": "DOD_DR",
+                    "regionCode": null,
+                    "latitude": 51.165690,
+                    "longitude": 10.451526,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1761,
+                    "name": "Israel",
+                    "comment": "",
+                    "countryCode": "IL",
+                    "regionCode": null,
+                    "latitude": 31.046051,
+                    "longitude": 34.851612,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 854,
+                    "name": "Middle East",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 32.100000,
+                    "longitude": 35.600000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "originalReferences": [],
+        "relPersons": {
+            "author": [
+                {
+                    "firstName": "Wilhelm",
+                    "lastName": "Haas",
+                    "fullName": "Haas, Wilhelm (1931\u2013)",
+                    "id": 57437,
+                    "comment": "",
+                    "dateBirth": "18.8.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 25,
+                    "birthPlaceText": "Berlin",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Haas, Wilhelm"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Heimo",
+                    "lastName": "Richter",
+                    "fullName": "Richter, Heimo (1940\u2013)",
+                    "id": 57438,
+                    "comment": "",
+                    "dateBirth": "1940",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Richter, Heimo"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "signatory": [
+                {
+                    "firstName": "Wilhelm",
+                    "lastName": "Haas",
+                    "fullName": "Haas, Wilhelm (1931\u2013)",
+                    "id": 57437,
+                    "comment": "",
+                    "dateBirth": "18.8.1931",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 25,
+                    "birthPlaceText": "Berlin",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Haas, Wilhelm"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ],
+            "mention": [
+                {
+                    "firstName": "Moshe",
+                    "lastName": "Arens",
+                    "fullName": "Arens, Moshe (1925\u20132019)",
+                    "id": 57439,
+                    "comment": "",
+                    "dateBirth": "27.12.1925",
+                    "dateDeath": "7.1.2019",
+                    "wikidataId": "",
+                    "birthPlaceId": 8717,
+                    "birthPlaceText": "Kaunas",
+                    "deathPlaceId": 12078,
+                    "deathPlaceText": "Savyon",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Arens, Moshe",
+                        "Arens, Mosche"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Adolf",
+                    "lastName": "Hitler",
+                    "fullName": "Hitler, Adolf (1889\u20131945)",
+                    "id": 535,
+                    "comment": "",
+                    "dateBirth": "20.4.1889",
+                    "dateDeath": "30.4.1945",
+                    "wikidataId": "",
+                    "birthPlaceId": 13808,
+                    "birthPlaceText": "Braunau am Inn",
+                    "deathPlaceId": 25,
+                    "deathPlaceText": "Berlin",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Hitler, Adolf"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Roni",
+                    "lastName": "Milo",
+                    "fullName": "Milo, Roni (1949\u2013)",
+                    "id": 57441,
+                    "comment": "",
+                    "dateBirth": "26.11.1949",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Milo, Roni",
+                        "Milikovsky , Ron"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Yitzhak",
+                    "lastName": "Modai",
+                    "fullName": "Modai, Yitzhak (1926\u20131998)",
+                    "id": 53915,
+                    "comment": "",
+                    "dateBirth": "17.1.1926",
+                    "dateDeath": "22.5.1998",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Moda'i, Yitzhak",
+                        "Modai, Yitzhak"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Benjamin",
+                    "lastName": "Netanyahu",
+                    "fullName": "Netanyahu, Benjamin (1949\u2013)",
+                    "id": 57443,
+                    "comment": "",
+                    "dateBirth": "21.10.1949",
+                    "dateDeath": "",
+                    "wikidataId": "",
+                    "birthPlaceId": 1766,
+                    "birthPlaceText": "Tel-Aviv",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Netanyahu, Benjamin",
+                        "Netanyahu, Binyamin ",
+                        "Netanyahu, Bibi"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Yitzhak",
+                    "lastName": "Shamir",
+                    "fullName": "Shamir, Yitzhak (1915\u20132012)",
+                    "id": 54271,
+                    "comment": "",
+                    "dateBirth": "22.10.1915",
+                    "dateDeath": "30.6.2012",
+                    "wikidataId": "",
+                    "birthPlaceId": 14539,
+                    "birthPlaceText": "Ruzhany",
+                    "deathPlaceId": 1766,
+                    "deathPlaceText": "Tel-Aviv",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": [
+                        "Shamir, Yitzhak",
+                        "Schamir, Jitzchak",
+                        "שמיר, יצחק",
+                        "Shamir, Itzak",
+                        "Jaziernicki, Jitzchak",
+                        "Шамир, Ицхак",
+                        "Езерницкий, Ицхак"
+                    ],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                },
+                {
+                    "firstName": "Gad",
+                    "lastName": "Yaacobi",
+                    "fullName": "Yaacobi, Gad (1935\u20132007)",
+                    "id": 57442,
+                    "comment": "",
+                    "dateBirth": "18.1.1935",
+                    "dateDeath": "27.8.2007",
+                    "wikidataId": "",
+                    "birthPlaceId": null,
+                    "birthPlaceText": "",
+                    "deathPlaceId": null,
+                    "deathPlaceText": "",
+                    "reducedPublicationUntil": null,
+                    "reducedPublicationUntilText": "",
+                    "gender": "male",
+                    "names": ["Yaacobi, Gad"],
+                    "relatedAttachments": [],
+                    "relatedPlansDeTravail": 0
+                }
+            ]
+        },
+        "relOrganizations": {
+            "address_of_copy": [
+                {
+                    "id": 23013,
+                    "name": "Germany/FRG/Embassy in Washington",
+                    "comment": null,
+                    "placeId": 16,
+                    "placeText": "Washington DC",
+                    "hq": "Washington",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "author": [
+                {
+                    "id": 31390,
+                    "name": "Germany/FRG/Embassy in Tel Aviv",
+                    "comment": "",
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "adressee": [
+                {
+                    "id": 9256,
+                    "name": "Germany/FRG/Federal Foreign Office",
+                    "comment": "1951 gegründet.",
+                    "placeId": 2101,
+                    "placeText": "Bonn",
+                    "hq": "Bonn",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 33795,
+                    "name": "Davar",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33791,
+                    "name": "Haaretz",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 30447,
+                    "name": "Israel/Avoda",
+                    "comment": "",
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 4140,
+                    "name": "Israel/Government",
+                    "comment": null,
+                    "placeId": null,
+                    "placeText": null,
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 31280,
+                    "name": "Israel/Likud",
+                    "comment": "",
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": "",
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 8098,
+                    "name": "Israel/Parliament",
+                    "comment": "URL(518186)",
+                    "placeId": 324,
+                    "placeText": "Jérusalem",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33792,
+                    "name": "Maariv",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33794,
+                    "name": "The Jerusalem Post",
+                    "comment": null,
+                    "placeId": 324,
+                    "placeText": "Jérusalem",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 33793,
+                    "name": "Yedioth Ahronoth",
+                    "comment": null,
+                    "placeId": 1766,
+                    "placeText": "Tel-Aviv",
+                    "hq": null,
+                    "wikidataId": "",
+                    "relatedPlansDeTravail": 0,
+                    "relatedAttachments": []
+                }
+            ]
+        },
+        "relPlaces": {
+            "origin": [
+                {
+                    "id": 1766,
+                    "name": "Tel-Aviv",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 32.085300,
+                    "longitude": 34.781770,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination_of_copy": [
+                {
+                    "id": 16,
+                    "name": "Washington DC",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 38.895000,
+                    "longitude": -77.036667,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "destination": [
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ],
+            "mention": [
+                {
+                    "id": 806,
+                    "name": " Federal Republic of Germany (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DE",
+                    "regionCode": null,
+                    "latitude": 50.600000,
+                    "longitude": 8.060000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 381,
+                    "name": "Auschwitz",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.034397,
+                    "longitude": 19.209778,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 2101,
+                    "name": "Bonn",
+                    "comment": "",
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 50.737430,
+                    "longitude": 7.098207,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 283,
+                    "name": "German Democratic Republic (1949-1990)",
+                    "comment": "",
+                    "countryCode": "DDDE",
+                    "regionCode": null,
+                    "latitude": 52.052000,
+                    "longitude": 12.389000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 5,
+                    "name": "German Reich",
+                    "comment": "Umfasst die Zeit bis 1945. Für die BRD, vgl. dodis.ch/G806. Für die DDR, vgl. dodis.ch/G283.",
+                    "countryCode": "DOD_DR",
+                    "regionCode": null,
+                    "latitude": 51.165690,
+                    "longitude": 10.451526,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 1761,
+                    "name": "Israel",
+                    "comment": "",
+                    "countryCode": "IL",
+                    "regionCode": null,
+                    "latitude": 31.046051,
+                    "longitude": 34.851612,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                },
+                {
+                    "id": 854,
+                    "name": "Middle East",
+                    "comment": null,
+                    "countryCode": null,
+                    "regionCode": null,
+                    "latitude": 32.100000,
+                    "longitude": 35.600000,
+                    "wikidataId": "",
+                    "relatedDocuments": {},
+                    "relatedAttachments": []
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "messageType": "SUCCESS",
+            "title": "Succès",
+            "content": "Les informations ont été sauvegardées avec succès"
+        }
+    ],
+    "error": false
+}

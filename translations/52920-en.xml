@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52920</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52920">dodis.ch/52920</ref>
+               <title type="main">Guidance Telegram<note xml:id="e5523">Guidance Telegram No. 31:
+                        <idno>UK Foreign and Commonwealth Office RS 021/1/90.</idno></note> from the
+                  British Secretary of State for Foreign and Commonwealth Affairs, Douglas Hurd<note
+                     xml:id="e5526">Douglas Hurd (*1930), <ref target="https://dodis.ch/P57401"
+                        >dodis.ch/P57401</ref>, Secretary of State for Foreign and Commonwealth
+                     Affairs, 26.10.1989–5.7.1995.</note>, to British Representatives
+                  Overseas</title>
+               <title type="sub">German Unification</title>
+            </head>
+            <opener>
+               <add>Restricted</add>
+               <dateline>London 23 May 1990, 6 p.m.</dateline>
+            </opener>
+            <p/>
+            <p>
+               <emph>Introduction</emph>
+            </p>
+            <p>1. Unification is moving swiftly. The 2+4 talks on external aspects have begun in
+               earnest.</p>
+            <p/>
+            <p>
+               <emph>Line to Take (Unclassified)</emph>
+            </p>
+            <p>2. – Glad 2+4 process underway. Constructive and conciliatory Ministerial meeting on
+               5 May agreed agenda for future work and pattern of future meetings.</p>
+            <p>– Much to do. Can now see way to completing work on external aspects in harmony with
+               internal unification process.</p>
+            <p/>
+            <p>
+               <emph>Additional Points (Unclassified)</emph>
+            </p>
+            <p>
+               <emph>3. Shevardnadze</emph>
+               <note xml:id="e5559">Eduard Shevardnadze (1928–2014), <ref
+                     target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign
+                  Affairs of the Soviet Union 2.7.1985–26.12.1990.</note>
+               <emph>Proposal to Decouple Internal and External Aspects?</emph>
+            </p>
+            <p>– We agree with Chancellor Kohl<note xml:id="e5567">Helmut Kohl (1930–2017), <ref
+                     target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note>. Would be undesirable (see para 14 below), to
+               decouple internal and external aspects of unification. Aim to complete in the same
+               timeframe. Significant that Soviet Union now accepts that unification will and should
+               proceed.</p>
+            <p/>
+            <p>
+               <emph>4. Will a Unified Germany be in NATO?</emph>
+            </p>
+            <p>– Western countries, including the FRG, believe that a united Germany must be in
+               NATO. So do East European members of the Warsaw Pact. A neutral or non-aligned
+               Germany would not contribute to stability or security in Europe.</p>
+            <p>– Principle I of Helsinki Final Act sets out the right of every country to decide
+               whether or not to be a member of a military alliance.</p>
+            <p>– But no interest in exploiting the situation to the Soviet Union’s disadvantage. Aim
+               is to find a durable solution which takes account of others’ legitimate concerns.</p>
+            <p>– We are considering bilaterally (and in the 2+4) how such concerns can be met.
+               Likely to include special transitional arrangements for territory of former GDR.</p>
+            <p>– Soviet Union must recognise that other developments in Europe (strengthened CSCE,
+               progress on arms control, NATO changing) are helping to meet its legitimate
+               concerns.</p>
+            <p/>
+            <p>
+               <emph>5. Incorporation of GDR in EC?</emph>
+            </p>
+            <p>– Want to see GDR integrated into EC as fully, quickly, smoothly and transparently as
+               possible. Have endorsed Commission’s framework for this process. Look to them and
+               FRG/GDR to keep Council fully in picture.</p>
+            <p>– Basically, see EC <emph>acquis</emph> in all areas applying to ex-GDR territory
+               from unification. But some temporary derogations may be needed where EC standards
+               cannot be met at once (e.g. environment).</p>
+            <p>– Important that measures taken under German economic and monetary union before
+               political union are aligned with EC law.</p>
+            <p/>
+            <p>
+               <emph>6. German Borders (Especially Border with Poland)?</emph>
+            </p>
+            <p>– Clearly important that this issue should be settled definitively.</p>
+            <p>– Welcome agreement among Poland, GDR and FRG that Poland’s western border
+               (Oder-Neisse line) should be enshrined in a treaty. Poland invited to 2 + 4
+               Ministerial in Paris in July, when borders will be on agenda. Poles will also attend
+               the official level meeting which will prepare for this.</p>
+            <p/>
+            <p>
+               <emph>7. Position of Berlin?</emph>
+            </p>
+            <p>– Western protecting powers and Soviet Union will need to discuss with the Germans
+               how the Four Power regime in Berlin might best be wound up. Agreed that this will be
+               on the 2+4 agenda.</p>
+            <p/>
+            <p>
+               <emph>8. Risk of Fourth Reich?</emph>
+            </p>
+            <p>– No. FRG has changed fundamentally since Nazi period. Forty years of well
+               established liberal democracy. A close partner and ally.</p>
+            <p/>
+            <p>
+               <emph>9. Right of Others to Have a Say?</emph>
+            </p>
+            <p>– Internal aspects of unification are primarily a matter for the Germans themselves.
+               We have always supported their right of self-determination on a democratic basis.</p>
+            <p>– Four Powers have rights and responsibilities relating to Berlin and Germany as a
+               whole. But the establishment of the 2+4 framework is not meant to exclude others or
+               intrude upon decisions for other fora. Relevant issues are discussed in e.g. NATO and
+               EC.</p>
+            <p/>
+            <p>
+               <emph>10. Role of CSCE?</emph>
+            </p>
+            <p>– Outcome of 2+4 should be laid before CSCE summit.</p>
+            <p/>
+            <p>
+               <emph>11. Future of Soviet Forces in GDR?</emph>
+            </p>
+            <p>– Yet to be agreed. Primarily a matter between the FRG and Soviet Union but FRG, as
+               NATO member, have indicated their intention to consult closely with allies. But it is
+               envisaged that there might be a transitional period when some Soviet forces remained
+               temporarily in what is now the GDR, after unification. We have no wish to cause
+               instability through sudden change.</p>
+            <p/>
+            <p>
+               <emph>Background (Restricted – may be drawn on with trusted contacts)</emph>
+            </p>
+            <p/>
+            <p>12. The first 2+4 Ministerial took place in Bonn on 5 May, preceded by preparation at
+               Political Director level. Future meetings are planned for East Berlin in June, Paris
+               in July (when the Poles will attend), Moscow in September and then Washington and
+               London. Political Directors also met on 22 May and will meet again on 9 June and,
+               probably, 4 July.</p>
+            <p/>
+            <p>13. The agenda agreed for future talks is:</p>
+            <p>– Borders</p>
+            <p>– Politico-military issues, bearing in mind approaches for suitable security
+               structures in Europe</p>
+            <p>– Berlin</p>
+            <p>– Final settlement under international law and termination of the Four Power rights
+               and responsibilities</p>
+            <p/>
+            <p>14. The main development in Bonn on 5 May was Shevardnadze’s proposal that the
+               internal aspects of unification (which could be settled quickly by the Germans) and
+               the external aspects (which should be subject to a transition period during which 4
+               power rights would be continued) should be de-coupled. The Germans have since firmly
+               rejected this proposal. It would prolong the Soviet locus in German affairs: continue
+               singularisation of Germany by limiting her sovereignty after unity: and create false
+               parallelism between the presence of Allied and Soviet forces in Germany. The issue
+               was not raised at the 2+4 official level meeting on 22 May.</p>
+            <p/>
+            <p>15. The Russians also aim to secure an outcome which restricts the freedom of German
+               action such as limits on the <emph>Bundeswehr</emph>, united Germany not (not) in
+               NATO integrated structure etc.</p>
+            <p/>
+            <p>16. The Ministerial meeting in June is likely to focus on structure of a final
+               settlement including ending of provisional nature of borders, Berlin and termination
+               of Quadripartite Rights and Responsibilities. Politico-military issues are also
+               likely to be aired. But the Western Four are determined that the 2+4 should not (not)
+               take decisions on issues which are the responsibility of other fora, e.g. CSCE, CFE,
+               SNF and NATO. There may be some cross reference to these. But 2+4 should act as no
+               more than a “post-box”.</p>
+            <p/>
+            <p>17. Russian concerns might be met by referring to developments in these other fora
+               and to acts of German self-determination such as over NBC weapons.</p>
+            <p/>
+            <p>18. Internally unification is moving swiftly. The FRG/GDR State Treaty providing for
+               economic, monetary and social union was initialled on 18 May and has passed to the
+               two German parliaments for ratification. Target date for GEMU<note xml:id="e5677"
+                  >German Economic and Monetary Union.</note> itself is 2 July. The signs are that
+               the GDR may move towards state unity with the FRG by the turn of the year with Kohl
+               now going for all-German elections in December or January, dropping the FRG elections
+               scheduled for 2 December.</p>
+            <p/>
+            <p>19. The Western Four are taking care to keep NATO and EC partners fully briefed both
+               multilaterally and individually. The Dutch and Italians have been particularly
+               sensitive.</p>
+            <p/>
+            <p>20. For further background see paragraphs 12–21 of Guidance telno 11 of 28
+                  February<note xml:id="e5688">These paragraphs gave an overview of progress towards
+                  unifaction and the challenges ahead.</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

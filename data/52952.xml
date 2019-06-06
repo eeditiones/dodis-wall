@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52952</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52952">dodis.ch/52952</ref>
+               <title type="main">Telegram<note xml:id="e4431">Telegram No. 205 (copy, translated
+                     from German): <idno>Political Archive of the German Federal Foreign Office
+                        PA/AA B 38 Bd. 140724</idno> Written by Heimo Richter, <ref target="https://dodis.ch/P57438">dodis.ch/P57438</ref>. Delivered by:
+                        <orig>2</orig>
+                     <orig>0 February 1990, 3.13 p.m.</orig> Also published in: <idno>Die Einheit.
+                        Das Auswärtige Amt, das DDR-Außenministerium und der Zwei-plus-Vier-Prozess,
+                        ed. by Horst Möller et. al. on behalf of the Institute for Contemporary
+                        History Munich–Berlin, Göttingen, 2015, doc. 54</idno>. Ref. <idno>Telegram
+                        No. 174, 13.2.1990: Political Archive of the German Federal Foreign Office
+                        PA/AA, B 38, Bd. 140704.</idno>
+                  </note> from the Ambassador of the FRG in Tel Aviv, Wilhelm Haas<note xml:id="e4437">Wilhelm Haas (*1931), <ref target="https://dodis.ch/P57437">dodis.ch/P57437</ref>, Ambassador of the FRG in Tel Aviv
+                     11.10.1985–11.9.1990.</note>, to the Ministry of Foreign Affairs of the
+                  FRG</title>
+               <title type="sub">Visit by Foreign Minister Arens<note xml:id="e4445">Moshe Arens
+                     (1925–2019), <ref target="https://dodis.ch/P57439">dodis.ch/P57439</ref>,
+                     Israeli Foreign Minister 22.12.1988–11.6.1990.</note> to Bonn on 15 February
+                  1990 – Media Coverage of Comments on German Unification</title>
+            </head>
+            <opener>
+               <add>Urgent</add>
+               <dateline>Tel Aviv, 20 February 1990, 1.55 p.m.</dateline>
+            </opener>
+            <p>
+               <title type="doc">I.</title>
+            </p>
+            <p/>
+            <p n="1">1. Comments by Foreign Minister Arens on German unification during his visit to
+               Bonn on 15 February<note xml:id="e4463">According to a press release by the Federal
+                  Foreign Office of the FRG, Arens assured that after 45 years of democracy he had
+                     <orig>full confidence in the Federal Republic of Germany and its democratic
+                     institutions as well as in the advocacy of freedom and human rights expressed
+                     in the Freedom Revolution in the GDR, and thus would have complete trust in a
+                     united Germany. </orig>Translated from German from: <idno>Political Archive of
+                     the German Federal Foreign Office PA/AA, B 7, Bd. 178982</idno>.</note> have
+               been criticised by the Israeli press and particularly vilified in the two
+               best-selling dailies.</p>
+            <p>In an editorial, “Maariv” speaks of “national insanity” and “moral bankruptcy” if the
+               Foreign Minister of the “state of Holocaust survivors” welcomes reunification,
+               expresses his trust in German democracy and so clearly signals his support for “the
+               creation of the prerequisites for a Fourth Reich and a new Hitler<note xml:id="e4468">Adolf Hitler (1889–1945), <ref target="https://dodis.ch/P535">dodis.ch/P535</ref>, Führer of the German Third Reich 1933–1945.</note>”. Today’s
+               edition (Schnitzer<note xml:id="e4474">Samuel Schnitzer (1918–1999), Israeli
+                  journalist and editor of <orig>Maariv</orig> 1980–1985.</note>) reminds readers of
+               Greater Germany’s abuse of power. “Even if we are unable to do anything to prevent
+               reunification, it is our duty …. to warn and remind people how Nazism was able to
+               emerge from a democracy in Germany, which we … can no longer believe after we had to
+               pay with six million lives.”</p>
+            <p>“Yedioth Ahronoth” (Ben-Orat<note xml:id="e4479">Probably Yeshayahu Ben-Porat
+                  (1927–2007), Israeli journalist and political commentator at <orig>Yedioth
+                     Ahronoth</orig>.</note>) asks who gave Arens permission to “now give our
+               blessing to the creation of a Greater Germany” and to throw away “free of charge and
+               with nothing in return the final trump card of our stance on reunification in the
+               game against our European partners”. The paper writes that Israel’s position on the
+               German issue is a matter for the people. Before commenting on this issue, there
+               should have been an in-depth debate not only in the Knesset and with the Israeli
+               public, but also with Germans and all Europeans. “Not a single day passes when they
+               do not spit in our faces, insult us and vilify us”. However, they need Israel for one
+               thing – “as moral legitimisation for German reunification”.</p>
+            <p>The tone is much calmer in other newspapers. “Haaretz” (Schweitzer<note xml:id="e4484">Avraham Schweitzer (1923–1991), Israeli journalist and member of
+                  the editorial board of <orig>Haaretz</orig>.</note>), the third-largest paper,
+               rates the visit as actually “pretty positive”, as it proved that “Israel’s policy on
+               Europe must be based on Germany”. “Germany, particularly its western part, is no
+               longer suspected of being like its fathers and grandfathers in Auschwitz, but
+               nevertheless it has not earned the right to have people loudly proclaim their trust
+               in it.” Today’s comment is even more positive: The Foreign Minister “did well in
+               leaving his interlocutors in Bonn in no doubt that Israel will continue to follow the
+               events in the Federal Republic and the GDR closely in order to see if Germany remains
+               conscious of its historic responsibility and acts accordingly”.</p>
+            <p>The union newspaper “Davar” writes that the Federal Republic “has proven in word and
+               deed its willingness to atone for the sins of the Third Reich”. Neither world Jewry
+               nor Israel can prevent reunification, it says. However, Israel can take action in two
+               areas. Internally, it can put pressure on the German education system to ensure that
+               “the lessons of the Holocaust continue to be taught” in a united Germany. In terms of
+               foreign policy, it can work towards Germany renouncing nuclear weapons, supporting
+               peace efforts in the Middle East and providing generous support to reconstruction and
+               development projects in the region.</p>
+            <p>“Al HaMishmar” (Mapam<note xml:id="e4491">Political party publishing the <orig>Al
+                     Hamishmar</orig> newspaper.</note>) describes the unavoidable reunification” as
+               “unbearable from a Jewish point of view” because it will boost Germans’ pride,
+               influence and self-confidence, “the characteristics that led to mistakes and sins in
+               the past”. It writes that the Federal Republic has done a great deal to atone for the
+               sins. Given the terrible extent of the Holocaust, however, the debts can never be
+               entirely paid off.</p>
+            <p>The “Jerusalem Post” comments today that the attacks on Arens can only be understood
+               as emotional reactions. The Foreign Minister did not give his blessing to German
+               reunification. He merely expressed the hope that a united Germany would uphold
+               democracy and remain aware of its duty to the Jewish people. Weak democracies,
+               including the Weimar Republic, fell prey to totalitarianism. “Israel’s role here is
+               clear. It must use its moral power to ensure that Germany remains democratic, liberal
+               and vigilant against signs of totalitarianism. … As a state, Israel must endeavour to
+               make this nation its ally and friend.”</p>
+            <p>2. According to newspaper reports, some cabinet members (Likud Environment Minister
+                  Milo<note xml:id="e4498">Roni Milo (*1949), <ref target="https://dodis.ch/P57441">dodis.ch/P57441</ref>, Israeli Minister of the Environment 1988–1990.</note>,
+               Likud Minister of Economics and Planning Moda’i<note xml:id="e4504">Yitzhak Moda’i
+                  (1926–1998), <ref target="https://dodis.ch/P53915">dodis.ch/P53915</ref>, Israeli
+                  Minister of Economics and Planning 1988–1990.</note> and Labour Minister of
+               Communications Yaacobi<note xml:id="e4510">Gad Yaacobi (1935–2007), <ref target="https://dodis.ch/P57442">dodis.ch/P57442</ref>, Israeli Minister of
+                  Communications 1987–1990.</note>) have distanced themselves from Arens and are
+               calling for a debate on German unification. After Arens and his deputy Netanyahu<note xml:id="e4516">Benjamin Netanyahu (*1949), <ref target="https://dodis.ch/P57443">dodis.ch/P57443</ref>, Israeli Deputy Minister of Foreign Affairs
+                  1988–1991.</note> return, this debate is scheduled to take place in the Knesset at
+               the start of next week. Moda’i explained his stance to me yesterday by saying that
+               there had been absolutely no need for comments, as the course of events could not be
+               changed and there was no cabinet decision and thus no government view.</p>
+            <p>3. Over the weekend, a visibly stricken Arens tried on television and in newspaper
+               interviews to clarify the comments attributed to him. In “Maariv”, he pointed out
+               that most of his family had perished in the Holocaust and that he would “never visit
+               Germany as a tourist”. However, the Federal Republic was now a large power with
+               democratic institutions in which he had utter trust. “Naturally, one cannot free
+               oneself from the terrible memories, … but as Foreign Minister I ask if that means we
+               should break off relations with Germany”.</p>
+            <p/>
+            <p> II.</p>
+            <p/>
+            <p n="1">After weeks of increasingly rational reporting and discussion in Israel on
+               German unification, the pendulum has now swung sharply towards the emotions that the
+               Holocaust has indelibly branded in the hearts of its victims and their descendants.
+               The pendulum hits Arens less as Foreign Minister than as the main candidate so far to
+               succeed Shamir<note xml:id="e4532">Yitzhak Schamir (1915–2012), <ref target="https://dodis.ch/P54271">dodis.ch/P54271</ref>, Prime Minister of
+                  Israel 20.10.1986–13.7.1992.</note>, an effect that is certainly not unwelcome to
+               many in view of the long-standing dispute on who will take over as leader of Likud.
+               The misunderstanding that the Israeli Foreign Minister has given a moral seal of
+               approval to German unification was partly caused by over-interpretations by the
+               German press and the fact that he made these comments in Bonn. The same statements in
+               Israel (see reference telegram) (initially) had no adverse impact on Arens.</p>
+            <p>We can hope that the debate which has now been sparked will not lead the Knesset and
+               Government to adopt a negative stance on German unification, but will instead return
+               to and thus strengthen the more moderate path of recent weeks, that is, not to forget
+               the past, which also involves a loss of trust in the legacy of Weimar democracy, and
+               not to give a moral seal of approval to a united Germany, but – despite all emotional
+               resistance and fear – to hope for and foster a continuation of the democratic path
+               and of the Federal Republic’s policy that is aware of the past.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

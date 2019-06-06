@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>dodis.ch/52942</title>
+            <author>
+               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+                  Dodis</orgName>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
+               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
+               Dodis</publisher>
+            <date when="2019-01-01">2019</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cf. note 1</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
+            </p>
+         </projectDesc>
+         <editorialDecl>
+            <p/>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52942">dodis.ch/52942</ref>
+               <title type="main">Telegram<note xml:id="e341">Coded telegram (incoming, translated
+                     from Hebrew): <idno>Israel State Archives MFA9537/11</idno>. Delivered by:
+                        <orig>28 October 1989.</orig> Addressed to Europe divisions 1 and 3.</note>
+                  from the Israeli Ambassador in Bonn, Benjamin Navon<note xml:id="e344">Benjamin
+                     Navon (*1933), <ref target="https://dodis.ch/P57507">dodis.ch/P57507</ref>,
+                     Israeli Ambassador in Bonn, 1989–1993.</note>, to the Israeli Foreign
+                  Ministry</title>
+            </head>
+            <opener>
+               <add>Secret/Usual <add type="edition">[priority]</add>
+               </add>
+               <dateline>Bonn, 27 October 1989</dateline>
+            </opener>
+            <p n="1">Today I had a long talk with Wolfgang Mischnick<note xml:id="e359">Wolfgang
+                  Mischnick (1921–2002), <ref target="https://dodis.ch/P57508">dodis.ch/P57508</ref>, Chairman of the FDP faction in the Bundestag of the FRG
+                  1968–1991.</note>, the chairman of the FDP faction. Mischnick returned 48 hours
+               ago from a visit to East Berlin and was in fact the first Western politician to meet
+               with Egon Krenz<note xml:id="e365">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>, General Secretary of
+                  the SED 18.10.1989–3.12.1989 and Chairman of the GDR State Council
+                  18.10.1989–6.12.1989.</note> and the East German leadership.</p>
+            <p>In interviews with the media he spoke of his optimistic impressions with regard to
+               expected developments in East Germany.</p>
+            <p>When talking to me, he admitted that he had taken this line not so much because he
+               believes it is actually correct, but because he tends to believe that in this case
+               impressions and public reports about them can influence the process. His impression
+               is that there is indeed an atmosphere of change and a strong expectation <add type="edition">[of it]</add> among the public, but in private he would not dare to
+               predict that this atmosphere of change will become reality.</p>
+            <p>He mentioned that Krenz and Gorbachev<note xml:id="e380">Mikhail Gorbachev (*1931),
+                     <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary
+                  of the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman of the
+                  Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the Soviet
+                  Union 15.3.1990–25.12.1991.</note> had studied at around the same time at the
+               senior Party college in Moscow, and it is not impossible that this will influence
+               Krenz. He emphasized repeatedly that in the USSR change is coming from the top down,
+               whereas in East Germany it is coming from below. It is being adopted – even if only
+               partially – by the local functionaries who are trying to pass it up the line, but it
+               is not certain to what extent this will go through. In his opinion a process like
+               that taking place in Hungary or Poland is not to be expected, due to the significant
+               difference caused by the German aspect.</p>
+            <p>First, <add type="edition">[concerning]</add> the justification for the existence of
+               a second German state if it is not socialist and second – the question of a possible
+               reunification.</p>
+            <p>I told him about the Israeli-Jewiss dilemma with regard to East Germany, especially
+               that country’s unwillingness to relate to its past. I also described the traditional
+               hostility of East Germany towards Israel and its unsuccessful efforts to gain support
+               in the U.S. by displaying a seemingly positive attitude to the restoration of a
+               cemetery and a synagogue and the employment of a rabbi for the tiny Jewish community
+               in East Berlin. He told me that at the end of January 1990 he would visit East
+               Germany at the head of an FDP party delegation and we agreed that we would discuss
+               the latter subject before he leaves.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

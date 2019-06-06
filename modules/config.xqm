@@ -251,6 +251,8 @@ declare variable $config:app-root :=
 ;
 
 declare variable $config:data-root :=$config:app-root || "/data";
+declare variable $config:translations-root :=$config:app-root || "/translations";
+
 
 declare variable $config:data-exclude := "taxonomy.xml";
 

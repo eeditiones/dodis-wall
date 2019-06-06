@@ -161,6 +161,9 @@ margin-top: 10px;
                 </elementSpec>
                 
                 <elementSpec ident="note" mode="change">
+                                    <model output="web" predicate="$parameters?header='short'" behaviour="omit"/>
+
+
                     <model output="web" predicate="@type=&#34;merged&#34;" behaviour="section" cssClass="tei-note-merged"/>
                     <model behaviour="note" cssClass="tei-note">
             <param name="label" value="@n"/>
@@ -365,6 +368,31 @@ color: red;
                 </elementSpec>
             <elementSpec ident="div" mode="change">
                     <model behaviour="block" cssClass="tei-div"/>
+                </elementSpec>
+                
+                    <elementSpec ident="titleStmt" mode="change">
+                    <model output="latex" behaviour="meta">
+            <param name="content" value="."/>
+        </model>
+                    <model output="fo" behaviour="heading"/>
+                    <model predicate="$parameters?mode='title'" behaviour="heading">
+            <param name="content" value="title[not(@type)]"/>
+            <param name="level" value="5"/>
+        </model>
+                    <modelSequence output="web" predicate="$parameters?header='short'">
+            <model behaviour="link">
+                <param name="content" value="root(.)//div[@type='doc']/head/title[@type='sub']"/>
+                <param name="uri" value="$parameters?doc"/>
+            </model>
+           
+            <model behaviour="block">
+                <param name="content" value="title"/>
+            </model>
+            <model behaviour="block">
+                <param name="content" value="author"/>
+            </model>
+        </modelSequence>
+                    <model output="web" behaviour="block"/>
                 </elementSpec>
             </schemaSpec>
             <elementSpec ident="body" mode="change">

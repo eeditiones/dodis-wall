@@ -6,6 +6,7 @@
 module namespace mapping="http://www.tei-c.org/tei-simple/components/map";
 
 import module namespace nav="http://www.tei-c.org/tei-simple/navigation/tei" at "navigation-tei.xql";
+import module namespace config="http://www.tei-c.org/tei-simple/config" at "config.xqm";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
@@ -18,6 +19,13 @@ declare function mapping:vg-translation($root as element()) {
     let $node := root($root)/id($id)
     return
         $node
+};
+
+declare function mapping:dodis-translation($root as element()) {
+(:    let $id := ``[pb-trans-`{$root/@f}`-`{$root/@n}`]``:)
+    let $file := substring-before(util:document-name($root), '.xml')
+    return
+        doc($config:translations-root || '/' || $file || '-en.xml')//tei:text
 };
 
 declare function mapping:cortez-translation($root as element()) {

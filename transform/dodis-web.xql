@@ -126,10 +126,13 @@ declare function model:apply($config as map(*), $input as node()*) {
                     case element(code) return
                         html:inline($config, ., ("tei-code"), .)
                     case element(note) return
-                        if (@type="merged") then
-                            html:section($config, ., ("tei-note1", "tei-note-merged"), .)
+                        if ($parameters?header='short') then
+                            html:omit($config, ., ("tei-note1"), .)
                         else
-                            html:note($config, ., ("tei-note2", "tei-note"), ., (), @n)
+                            if (@type="merged") then
+                                html:section($config, ., ("tei-note2", "tei-note-merged"), .)
+                            else
+                                html:note($config, ., ("tei-note3", "tei-note"), ., (), @n)
                     case element(dateline) return
                         html:block($config, ., ("tei-dateline", "tei-dateline"), .)
                     case element(back) return
@@ -418,8 +421,8 @@ declare function model:apply($config as map(*), $input as node()*) {
                         else
                             if ($parameters?header='short') then
                                 (
-                                    html:link($config, ., ("tei-titleStmt4"), title[1], $parameters?doc, (), map {}),
-                                    html:block($config, ., ("tei-titleStmt5"), subsequence(title, 2)),
+                                    html:link($config, ., ("tei-titleStmt4"), root(.)//div[@type='doc']/head/title[@type='sub'], $parameters?doc, (), map {}),
+                                    html:block($config, ., ("tei-titleStmt5"), title),
                                     html:block($config, ., ("tei-titleStmt6"), author)
                                 )
 

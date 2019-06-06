@@ -91,9 +91,7 @@
                 }
 
                 .breadcrumbs {
-                    display: flex;
-                    justify-content: space-between;
-                    align-self: center;
+                    text-align: right;
                 }
             </style>
         </custom-style>
@@ -111,11 +109,6 @@
                     </app-header>
 
                     <section class="breadcrumbs">
-                        <div>
-                            <pb-view id="title-view1" src="document1" xpath="//teiHeader" view="single">
-                                <pb-param name="header" value="letter"/>
-                            </pb-view>
-                        </div>
                         <pb-grid-action action="add" class="grid-add" grid="#grid">
                             <paper-button>
                                 <iron-icon icon="icons:view-carousel"/> Add</paper-button>
@@ -140,11 +133,9 @@
                                     </template>
                                 </pb-panel>
                             </template>
-                            <!-- Metadata and transcription are always shown -->
-                            <!--pb-view src="document1" xpath="//teiHeader" view="single" class="metadata" subscribe="transcription" emit="transcription">
-                                <pb-param name="view" value="metadata"/>
-                            </pb-view-->
-                            <!-- For the transcription, users can choose between diplomatic and normalized view -->
+                            <pb-view src="document1" view="single" class="metadata" subscribe="transcription">
+                                <pb-param name="view" value="header"/>
+                            </pb-view>
                             <pb-view src="document1" class=".transcription" subscribe="transcription" emit="transcription">
                             </pb-view>
                         </pb-grid>

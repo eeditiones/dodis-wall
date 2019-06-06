@@ -15,8 +15,9 @@ declare function pmf:init($config as map(*), $node as node()*) {
 };
 
 declare function pmf:facsimile-links($config as map(*), $node as node(), $class as xs:string+) {
-    let $pages := $config?metadata?data?pagesCount
-    for $page in 1 to xs:integer($pages)
+    let $pages := xs:integer($config?metadata?data?pagesCount)
+    for $page in 0 to $pages - 1
+    let $pagePart := if ($pages > 1) then "-" || $page else ()
     return
-        <pb-facs-link facs="{$config?metadata?data?id}.pdf"></pb-facs-link>
+        <pb-facs-link facs="{$config?metadata?data?id}{$pagePart}.png"></pb-facs-link>
 };

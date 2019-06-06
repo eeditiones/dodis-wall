@@ -10,8 +10,9 @@ declare function pmf:init($config as map(*), $node as node()*) {
     let $id := substring-before(util:document-name($node), ".xml")
     let $metadata := util:binary-doc($config:app-root || "/metadata/" || $id || ".json")
     let $json := parse-json(util:binary-to-string($metadata))
+    let $metadataXML := pmf:process-metadata($json)
     return
-        map:merge(($config, map { "metadata": $json }))
+        map:merge(($config, map { "metadata": $json, "metadataXML": $metadataXML }))
 };
 
 declare function pmf:facsimile-links($config as map(*), $node as node(), $class as xs:string+) {
@@ -20,4 +21,20 @@ declare function pmf:facsimile-links($config as map(*), $node as node(), $class 
     let $pagePart := if ($pages > 1) then "-" || $page else ()
     return
         <pb-facs-link facs="{$config?metadata?data?id}{$pagePart}.png"></pb-facs-link>
+};
+
+declare function pmf:process-metadata($json as map(*)) {
+    <div xmlns="http://www.tei-c.org/ns/1.0">
+        <head>{$json?data?title}</head>
+        <p rend="description">{ $json?data?summary }</p>
+        <listPlace>
+        {
+            for $place in ($json?data?relatedPlaces?origin?*, $json?data?relatedPlaces?mention?*)
+            return
+                <place>
+                    <placeName>{$place?name}</placeName>
+                </place>
+        }
+        </listPlace>
+    </div>
 };

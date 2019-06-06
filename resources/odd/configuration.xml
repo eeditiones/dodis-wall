@@ -22,6 +22,6 @@
         <module uri="http://www.tei-c.org/tei-simple/xquery/ext-html" prefix="ext-html" at="xmldb:exist:///db/apps/tei-publisher/modules/ext-html.xql"/>
     </output-->
     <output odd="dodis">
-        <module uri="http://www.existsolutions.com/modules/dodis" prefix="ext-dodis" at="../ext-dodis.xql"/>
+        <module uri="http://www.existsolutions.com/modules/dodis" prefix="ext-dodis" at="xmldb:exist.///db/apps/dodis-facets/modules/ext-dodis.xql"/>
     </output>
 </modules>

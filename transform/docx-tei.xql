@@ -178,11 +178,11 @@ declare function model:apply($config as map(*), $input as node()*) {
                                                 let $content := 
                             model:template-cp_coreProperties($config, ., $params)
                         return
-                                                tei:metadata(map:merge(($config, map:entry("template", true()))), ., ("tei-cp:coreProperties"), $content)
+                                                tei:metadata(map:merge(($config, map:entry("template", true()))), ., ("tei-cp_coreProperties"), $content)
                     case element(dc:title) return
-                        tei:inline($config, ., ("tei-dc:title"), ., map {})
+                        tei:inline($config, ., ("tei-dc_title"), ., map {})
                     case element(dc:creator) return
-                        tei:inline($config, ., ("tei-dc:creator"), ., map {"tei_element": 'author'})
+                        tei:inline($config, ., ("tei-dc_creator"), ., map {"tei_element": 'author'})
                     case element(tbl) return
                         tei:table($config, ., ("tei-tbl"), tr)
                     case element(tr) return
@@ -192,13 +192,13 @@ declare function model:apply($config as map(*), $input as node()*) {
                     case element(t) return
                         tei:text($config, ., ("tei-t"), .)
                     case element(pic:pic) return
-                        tei:graphic($config, ., ("tei-pic:pic"), ., let $id := .//a:blip/@r:embed  let $mediaColl := $parameters?filename || ".media/"  let $target := $parameters?rels/rel:Relationship[@Id=$id]/@Target return  $mediaColl || substring-after($target, "media/"), (), (), (), ())
+                        tei:graphic($config, ., ("tei-pic_pic"), ., let $id := .//a:blip/@r:embed  let $mediaColl := $parameters?filename || ".media/"  let $target := $parameters?rels/rel:Relationship[@Id=$id]/@Target return  $mediaColl || substring-after($target, "media/"), (), (), (), ())
                     case element(smartTag) return
                         tei:inline($config, ., ("tei-smartTag"), ., map {})
                     case element(pict) return
                         tei:inline($config, ., ("tei-pict"), .//v:imagedata, map {})
                     case element(v:imagedata) return
-                        tei:graphic($config, ., ("tei-v:imagedata"), ., let $id := @r:id let $mediaColl := $parameters?filename || ".media/"  let $relationship := $parameters?rels/rel:Relationship[@Id=$id] let $target := $relationship/@Target return  if ($relationship/@TargetMode = "External") then      $target     else   $mediaColl || substring-after($target, "media/"), (), (), (), ())
+                        tei:graphic($config, ., ("tei-v_imagedata"), ., let $id := @r:id let $mediaColl := $parameters?filename || ".media/"  let $relationship := $parameters?rels/rel:Relationship[@Id=$id] let $target := $relationship/@Target return  if ($relationship/@TargetMode = "External") then      $target     else   $mediaColl || substring-after($target, "media/"), (), (), (), ())
                     case element() return
                         tei:omit($config, ., ("tei--element"), .)
                     case text() | xs:anyAtomicType return

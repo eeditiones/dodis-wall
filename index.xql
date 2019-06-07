@@ -25,7 +25,8 @@ declare variable $idx:app-root :=
  :)
 declare function idx:get-metadata($root as element(), $field as xs:string) {
     let $header := $root/tei:teiHeader
-    let $json-doc-path := "/db/apps/dodis-facets/metadata/" || util:document-name($root) => substring-before(".xml") || ".json"
+    let $json-doc-path := "/db/apps/dodis-facets/metadata/" || util:document-name($root) => replace("^(\d+).+$", "$1.json")
+    let $json-doc :=  try { json-doc($json-doc-path) } catch * { () }
     let $fallback-values := 
         map { "data":
             map { 
@@ -34,7 +35,6 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                 "relatedPersons": ()
             } 
         }
-    let $json-doc := try { json-doc($json-doc-path) } catch * { $fallback-values }
     return
         switch ($field)
             case "title" return
@@ -49,13 +49,13 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
             )
             case "language" return
                 head((
-                    $json-doc?data?langCode,
+                    if (exists($json-doc)) then $json-doc?data?language else (),
                     $header//tei:langUsage/tei:language/@ident,
                     $root/@xml:lang,
                     $header/@xml:lang
                 ))
             case "date" return head((
-                $json-doc?data?documentDate,
+                if (exists($json-doc)) then $json-doc?data?documentDate else (),
                 $header//tei:correspDesc/tei:correspAction/tei:date/@when,
                 $header//tei:sourceDesc/(tei:bibl|tei:biblFull)/tei:publicationStmt/tei:date,
                 $header//tei:sourceDesc/(tei:bibl|tei:biblFull)/tei:date/@when,
@@ -67,22 +67,31 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                 $root/dbk:info/dbk:keywordset[@vocab="#genre"]/dbk:keyword
             )
             case "persons-mentioned" return (
-                if (map:contains($json-doc?data, "relatedPersons")) then 
-                    $json-doc?data?relatedPersons?mention?*?fullName
-                else
-                    "[none]"
+                if (exists($json-doc)) then 
+                    if (map:contains($json-doc?data, "relatedPersons")) then 
+                        $json-doc?data?relatedPersons?mention?*?fullName
+                    else
+                        "[none]"
+                else 
+                    ()
             )
             case "places-mentioned" return (
-                if (map:contains($json-doc?data, "relatedPlaces")) then 
-                    $json-doc?data?relatedPlaces?mention?*?name
+                if (exists($json-doc)) then 
+                    if (map:contains($json-doc?data, "relatedPlaces")) then 
+                        $json-doc?data?relatedPlaces?mention?*?name
+                    else
+                        "[none]"
                 else
-                    "[none]"
+                    ()
             )
             case "organizations-mentioned" return (
-                if (map:contains($json-doc?data, "relatedOrganizations")) then 
-                    $json-doc?data?relatedOrganizations?mention?*?name
+                if (exists($json-doc)) then 
+                    if (map:contains($json-doc?data, "relatedOrganizations")) then 
+                        $json-doc?data?relatedOrganizations?mention?*?name
+                    else
+                        "[none]"
                 else
-                    "[none]"
+                    ()
             )
             default return
                 ()

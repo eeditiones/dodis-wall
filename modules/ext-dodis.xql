@@ -7,7 +7,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 import module namespace config="http://www.tei-c.org/tei-simple/config" at "config.xqm";
 
 declare function pmf:init($config as map(*), $node as node()*) {
-    let $id := substring-before(util:document-name($node), ".xml")
+    let $id := replace(util:document-name($node), "^(\d+).+$", "$1")
     let $metadata := util:binary-doc($config:app-root || "/metadata/" || $id || ".json")
     let $json := parse-json(util:binary-to-string($metadata))
     let $metadataXML := pmf:process-metadata($json)
@@ -23,7 +23,7 @@ declare function pmf:facsimile-links($config as map(*), $node as node(), $class 
         <pb-facs-link facs="{$config?metadata?data?id}{$pagePart}.png"></pb-facs-link>
 };
 
-declare function pmf:process-metadata($json as map(*)) {
+declare function pmf:process-metadata($json as map(*)*) {
     <div xmlns="http://www.tei-c.org/ns/1.0">
         <head>{$json?data?title}</head>
         <p rend="description">{ $json?data?summary }</p>

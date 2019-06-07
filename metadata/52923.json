@@ -23,7 +23,7 @@
             {
                 "id": 98246,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37075,
+                "sort": 0,
+                "attachment": {
+                    "id": 37290,
+                    "attachmentId": 37290,
+                    "date": "",
+                    "fileRef": "dodis-52923-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52923-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\">\n                    <a href=\"http://dodis.ch/52923\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52923<\/a>\n                    <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_3_1_1_2_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_3\">1<\/a><\/span> from the British Ambassador in East Berlin, Nigel\n                            Broomfield<span id=\"fnref_1_3_1_1_2_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_5\">2<\/a><\/span>, to the British Secretary\n                        of State for Foreign and Commonwealth Affairs, Douglas Hurd<span id=\"fnref_1_3_1_1_2_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_7\">3<\/a><\/span><\/span>\n                    <h1 class=\"tei-title4 tei-title-sub\">Future Developments in the GDR<\/h1>\n                <\/h1>\n                    <div class=\"tei-opener tei-opener\">\n                    <span class=\"tei-add2 tei-add-opener\">Confidential, Immediate<\/span>\n                    <div class=\"tei-dateline tei-dateline\">\n                        East Berlin, \n                        <span class=\"alternate tei-date3 tei-date-when\"><span>13 November 1989, 9.10 a.m.<\/span><span class=\"altcontent\">1989-11-13<\/span><\/span>\n                    <\/div>\n                <\/div>\n                    <p class=\"tei-p tei-p\"><\/p>\n                    <p class=\"tei-p tei-p\">1. A new chapter in Germany\u2019s post war history.<\/p>\n                    <p class=\"tei-p tei-p\"><\/p>\n                    <p class=\"tei-p tei-p\">2. It is not for me to comment on the effect on West Berlin and the FRG of the\n                    influx of some three million East Germans over the past four days. But viewed\n                    from East Berlin the last four days mark a decisive change in the political life\n                    of the GDR.<\/p>\n                    <p class=\"tei-p tei-p\">3. Even though 4.2 million visas were issued since 9 November, only 10,144 were\n                    for emigration according to GDR figures. This is an encouraging ratio for the\n                    leadership, and indeed there are reports of people returning. But the situation\n                    remains fluid, the exodus could begin again at any time if the leadership\n                    started to resile on the numerous promises they have given in the last few days\n                    about new policies. The Politburo will have to learn to live under this sword of\n                    Damocles.<\/p>\n                    <p class=\"tei-p tei-p\">4. The breaching of the Berlin Wall, the opening of a new crossing at Potsdamer\n                    Platz, the scene of the 1953 uprising and the heart of old Berlin, by the mayors\n                    of East and West Berlin<span id=\"fnref_1_3_1_1_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_2\">4<\/a><\/span>, are deeply symbolic acts. The millions\n                    who crossed into West Berlin and the FRG since 9 November are fundamental\n                    political facts for the future of this country.<\/p>\n                    <p class=\"tei-p tei-p\">5. The tears and euphoria will die down and no doubt aggravations and resentments\n                    will surface in some areas but first-hand knowledge of the other German state\n                    and of their friendly reception there over this weekend has spread very widely\n                    among the population here and not just as before, among the privileged few with\n                    relatives in the West. This cannot be taken away again without risking an\n                    overwhelming political reaction.<\/p>\n                    <p class=\"tei-p tei-p\">6. Krenz<span id=\"fnref_1_3_1_1_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_11_2\">5<\/a><\/span> may claim as he did on GDR television on 11\n                    November after talking to Kohl<span id=\"fnref_1_3_1_1_11_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_11_4\">6<\/a><\/span> and agreeing to meet \u201csoon\u201d, that what had\n                    happened were sovereign decisions by the GDR and that for him reunification was\n                    not on the agenda. But power has passed in substantial measure to the people and\n                    it is they who from now on will increasingly decide the future of this country.\n                    How they will decide is not yet clear.<\/p>\n                    <p class=\"tei-p tei-p\">7. Unless a cataclysm occurs in the Soviet Union and sets back with it the\n                    reforms in Poland and Hungary I cannot see how a rapid process of growing\n                    together of the two German states can be avoided. Krenz may be replaced by\n                        Modrow<span id=\"fnref_1_3_1_1_12_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_12_2\">7<\/a><\/span>, who may succeed for a\n                    time in making the party popular again. There is wide support among the bloc\n                    parties as well as the protest groups for the principles of socialism variously\n                    defined. But the present system of planning the economy based on widespread\n                    public ownership cannot satisfy the peoples, demands sharpened as they will be\n                    by increasing familiarity with West Berlin and the FRG.<\/p>\n                    <p class=\"tei-p tei-p\">8. Whether in a dramatic move to stave off economic collapse in the next few\n                    months or in a more gradual process, the strength of the FRG economy acting on\n                    the structural and systemic weaknesses of the GDR is bound to have a profound\n                    effect. (I think it impossible that the structural alterations to the GDR\u2019s\n                    economy can take place by the time Kohl and Krenz have their first meeting in\n                    November/December. And without these alterations Kohl has said, quite sensibly\n                    in my view, investment from the FRG will not be attracted to the GDR. The threat\n                    of imminent economic collapse looks to be a more likely trigger for West German\n                    assistance than slow structural change.)<\/p>\n                    <p class=\"tei-p tei-p\">9. I do not think it fanciful to see something of the same process happening on\n                    the political front with existing links between parties in East and West\n                    Germany. The CDU (West) has just begun to have contact with the CDU (East). The\n                    same is true for the SPD (West) and the SPD (East, still unofficial) whose\n                    membership of the socialist international the former will support. The FDP\n                    (West) has long had links with the LDPD (East, \u201cliberal\u201d). The SED will derive\n                    little benefit from its close contacts with DKP (West) and the SEW (West\n                    Berlin).<\/p>\n                    <p class=\"tei-p tei-p\">10. There will no doubt be many twists and surprises in the way events actually\n                    work out between the two German states. But from the point of view of our policy\n                    towards the GDR we should take note of underlying realities which the events of\n                    the last few days and weeks have exposed so clearly.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 381 (incoming):\n                                <span class=\"tei-idno tei-idno\">UK National Archives FCO 33/10154<\/span>. Ref.\n                                <span class=\"tei-orig tei-orig\">My Telegram No. 377. <\/span>Repeated for Information Immediate\n                            to the British Embassies in Bonn, Washington, Moscow and Paris, the\n                            British Military Government in Berlin, the UK Delegation to NATO;\n                            Information Routine to Eastern European posts; Information Saving to EC\n                            posts, the UK Representation in Brussels and the British Embassy in\n                            Beijing.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Nigel Broomfield (1937\u20132018), <a href=\"http://dodis.ch/P57477\" class=\"tei-ref7 tei-link\">dodis.ch/P57477<\/a>, British\n                            Ambassador in East Berlin, 1988\u20131990.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Douglas Hurd (*1930), <a href=\"http://dodis.ch/P57401\" class=\"tei-ref7 tei-link\">dodis.ch/P57401<\/a>, British Secretary of State for Foreign and\n                            Commonwealth Affairs, 26.10.1989\u20135.7.1995.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Walter Momper (*1945), <a href=\"http://dodis.ch/P57440\" class=\"tei-ref7 tei-link\">dodis.ch/P57440<\/a>, Governing Mayor\n                        of West Berlin 16.2.1989\u201324.1.1991 and Erhard Krack (1931\u20132000), <a href=\"https://dodis.ch/P55386\" class=\"tei-ref7 tei-link\">dodis.ch/P55386<\/a>, Mayor of East\n                        Berlin 11.2.1974\u201315.2.1990.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_11_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Krenz (*1937), <a href=\"http://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of the SED\n                        18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                        18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_11_4\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"http://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>,Chancellor of the\n                        FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_11_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_12_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow (*1928), <a href=\"http://dodis.ch/P54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Chairman of the\n                        GDR Council of Ministers 13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_12_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59404,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36361,
                 "sort": 0,
                 "attachment": {
@@ -184,7 +220,7 @@
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "application/xml",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",

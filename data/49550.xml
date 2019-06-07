@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,24 +19,27 @@
             <div type="doc">
                 <head>
                     <ref target="http://dodis.ch/49550">dodis.ch/49550</ref>
-                    <title type="main">Interne Notiz<note xml:id="e642">Notiz: <idno type="CH-BAR">CH-BAR#E2010A#1999/250#7145*(B.73.0).</idno> Verfasst von D. Woker,
+                    <title type="main">Interne Notiz<note xml:id="e642">Notiz: <idno type="CH-BAR"
+                                >CH-BAR#E2010A#1999/250#7145*(B.73.0).</idno> Verfasst von D. Woker,
                                 <ref target="http://dodis.ch/27996">dodis.ch/P27996</ref>,
-                            unterzeichnet in Wokers Abweseheit von Heidi Ilfrid, <ref target="http://dodis.ch/57668">dodis.ch/P57668</ref>. Kopie an Klaus
+                            unterzeichnet in Wokers Abweseheit von Heidi Ilfrid, <ref
+                                target="http://dodis.ch/57668">dodis.ch/P57668</ref>. Kopie an Klaus
                             Jacobi, Jenno Staehelin, Daniel Woker, René Pascge, die Sektion Mittel-
                             und Osteuropäische Länder, die Direktion für Verwaltungsangelegenheiten
                             und Aussendienst, die Völkerrechtsdirektion sowie das Politisches
                             Sekretariat des Politischen Departements, die schweizerische Botschaft
                             in Berlin sowie an das Bundesamt für Ausländerfragen des Justiz- und
                             Polizeidepartements <orig>(Für Para 3, mit Hinweis auf Ihre Vorlage vom
-                                16.3. «Visumspolitische Standortbestimmung», </orig>
-                            <ref target="http://dodis.ch/53405">dodis.ch/53405</ref>, <orig>unsere
-                                Stellungnahme dazu vom 27.03.</orig>, <ref target="http://dodis.ch/53407">dodis.ch/53407</ref> und <ref target="http://dodis.ch/53410">dodis.ch/53410</ref>, <orig>und das
+                                16.3. «Visumspolitische Standortbestimmung», </orig><ref
+                                target="http://dodis.ch/53405">dodis.ch/53405</ref>, <orig>unsere
+                                Stellungnahme dazu vom 27.03.</orig>, <ref
+                                target="http://dodis.ch/53407">dodis.ch/53407</ref> und <ref
+                                target="http://dodis.ch/53410">dodis.ch/53410</ref>, <orig>und das
                                 Schreiben unserer Botschaft in Berlin vom 07.02. «Visumpflicht
-                                DDR-Schweiz»</orig>, <ref target="http://dodis.ch/53402">dodis.ch/53402</ref>
-                            <orig>, sowie der freundlichen Bitte um Hinweis, wie Sie nun weiter
-                                vorgehen wollen.) </orig>
-                        </note> des Eidgenösssichen Departements für auswärtige
-                        Angelegenheiten</title>
+                                DDR-Schweiz»</orig>, <ref target="http://dodis.ch/53402"
+                                >dodis.ch/53402</ref><orig>, sowie der freundlichen Bitte um
+                                Hinweis, wie Sie nun weiter vorgehen wollen.) </orig></note> des
+                        Eidgenösssichen Departements für auswärtige Angelegenheiten</title>
                     <title type="sub">DDR — Neue Regierung und Politik</title>
                 </head>
                 <opener>
@@ -45,12 +48,14 @@
                         <date when="1990-04-18">18. April 1990</date>
                     </dateline>
                 </opener>
-                <p n="1">Heute Mittwoch, 18.4. sucht mich der Botschafter der DDR (B<add type="edition">[ibow]</add>
-                    <note xml:id="e864">Eckhard Bibow (*1930), <ref target="http://dodis.ch/P54792">dodis.ch/P54792</ref>, Botschafter der DDR in der Schweiz
-                        1986–1990.</note>) auf mit folgendem Anliegen:</p>
+                <p n="1">Heute Mittwoch, 18.4. sucht mich der Botschafter der DDR (B<add
+                        type="edition">[ibow]</add><note xml:id="e864">Eckhard Bibow (*1930), <ref
+                            target="http://dodis.ch/P54792">dodis.ch/P54792</ref>, Botschafter der
+                        DDR in der Schweiz 1986–1990.</note>) auf mit folgendem Anliegen:</p>
                 <p>1. Er übergibt die <emph n="1"> «Gemeinsame Erklärung aller Fraktionen der
                         Volkskammer»</emph> vom 12.4.1990 (Beilage<note xml:id="e874">Gemeinsame
-                        Erklärung aller Fraktion des Volkskammer vom 12. April 1990, <ref target="http://dodis.ch/52353">dodis.ch/52353</ref>.</note>). Bei der
+                        Erklärung aller Fraktion des Volkskammer vom 12. April 1990, <ref
+                            target="http://dodis.ch/52353">dodis.ch/52353</ref>.</note>). Bei der
                     aus den Medien in den Hauptpunkten ja bekannten Erklärung handelt es sich, in
                     den Worten von B <add type="edition">[ibow] </add> , um eine Generalabrechnung
                     mit der bisher von der DDR verleugneten unseligen Vergangenheit der Deutschen,
@@ -68,7 +73,9 @@
                     und schlägt Juli 1990 vor<note xml:id="e888">Der Besuch fand am 11. Oktober 1990
                         statt.</note>.</p>
                 <p>Der Ball liegt nun auf Seiten der DDR, welche mit einem konkreten Datumsvorschlag
-                    aufwarten will, sobald die Person des Gastgebers, des künftigen Nr. 2 im A<add type="edition">[ussenministerium]</add> bekannt ist. Laut B<add type="edition">[ibow] </add> wird der derzeitige interimistische Inhaber,
+                    aufwarten will, sobald die Person des Gastgebers, des künftigen Nr. 2 im A<add
+                        type="edition">[ussenministerium]</add> bekannt ist. Laut B<add
+                        type="edition">[ibow] </add> wird der derzeitige interimistische Inhaber,
                     Fleck, sehr wahrscheinlich abgelöst (Nier<note xml:id="e902">Kurt Nier (*1927),
                             <ref target="http://dodis.ch/P51057">dodis.ch/P51057</ref>,
                         stellvertretender Aussenminister der DDR 1973–1989.</note> wurde bereits vor

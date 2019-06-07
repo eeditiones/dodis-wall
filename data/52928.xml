@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -99,7 +99,8 @@
 					human rights situation, more freedom and democracy in the GDR, more freedom to
 					travel through a "permeable" border). </p>
 				<p> In his previous statements on German-German relations, Foreign Minister Genscher
-						<note xml:id="e780"> Hans-Dietrich Genscher (1927–2016), <ref target="http://dodis.ch/P15414"> dodis.ch/P15414 </ref> ,
+						<note xml:id="e780"> Hans-Dietrich Genscher (1927–2016), <ref
+							target="http://dodis.ch/P15414"> dodis.ch/P15414 </ref> ,
 						Vice-Chancellor and Minster for Foreign Affairs of the FGR 1982–1992.
 					</note> has pointed out in light of recent developments that the FRG also sees
 					the framework for the goal, which was formulated in the Letter on German Unity,
@@ -109,21 +110,26 @@
 					Europe ...”), Genscher wants changes in the German-German relationship to be
 					embedded in a pan-European development. With regard to statements made by West
 					German politicians, in which the existing borders of Poland are questioned,
-					Chancellor Kohl <note xml:id="e790"> Helmut Kohl (1930–2017), <ref target="http://dodis.ch/P32852"> dodis.ch/P32852 </ref> , Chancellor of
+					Chancellor Kohl <note xml:id="e790"> Helmut Kohl (1930–2017), <ref
+							target="http://dodis.ch/P32852"> dodis.ch/P32852 </ref> , Chancellor of
 						the FRG 1982–1998. </note> and Foreign Minister Genscher have since
-					clarified that the FRG makes no territorial claims toward Poland. <title type="doc"> 3) The Attitude of the GDR </title> The government of the GDR
+					clarified that the FRG makes no territorial claims toward Poland. <title
+						type="doc"> 3) The Attitude of the GDR </title> The government of the GDR
 					without change emphasizes - not least in the context of citizenship - the
 					existence and international recognition of two German states. </p>
 				<p> It appears worth noticing that the reform groups have not in any way called the
 					independent existence of the GDR into question so far: the right to
 					reunification is not raised in opposition circles. <title type="doc"> 4) The
-						Attitude of the European States </title> From Gorbachev’s <note xml:id="e834"> Mikhail Gorbachev (*1931), <ref target="http://dodis.ch/P31707"> dodis.ch/P31707 </ref> , General
+						Attitude of the European States </title> From Gorbachev’s <note
+						xml:id="e834"> Mikhail Gorbachev (*1931), <ref
+							target="http://dodis.ch/P31707"> dodis.ch/P31707 </ref> , General
 						Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
 						Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
 						President of the Soviet Union 15.3.1990–25.12.1991. </note> statements (the
 					current European order is not being idealized, but recognition of the post-war
 					reality has so far secured peace on the continent) and Foreign Minister
-					Shevardnadze’s <note xml:id="e847"> Eduard Shevardnadze (1928–2014), <ref target="http://dodis.ch/P54603"> dodis.ch/P54603 </ref> , Minister of
+					Shevardnadze’s <note xml:id="e847"> Eduard Shevardnadze (1928–2014), <ref
+							target="http://dodis.ch/P54603"> dodis.ch/P54603 </ref> , Minister of
 						Foreign Affairs of the Soviet Union 2.7.1985–26.12.1990 </note> statements
 					(rejection of revanchist forces that tried to revise postwar realities in
 					Europe) it is clear that the Moscow leadership still holds on to the “status quo
@@ -136,7 +142,9 @@
 					rethinking in Moscow of the Berlin question or even the Germany question has not
 					yet come about. </p>
 				<p> Of the Western European countries only statements by France and Belgium on the
-					German-German question have become known. President Mitterrand <note xml:id="e870"> François Mitterrand (1916–1996), <ref target="http://dodis.ch/P47396"> dodis.ch/P47396 </ref> , President of
+					German-German question have become known. President Mitterrand <note
+						xml:id="e870"> François Mitterrand (1916–1996), <ref
+							target="http://dodis.ch/P47396"> dodis.ch/P47396 </ref> , President of
 						France 1981–1995. </note> noted that the reunification of the two German
 					states is a legitimate concern of the German people, but that this issue also
 					concerns the four victorious powers and that European stability must be given

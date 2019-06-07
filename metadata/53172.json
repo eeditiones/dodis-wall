@@ -3,8 +3,8 @@
     "data": {
         "id": 53172,
         "title": "No 775.",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "pl",
+        "language": "Polish",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "1.2.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 98969,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37093,
+                "sort": 0,
+                "attachment": {
+                    "id": 37308,
+                    "attachmentId": 37308,
+                    "date": "",
+                    "fileRef": "dodis-53172-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53172-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53172\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53172<\/a>\n               <span class=\"tei-title5 tei-title-main\">Circular telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Polish Minister of Foreign Affairs, Krzysztof\n                  Skubiszewski<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span><\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Urgent<\/span>\n               <div class=\"tei-dateline tei-dateline\">Warsaw, 1 February 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">With regard to the ongoing discussion about German reunification, please find\n               below the position to be presented during talks:<\/p>\n            <p class=\"tei-p tei-p\">The Polish government set out its position on the unity of the German nation under\n               international law or as a state in the foreign minister\u2019s statement to the Sejm of 7\n               December 1989. The Polish government made it clear that it respects the right of the\n               Germans to self-determination. However, this right can be realized in the framework\n               of European order and stabilization. This order includes the existing borders between\n               the two German states and their neighbours. Both German states can only unite \u2013 in\n               one form or another \u2013 provided that Poland\u2019s western border along the Oder and\n               Lusatian Neisse rivers is maintained. The rapprochement and ultimately fusion of the\n               two German states should proceed gradually even as our continent\u2019s unity is restored\n               and a new security system is built in Europe. This is a complex and multi-stage\n               process. The unity of the German nation cannot be restored with a one-off declaration\n               or act. Changes across German territory must go hand-in-hand with changes in Europe\n               that support building structures that would encompass the whole of Europe. This does\n               not rule out regional institutions made up of certain countries, however. A reunited\n               German state will have its place in a thoroughly reformed and united Europe.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 775 (copy,\n                  translated from Polish): <span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign\n                     Affairs AMSZ, ZD 33/92<\/span>. Delivered to the Cryptography Section:\n                  <span class=\"tei-orig tei-orig\">1 February 1990, 2.30 p.m.<\/span> Addressed to the heads of post in\n                  Moscow, Berlin A., Prague, Budapest, Sofia, Bucharest, Belgrade, II Paris, I\n                  London, I Rome, I Berlin \u2013 I Mission, Cologne, I The Hague, II Madrid, I\n                  Lisbon, I Vienna, I Bern, II Athens, II Stockholm, I Copenhagen, II Helsinki, I\n                  Oslo, I Washington, IV Ottawa, IV Mexico City, IV Buenos Aires, Brasilia, New\n                  Delhi, Beijing, Tokyo, Canberra, New York \u2013 Mission, IV Geneva \u2013 Mission\n                  II.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Krzysztof Skubiszewski (1926\u20132010), <a href=\"https://dodis.ch/P57377\" class=\"tei-ref7 tei-link\">dodis.ch/P57377<\/a>, Polish Minister of\n                     Foreign Affairs 12.9.1989\u201326.10.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59741,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36335,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59741,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37017,
-                "sort": 0,
-                "attachment": {
-                    "id": 36325,
-                    "attachmentId": 36325,
-                    "date": "",
-                    "fileRef": "dodis-53172.xml",
-                    "fileRefThumbnail": "thumb_dodis-53172.xml.jpg",
-                    "roundedNumber": 53000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59741,
                 "volume": null,
                 "tab": false,

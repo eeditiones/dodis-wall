@@ -3,8 +3,8 @@
     "data": {
         "id": 52963,
         "title": "Situation in GDR",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "nl",
+        "language": "Dutch",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "9.8.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 98291,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37073,
+                "sort": 0,
+                "attachment": {
+                    "id": 37289,
+                    "attachmentId": 37289,
+                    "date": "",
+                    "fileRef": "dodis-52963-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52963-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52963\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52963<\/a>\n               <h1 class=\"tei-title4 tei-title-sub\">Telegram<span id=\"fnref_1_3_1_1_2_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_3\">1<\/a><\/span>\n                  from the Dutch Ambassador in Bonn, Jan van der Tas<span id=\"fnref_1_3_1_1_2_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_5\">2<\/a><\/span>, to the Dutch Minister of Foreign\n                  Affairs, Hans van den Broek<span id=\"fnref_1_3_1_1_2_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_7\">3<\/a><\/span><\/h1>\n               <h1 class=\"tei-title4 tei-title-sub\">Situation in GDR<\/h1>\n            <\/h1>\n                    <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Confidential<\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 9 August 1990<\/div>\n            <\/div>\n                    <p class=\"tei-p tei-p\">The first economic counsellor<span id=\"fnref_1_3_1_1_4_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_4_2\">4<\/a><\/span> had a conversation with\n               Ministerialdirektor Dr. Becker<span id=\"fnref_1_3_1_1_4_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_4_4\">5<\/a><\/span>, Director General\n               for Industry at the Federal Ministry of Economic Affairs and also leader of the\n               Leitungsstab Deutschland, in which all economic aspects of the German reunification\n               were coordinated.<\/p>\n                    <p class=\"tei-p tei-p\">Dr. Becker acknowledged that industry in the GDR is in big trouble, but this was also\n               generally expected. On questions regarding the economic background of the\n               increasingly rapid acceleration of the unification process Dr. Becker replied as\n               follows.<\/p>\n                    <p class=\"tei-p tei-p\">Both the government and the civil service apparatus in the GDR are apparently\n               functioning worse and worse, now that real difficulties arise. The government started\n               with enthusiasm at the time, but is showing less and less effectiveness. The\n               ministers do not do much other than catalogue what kind of money they all need. The\n               Minister of Finance does nothing apart from making sums for one thing and another and\n               sending them to Minister Waigel<span id=\"fnref_1_3_1_1_6_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_6_2\">6<\/a><\/span> with requests for more money. The Minister of\n               Finance of the GDR is thus no counterweight to the demands of the other departments.\n               Everything is shifted on to the FRG. The civil service is in fact still the old\n               Honnecker<span id=\"fnref_1_3_1_1_6_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_6_4\">7<\/a><\/span>\n               apparatus. Becker did not want to claim that all officials are ideologically\n               motivated to thwart progress, but at the very least they lack insight into the market\n               economy. Furthermore, they are not used to making decisions, for fear of being held\n               financially responsible for policy actions (sale of land to investors) and finally\n               they are completely uncertain about their position. Becker said that of the 5,500\n               employees at the GDR Ministry of Economic Affairs, only some 400 would be taken on by\n               the Federal Ministry of Economic Affairs. The rest will soon be dismissed, a\n               perspective that is not exactly motivating.<\/p>\n                    <p class=\"tei-p tei-p\">If one arrives at the communal level in the command chain, individual responsibility\n               or initiative is completely absent. Here orders from above are still awaited. Because\n               of this, the government guidelines at work level remain virtually unnoticed, much to\n               the detriment of investment activity from the west. If one adds to this picture the\n               Volkskammer, which time and again passes laws that seriously impede entrepreneurship\n               resp. investment (limitation of the possibilities for workforce reductions etc.),\n               then it becomes clear, says spokesman, that real positive economic development in the\n               GDR awaits political unification. This must be achieved as soon as possible, the\n               sooner the better. This will of course not solve all problems immediately but will\n               enable a start to build up from.<\/p>\n                    <p class=\"tei-p tei-p\">In this context he also considered it of great importance that reunification\n               coincides with elections taking place, so that the new government (hopefully with a\n               solid majority) can intervene effectively. A reunification in September or October,\n               but with elections on 2 December is not very attractive for the Federal Government,\n               according to the speaker, also for reasons other than strictly electoral ones. It\n               will immediately be held accountable for an increasingly poor economic situation but\n               will not really be legitimized for the GDR population and will, moreover, be\n               powerless just before elections, like all democratic governments. The SPD naturally\n               sees tactical advantages in such a constellation.<\/p>\n                    <p class=\"tei-p tei-p\">Counsellor then brought the conversation round to the activities of the\n               Treuhandanstalt<span id=\"fnref_1_3_1_1_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_2\">8<\/a><\/span> and the issue of a threatening \u201cliquidity collapse\u201d.\n               Spokesman admitted that indeed the money appears not to circulate in the GDR. Wages\n               received are spent on imported goods from the west. The companies in the GDR (i.e.\n               those companies that are in the hands of the Treuhand) thus receive no income.\n               Moreover, what they still sell is not or in any case not immediately paid for.\n               Therefore, there must be a new injection of liquidity every month, which the banks\n               will only do if the Treuhand guarantees this. Since in this so-called watering\n               can<span id=\"fnref_1_3_1_1_9_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_4\">9<\/a><\/span> method\n               all companies receive credit, including those that will almost certainly go bankrupt\n               in the coming months, the need for selection becomes increasingly urgent. Dr. Becker\n               emphasized that this is absolutely necessary to quickly rid the companies of the\n               already existing view that one only needs to hold up a hand. Spokesman therefore\n               expected many applications for bankruptcies in the near future from manifestly\n               hopeless cases. On the other hand, the potassium mines etc., for example, which\n               certainly belong to the hopeless category, will be spared for a while because they\n               provide 15,000 jobs in a region where practically no other employment is available.\n               Gradually one must try to get a grip on the flow of sub\u2011 sidies.<\/p>\n                    <p class=\"tei-p tei-p\">The rise in unemployment that is already detectable has not so much to do with\n               company closures, but is primarily the result of reducing the infamous\n               \u201coverstaffing\u201d. Many inspectors and other unproductive forces are now made redundant.\n               All this was foreseen. Spokesman was surprised that this is now causing such astir in\n               the press. Everybody has known for months that if unemployment in the GDR remains\n               below one million at the end of 1990, one can<span id=\"fnref_1_3_1_1_10_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_10_2\">10<\/a><\/span> speak of a development that is better than\n               expected.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 394 (incoming, translated\n                  from Dutch): <span class=\"tei-idno tei-idno\">Netherlands Ministry of Foreign Affairs BuZa 1985-1990, blok\n                     Z-299, <\/span><span class=\"tei-add1 tei-add-edition\"><span class=\"tei-idno tei-idno\">[NA 2.05.392]<\/span><\/span><span class=\"tei-idno tei-idno\">\n                        inv.nr. 4601 <\/span><span class=\"tei-add1 tei-add-edition\"><span class=\"tei-idno tei-idno\">[2129]<\/span><\/span>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Jan von der\n                     Tas (1928\u20132009), <a href=\"https://dodis.ch/P57557\" class=\"tei-ref7 tei-link\">dodis.ch/P57557<\/a>,\n                     Dutch Ambassador in Bonn 1986\u20131993.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Hans van den Broek (*1936), <a href=\"https://dodis.ch/P57462\" class=\"tei-ref7 tei-link\">dodis.ch/P57462<\/a>, Dutch Minister of\n                     Foreign Affairs 4.11.1982\u20133.1.1993.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_4_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Berend van Gorkom (*1942),\n               <a href=\"https://dodis.ch/P57576\" class=\"tei-ref7 tei-link\">dodis.ch/P57576<\/a>, First economic\n               counsellor of the Dutch Embassy in Bonn, 1989\u20131990.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_4_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_4_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Jürgen Becker (*1953), <a href=\"https://dodis.ch/P57577\" class=\"tei-ref7 tei-link\">dodis.ch/P57577<\/a>, Director General for\n                  Industry at the Ministry of Economic Affairs of the FRG.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_4_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_6_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Theo Waigel (*1939), <a href=\"https://dodis.ch/P54838\" class=\"tei-ref7 tei-link\">dodis.ch/P54838<\/a>, Finance Minister of the\n                  FRG 21.4.1989\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_6_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_6_4\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Erich Honecker (1912\u20131994), <a href=\"https://dodis.ch/P46563\" class=\"tei-ref7 tei-link\">dodis.ch/P46563<\/a>, General Secretary of\n                  the SED and chairman of the GDR State Council 29.10.1976\u201318.10.1989.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_6_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_2\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">Trust Agency, established 17 June 1990 by the\n                  GDR authorities to privatize East German enterprises in the process of\n                  reunification.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_4\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Quoted in German: <span class=\"tei-orig tei-orig\">Gießkanne.<\/span><a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_10_2\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Handwritten\n                  note:<span class=\"tei-orig tei-orig\"> \u201ccould have spoken\u201d, because now already 1.2 million\n                     unemployed!<\/span><a class=\"fn-back\" href=\"#fnref_1_3_1_1_10_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59664,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36101,
                 "sort": 0,
                 "attachment": {
@@ -184,7 +220,7 @@
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "application/xml",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59664,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 36996,
-                "sort": 0,
-                "attachment": {
-                    "id": 37246,
-                    "attachmentId": 37246,
-                    "date": "",
-                    "fileRef": "dodis-52963.xml",
-                    "fileRefThumbnail": "thumb_dodis-52963.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59664,
                 "volume": null,
                 "tab": false,

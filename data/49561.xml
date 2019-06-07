@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -21,16 +21,19 @@
                     <ref target="http://dodis.ch/49561">dodis.ch/49561</ref>
                     <title type="main">Politischer Bericht<note xml:id="e864">Politscher Bericht:
                                 <idno type="CH-BAR"> CH-BAR#E2010-02A#1996/400#16* (A.21.31).
-                            </idno>Kopie für Klaus Jacobi,<ref target="http://dodis.ch/P19511">dodis.ch/P19511</ref>, Franz Blankart, <ref target="http://dodis.ch/P22246">dodis.ch/P22246</ref>, und Silvio
+                            </idno>Kopie für Klaus Jacobi,<ref target="http://dodis.ch/P19511"
+                                >dodis.ch/P19511</ref>, Franz Blankart, <ref
+                                target="http://dodis.ch/P22246">dodis.ch/P22246</ref>, und Silvio
                             Arioli, <ref target="http://dodis.ch/P24523">dodis.ch/P24523</ref>.
                             Kopie direkt an die schweizerische Botschaft in Bonn und das
                             schweizerische Generalkonsulat in West-Berlin; ebenfalls publiziert in:
                                 <orig>Die DDR aus Sicht schweizerischer Diplomaten. Politische
                                 Berichte aus Ost-Berlin 1982–1990, hrsg. von Bernd Haunfelder,
-                                Münster 2017, Dok. 93.</orig>
-                        </note> des schweizerischen Botschafters in Ost-Berlin, Franz Birrer<note xml:id="e1129">Franz Birrer (*1933), <ref taget="http://dodis.ch/P16179">dodis.ch/P16179</ref>, schweizerischer Botschafter in Ost-Berlin
-                            1.10.1987–18.12.1990.</note>
-                    </title>
+                                Münster 2017, Dok. 93.</orig></note> des schweizerischen
+                        Botschafters in Ost-Berlin, Franz Birrer<note xml:id="e1129">Franz Birrer
+                            (*1933), <ref target="http://dodis.ch/P16179">dodis.ch/P16179</ref>,
+                            schweizerischer Botschafter in Ost-Berlin
+                        1.10.1987–18.12.1990.</note></title>
                     <title type="sub">Nr. 16. Adieu, DDR!</title>
                 </head>
                 <opener>
@@ -67,7 +70,8 @@
                     Ländern (Polen ausgenommen). Eine gewisse Glasnost war vor allem in der
                     Literatur, in Theater und Cabaret sowie beim Film festzustellen; einzelne Filme,
                     die vor zwanzig und mehr Jahren verboten worden waren – wie z.B. «Die Russen
-                    kommen» von Carow<note xml:id="e1146">Heiner Carow (1929–1997), <ref source="http://dodis.ch/P54831">dodis.ch/P54831</ref>, Filmregisseur in
+                    kommen» von Carow<note xml:id="e1146">Heiner Carow (1929–1997), <ref
+                            source="http://dodis.ch/P54831">dodis.ch/P54831</ref>, Filmregisseur in
                         der DDR.</note> – konnten nun aufgeführt werden. Reisebewilligungen in den
                     Westen stiegen sprunghaft an und erreichten 1988 über 3 Mio Reisen in die BRD,
                     wovon 1,3 Mio Personen unterhalb des Rentenalters. Auch die legalen
@@ -102,17 +106,16 @@
                     Wohnungen verunmöglicht wurden. Der desolate Zustand vieler städtischer und
                     dörflicher Zentren ist ein deutlicher Hinweis auf die Fehler dieser Politik.</p>
                 <p>Stalinistisch waren sodann ein sozusagen flächendeckendes Spitzel- und
-                    Informationssystem der sogenannten <emph>«</emph>
-                    <emph>Staatssicherheit</emph>
-                    <emph>
-                        <emph/>»</emph> und die Gängelung und Gleichschaltung der
-                        <emph>Massenmedien.</emph> Eine Art Glasnost gab es höchstens in der
-                    Fachpresse und in kirchlichen Presseerzeugnissen. Tagespresse, Radio und
-                    Fernsehen blieben dagegen unter strenger Kontrolle. Im November 1988 wurde sogar
-                    die Verbreitung der sowjetischen Zeitschrift «Sputnik» verboten, da dem
-                    SED-Regime einige Beiträge missfielen. Dies alles wirkte reichlich absurd
-                    angesichts der Tatsache, dass sich die Bevölkerung über Vorgänge im In- und
-                    Ausland ohne weiteres via Westradio und -fernsehen informieren konnte.</p>
+                    Informationssystem der sogenannten
+                        <emph>«</emph><emph>Staatssicherheit</emph><emph><emph/>»</emph> und die
+                    Gängelung und Gleichschaltung der <emph>Massenmedien.</emph> Eine Art Glasnost
+                    gab es höchstens in der Fachpresse und in kirchlichen Presseerzeugnissen.
+                    Tagespresse, Radio und Fernsehen blieben dagegen unter strenger Kontrolle. Im
+                    November 1988 wurde sogar die Verbreitung der sowjetischen Zeitschrift «Sputnik»
+                    verboten, da dem SED-Regime einige Beiträge missfielen. Dies alles wirkte
+                    reichlich absurd angesichts der Tatsache, dass sich die Bevölkerung über
+                    Vorgänge im In- und Ausland ohne weiteres via Westradio und -fernsehen
+                    informieren konnte.</p>
                 <p>Man kann die DDR jedoch nicht nur unter dem Aspekt der SED beurteilen. Von allem
                     Anfang an spielte hier die <emph>Sowjetunion</emph> eine entscheidende Rolle.
                     Die DDR war ja gewissermassen ein Zufallsprodukt des Zweiten Weltkriegs und des
@@ -120,18 +123,19 @@
                     Westsektoren Berlins eine Währungsreform durchführten und die Bundesrepublik
                     Deutschland gründeten, schuf die Sowjetunion ihrerseits die DDR und hielt sie
                     lange Zeit an der kurzen Leine. Dies war vorerst auch noch unter
-                        <emph>Gorbatschow</emph>
-                    <note xml:id="e1162">Michail Gorbatschow (*1931), <ref target="http://dodis.ch/P31707">dodis.ch/P31707</ref>, Generalsekretär
-                        der kommunistischen Partei der Sowjetunion 11.3.1985–24.8.1991, Vorsitzender
-                        des obersten Sowjets der Sovjetunion 25.5.1989–15.3.1990 und Staatspräsident
-                        der Sowjetunion 15.3.1990–25.12.1991.</note> der Fall. Als Honecker am 5.
-                    Mai 1985 zum ersten Mal mit dem neuen Kreml-Chef zusammentraf, musste er ein
-                    gemeinsames Communiqué unterzeichnen, das den militärischen Sieg der Sowjetunion
-                    über das Deutsche Reich und die Entstehung der DDR in einen direkten
-                    Zusammenhang brachte, indem erklärt wurde: «In diesem grossen Sieg hat der erste
-                    Staat der Arbeiter und Bauern auf deutschem Boden seine Wurzeln ...» Es war ein
-                    (für die SED-Führung) sehr demütigendes Eingeständnis der Fremdbestimmung der
-                    DDR. Gorbatschow blieb aber auch in seinem im Herbst 1987 erschienenen Buch
+                        <emph>Gorbatschow</emph><note xml:id="e1162">Michail Gorbatschow (*1931),
+                            <ref target="http://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                        Generalsekretär der kommunistischen Partei der Sowjetunion
+                        11.3.1985–24.8.1991, Vorsitzender des obersten Sowjets der Sovjetunion
+                        25.5.1989–15.3.1990 und Staatspräsident der Sowjetunion
+                        15.3.1990–25.12.1991.</note> der Fall. Als Honecker am 5. Mai 1985 zum
+                    ersten Mal mit dem neuen Kreml-Chef zusammentraf, musste er ein gemeinsames
+                    Communiqué unterzeichnen, das den militärischen Sieg der Sowjetunion über das
+                    Deutsche Reich und die Entstehung der DDR in einen direkten Zusammenhang
+                    brachte, indem erklärt wurde: «In diesem grossen Sieg hat der erste Staat der
+                    Arbeiter und Bauern auf deutschem Boden seine Wurzeln ...» Es war ein (für die
+                    SED-Führung) sehr demütigendes Eingeständnis der Fremdbestimmung der DDR.
+                    Gorbatschow blieb aber auch in seinem im Herbst 1987 erschienenen Buch
                     «Perestroijka» noch auf der alten Linie. Deutschland widmete er ein spezielles
                     Kapitel unter dem Titel «Zwei deutsche Staaten» und erklärte, was hier
                     historisch geformt worden sei, müsse der Geschichte überlassen bleiben. Es gebe
@@ -146,7 +150,7 @@
                     fand nie statt. Die <emph>sowjetischen Truppen</emph> in der DDR und die
                     Bevölkerung wurden streng getrennt gehalten. Die über 400'000 Mann starken
                     Truppen blieben Besatzungsmacht und gleichzeitig sichtbarer Garant dafür, dass
-                    die DDR fest in der engeren «sozialistischen Gemeinschaft» eingebunden
+                    die DDR fest in der engeren ��sozialistischen Gemeinschaft» eingebunden
                     blieb.</p>
                 <p>Die <emph>älteren Generationen</emph> der DDR-Bürger schickten sich mit der Zeit
                     ins scheinbar Unvermeidliche und suchten sich anzupassen. Gelegentlich war man
@@ -190,11 +194,11 @@
                 <p>Seither hat sich die Entwicklung mehrfach beschleunigt, wobei die Beschleunigung
                     meist dem Druck des Volkes bzw. dem Druck der Strasse zugeschrieben wurde.
                     Entscheidend aber war in diesem Prozess doch wohl das Agieren von
-                        <emph>Bundeskanzler Kohl</emph>
-                    <note xml:id="e1449">Helmut Kohl (1930-2017), <ref target="http://dodis.ch/P31852">dodis.ch/P31852</ref>, Bundeskanzler der
-                        BRD 1.10.1982–27.10.1998.</note>, der die wichtigsten Pflöcke im Alleingang
-                    setzte und, wie seine Kritiker spitz formulierten, die Deutsche Einheit als
-                    seine Privatsache betrachtete. Erinnert sei an Kohls</p>
+                        <emph>Bundeskanzler Kohl</emph><note xml:id="e1449">Helmut Kohl (1930-2017),
+                            <ref target="http://dodis.ch/P31852">dodis.ch/P31852</ref>,
+                        Bundeskanzler der BRD 1.10.1982–27.10.1998.</note>, der die wichtigsten
+                    Pflöcke im Alleingang setzte und, wie seine Kritiker spitz formulierten, die
+                    Deutsche Einheit als seine Privatsache betrachtete. Erinnert sei an Kohls</p>
                 <p>– Weigerung, die Privilegierung der <emph>Übersiedler</emph> nach Öffnung der
                     Grenze abzuschaffen (das offizielle «Notaufnahmverfahren» und die finanziellen
                     Anreize wurden erst am 1. Juli abgeschafft);</p>
@@ -221,7 +225,8 @@
                     deutschen Einheit. Er glaubte die DDR-Bevölkerung, die in erster Linie nach der
                     DM und nach westlichem Wohlstand strebte, mit seinen Vorschlägen hinter sich zu
                     wissen. Bundespräsident von Weizsäcker<note xml:id="e1465">Richard von
-                        Weizsäcker (1920–2015), <ref target="http://dodis.ch/P5944">dodis.ch/P5944</ref>, Bundespräsident der BRD
+                        Weizsäcker (1920–2015), <ref target="http://dodis.ch/P5944"
+                            >dodis.ch/P5944</ref>, Bundespräsident der BRD
                         1.7.1984–30.6.1994.</note> etwa gab zu bedenken, dass die beiden Teile
                     Deutschlands nicht zusammenwuchern dürften, sondern zusammenwachsen müssten. Und
                     auch Ministerpräsident de Maizière<note xml:id="e1475">Lothar de Maizière
@@ -243,34 +248,30 @@
                     diese als ein «historisch einmaliges Experiment», nähmlich «eine
                     Uno-actu-Transformierung einer über 45 Jahre sozialistisch und vorher 12 Jahre
                     nationalsozialistisch geführten Zentralverwaltungswirtschaft in eine
-                    Marktwirtschaft». Konkret heisst dies:<p>– die zentrale Planung wurde über Nacht
-                        abgeschafft, wodurch vor allem in der Industrie ein grosses Chaos entstand
-                        und viele Betriebe, die unter andern Bedingungen noch sanierungsfähig
-                        gewesen wären, zum Tode verurteilt wurden (bundesdeutsche und andere
-                        Investoren warten daher offenbar zu, bis sie die DDR-Betriebe zum Nulltarif
-                        erhalten können);</p>
-                    <p>– die Preise wurden mit einem Schlag freigegeben (Ausnahmen bis Ende dieses
-                        Jahres: Mietzinsen, einzelne öffentliche Transporttarife und
-                        Energiepreise);</p>
-                    <p>– die innerdeutschen Grenzen wurden nicht nur geöffnet, sondern abgeschafft,
-                        womit die DDR-Wirtschaft über die BRD und die EG der vollen internationalen
-                        Konkurrenz ausgeliefert wurde;</p>
-                    <p>– die Agrarsubventionen bzw. die in der DDR extrem hohen Subventionen zur
-                        Verbilligung der einheimischen Nahrungsmittel (1988: 31,9 Mia M bzw. DM)
-                        wurden über Nacht gestrichen, wodurch die Landwirtschaft zusätzlich, d.h.
-                        nebst dem Wegfall des Schutzes an der Grenze, in enorme Bedrängnis
-                        geriet;</p>
-                    <p>– mit dem Überbordwerfen der zentralen Planung gingen der öffentlichen Hand
-                        die Haupteinnahmequellen, nämlich die Abgaben der Wirtschaft, zum grossen
-                        Teil verloren, ein Steuersystem nach BRD-Muster ist erst im Aufbau
-                        begriffen, und da zudem die Finanz- und Währungshoheit mit der Währungsunion
-                        auf Bonn übergegangen ist und die Bundesregierung auf Einsparungen drängt,
-                        fehlen die gerade jetzt so dringend benötigten öffentlichen Mittel im
-                        Wohnungs- und Strassenbau, bei der Sanierung des Gesundheitswesens, in der
-                        Kultur etc. (hinzu kommt, dass die 15 Bezirke der DDR abgeschafft, die sie
-                        ablösenden fünf Länder aber erst ab 14. Oktober allmählich aufgebaut
-                        werden).</p>
-                </p>
+                    Marktwirtschaft». Konkret heisst dies:</p>
+                <p>– die zentrale Planung wurde über Nacht abgeschafft, wodurch vor allem in der
+                    Industrie ein grosses Chaos entstand und viele Betriebe, die unter andern
+                    Bedingungen noch sanierungsfähig gewesen wären, zum Tode verurteilt wurden
+                    (bundesdeutsche und andere Investoren warten daher offenbar zu, bis sie die
+                    DDR-Betriebe zum Nulltarif erhalten können);</p>
+                <p>– die Preise wurden mit einem Schlag freigegeben (Ausnahmen bis Ende dieses
+                    Jahres: Mietzinsen, einzelne öffentliche Transporttarife und Energiepreise);</p>
+                <p>– die innerdeutschen Grenzen wurden nicht nur geöffnet, sondern abgeschafft,
+                    womit die DDR-Wirtschaft über die BRD und die EG der vollen internationalen
+                    Konkurrenz ausgeliefert wurde;</p>
+                <p>– die Agrarsubventionen bzw. die in der DDR extrem hohen Subventionen zur
+                    Verbilligung der einheimischen Nahrungsmittel (1988: 31,9 Mia M bzw. DM) wurden
+                    über Nacht gestrichen, wodurch die Landwirtschaft zusätzlich, d.h. nebst dem
+                    Wegfall des Schutzes an der Grenze, in enorme Bedrängnis geriet;</p>
+                <p>– mit dem Überbordwerfen der zentralen Planung gingen der öffentlichen Hand die
+                    Haupteinnahmequellen, nämlich die Abgaben der Wirtschaft, zum grossen Teil
+                    verloren, ein Steuersystem nach BRD-Muster ist erst im Aufbau begriffen, und da
+                    zudem die Finanz- und Währungshoheit mit der Währungsunion auf Bonn übergegangen
+                    ist und die Bundesregierung auf Einsparungen drängt, fehlen die gerade jetzt so
+                    dringend benötigten öffentlichen Mittel im Wohnungs- und Strassenbau, bei der
+                    Sanierung des Gesundheitswesens, in der Kultur etc. (hinzu kommt, dass die 15
+                    Bezirke der DDR abgeschafft, die sie ablösenden fünf Länder aber erst ab 14.
+                    Oktober allmählich aufgebaut werden).</p>
                 <p>Die Wirtschaft der bisherigen DDR läuft somit Gefahr, sowohl den internen Markt,
                     als auch den für sie bisher sehr wichtigen Markt der osteuropäischen Länder (70%
                     des Aussenhandelsvolumens) zu verlieren. Dass sie auf westlichen Märkten im
@@ -304,7 +305,8 @@
                     als Investitionsförderung gedacht war, nun zur Stopfung der Finanzlöcher der
                     neuen Bundesländer herhalten muss und von diesen indirekt mitfinanziert wird.
                     Der Hannoveraner Verfassungsrechtler Schneider<note xml:id="e1485">Hans-Peter
-                        Schneider (*1937), <ref target="http://dodis.ch/P54833">dodis.ch/P54833</ref>, Verfassungsrechtler in der BRD.</note> bemerkt
+                        Schneider (*1937), <ref target="http://dodis.ch/P54833"
+                            >dodis.ch/P54833</ref>, Verfassungsrechtler in der BRD.</note> bemerkt
                     hiezu: «Die DDR-Länder werden auf Jahre hinaus im Einheitsfonds gefesselt sein,
                     vom Bund nicht nur finanziell, sondern auch politisch abhängig und
                     bevormundet.</p>
@@ -322,7 +324,8 @@
                     erkennen ist, dass ab morgen westdeutsche Beamte, Richter, Wirtschaftsführer
                     etc. in dieses Land «einmarschieren» und die DDR-Leute verdrängen werden. «Der
                     Preis der Einheit ist eine neue Fremdherrschaft» betitelte der Historiker Jörg
-                        Fisch<note xml:id="e1495">Jörg Fisch (*1947), <ref target="http://dodis.ch/P22386">dodis.ch/P22386</ref>, Schweizer
+                        Fisch<note xml:id="e1495">Jörg Fisch (*1947), <ref
+                            target="http://dodis.ch/P22386">dodis.ch/P22386</ref>, Schweizer
                         Historiker.</note> zurecht seinen sehr lesenswerten Artikel in der Weltwoche
                     vom 20. September 1990.</p>
                 <p>Wird der neue Staat Heimat, ja ein Zuhause für alle Deutschen werden können?

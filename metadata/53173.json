@@ -3,8 +3,8 @@
     "data": {
         "id": 53173,
         "title": "Memorandum Concerning some Problems Associated with the Current Phase of the Process of Germany's Reunification",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "pl",
+        "language": "Polish",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "28.5.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 98970,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -204,23 +204,23 @@
                 "downloadable": true
             },
             {
-                "id": 37007,
+                "id": 37116,
                 "sort": 0,
                 "attachment": {
-                    "id": 37256,
-                    "attachmentId": 37256,
+                    "id": 37331,
+                    "attachmentId": 37331,
                     "date": "",
-                    "fileRef": "dodis-53173.xml",
-                    "fileRefThumbnail": "thumb_dodis-53173.xml.jpg",
+                    "fileRef": "dodis-53173-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53173-en.html.jpg",
                     "roundedNumber": 53000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
                     "numberOfReferences": null,
                     "status": "public",
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "text/html",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",
@@ -230,13 +230,13 @@
                         "numberOfReferences": "numberOfReferences",
                         "fileRef": "filename"
                     },
-                    "attachmentHtmlContent": "Error loading file."
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53173\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53173<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memo<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Polish Military Mission in West\n                  Berlin<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">Memorandum Concerning some Problems Associated with the Current\n                  Phase of the Process of Germany\u2019s Reunification<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">West Berlin, 28 May 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">1. An analysis of the current phase of German-German relations shows that the\n               reunification process is being influenced by:<\/p>\n            <p class=\"tei-p tei-p\">\u2013 election results in Lower Saxony and North Rhine-Westphalia;<\/p>\n            <p class=\"tei-p tei-p\">\u2013 after a monetary and economic union is introduced: expected social and economic\n               problems in the GDR and a scarcity of democratic (and, to a degree, party) structures\n               in the GDR, which supports the argument for the current German government to push\n               through a programme of absorbing the GDR pursuant to Art. 23 of the FRG\n               constitution;<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Mr Kohl<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">2<\/a><\/span> perceiving greater chances of success in early\n               federal elections rather than later ones;<\/p>\n            <p class=\"tei-p tei-p\">and external factors such as:<\/p>\n            <p class=\"tei-p tei-p\">\u2013 no objection from the three western powers against rushing the reunification;<\/p>\n            <p class=\"tei-p tei-p\">\u2013 pessimistic outlook for developments in the Soviet Union (to complete before the\n               possible fall of Gorbachev<span id=\"fnref_1_5_2_2_19_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_19_2\">3<\/a><\/span>). The Soviet Union\u2019s position has been\n               noticeably weakening; Shevardnadze\u2019s<span id=\"fnref_1_5_2_2_19_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_19_4\">4<\/a><\/span> position on\n               future roads to Germany\u2019s unity is considered to be little thought-out and giving\n               Kohl the green light. Taking Germany out of NATO is absolutely ruled out, which is\n               why next steps from the Soviet Union are being anticipated. All actions by the USSR\n               are being widely commented on (pulling out troops from the GDR and halting talks on\n               conventional arms reduction).<\/p>\n            <p class=\"tei-p tei-p\">2. After the initial period of close relations among the four powers, a slightly more\n               cautious approach to reunification issues could be discerned among the western allies\n               (mostly France and the UK). The allies are starting to grow uneasy about the Kohl\n               government\u2019s policy of faits accomplis which partially takes the form of forcing\n               support on the western allies. Nevertheless, the three western allies are not afraid\n               of Germany\u2019s rising importance because of the interconnections within the EEC and\n               NATO, which they consider durable. Opinions are being increasingly often heard about\n               the West\u2019s lack of confidence in the success of M. Gorbachev\u2019s policy of domestic\n               reforms. That is why it is deemed sound to keep up the rapid pace of Germany\u2019s\n               reunification process, while highlighting the fact that we are transitioning from a\n               bipolar system to a new one which will feature Germany in a prominent posi\u2011 tion.<\/p>\n            <p class=\"tei-p tei-p\">In the view of the three powers, the situation in Eastern and Central Europe (the\n               breakup of a political alliance and the economic collapse) has set the actors free\n               from the post-war community of interests with the USSR on the German issue. These\n               superpowers are more interested in the breakup of the next eastern alliance, i.e. the\n               Warsaw Pact, and in Germany\u2019s entering NATO structures than in irritating its German\n               ally. That is also connected with fears of a possible tilt in strategic balance to\n               the east, were Germany to have a neutral state status.<\/p>\n            <p class=\"tei-p tei-p\">Interestingly, in contrast to their governments\u2019 official positions, representatives\n               of the three superpowers in W<span class=\"tei-add1 tei-add-edition\">[est]<\/span> B<span class=\"tei-add1 tei-add-edition\">[erlin]<\/span> do not hide their concerns and doubts about the implications of\n               Germany\u2019s reunification when speaking off the record.<\/p>\n            <p class=\"tei-p tei-p\">3. Given the view of the three western allies as well as the main political and\n               social forces in the FRG, GDR and W<span class=\"tei-add1 tei-add-edition\">[est]<\/span> B<span class=\"tei-add1 tei-add-edition\">[erlin]<\/span> , the Polish diplomatic offensive has led to securing\n               our interests with respect to the border on the Oder and Neisse rivers. Currently,\n               though, the infrastructure of treaty relations and economic cooperation are gaining\n               particular importance. Examples could include actions of the USSR, which was quick to\n               open talks with Bonn in order to protect its economic interests under its existing\n               cooperation agreements with the GDR. Our country might face a number of problems not\n               only stemming from the monetary and economic union between the FRG and GDR, but also\n               the associated creeping disintegration of the GDR economy. Additional difficulties\n               will be involved in the introduction of the EEC internal market in 1992, also\n               covering the GDR.<\/p>\n            <p class=\"tei-p tei-p\">That is why in the \u201c2 + 4\u201d talks and in bilateral talks with the FRG and GDR, the\n               Polish side could deem this element an important component of Europe\u2019s wider security\n               and cooperation system and the foundation of a future European home. On the whole, it\n               is a main direction supported by all the interested parties, including Germany. It\n               could also be a factor in mitigating German economic expansion.<\/p>\n            <p class=\"tei-p tei-p\">It is not clear yet what Germany\u2019s approach to Poland will be like in the future,\n               especially in light of the anticipated polarization of public opinion and attitude\n               towards the Poles. In many respects, Poland features negatively in the German issue\n               (and its negative image has been recently perpetuated \u2014 vide the results of Polish\n               \u201ctourism\u201d to the FRG, GDR, and W<span class=\"tei-add1 tei-add-edition\">[est]<\/span> B<span class=\"tei-add1 tei-add-edition\">[erlin]<\/span> ).<\/p>\n            <p class=\"tei-p tei-p\">The fast-paced reunification process entails specific threats to Poland, e.g. the\n               high number of Polish visits by GDR citizens in order to register their former\n               properties (land, homes) with the intention of seeking damages for them. The voices\n               in the FRG that advocated a compensation adjustment between Germany and Poland have\n               not completely gone silent, either.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">Therefore, it could be concluded that the only right direction is to build\n               pan-European structures based on the CSCE \u2014 with a US and Canadian presence in\n               Europe. It would be appropriate to take advantage of Bonn\u2019s declared aspirations to a\n               European community before new structures of a reunified Germany ultimately\n               consolidate.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memo (translated from Polish):\n                  <span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep. IV\n                     31/92, w. 3.<\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the FRG\n               1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_19_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary of\n                  the Communist Party of the Soviet Union 11.3.1985\u201324.8.1991, Chairman of the\n                  Supreme Soviet of the Soviet Union 25.5.1989\u201315.3.1990 and President of the Soviet\n                  Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_19_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_19_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Eduard Shevardnadze\n                  (1928\u20132014), <a href=\"https://dodis.ch/P54603\" class=\"tei-ref7 tei-link\">dodis.ch/P54603<\/a>, Minister\n                  of Foreign Affairs of the Soviet Union 2.7.1985\u201326.12.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_19_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
                 },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
                 "specimenId": 59742,
                 "volume": null,
-                "tab": false,
+                "tab": true,
                 "downloadable": true
             },
             {

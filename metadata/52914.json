@@ -23,7 +23,7 @@
             {
                 "id": 98228,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37091,
+                "sort": 0,
+                "attachment": {
+                    "id": 37306,
+                    "attachmentId": 37306,
+                    "date": "",
+                    "fileRef": "dodis-52914-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52914-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52914\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52914<\/a>\n               <span class=\"tei-title5 tei-title-main\">Draft letter<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the President of the United States,\n                  George H. W. Bush<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Chancellor of the FRG,\n                  Helmut Kohl<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Secret<\/span>\n               <div class=\"tei-dateline tei-dateline\"><span class=\"tei-add1 tei-add-edition\">[Washington,]<\/span> 9 February 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">Dear Helmut:<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">I know you will be hearing before your talks with Gorbachev<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">4<\/a><\/span>\n               about the details of Jim Baker<span id=\"fnref_1_5_2_2_11_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_4\">5<\/a><\/span>\u2019s discussions with the Soviets on the future\n               of Germany. And we will have an opportunity to sit back and talk at length about some\n               of these issues when you join me at Camp David later this month. But, as you know so\n               well, the pace of events lately has been accelerating, and I wanted to share with\n               you, directly, some of my thoughts about Germany and Europe\u2019s future.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">As you predicted when we last talked on the phone,<span id=\"fnref_1_5_2_2_15_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_15_2\">6<\/a><\/span> the\n               situation in the GDR seems to be deteriorating quickly, forcing the pace of\n               unification. I know this was not your preference. Still, these new developments do\n               not alter the complete readiness of the United States to see the fulfillment of the\n               deepest national aspirations of the German people. If events are moving faster than\n               we expected, it just means that our common goal for all these years of German unity\n               will be realized even sooner than we had hoped.<\/p>\n            <p class=\"tei-p tei-p\">As unification comes ever closer to being a reality, people will be talking more and\n               more about the role and responsibilities of the Four Powers. Let me tell you my\n               attitude toward this question. After the end of the Second World War, going back to\n               the time of the occupation, the main American goal for your nation was to aid in the\n               creation of a new Germany wedded to democratic values, part of what I have called the\n               commonwealth of free nations. Our legal rights in Germany, and in Berlin, were all\n               aimed at protecting this objective and those values.<\/p>\n            <p class=\"tei-p tei-p\">As I see it, no one can doubt the strength and vitality of the Federal Republic\u2019s\n               democratic institutions. So, whatever the formal legal role of the Four Powers may be\n               in recognizing the freely expressed will of the German people, I want you to\n               understand that the United States will do nothing that would lead your countrymen to\n               conclude that we will not respect their choice for their nation\u2019s future. In no event\n               will we allow the Soviet Union to use the Four Power mechanism as an instrument to\n               try to force you to create the kind of Germany Moscow might want, at the pace Moscow\n               might prefer.<\/p>\n            <p class=\"tei-p tei-p\">I would also like to confirm again to you my view of the role of a unified Germany in\n               the Western Alliance. Naturally, this is again something for the German people, and\n               its elected representatives, to decide. So I was deeply gratified by your<span id=\"fnref_1_5_2_2_21_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_2\">7<\/a><\/span> firm statement that a unified Germany\n               would stay in the North Atlantic Alliance<span id=\"fnref_1_5_2_2_21_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_4\">8<\/a><\/span>.\n               In support of your position, l have said I expect that Germany would remain as a\n               member of NATO, while noting that NATO will have a changing mission, with more\n               emphasis on its original political role. I know we also agree that the presence of\n               American forces on your territory and the continuation of nuclear deterrence are\n               critical to assuring stability in this time of change and uncertainty.<\/p>\n            <p class=\"tei-p tei-p\">Even if, as we hope, the Soviet Union withdraws all its troops from Eastern Europe,\n               it will still remain far and away the most powerful single military power in Europe.\n               U.S. troops in Germany, and elsewhere on the continent, backed by a credible\n               deterrent, must in my view continue to help preserve the security of the West as long\n               as our Allies desire our military presence in Europe as part of the common defense.\n               As our two countries journey together through this time of hope and promise, we can\n               remain confident of our shared ability to defend the fruits of freedom. Nothing Mr.\n               Gorbachev can say to Jim Baker or to you can change the fundamental fact of our deep\n               and enduring partnership.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">Let me finally say how much I understand the challenges you have had to face\n               over the last few months, and how much I admire the way you, as a leader, have met\n               them. Barbara<span id=\"fnref_1_5_2_2_27_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_27_2\">9<\/a><\/span> and I look forward to seeing you and\n               Hannelore<span id=\"fnref_1_5_2_2_27_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_27_4\">10<\/a><\/span> in a few weeks.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Draft letter (copy): <span class=\"tei-idno tei-idno\">Bush\n                  Presidential Library CF00182-020<\/span>. Written by Robert D. Blackwill,\n                  <a href=\"https://dodis.ch/P57409\" class=\"tei-ref7 tei-link\">dodis.ch/P57409<\/a>. Cf. the\n                  memorandum from Robert D. Blackwill to Brent Scowcroft, <a href=\"https://dodis.ch/P57408\" class=\"tei-ref7 tei-link\">dodis.ch/P57408<\/a>, from 8 February\n                  1990: <span class=\"tei-orig tei-orig\">The attached memorandum to the President proposes that he send a\n                     letter to Kohl before Kohl sees Gorbachev this weekend. In drafting the\n                     letter, I have tried to take into account the substance and tone of Horst\n                     Teltschik\u2019s concerns as expressed to us on Saturday in Munich. I understand\n                     that Bob Kimmitt is also recommending to Baker in Moscow that the President\n                     dispatch such a letter and you may wish to be in touch with Baker on the\n                     subject. Recommendation: That you sign the attached memorandum to the\n                     President. <\/span>Cf. also the memorandum from Brent Scowcroft to George H.\n                  W. Bush: <span class=\"tei-orig tei-orig\">Helmut Kohl\u2019s visit to Moscow this weekend will be the most\n                     important trip to the Soviet Union by a German Chancellor since Konrad\n                     Adenauer\u2019s visit there in September, 1955. Now, like then, the main subject\n                     will be the future of Germany and its relationship with the West. Despite\n                     great pressure from Khrushchev, Adenauer stuck to his position that West\n                     Germany would remain anchored in NATO and other Western institutions. Kohl\n                     says he intends to do the same in his talks on Saturday and Sunday with\n                     Gorbachev. That may be a bitter pill for Gorbachev to swallow, especially in\n                     the immediate aftermath of the greatest internal challenge yet to his\n                     authority. Thus, Gorbachev may well push Kohl hard on Germany\u2019s future\n                     relationship with NATO, perhaps including the role of American troops and\n                     nuclear weapons. With Kohl travelling to what may be the most portentous\n                     foreign meeting of his life, I believe you should both give him all the\n                     personal support you can and make clear to him our preferences concerning\n                     the future of a united Germany. The attached message is designed to\n                     accomplish both these objectives, while avoiding giving Kohl any impression\n                     that we are anxious about his meeting with Gorbachev. Recommendation: That\n                     you approve the attached letter from you to Helmut Kohl. <\/span>For the\n                  definitive version of the letter dated from the 9 February 1990 cf.\n                  <span class=\"tei-idno tei-idno\">Dokumente zur Deutschlandpolitik. Deutsche Einheit: Sonderedition aus\n                     denAkten des Bundeskanzleramtes 1989/90, ed. by Hanns Jürgen Küsters and\n                     Daniel Hoffman, München 1998, doc. 170. <\/span>Two additions were made to\n                  the draft, cf. notes 7 and 8.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">George Herbert Walker Bush (1924\u20132018), <a href=\"https://dodis.ch/P47406\" class=\"tei-ref7 tei-link\">dodis.ch/P47406<\/a>, President of the\n                     United States, 20.1.1989\u201320.1.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the\n                     FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary of the Communist Party of the Soviet\n               Union 11.3.1985\u201324.8.1991, Chairman of the Supreme Soviet of the Soviet Union\n               25.5.1989\u201315.3.1990 and President of the Soviet Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">James A. Baker (*1930), <a href=\"https://dodis.ch/P56605\" class=\"tei-ref7 tei-link\">dodis.ch/P56605<\/a>, United States Secretary\n                  of State 25.1.1989\u201323.8.1992.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_15_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Cf.\n               document 30, <a href=\"https://dodis.ch/52913\" class=\"tei-ref7 tei-link\">dodis.ch/52913<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_15_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Addition in the definitive version: <span class=\"tei-orig tei-orig\">your rejection of\n                     proposals for neutrality<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_4\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">Addition in the\n                  definitive version: <span class=\"tei-orig tei-orig\">In this connection I endorse the idea put forward that a\n                     component of a united Germany\u2019s membership in the Atlantic alliance could be a\n                     special military status for what is now the territory of the GDR. We believe\n                     that such a commitment could be made compatible with the security of Germany,\n                     as well as of its neighbours, in the context of substantial, perhaps ultimately\n                     total, Soviet troop withdrawals from Central and Eastern Europe.<\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_27_2\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Barbara Bush (1925\u20132018), <a href=\"https://dodis.ch/P57406\" class=\"tei-ref7 tei-link\">dodis.ch/P57406<\/a>, United States First\n                  Lady 20.1.1989\u201320.1.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_27_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_27_4\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Hannelore Kohl (1933\u20132001), <a href=\"https://dodis.ch/P57407\" class=\"tei-ref7 tei-link\">dodis.ch/P57407<\/a>, Wife of Helmut\n                  Kohl.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_27_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59360,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36366,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59360,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37015,
-                "sort": 0,
-                "attachment": {
-                    "id": 36327,
-                    "attachmentId": 36327,
-                    "date": "",
-                    "fileRef": "dodis-52914.xml",
-                    "fileRefThumbnail": "thumb_dodis-52914.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59360,
                 "volume": null,
                 "tab": false,

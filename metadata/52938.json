@@ -23,7 +23,7 @@
             {
                 "id": 98267,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -204,23 +204,23 @@
                 "downloadable": true
             },
             {
-                "id": 37025,
+                "id": 37087,
                 "sort": 0,
                 "attachment": {
-                    "id": 36318,
-                    "attachmentId": 36318,
+                    "id": 37302,
+                    "attachmentId": 37302,
                     "date": "",
-                    "fileRef": "dodis-52938.xml",
-                    "fileRefThumbnail": "thumb_dodis-52938.xml.jpg",
+                    "fileRef": "dodis-52938-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52938-en.html.jpg",
                     "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
                     "numberOfReferences": null,
                     "status": "public",
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "text/html",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",
@@ -230,13 +230,13 @@
                         "numberOfReferences": "numberOfReferences",
                         "fileRef": "filename"
                     },
-                    "attachmentHtmlContent": "Error loading file."
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52938\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52938<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Canadian Ambassador in\n                  Bonn, Thomas W. Delworth<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span> , to the Canadian Department of External\n                  Affairs<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">German Reunification: The Street Speaks<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Confidential<\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 6 December 1989<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">Our German (West) interlocutors, such as Teltschik<span id=\"fnref_1_5_2_2_7_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_2\">3<\/a><\/span> in Chancellor\u2019s\n               office, repeatedly have stressed to us that while Bonn recognizes dangers in pursuing\n               reunification too precipitously and will remain loyal to its Western allies, it is\n               the people in the streets of the GDR who will play a decisive role in this\n               debate.<\/p>\n            <p class=\"tei-p tei-p\">2. FRG electronic and print media is absorbed totally in what is happening next door.\n               There is one dramatic event after another as the political guillotine (without a\n               Robespierre) takes its toll. Krenz<span id=\"fnref_1_5_2_2_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_2\">4<\/a><\/span> is now gone. Honecker<span id=\"fnref_1_5_2_2_9_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_4\">5<\/a><\/span> is under house arrest. GDR state security apparatus\n               is under siege and the entire SED, including Modrow<span id=\"fnref_1_5_2_2_9_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_6\">6<\/a><\/span>, appears discredited.\n               Banners calling for reunification are blossoming in greater numbers. There is talk of\n               advancing elections to May from the autumn and of a referendum on reunification.<\/p>\n            <p class=\"tei-p tei-p\">3. But it is not only in the GDR streets that events are happening. In the FRG,\n               Bild-Zeitung (FRG and Europe\u2019s largest circulation newspaper) yesterday ran a one\n               word, three inch high headline in national red, gold, and black colours \u201cEinheit\n               (Unity)\u201d. USA Ambassador Walters<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">7<\/a><\/span> made a public prediction that there will be a reunified\n               Germany with Berlin as its capital within five years and has sent the Bonn coffee and\n               cake Hausfraus crowd to gossiping about the merits of selling their houses in Bonn\n               before real estate prices in Berlin become too high.<\/p>\n            <p class=\"tei-p tei-p\">4. On 05 December it was announced by Modrow and Seiters<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">8<\/a><\/span> of\n               Chancellor\u2019s office that an agreement had been reached on removing visas and currency\n               changing requirements for West Germans visiting the East and setting up a currency\n               conversion mechanism and fund for East Germans travelling West (details in separate\n               telegram). This will result in massive two-way flow of Germans. A huge economic\n               assistance plan is under discussion (our telegram ZQGR2473 06 DEC<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">9<\/a><\/span>). The CDU has announced that its next party conference in\n               January will be split, with the first session in Bad Krasnall in Bavaria and the\n               second in Leipzig, where it says there are many CSU supporters.<\/p>\n            <p class=\"tei-p tei-p\">5. How far this integrative process, led primarily from below, will go is difficult\n               to predict. It is, however, proceeding apace while statesmen talk and muse about what\n               is and what is not possible.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. ZQGR0559 (incoming):\n                  <span class=\"tei-idno tei-idno\">Global Affairs Canada file 25-3-3-5-Germany / Confidential<\/span>.\n                  Ref: <span class=\"tei-idno tei-idno\">Our tels AQGR0556 28 NOV and 0574 04 DEC (NOTAL)<\/span>. Info to\n                  Privy Council Office, Brussels-EEC, Brussels, Brussels-NATO, London,\n                  Washington, Paris, Paris-OECD, Rome, Tokyo, Geneva, Warsaw, Budapest, Helsinki,\n                  Oslo, Stockholm, Copenhagen, Hague, Bern, Vienna, Delegation to the\n                  Organization for Securtiy and Cooperation in Europe, Madrid, Athens, Ankara,\n                  Moscow, Bucharest, Belgrade and Prague.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Thomas W. Delworth (1929\u20132012), <a href=\"https://dodis.ch/P51338\" class=\"tei-ref7 tei-link\">dodis.ch/P51338<\/a>, Canadian Ambassador\n                     in Bonn 1987\u20131992.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Horst M.\n               Teltschik (*1940), <a href=\"https://dodis.ch/P57413\" class=\"tei-ref7 tei-link\">dodis.ch/P57413<\/a>,\n               Foreign policy advisor to the Chancellor of the FRG.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Egon Krenz (*1937), <a href=\"https://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of\n                  the SED 18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                  18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Erich\n                     Honecker (1912\u20131994), <a href=\"https://dodis.ch/P46563\" class=\"tei-ref7 tei-link\">dodis.ch/P46563<\/a>,\n                     General Secretary of the SED and chairman of the GDR State Council\n                     29.10.1976\u201318.10.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_6\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow\n                  (*1928), <a href=\"https://dodis.ch/P54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Chairman of\n                  the GDR Council of Ministers 13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Vernon A. Walters (1917\u20132002),\n                  <a href=\"https://dodis.ch/P54605\" class=\"tei-ref7 tei-link\">dodis.ch/P54605<\/a>, US Ambassador in\n                  Bonn 1989\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">Rudolf\n               Seiters (*1937), <a href=\"https://dodis.ch/P57431\" class=\"tei-ref7 tei-link\">dodis.ch/P57431<\/a>,\n               Minister without portfolio in the Government of the FRG 1989\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Not located.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
                 },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
                 "specimenId": 59329,
                 "volume": null,
-                "tab": false,
+                "tab": true,
                 "downloadable": true
             },
             {

@@ -23,7 +23,7 @@
             {
                 "id": 101626,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -204,23 +204,23 @@
                 "downloadable": true
             },
             {
-                "id": 36999,
+                "id": 37108,
                 "sort": 0,
                 "attachment": {
-                    "id": 37248,
-                    "attachmentId": 37248,
+                    "id": 37323,
+                    "attachmentId": 37323,
                     "date": "",
-                    "fileRef": "dodis-52932.xml",
-                    "fileRefThumbnail": "thumb_dodis-52932.xml.jpg",
+                    "fileRef": "dodis-52932-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52932-en.html.jpg",
                     "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
                     "numberOfReferences": null,
                     "status": "public",
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "text/html",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",
@@ -230,13 +230,13 @@
                         "numberOfReferences": "numberOfReferences",
                         "fileRef": "filename"
                     },
-                    "attachmentHtmlContent": "Error loading file."
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52932\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52932<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memo<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Austrian Ministry of Foreign Affairs<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">German Unity, Soviet Position<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Vienna, 19 July 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">In addition to the information of Dep<span class=\"tei-add1 tei-add-edition\">[artment]<\/span> II.1.\n               (GZ. 22.17.01/173)<span id=\"fnref_1_5_2_2_7_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_4\">2<\/a><\/span> the following\n               should be noted regarding the current Soviet position on the German question:<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">1) The concessions made by President Gorbachev<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">3<\/a><\/span> to Chancellor Kohl<span id=\"fnref_1_5_2_2_11_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_4\">4<\/a><\/span> on\n               16 July go far beyond the expectations of those who ultimately considered Soviet\n               consent to the NATO solution for a unified Germany under the prerequisite of a\n               special solution for \u201cEast Elbia\u201d<span id=\"fnref_1_5_2_2_11_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_6\">5<\/a><\/span> possible. The solution agreed to by\n               Kohl and Gorbachev in the Caucasus provides for the future, that is the period after\n               the withdrawal of Soviet troops, to a limited extent only, a special military status\n               for the territory of the present GDR, cf. the not entirely clear commitment of Kohl\n               that no foreign troops will be stationed in this area. In contrast, all other areas\n               of Germany as a whole will engage in a complete security policy integration. (The\n               last three issues of the prestigious American magazine \u201cForeign Affairs\u201d include a\n               series of articles from known American specialist authors \u2013 Kirkpatrick<span id=\"fnref_1_5_2_2_11_8\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_8\">6<\/a><\/span>, Mc Bundy<span id=\"fnref_1_5_2_2_11_10\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_10\">7<\/a><\/span>, etc. \u2013 who all indicated that they did\n               not expect a consensual NATO solution.) It therefore seems legitimate to question the\n               reasons why the attitude of the Soviet Union, or \u2013 more accurately \u2013 Gorbachev, went\n               beyond all positive expectations:<\/p>\n            <p class=\"tei-p tei-p\">2) The position taken by Gorbachev can on the one hand be explained as the result of\n               a combination of newly confirmed domestic policy strengths of the Soviet President\n               having \u201cwon\u201d his party congress, and on the other hand the recognition of foreign\n               policy weaknesses in his country: Fully aware that the confirmation of his\n               (currently) unchallengeable role had increased his foreign policy scope, Gorbachev \u2013\n               apparently without further coordination with other still relevant forces (military,\n               etc.) \u2013 and perhaps at the last possible moment successfully attempted to gain as\n               much capital (figuratively as well as in the true sense of the word) as possible out\n               of the Soviet withdrawal from East Germany and the renunciation of older positions of\n               the Soviet Union\u2019s policy on Germany (insisting on the neutrality of a unified\n               Germany).<\/p>\n            <p class=\"tei-p tei-p\">3) Gorbachev secured at least the following advantages for his country:<\/p>\n            <p class=\"tei-p tei-p\">\u2013 The reduction of the total German force level to 370,000 men and thus (including\n               the manning level of the NVA) an overall drop of 45%;<\/p>\n            <p class=\"tei-p tei-p\">\u2013 The obvious assumption by unified Germany of the \u2013 substantial \u2013 costs of Soviet\n               troop withdrawal (see letter of intent concerning agreement on effects of\n               DM-conversion);<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Further active efforts by the FRG to gain Western aid for the Soviet Union;<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Commitment to complete a bilateral comprehensive treaty (probably political\n               consultations and economic assistance);<\/p>\n            <p class=\"tei-p tei-p\">4) The agreement between Kohl-Gorbachev has been completed without informing the\n               Western partners in advance, thus also signaling a future autonomy of German foreign\n               policy.<\/p>\n            <p class=\"tei-p tei-p\">5) President Gorbachev could speculate with the idea that after a Soviet troop\n               withdrawal the negative sentiment towards foreign military presence could generally\n               grow further in the FRG and thus perhaps a traditional goal of Soviet policy could\n               still be achieved in the longer term.<\/p>\n            <p class=\"tei-p tei-p\">6) In total, the agreements of 16 July are \u2013 as Gorbachev himself says \u2013 a matter of\n               successful \u201cRealpolitik.\u201d Whether the Soviet President will succeed to domestically\n               secure this result, will also depend on the further reaction in the West: too loud a\n               triumph may be harmful, but on the other hand, in light of the Germans \u201cgoing it\n               alone\u201d (see above) it is not to be expected.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memo (translated from German):\n                  <span class=\"tei-idno tei-idno\">Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1990, GZ.\n                     22.17.01/176-II.3/90<\/span>. Written and signed by Ernst Sucharipa, <a href=\"https://dodis.ch/P57511\" class=\"tei-ref7 tei-link\">dodis.ch/P57511<\/a>; also published in\n                  Wilson Center, doc. 165726. Distributed to the Federal Minister, the General\n                  Secretary, the section heads, all departments of the Political Section, and the\n                  Austrian diplomatic representations in member states of the CSCE. The\n                  information was also part of the preparatory file for Franz Vranitzky on the\n                  occasion of the visit by Lothar de Maizière to Austria scheduled for 25 and 26\n                  July 1990. See <span class=\"tei-idno tei-idno\">ÖStA Arbeitsbesuch von MP Lothar de Maizière 25./26. Juli\n                     1990, Kreisky Archives, Depositum Franz Vranitzky, AP, box BM Choonhavan\n                     Chatichai (Thailand), MP Calfa CSFR 1990 PM Silva (Portugal), MP Singh\n                     (Indien), Pres. Dubcek (CSFR), PM Kang Young-Hoon (Korea), PM Bhutto\n                     (Pakistan), Pres. George Vassiliou (Zypern), MP Maiziere Lothar (DDR)\n                     25.7.90)<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_4\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Document 56, <a href=\"https://dodis.ch/52930\" class=\"tei-ref7 tei-link\">dodis.ch/52930<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Mikhail\n               Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>,\n               General Secretary of the Communist Party of the Soviet Union 11.3.1985\u201324.8.1991,\n               Chairman of the Supreme Soviet of the Soviet Union 25.5.1989\u201315.3.1990 and\n               President of the Soviet Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_6\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">A term subsuming all former\n                  Prussian territories East of the Elbe.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_8\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Jeane Kirkpatrick (1926\u20132006), <a href=\"https://dodis.ch/P47062\" class=\"tei-ref7 tei-link\">dodis.ch/P47062<\/a>, Political\n                  Scientist.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_8\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_10\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">McGeorge Bundy (1919\u20131996), <a href=\"https://dodis.ch/P37402\" class=\"tei-ref7 tei-link\">dodis.ch/P37402<\/a>, Political Scientist at\n                     the Carnegie Corporation 1990\u20131996.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_10\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
                 },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
                 "specimenId": 59676,
                 "volume": null,
-                "tab": false,
+                "tab": true,
                 "downloadable": true
             },
             {

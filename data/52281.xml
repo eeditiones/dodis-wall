@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -20,11 +20,13 @@
                 <head>
                     <ref target="http://dodis.ch/52281">dodis.ch/52281</ref>
                     <title type="main">Politscher Bericht<note xml:id="e626">Politischer Bericht Nr.
-                            12 und Telegramm Nr. 34 (Empfangskopie): <idno type="CH-BAR">CH-BAR#E2010-02A#1996/400#19* (A.21.31)</idno>. Verfasst von Jürg
-                            Leutert, <ref target="http://dodis.ch/P17414">dodis.ch/P17414</ref>.</note> des schweizerischen Botschafters in Bonn,
-                        Alfred Hohl<note xml:id="e642">Alfred Hohl (1930–2004), <ref target="http://dodis.ch/P16080">dodis.ch/P16080</ref>,
-                            schweizerischer Botschafter in Bonn 1.9.1987–16.11.1991.</note>
-                    </title>
+                            12 und Telegramm Nr. 34 (Empfangskopie): <idno type="CH-BAR"
+                                >CH-BAR#E2010-02A#1996/400#19* (A.21.31)</idno>. Verfasst von Jürg
+                            Leutert, <ref target="http://dodis.ch/P17414"
+                            >dodis.ch/P17414</ref>.</note> des schweizerischen Botschafters in Bonn,
+                        Alfred Hohl<note xml:id="e642">Alfred Hohl (1930–2004), <ref
+                                target="http://dodis.ch/P16080">dodis.ch/P16080</ref>,
+                            schweizerischer Botschafter in Bonn 1.9.1987–16.11.1991.</note></title>
                     <title type="sub">Nr. 38. Die Wiedervereinigung und die
                         Blockzugehörigkeit</title>
                 </head>
@@ -87,7 +89,8 @@
                     Glacis der UdSSR sich aufzulösen im Begriff ist, dürfte ein längerfristiger
                     Verbleib von Sowjet-Truppen in der DDR eher anachronistischer Symbolik als
                     sicherheitspolitischer Notwendigkeit entsprechen. </p>
-                <p>Die von Modrow<note xml:id="e683">Hans Modrow (*1928), <ref target="http://dodis.ch/54796">dodis.ch/P54796</ref>, Vorsitzender des
+                <p>Die von Modrow<note xml:id="e683">Hans Modrow (*1928), <ref
+                            target="http://dodis.ch/54796">dodis.ch/P54796</ref>, Vorsitzender des
                         Ministerrats der DDR 13.11.1989–12.4.1990.</note> mit Segen des Kremls aus
                     der Mottenkiste geholte Idee einer <emph>Neutralisierung</emph>
                     Gesamtdeutschlands geht an der Realität vorbei.</p>
@@ -100,8 +103,7 @@
                     Politik gegenüber den anderen Mächten ermöglicht. Eine Einbindung in
                     gesamteuropäische Strukturen erhöht die Kontrollierbarkeit gesamtdeutscher
                     Aussenpolitik.</p>
-                <p>
-                    <emph>Andere Varianten</emph> werden gegenwärtig ebenfalls diskutiert:</p>
+                <p><emph>Andere Varianten</emph> werden gegenwärtig ebenfalls diskutiert:</p>
                 <p>– Ein Anschluss der DDR an das NATO-Gebiet ist unrealistisch, da für die UdSSR
                     nicht zumutbar und akzeptabel.</p>
                 <p>– Eine – vorläufige – Neutralisierung und Entmilitarisierung der DDR dürfte aus

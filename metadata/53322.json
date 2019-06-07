@@ -3,8 +3,8 @@
     "data": {
         "id": 53322,
         "title": "No 58/2",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "tr",
+        "language": "Turkish",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "13.6.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 99910,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -230,49 +230,13 @@
                         "numberOfReferences": "numberOfReferences",
                         "fileRef": "filename"
                     },
-                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53322\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53322<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_3_1_1_2_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_3\">1<\/a><\/span> from the Turkish Ambassador in East\n                  Berlin, Metin Mekik<span id=\"fnref_1_3_1_1_2_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_5\">2<\/a><\/span>, to the Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n                    <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Normal<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 13 June 1990, 12.00<\/div>\n            <\/div>\n                    <p class=\"tei-p1 tei-p1\">For the first time in 42 years, the mayors of East Berlin and West Berlin held\n               a joint meeting in the \u201cRote Rathaus (Red Municipal Building)\u201d on Tuesday, 12\n               June.<\/p>\n                    <p class=\"tei-p2 tei-p\">East Berlin Mayor Tino Schwierzina<span id=\"fnref_1_3_1_1_5_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_2\">3<\/a><\/span> (SPD) and West Berlin Mayor Walter Momper<span id=\"fnref_1_3_1_1_5_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_4\">4<\/a><\/span> (SPD) have underlined the historical nature of the\n               meeting and stated that they decided to meet in the same building every\n               fortnight.<\/p>\n                    <p class=\"tei-p2 tei-p\">The demolition of the Berlin Wall and holding the Olympic Games in Berlin in the year\n               2000 were the main topics discussed at the meetings between the two mayors.<\/p>\n                    <p class=\"tei-p2 tei-p\">In fact, the demolition of the Berlin Wall has begun as of today (13 June). Momper\n               announced that border controls between Berlin\u2019s two sides will be eliminated as of 1\n               July 1990. The mayors declared that the unification of Berlin will be completed\n               following the election of the joint city council and emphasized that the unified\n               Berlin should be the capital of the new and united Germany.<\/p>\n                    <p class=\"tei-p2 tei-p\">As you may recall, after World War II, Berlin City Council convened for the first\n               time on 21 May 1945 and elected engineer Dr Arthur Werner<span id=\"fnref_1_3_1_1_8_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_8_2\">5<\/a><\/span>, aged 70, as mayor.<\/p>\n                    <p class=\"tei-p2 tei-p\">Three years later, the joint city council was included in the British Occupation\n               Region. Upon this, a separate municipality was established in East Berlin, which was\n               under the occupation of the USSR, and Friedrich Ebert<span id=\"fnref_1_3_1_1_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_2\">6<\/a><\/span> was elected as the\n               first mayor on 30 November 1948.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 58/2 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archive 3181295<\/span>. Copy to the\n                  Turkish Embassy in Bonn. Reference: <span class=\"tei-idno tei-idno\">our communication dated 4 May 1990\n                     and numbered 0584/446-228<\/span>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador\n                     in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Tino Schwierzina (1927\u20132003),\n               <a href=\"https://dodis.ch/P57536\" class=\"tei-ref7 tei-link\">dodis.ch/P57536<\/a>, Mayor of East\n               Berlin 30.5.1990\u201311.1.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Walter Momper (*1945), <a href=\"https://dodis.ch/P57440\" class=\"tei-ref7 tei-link\">dodis.ch/P57440<\/a>, Governing Mayor of West Berlin\n                  16.2.1989\u201324.1.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_8_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Arthur\n                  Werner (1877\u20131967), <a href=\"https://dodis.ch/P57537\" class=\"tei-ref7 tei-link\">dodis.ch/P57537<\/a>,\n                  Mayor of Berlin 17.5.1945\u20135.12.1946.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_8_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Friedrich\n                  Ebert Jr. (1894\u20131979), <a href=\"https://dodis.ch/P57539\" class=\"tei-ref7 tei-link\">dodis.ch/P57539<\/a>, Mayor of East Berlin 1948\u20131967.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n                    <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53322\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53322<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_3_1_1_2_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_3\">1<\/a><\/span> from the Turkish Ambassador in East\n                  Berlin, Metin Mekik<span id=\"fnref_1_3_1_1_2_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_2_4_5\">2<\/a><\/span>, to the Turkish Ministry of Foreign Affairs<\/span>\n            <\/h1>\n                    <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Normal<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 13 June 1990, 12.00<\/div>\n            <\/div>\n                    <p class=\"tei-p tei-p\">For the first time in 42 years, the mayors of East Berlin and West Berlin held\n               a joint meeting in the \u201cRote Rathaus (Red Municipal Building)\u201d on Tuesday, 12\n               June.<\/p>\n                    <p class=\"tei-p tei-p\">East Berlin Mayor Tino Schwierzina<span id=\"fnref_1_3_1_1_5_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_2\">3<\/a><\/span> (SPD) and West Berlin Mayor Walter Momper<span id=\"fnref_1_3_1_1_5_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_5_4\">4<\/a><\/span> (SPD) have underlined the historical nature of the\n               meeting and stated that they decided to meet in the same building every\n               fortnight.<\/p>\n                    <p class=\"tei-p tei-p\">The demolition of the Berlin Wall and holding the Olympic Games in Berlin in the year\n               2000 were the main topics discussed at the meetings between the two mayors.<\/p>\n                    <p class=\"tei-p tei-p\">In fact, the demolition of the Berlin Wall has begun as of today (13 June). Momper\n               announced that border controls between Berlin\u2019s two sides will be eliminated as of 1\n               July 1990. The mayors declared that the unification of Berlin will be completed\n               following the election of the joint city council and emphasized that the unified\n               Berlin should be the capital of the new and united Germany.<\/p>\n                    <p class=\"tei-p tei-p\">As you may recall, after World War II, Berlin City Council convened for the first\n               time on 21 May 1945 and elected engineer Dr Arthur Werner<span id=\"fnref_1_3_1_1_8_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_8_2\">5<\/a><\/span>, aged 70, as mayor.<\/p>\n                    <p class=\"tei-p tei-p\">Three years later, the joint city council was included in the British Occupation\n               Region. Upon this, a separate municipality was established in East Berlin, which was\n               under the occupation of the USSR, and Friedrich Ebert<span id=\"fnref_1_3_1_1_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_3_1_1_9_2\">6<\/a><\/span> was elected as the\n               first mayor on 30 November 1948.<\/p>\n                <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 58/2 (copy, translated\n                  from Turkish): <span class=\"tei-idno tei-idno\">Turkish Diplomatic Archive 3181295<\/span>. Copy to the\n                  Turkish Embassy in Bonn. Reference: <span class=\"tei-idno tei-idno\">our communication dated 4 May 1990\n                     and numbered 0584/446-228<\/span>.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_2_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Metin Mekik (1932\u20132013), <a href=\"https://dodis.ch/P57531\" class=\"tei-ref7 tei-link\">dodis.ch/P57531<\/a>, Turkish Ambassador\n                     in East Berlin.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_2_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Tino Schwierzina (1927\u20132003),\n               <a href=\"https://dodis.ch/P57536\" class=\"tei-ref7 tei-link\">dodis.ch/P57536<\/a>, Mayor of East\n               Berlin 30.5.1990\u201311.1.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_5_4\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Walter Momper (*1945), <a href=\"https://dodis.ch/P57440\" class=\"tei-ref7 tei-link\">dodis.ch/P57440<\/a>, Governing Mayor of West Berlin\n                  16.2.1989\u201324.1.1991.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_5_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_8_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Arthur\n                  Werner (1877\u20131967), <a href=\"https://dodis.ch/P57537\" class=\"tei-ref7 tei-link\">dodis.ch/P57537<\/a>,\n                  Mayor of Berlin 17.5.1945\u20135.12.1946.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_8_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_3_1_1_9_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Friedrich\n                  Ebert Jr. (1894\u20131979), <a href=\"https://dodis.ch/P57539\" class=\"tei-ref7 tei-link\">dodis.ch/P57539<\/a>, Mayor of East Berlin 1948\u20131967.<a class=\"fn-back\" href=\"#fnref_1_3_1_1_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
                 },
                 "documentAttachmentType": "Transcription",
                 "documentAttachmentTag": "English",
                 "specimenId": 59380,
                 "volume": null,
                 "tab": true,
-                "downloadable": true
-            },
-            {
-                "id": 37006,
-                "sort": 0,
-                "attachment": {
-                    "id": 37255,
-                    "attachmentId": 37255,
-                    "date": "",
-                    "fileRef": "dodis-53322.xml",
-                    "fileRefThumbnail": "thumb_dodis-53322.xml.jpg",
-                    "roundedNumber": 53000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
-                "specimenId": 59380,
-                "volume": null,
-                "tab": false,
                 "downloadable": true
             },
             {

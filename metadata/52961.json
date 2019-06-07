@@ -3,8 +3,8 @@
     "data": {
         "id": 52961,
         "title": "GDR in Final Phase",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "nl",
+        "language": "Dutch",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "4.7.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 98290,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37112,
+                "sort": 0,
+                "attachment": {
+                    "id": 37327,
+                    "attachmentId": 37327,
+                    "date": "",
+                    "fileRef": "dodis-52961-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52961-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52961\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52961<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Dutch Ambassador in East Berlin, Egbert Jacobs<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>,\n                  to the Dutch Minister of Foreign Affairs, Hans van den Broek<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">GDR in Final Phase<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Confidential<\/span>\n               <div class=\"tei-dateline tei-dateline\">East Berlin, 4 July 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">If one could still think initially that a breather would be inserted after 1\n               July to recover, it has now become clear that the GDR population sees no reason to\n               prolong the continued existence of this state. The successful course of the\n               introduction of the D-mark has brought more confidence in the future. Rarely is\n               anything heard any more about the \u201cinsertion of own values/achievements\u201d or about\n               \u201cproceeding on an equal footing together\u201d. Protests about \u201cselling out to the FRG\u201d\n               have fallen silent.<\/p>\n            <p class=\"tei-p tei-p\">In this mood it has become impossible to pursue non party politics and GDR parties,\n               with the exception of the PDS, have become reconciled to their insignificance. Hence\n               the ever-advancing dates on which they will \u201cjoin\u201d the FRG parties. Of course parties\n               without an equivalent in the FRG naturally feel threatened as regards their continued\n               existence. Meanwhile, the farmer\u2019s party DBP, having emerged as a relative winner in\n               the municipal elections of 6 May, has affiliated itself with the CDU. The original\n               \u201cAufbruch\u201d party DA of Minister Eppelmann<span id=\"fnref_1_5_2_2_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_2\">4<\/a><\/span> is expected to follow this example soon. The DSU is\n               unable to merge with the CSU for political reasons emanating from Bonn and Munich and\n               will go under due to internal division, fueled by reproaches about the cooperation of\n               its recent leadership with FRG representatives. Right-wing Germany is clearly\n               gathering in the DSU, and because both DSU Ministers (Ebeling<span id=\"fnref_1_5_2_2_9_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_4\">5<\/a><\/span>/Development Cooperation and Diestel<span id=\"fnref_1_5_2_2_9_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_6\">6<\/a><\/span>/Internal Affairs) have left their party\n               without returning their portfolio, the DSU is no longer represented in the\n               government.<\/p>\n            <p class=\"tei-p tei-p\">Today the Minister of Justice has also left his (liberal) party \u201cbecause of excessive\n               influence of West German FDP\u201d. Read: because of too much criticism from the West\n               German liberal side on the past of Minister Wünsche<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">7<\/a><\/span>. That Prime Minister De\n               Maiziere<span id=\"fnref_1_5_2_2_11_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_4\">8<\/a><\/span> keeps these three \u2013 now non-aligned \u2013 gentlemen indicates,\n               in my opinion, that he has faith in Diestel and Wünsche as competent administrators\n               who are to remain until December. Both in legislative adjustment and in dismantling\n               the STASI, party-political fiddling is inconvenient. Nonetheless the term \u201cgovernment\n               crisis\u201d has already been used, but has not led to visible political excitement, a\n               sign of waning interest in the ups and downs of the government that is already seen\n               as an extension of Bonn.<\/p>\n            <p class=\"tei-p tei-p\">Of the 3 conditions for joint elections at the beginning of December that have been\n               brought forward by the GDR coalition \u2013 the \u201cUnification Treaty\u201d<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">9<\/a><\/span>, the establishment of\n               \u201cLänder\u201d, and the termination of the 2 + 4 consultations<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">10<\/a><\/span> \u2013 only the latter appears to constitute a potential problem. However,\n               the GDR (population) has little to do with this: in this country the issue arouses\n               hardly any interest and every result appears acceptable as long as it does not delay\n               unification and, secondly, brings an end to foreign patronage. If the USSR continues\n               to make trouble, this will certainly work against Moscow. The special GDR-USSR\n               connection has long been chopped off mentally by the population. Which does not mean\n               that \u201cdie Wirtschaft\u201d<span id=\"fnref_1_5_2_2_13_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_6\">11<\/a><\/span> has lost its interest in the markets in the east. On the\n               contrary, but almost exclusively as a sales market.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 145 (incoming translated\n                  from Dutch): <span class=\"tei-idno tei-idno\">Netherlands Ministry of Foreign Affairs BuZa 1985\u20131990, blok\n                     Z-299, <\/span><span class=\"tei-add1 tei-add-edition\"><span class=\"tei-idno tei-idno\">[NA 2.05.392]<\/span><\/span><span class=\"tei-idno tei-idno\">\n                        inv.nr. 4601 <\/span><span class=\"tei-add1 tei-add-edition\"><span class=\"tei-idno tei-idno\">[2129]<\/span><\/span>\n                  .<span class=\"tei-idno tei-idno\"><\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Egbert Jacobs (*1945), <a href=\"https://dodis.ch/P57545\" class=\"tei-ref7 tei-link\">dodis.ch/P57545<\/a>, Dutch Ambassador in East Berlin 1989\u20131990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Hans van den Broek (*1936), <a href=\"https://dodis.ch/P57462\" class=\"tei-ref7 tei-link\">dodis.ch/P57462<\/a>, Dutch Minister of Foreign Affairs\n                     4.11.1982\u20133.1.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Rainer Eppelmann\n                  (*1943), <a href=\"https://dodis.ch/P57572\" class=\"tei-ref7 tei-link\">dodis.ch/P57572<\/a>, Member of\n                  the People\u2019s Chamber of the GDR and Minister for National Defense\n                  12.4.1990\u20133.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Hans-Wilhelm Ebeling (*1934), <a href=\"https://dodis.ch/P57573\" class=\"tei-ref7 tei-link\">dodis.ch/P57573<\/a>, Minister for Economic Cooperation of the GDR\n                  12.4.1990\u20133.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_6\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Peter-Michael Diestel (*1952), <a href=\"https://dodis.ch/P57574\" class=\"tei-ref7 tei-link\">dodis.ch/P57574<\/a>, Interior Minister of\n                     the GDR 12.4.1990\u20133.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Kurt Wünsche\n                  (*1929), <a href=\"https://dodis.ch/P57575\" class=\"tei-ref7 tei-link\">dodis.ch/P57575<\/a>, Justice\n                  Minister of the GDR 11.1.1990\u201316.8.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_4\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">Lothar de Maizière (*1940), <a href=\"https://dodis.ch/P54809\" class=\"tei-ref7 tei-link\">dodis.ch/P54809<\/a>, GDR Prime Minister\n                  12.4\u20132.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Quoted in German: <span class=\"tei-orig tei-orig\">Einigungsvertrag<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Series\n                  of meetings of the four Allied Powers (USA, Britain, France, USSR) and FRG plus\n                  GDR.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_6\">\n                        <dt class=\"fn-number\">11<\/dt>\n                        <dd class=\"fn-content\">The economy, here West-German\n                  entrepreneurship.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_6\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59661,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36105,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59661,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37002,
-                "sort": 0,
-                "attachment": {
-                    "id": 37251,
-                    "attachmentId": 37251,
-                    "date": "",
-                    "fileRef": "dodis-52961.xml",
-                    "fileRefThumbnail": "thumb_dodis-52961.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59661,
                 "volume": null,
                 "tab": false,

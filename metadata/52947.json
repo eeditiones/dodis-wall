@@ -3,8 +3,8 @@
     "data": {
         "id": 52947,
         "title": "Establishment of Diplomatic Relations Israel-GDR? Basis for a Discussion Headed by Deputy Prime Minister and Foreign Minister David Levy",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "iw",
+        "language": "Hebrew",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "10.7.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 98276,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37111,
+                "sort": 0,
+                "attachment": {
+                    "id": 37326,
+                    "attachmentId": 37326,
+                    "date": "",
+                    "fileRef": "dodis-52947-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52947-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52947\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52947<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memorandum<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Assistant\n                  Director-General for Eastern Europe, Yosef Govrin<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Director-General of the Israeli Foreign Ministry,\n                  Reuven Merhav<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">Establishing Diplomatic Relations Israel-GDR? Basis for a\n                  Discussion Headed by Deputy Prime Minister and Foreign Minister David Levy<span id=\"fnref_1_5_2_2_3_6_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_6_3\">4<\/a><\/span><\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Jerusalem, 10 July 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">According to the summing up of our talks with the GDR delegation in Copenhagen\n               on the 3<span class=\"tei-hi tei-hi1\">rd<\/span> of this month<span id=\"fnref_1_5_2_2_7_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_4\">5<\/a><\/span> and the telegrams\n               from our Ambassador in Bonn of the 4<span class=\"tei-hi tei-hi1\">th<\/span><span id=\"fnref_1_5_2_2_7_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_7\">6<\/a><\/span> and the\n               6<span class=\"tei-hi tei-hi1\">th<\/span> of this month we can conclude:<\/p>\n            <p class=\"tei-p tei-p\">1. The fate of our material claims from the GDR is in the hands of the FRG, in view\n               of the monetary union of the two Germanies (which came into force on the 1<span class=\"tei-hi tei-hi1\">st<\/span>\n               of this month) and the expected political union between them towards the end of this\n               year.<\/p>\n            <p class=\"tei-p tei-p\">2. The GDR delegation refuses to mention the \u201cLuxembourg Agreements\u201d of 1952 (in the\n               joint announcement on the establishment of diplomatic relations between Israel and\n               the GDR) as the basis for talks between experts from both countries to discuss the\n               material claims of the Israeli government from the GDR government. This refusal was\n               apparently coordinated in advance with the authorities in the FRG who are balking at\n               the financial implications involved.<\/p>\n            <p class=\"tei-p tei-p\">3. In negotiations with the FRG it will be possible to reach agreement on the payment\n               of certain sums, so long as they are not called \u201creparations\u201d. We can also conclude\n               that we are talking about much smaller sums than would be expected according to the\n               \u201cLuxembourg agreements\u201d. (As we know, there is no explicit reference to the GDR in\n               the agreements, only implied, to commit itself to pay a third of the reparations\n               while the FRG took on itself to pay two-thirds).<\/p>\n            <p class=\"tei-p tei-p\">4. The person who can decide in favour of reparations is apparently Chancellor\n               Kohl<span id=\"fnref_1_5_2_2_15_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_15_2\">7<\/a><\/span>. It is proposed to initiate with him a meeting on the\n               level of the finance ministers or alternatively, to send him a letter signed by Prime\n               Minister Shamir<span id=\"fnref_1_5_2_2_15_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_15_4\">8<\/a><\/span>. A meeting cannot take place before the middle\n               of August. A letter can be given to him immediately.<\/p>\n            <p class=\"tei-p tei-p\">Preliminary feelers have been sent out by our Ambassador in Bonn who has suggested to\n               us stages for action. At the same time it is proposed that you should meet with your\n               colleague in the FRG Foreign Ministry<span id=\"fnref_1_5_2_2_17_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_17_2\">9<\/a><\/span>, in continuation of\n               the consultations that you already had, on this subject, on 26 May of this year.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">The questions before us<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">1. Is the FRG interested in our establishing diplomatic relations with the\n                  GDR?<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">The assumption is that the answer is positive, since it will be a form of giving a\n               stamp of approval to the reunification. Their agreement to the establishment <span class=\"tei-add1 tei-add-edition\">[of relations]<\/span> was received by Foreign Minister Arens<span id=\"fnref_1_5_2_2_25_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_25_4\">10<\/a><\/span>\n               in his meetings with the FRG leaders in Bonn (before the elections in the GDR) and\n               our Ambassador in Bonn received a hint confirming this from the minister of state in\n               Kohl\u2019s office who said \u201cthat he would prefer that the FRG embassy in Israel should\n               also represent the GDR.\u201d<\/p>\n            <p class=\"tei-p tei-p\">2. <span class=\"tei-emph tei-emph\">I<\/span><span class=\"tei-emph tei-emph\">s it politically wise to establish relations with a state that\n               will be swallowed up by the FRG in a few months\u2019 time<\/span> while it flatly\n               refuses to bear its part in paying reparations to Israel (as defined as fulfilling\n               its part in the absorption of Holocaust survivors from Germany and other countries\n               under Nazi occupation during WWII)? As we know, the East German delegation proposed\n               including a paragraph in the joint declaration on the establishment of relations\n               saying: that Israel and the GDR have decided to hold a meeting of their experts to\n               discuss material contributions. If we insist it will say \u201cIsrael\u2019s material demands\n               from the GDR connected with victims of the Holocaust, no later than 30 days after the\n               date of signature on the establishment of relations.\u201d<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">The advantages of establishing relations<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">\u2013 An achievement for Israeli foreign policy <span class=\"tei-emph tei-emph\">towards the PLO and the Arab\n               state<\/span>s which have enjoyed the political and military support of the GDR for\n               nearly 40 years. Now that state is turning against them by establishing relations\n               with Israel and by publicly and definitively disassociating itself from the UN\n               resolution which condemned Zionism and by condemning terrorism.<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Setting up a framework for negotiations on reparations which creates a dynamic,\n               which in itself will continue afterwards in negotiations with the FRG. (It should be\n               remembered that the West German chancellor has declared that he will honour all the\n               financial commitments of the GDR after the reunification of both the Germanies).<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">The disadvantages of establishing relations<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">\u2013 Giving a \u201cstamp of approval\u201d to the GDR towards their political union with the FRG,\n               without paying its share of the \u201creparations\u201d as we would expect in accordance with\n               the \u201cLuxembourg Agreements\u201d.<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Accepting the text proposed by the GDR delegation, after they have told us that it\n               has no intention of basing the negotiations on the \u201cLuxembourg Agreements\u201d, could be\n               interpreted as agreement on our part to the GDR\u2019s refusal to bind the FRG to\n               negotiate with us on the basis of those agreements.<\/p>\n            <p class=\"tei-p tei-p\">\u2013 It is not worthwhile, from a practical point of view, to establish relations with a\n               state that will not exist in a few months, since in any case we are not talking about\n               setting up diplomatic representations.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\"><span class=\"tei-emph tei-emph\">To sum up,<\/span> the question is purely political. Negotiations on the\n               reparations (proportion, amount, framework) will in any case be held with the\n               FRG.<\/p>\n            <p class=\"tei-p tei-p\">If we decide in favour of establishing relations, we should act to carry this out as\n               soon as the attitude of the FRG becomes clear (from the director-general of the MFA\n               in Bonn) or from Chancellor Kohl. Since a meeting with him could only take place over\n               a month from now, it is preferable to send him a letter, and the reply to it may be\n               received earlier.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memorandum (copy, translated from\n                  Hebrew): <span class=\"tei-idno tei-idno\">Israel State Archives P 4731/2<\/span>. Copies to David Levy,\n                  <a href=\"https://dodis.ch/P57527\" class=\"tei-ref7 tei-link\">dodis.ch/P57527<\/a>, Benjamin\n                  Netanyahu, <a href=\"https://dodis.ch/P57443\" class=\"tei-ref7 tei-link\">dodis.ch/P57443<\/a>, Arye\n                  Levin, <a href=\"https://dodis.ch/P57528\" class=\"tei-ref7 tei-link\">dodis.ch/P57528<\/a>, Robbie\n                  Sabel, <a href=\"https://dodis.ch/P57529\" class=\"tei-ref7 tei-link\">dodis.ch/P57529<\/a>, Michael\n                  Shiloh, <a href=\"https://dodis.ch/P57526\" class=\"tei-ref7 tei-link\">dodis.ch/P57526<\/a>, Moshe\n                  Melamed, <a href=\"https://dodis.ch/P57515\" class=\"tei-ref7 tei-link\">dodis.ch/P57515<\/a> and Joel\n                  Alon, <a href=\"https://dodis.ch/P48643\" class=\"tei-ref7 tei-link\">dodis.ch/P48643<\/a>. Attached:\n                  <span class=\"tei-orig tei-orig\">A summary of our talks in Copenhagen, the telegrams from our\n                     ambassador in Bonn of the <\/span><span class=\"tei-add1 tei-add-edition\">[4<span class=\"tei-hi tei-hi1\">th<\/span>]<\/span>\n                  <span class=\"tei-orig tei-orig\">and 6<span class=\"tei-hi tei-hi1\">th<\/span> of this month<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Yosef Govrin\n                     (*1930), <a href=\"https://dodis.ch/P57509\" class=\"tei-ref7 tei-link\">dodis.ch/P57509<\/a>, Assistant\n                     Director-General for Eastern Europe in the Israeli Ministry of Foreign Affairs\n                     1989\u20131993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Reuven Merhav (*1936), <a href=\"https://dodis.ch/P57513\" class=\"tei-ref7 tei-link\">dodis.ch/P57513<\/a>, Director-General of\n                     the Israeli Ministry of Foreign Affairs 1989\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_6_3\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">David Levy (*1937), <a href=\"https://dodis.ch/P57527\" class=\"tei-ref7 tei-link\">dodis.ch/P57527<\/a>, Deputy Prime Minister and Foreign Minister of Israel\n                     11.6.1990\u201313.7.1992.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_6_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">The Israeli Embassy in\n                  Copenhagen to the Director-General of the Israeli Ministry of Foreign Affairs, 3\n                  July 1990,<span class=\"tei-idno tei-idno\"> Israel State Archives P4731/2<\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_7\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Benjamin Navon\n                  (*1933), <a href=\"https://dodis.ch/P57507\" class=\"tei-ref7 tei-link\">dodis.ch/P57507<\/a>, Israeli\n                  Ambassador in Bonn, to Reuven Merhav, 4 July 1990, <span class=\"tei-idno tei-idno\">Israel State Archives\n                     P4731/2<\/span>. The telegram of 6 July 1990 is not in the file.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_15_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the FRG\n                  1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_15_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_15_4\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">Yitzhak Shamir (1915\u20132012), <a href=\"https://dodis.ch/P54271\" class=\"tei-ref7 tei-link\">dodis.ch/P54271<\/a>, Prime Minister of\n                  Israel 20.10.1986\u201313.7.1992.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_15_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_17_2\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Jürgen Sudhoff (*1935),\n                  <a href=\"https://dodis.ch/P57384\" class=\"tei-ref7 tei-link\">dodis.ch/P57384<\/a>, Secretary of State\n                  in the Foreign Ministry of the FRG 22.4.1987\u201317.1.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_17_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_25_4\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Moshe Arens (1925\u20132019), <a href=\"https://dodis.ch/P57439\" class=\"tei-ref7 tei-link\">dodis.ch/P57439<\/a>, Israeli Foreign Minister 22.12.1988\u201311.6.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_25_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59652,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36104,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59652,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37001,
-                "sort": 0,
-                "attachment": {
-                    "id": 37250,
-                    "attachmentId": 37250,
-                    "date": "",
-                    "fileRef": "dodis-52947.xml",
-                    "fileRefThumbnail": "thumb_dodis-52947.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59652,
                 "volume": null,
                 "tab": false,

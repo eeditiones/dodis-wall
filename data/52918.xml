@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -42,67 +42,84 @@
                <title type="main">Minutes<note xml:id="e1955">Minutes: <idno>UK National Archives
                         CAB 128/94</idno>. Present at this meeting were: Margaret Thatcher (Prime
                      Minister), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>,Geoffrey
-                     Howe (Lord President of the Council), <ref target="https://dodis.ch/P54804">dodis.ch/P54804</ref>, James Mackay (Lord Chancellor), <ref target="https://dodis.ch/P57494">dodis.ch/P57494</ref>, Douglas Hurd
-                     (Secretary of State for Foreign and Commonwealth Affairs), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, John Major
-                     (Chancellor of the Exchequer), <ref target="https://dodis.ch/P57495">dodis.ch/P57495</ref>, David Waddington (Secretary of State for the Home
+                     Howe (Lord President of the Council), <ref target="https://dodis.ch/P54804"
+                        >dodis.ch/P54804</ref>, James Mackay (Lord Chancellor), <ref
+                        target="https://dodis.ch/P57494">dodis.ch/P57494</ref>, Douglas Hurd
+                     (Secretary of State for Foreign and Commonwealth Affairs), <ref
+                        target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, John Major
+                     (Chancellor of the Exchequer), <ref target="https://dodis.ch/P57495"
+                        >dodis.ch/P57495</ref>, David Waddington (Secretary of State for the Home
                      Department), <ref target="https://dodis.ch/P57484">dodis.ch/P57484</ref>, Peter
-                     Walker (Secretary of State for Wales), <ref target="https://dodis.ch/P50851">dodis.ch/P50851</ref>, Norman Fowler (Secretary of State for Employment),
+                     Walker (Secretary of State for Wales), <ref target="https://dodis.ch/P50851"
+                        >dodis.ch/P50851</ref>, Norman Fowler (Secretary of State for Employment),
                         <ref target="https://dodis.ch/P57485">dodis.ch/P57485</ref>, Tom King
-                     (Secretary of State for Defence), <ref target="https://dodis.ch/P57496">dodis.ch/P57496</ref>, Nicholas Ridley (Secretary of State for Trade and
+                     (Secretary of State for Defence), <ref target="https://dodis.ch/P57496"
+                        >dodis.ch/P57496</ref>, Nicholas Ridley (Secretary of State for Trade and
                      Industry), <ref target="https://dodis.ch/P48293">dodis.ch/P48293</ref>, Kenneth
-                     Baker (Chancellor of the Duchy of Lancaster), <ref target="https://dodis.ch/P57498">dodis.ch/P57498</ref>, Kenneth Clarke
-                     (Secretary of State for Health), <ref target="https://dodis.ch/P57486">dodis.ch/P57486</ref>, John MacGregor (Secretary of State for Education and
+                     Baker (Chancellor of the Duchy of Lancaster), <ref
+                        target="https://dodis.ch/P57498">dodis.ch/P57498</ref>, Kenneth Clarke
+                     (Secretary of State for Health), <ref target="https://dodis.ch/P57486"
+                        >dodis.ch/P57486</ref>, John MacGregor (Secretary of State for Education and
                      Science), <ref target="https://dodis.ch/P57500">dodis.ch/P57500</ref>, Malcom
-                     Rifkind (Secretary of State for Scotland), <ref target="https://dodis.ch/P57487">dodis.ch/P57487</ref>, Cecil Parkinson
-                     (Secretary of State for Transport), <ref target="https://dodis.ch/P55897">dodis.ch/P55897</ref>, John Wakeham (Secretary of State for Energy), <ref target="https://dodis.ch/P57488">dodis.ch/P57488</ref>, John Ganzoni (Lord
+                     Rifkind (Secretary of State for Scotland), <ref
+                        target="https://dodis.ch/P57487">dodis.ch/P57487</ref>, Cecil Parkinson
+                     (Secretary of State for Transport), <ref target="https://dodis.ch/P55897"
+                        >dodis.ch/P55897</ref>, John Wakeham (Secretary of State for Energy), <ref
+                        target="https://dodis.ch/P57488">dodis.ch/P57488</ref>, John Ganzoni (Lord
                      Privy Seal), <ref target="https://dodis.ch/P55622">dodis.ch/P55622</ref>,
-                     Antony Newton (Secretary of State for Social Security), <ref target="https://dodis.ch/P57490">dodis.ch/P57490</ref>, Christopher Patten
-                     (Secretary of State for the Environment), <ref target="https://dodis.ch/P57499">dodis.ch/P57499</ref>, Peter Brooke (Secretary of State for Northern
+                     Antony Newton (Secretary of State for Social Security), <ref
+                        target="https://dodis.ch/P57490">dodis.ch/P57490</ref>, Christopher Patten
+                     (Secretary of State for the Environment), <ref target="https://dodis.ch/P57499"
+                        >dodis.ch/P57499</ref>, Peter Brooke (Secretary of State for Northern
                      Ireland), <ref target="https://dodis.ch/P57491">dodis.ch/P57491</ref>, John
-                     Gummer (Minister of Agriculture, Fisheries and Food), <ref target="https://dodis.ch/P57501">dodis.ch/P57501</ref> and Norman Lamont
-                     (Chief Secretary, Treasury), <ref target="https://dodis.ch/P57502">dodis.ch/P57502</ref>.</note> of the 34<hi>th</hi> Meeting of the Cabinet
+                     Gummer (Minister of Agriculture, Fisheries and Food), <ref
+                        target="https://dodis.ch/P57501">dodis.ch/P57501</ref> and Norman Lamont
+                     (Chief Secretary, Treasury), <ref target="https://dodis.ch/P57502"
+                        >dodis.ch/P57502</ref>.</note> of the 34<hi>th</hi> Meeting of the Cabinet
                   held at 10 Downing Street on 15 November 1989 at 9.30 a.m.</title>
             </head>
             <opener>
-               <add>
-                  <add type="edition">
-                     <emph>Extract</emph>
-                  </add>Secret</add>
+               <add><add type="edition"><emph>Extract</emph></add>Secret</add>
             </opener>
             <p n="1">
                <add type="edition">[…]</add>
-               <note xml:id="e2035">For the complete version of the document cf. <ref target="https://dodis.ch/52918">dodis.ch/52918</ref>.</note>
+               <note xml:id="e2035">For the complete version of the document cf. <ref
+                     target="https://dodis.ch/52918">dodis.ch/52918</ref>.</note>
             </p>
             <p/>
             <p n="1">
                <emph>Foreign Affairs: German Democratic Republic</emph>
             </p>
-            <p>3. <emph>The Foreign and Commonwealth Secretary</emph>
-               <note xml:id="e2046">Douglas Hurd (*1930), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British Secretary of State for Foreign and Commonwealth
-                  Affairs, 26.10.1989–5.7.1995.</note> said that events in East Germany had moved
-               very rapidly, particularly following the measures taken to introduce freer travel
-               between East and West Berlin. The key question now was whether the East German
-               government would agree to hold free elections. Their intentions were still obscure.
-               The new Prime Minister, Herr Hans Modrow<note xml:id="e2052">Hans Modrow (*1928),
-                     <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the
-                  GDR Council of Ministers 13.11.1989–12.4.1990.</note>, the former Party Secretary
-               in Dresden, had been elected on 13 November. He had the reputation of a reformer. The
+            <p>3. <emph>The Foreign and Commonwealth Secretary</emph><note xml:id="e2046">Douglas
+                  Hurd (*1930), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British
+                  Secretary of State for Foreign and Commonwealth Affairs,
+                  26.10.1989–5.7.1995.</note> said that events in East Germany had moved very
+               rapidly, particularly following the measures taken to introduce freer travel between
+               East and West Berlin. The key question now was whether the East German government
+               would agree to hold free elections. Their intentions were still obscure. The new
+               Prime Minister, Herr Hans Modrow<note xml:id="e2052">Hans Modrow (*1928), <ref
+                     target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                  Council of Ministers 13.11.1989–12.4.1990.</note>, the former Party Secretary in
+               Dresden, had been elected on 13 November. He had the reputation of a reformer. The
                Party Congress had been brought forward to 15/17 December. This was bound to be a
                crucially important occasion. The opposition groups were pressing for free elections,
                but did not want these to take place immediately since they were not yet ready. There
                had been intensive diplomatic activity as events in East Germany unfolded. The Prime
-                  Minister<note xml:id="e2058">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  Minister<note xml:id="e2058">Margaret Thatcher (1925–2013), <ref
+                     target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
                   United Kingdom 4.5.1979–28.11.1990.</note> had been in close touch with other
                allied leaders. Despite excessive press speculation, allied governments had reacted
                steadily and with caution. This had emerged clearly at the Western European Union
                Ministerial meeting on 13/14 November. The French President, M. Francois
-                  Mitterrand<note xml:id="e2064">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  Mitterrand<note xml:id="e2064">François Mitterrand (1916–1996), <ref
+                     target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
                   21.5.1981–17.5.1995.</note>, had organised a meeting of European Community (EC)
                leaders on 18 November. It was to be hoped that EC leaders would express their
                support and welcome for the changes taking place in Eastern Europe while agreeing on
                the need for a careful and steadfast approach, based on existing well-tried
                institutions. Account had to be taken of the position of the Soviet President, Mr
-               Mikhail Gorbachev.<note xml:id="e2070">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of
+               Mikhail Gorbachev.<note xml:id="e2070">Mikhail Gorbachev (*1931), <ref
+                     target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of
                   the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman of the
                   Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the Soviet
                   Union 15.3.1990–25.12.1991.</note> He faced a difficult situation but it was very
@@ -144,13 +161,16 @@
                West Germany saw its future as remaining an integral member of the EC and Western
                Europe. Herr Waigel had emphasised that West Germany was not seeking reunification at
                the present time. The same line had been taken by the West German Foreign Minister,
-               Herr Genscher<note xml:id="e2088">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+               Herr Genscher<note xml:id="e2088">Hans-Dietrich Genscher (1927–2016), <ref
+                     target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
                   Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>, and the
                Defence Minister, Herr Stoltenberg<note xml:id="e2094">Gerhard Stoltenberg
                   (1928–2001), <ref target="https://dodis.ch/P46108">dodis.ch/P46108</ref>, Defence
                   Minister of the FRG 21.4.1989–1.4.1992.</note>, at the Western European Union
                Ministerial meeting. Nevertheless, these statements contrasted with the greater
-               attention paid to the theme of reunification by Chancellor Kohl<note xml:id="e2100">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> in
+               attention paid to the theme of reunification by Chancellor Kohl<note xml:id="e2100"
+                  >Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852"
+                     >dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> in
                recent speeches, though it should be remembered that he had always been one of the
                foremost advocates of reunification among German political leaders.</p>
             <p>c) Against this background, the West German government was likely to show an
@@ -180,8 +200,7 @@
                Area (EFTA). The EC’s import standards would need to be maintained both in relation
                to East Germany and EFTA.</p>
             <p/>
-            <p n="1">
-               <emph>The Prime Minister</emph> summing up the discussion, said that it was of
+            <p n="1"><emph>The Prime Minister</emph> summing up the discussion, said that it was of
                cardinal importance for Western governments that all these complex questions should
                be handled carefully and prudently. Allied governments should remain in close touch,
                especially Britain, France and the United States who had Four Power rights and

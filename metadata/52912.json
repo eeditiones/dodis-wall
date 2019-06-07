@@ -23,7 +23,7 @@
             {
                 "id": 98226,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -204,23 +204,23 @@
                 "downloadable": true
             },
             {
-                "id": 37028,
+                "id": 37081,
                 "sort": 0,
                 "attachment": {
-                    "id": 36161,
-                    "attachmentId": 36161,
+                    "id": 37296,
+                    "attachmentId": 37296,
                     "date": "",
-                    "fileRef": "dodis-52912.xml",
-                    "fileRefThumbnail": "thumb_dodis-52912.xml.jpg",
+                    "fileRef": "dodis-52912-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52912-en.html.jpg",
                     "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
                     "numberOfReferences": null,
                     "status": "public",
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "text/html",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",
@@ -230,13 +230,13 @@
                         "numberOfReferences": "numberOfReferences",
                         "fileRef": "filename"
                     },
-                    "attachmentHtmlContent": "Error loading file."
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52912\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52912<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memorandum<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> for the\n                  President of the United States, George H. W. Bush<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span><\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">The Soviets and the German Question<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Secret<\/span>\n               <div class=\"tei-dateline tei-dateline\">Washington, D.C., 29 November 1989<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">This paper responds to your request for further analysis of the Soviet Union\u2019s\n               policy toward Germany in light of changes in the GDR and Eastern Europe.<\/p>\n            <p class=\"tei-p tei-p\">Soviet policy toward Germany is \u2013 like everything else \u2013 in a state of flux. The\n               Soviets have lost control of their policy toward Eastern Europe and are largely\n               reacting to events on a day to day basis. Gorbachev<span id=\"fnref_1_5_2_2_9_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_9_2\">3<\/a><\/span> foresaw neither the\n               pace nor the direction of change there and is increasingly powerless to do anything\n               about it. The threat of the use of Soviet military power to reverse events\n               increasingly lacks credibility and no one knows where Moscow\u2019s tolerance will\n               end.<\/p>\n            <p class=\"tei-p tei-p\">The Soviet reaction to events in the GDR is the clearest indication to date that\n               Moscow has come to believe that peaceful economic and political change is the only\n               alternative to a popular explosion. Earlier Gorbachev probably hoped that reform in\n               these countries would take place within the boundaries of a single party system \u2013 a\n               kind of mirror of Soviet perestroika. But he was mistaken.<\/p>\n            <p class=\"tei-p tei-p\">The GDR is not Poland or Hungary and the likelihood of a noncommunist East Germany\n               has reopened the long dormant core issue of Soviet security \u2013 the German question. If\n               the communists lose power in the GDR, the rationale for a divided Germany goes away.\n               Yet the reunification of Germany would rip the heart out of the Soviet security\n               system since East Germany and the 390,000 Soviet forces based on its territory\n               constitute the fulcrum of the Warsaw Pact.<\/p>\n            <p class=\"tei-p tei-p\">Gorbachev\u2019s communication to you on the issue of German reunification was unequivocal\n               \u2013 he emphasized the \u201cpolitical realities of the postwar era, namely the existence of\n               two German states.\u201d<\/p>\n            <p class=\"tei-p tei-p\">The reunification of Germany conjures up deeply held memories and residual fears of\n               repeated German invasions of Russia and the Soviet Union. The Soviet Union\u2019s worst\n               nightmare is a reunified Germany allied with NATO or, alternatively, nominally allied\n               with the West and heavily militarized. The Warsaw Pact, having lost its East German\n               anchor, would quickly disintegrate and the Soviet line of defense would begin at the\n               Ukrainian border. A companion fear is that this reunified Germany would be able to\n               dominate East-Central Europe economically, including a weak Soviet Union.<\/p>\n            <p class=\"tei-p tei-p\">No Soviet leader can allow German reunification on these terms: The gains of World\n               War II, achieved at the cost of 20 million lives, would be gone.<\/p>\n            <p class=\"tei-p tei-p\">The best outcome for Moscow would be the continued existence of two viable German\n               states. The GDR would reform politically and economically, maintain its identity and\n               develop closer economic and political ties with FRG. The continued existence of two\n               German states would allow the GDR to anchor the Warsaw Pact, keeping the Soviet\n               security system nominally intact. At the same time, Moscow would enjoy not only the\n               benefits of direct economic cooperation with the FRG but the contribution of an\n               improved East German economy to COME\u2011 CON.<\/p>\n            <p class=\"tei-p tei-p\">The problem for Moscow now is to design a new policy to promote a favorable outcome\n               when Soviet control over events in Eastern Europe is weak. The Soviets can still use\n               force to stop unwelcomed events. Were there instability and violence in the GDR, the\n               Soviets would most certainly act to protect the 390,000 Soviet troops stationed\n               there. But short of that, it is hard to imagine a pretext for the use of Soviet force\n               which would not discredit perestroika. Even a Soviet response to instability in the\n               GDR carries risks for Gorbachev since the use of force, whatever its rationale, would\n               destroy the chances for full Soviet economic and political rapprochement with the\n               FRG.<\/p>\n            <p class=\"tei-p tei-p\">Moscow\u2019s most likely diplomatic approach is to try and blunt the impact of change in\n               the GDR by solidifying international support for two German states. Betting that\n               there is little true enthusiasm for German reunification in the West \u2013 particularly\n               in France and Britain \u2013 the Soviets would take every opportunity to stabilize the\n               existing system of alliances while holding out the \u201ccommon Eu\u2011 ropean home\u201d as the\n               promised end-point. While Soviet rhetoric might continue to call for the dissolution\n               of blocs, we could expect a constant stream of new proposals for alliance to alliance\n               talks and negotiations. Gorbachev might even use the CFE process, with its timetable\n               for partial withdrawal of U.S. and Soviet forces, to give the Soviet presence a\n               longer life in Europe than it might have if pressures for Soviet withdrawal grow from\n               the populations of Eastern Europe. Finally, we could expect Soviet efforts to\n               strengthen the CSCE\u2019s role in inter-German affairs and European security in order to\n               draw upon the angst of smaller European states about a stronger Germany. But like\n               Gorbachev\u2019s earlier tactics toward Eastern Europe, this policy is likely to fail\n               too.<\/p>\n            <p class=\"tei-p tei-p\">There is currently no evidence of panic in Moscow on the German issue but if the\n               Soviets begin to see their influence over European affairs deteriorating more\n               rapidly, Gorbachev could revert to Soviet calls from the 1950s for a general treaty\n               on collective security in Europe or a German peace treaty. The goal would be to\n               regain control of the pace and form of German reunification. The Soviets might count\n               on the British and French as natural allies in delaying German reunification or\n               pushing it toward confederation.<\/p>\n            <p class=\"tei-p tei-p\">Gorbachev will come to Malta with these issues uppermost in his mind. There is, to\n               date, no evidence that the Soviets have worked out a new policy toward Eastern Europe\n               or Germany. As one Soviet commentator recently remarked, the Soviets have decided\n               that their security interests are not served by the Brezhnev<span id=\"fnref_1_5_2_2_29_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_29_2\">4<\/a><\/span> doctrine\u2019s emphasis on preservation of the leading\n               role of the Party in Eastern Europe. They have not, however, defined a new set of\n               limits. Reformers in Eastern Europe seem to believe that membership in the Warsaw\n               Pact is Moscow\u2019s last line in the sand. But reform in the GDR and the attendant\n               specter of German reunification call even that requirement into question. That is why\n               the German question is \u2013 in a way that it has not been for many years \u2013 high on the\n               Soviet security agenda and they are clearly uncertain about how best to protect their\n               interests over the long-term.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memorandum: <span class=\"tei-idno tei-idno\">Bush Presidential\n                  Library 91116-001<\/span>. Signed by Brent Scowcroft, <a href=\"https://dodis.ch/P57408\" class=\"tei-ref7 tei-link\">dodis.ch/P57408<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">George\n                     Herbert Walker Bush (1924\u20132018), <a href=\"https://dodis.ch/P47406\" class=\"tei-ref7 tei-link\">dodis.ch/P47406<\/a>, President of the United States,\n                     20.1.1989\u201320.1.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_9_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Mikhail\n                  Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>,\n                  General Secretary of the Communist Party of the Soviet Union 11.3.1985\u201324.8.1991,\n                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989\u201315.3.1990 and\n                  President of the Soviet Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_9_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_29_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Leonid Brezhnev (1906\u20131982), <a href=\"https://dodis.ch/P15543\" class=\"tei-ref7 tei-link\">dodis.ch/P15543<\/a>, General Secretary of the Communist Party of the Soviet\n                  Union 14.10.1964\u201310.11.1982, Chairman of the Supreme Soviet of the Soviet Union\n                  16.6.1977\u201310.11.1982.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_29_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
                 },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
                 "specimenId": 59356,
                 "volume": null,
-                "tab": false,
+                "tab": true,
                 "downloadable": true
             },
             {

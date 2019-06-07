@@ -3,8 +3,8 @@
     "data": {
         "id": 52944,
         "title": "Israel-GDR",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "iw",
+        "language": "Hebrew",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "17.12.1989",
@@ -23,7 +23,7 @@
             {
                 "id": 98273,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37085,
+                "sort": 0,
+                "attachment": {
+                    "id": 37300,
+                    "attachmentId": 37300,
+                    "date": "",
+                    "fileRef": "dodis-52944-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52944-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52944\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52944<\/a>\n               <span class=\"tei-title5 tei-title-main\">Letter<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span>\n                  from the Assistant Director-General for Eastern Europe, Yosef Govrin<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Director-General\n                  of the Foreign Ministry, Reuven Merhav<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">Subject: Israel-GDR<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Jerusalem, 17 December 1989<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">1. In the calls by the leaders of the GDR to establish diplomatic relations\n               with Israel which we have witnessed over the last few days, we can see some\n               difference in their content and their tone. (\u201cWithout prior conditions\u201d, \u201cThe GDR\n               expects capital investment from Israel even before the establishment of\n               relations\u201d,\u201dThe GDR intends to discuss payment of compensation to the victims of the\n               Nazis\u201d, \u201cEast Germany cannot pay compensation \u2013 especially not when it is in economic\n               difficulties \u2013 but will be ready to give humanitarian aid to Holocaust victims\u201d etc.)\n               (The quotations are taken from press reports and may not be accurate).<\/p>\n            <p class=\"tei-p tei-p\">2. However, they have a marked interest in discussing the subject of establishing\n               relations and the question of compensation with us. As well as the GDR\u2019s interest in\n               improving its image in the West and getting help from it and from Israel to\n               reconstruct the economy, it seems to me that the reason for the recent offensive is\n               the assumption that the GDR of today sees Israel and world Jewry as a partner in\n               opposing \u201cGerman reunification\u201d. And relations with it may give the current regime a\n               stamp of diplomatic approval, while it is disassociating itself from the methods of\n               the previous regime in the GDR.<\/p>\n            <p class=\"tei-p tei-p\">3. The wish to discuss normalization of relations with us was passed on, as you know,\n               through me in March this year, while I was serving in Bucharest<span id=\"fnref_1_5_2_2_11_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_2\">4<\/a><\/span> \u2013 as an official message: <span class=\"tei-add1 tei-add-edition\">[a\n                     proposal]<\/span> to hold a diplomatic dialogue (in Bucharest) and a meeting of the\n               two Foreign Ministers at the UN General Assembly. It may be that this was the\n               intention of the East German Prime Minister, Modrow<span id=\"fnref_1_5_2_2_11_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_6\">5<\/a><\/span>, when he mentioned in\n               an interview with a Haaretz<span id=\"fnref_1_5_2_2_11_8\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_11_8\">6<\/a><\/span>\n               reporter (Today) \u201cWe have approached Israel directly. I hope that the answer will be\n               positive\u201d. As far as I know there has been no other approach up till now.<\/p>\n            <p class=\"tei-p tei-p\">4. Events in the GDR are still developing and it is too early to judge if there will\n               be a significant change in the East Germans\u2019 attitude towards our issues. Therefore I\n               would recommend that for the moment we confine ourselves to the expression that was\n               already published in our name at this time, that is, \u201cthat the GDR must first\n               recognize its responsibility for the Holocaust and the crimes of the Nazis and\n               arrange the payment of compensation to the victims of the Nazis.\u201d<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Letter (translated from Hebrew):\n                  <span class=\"tei-idno tei-idno\">Israel State Archives MFA7352/17<\/span>. Copies to Sallai Meridor,\n                  <a href=\"https://dodis.ch/P57514\" class=\"tei-ref7 tei-link\">dodis.ch/P57514<\/a> and Moshe\n                  Melamed, <a href=\"https://dodis.ch/P57515\" class=\"tei-ref7 tei-link\">dodis.ch/P57515<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Yosef Govrin (*1930), <a href=\"https://dodis.ch/P57509\" class=\"tei-ref7 tei-link\">dodis.ch/P57509<\/a>, Assistant Director-General for Eastern Europe in the\n                     Israeli Ministry of Foreign Affairs 1989\u20131993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Reuven Merhav (*1936),\n                     <a href=\"https://dodis.ch/P57513\" class=\"tei-ref7 tei-link\">dodis.ch/P57513<\/a>,\n                     Director-General of the Israeli Ministry of Foreign Affairs\n                     1989\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">As Israel\u2019s Ambassador.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_6\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow\n                  (*1928), <a href=\"https://dodis.ch/P54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Chairman of\n                  the GDR Council of Ministers 13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_11_8\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Israeli daily newspaper.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_11_8\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59649,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36350,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59649,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37024,
-                "sort": 0,
-                "attachment": {
-                    "id": 36319,
-                    "attachmentId": 36319,
-                    "date": "",
-                    "fileRef": "dodis-52944.xml",
-                    "fileRefThumbnail": "thumb_dodis-52944.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59649,
                 "volume": null,
                 "tab": false,

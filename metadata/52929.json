@@ -23,7 +23,7 @@
             {
                 "id": 98252,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37088,
+                "sort": 0,
+                "attachment": {
+                    "id": 37303,
+                    "attachmentId": 37303,
+                    "date": "",
+                    "fileRef": "dodis-52929-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52929-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52929\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52929<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memorandum of conversation<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Austrian Federal Chancellery<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">Conversation of the Chancellor<span id=\"fnref_1_5_2_2_3_6_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_6_3\">2<\/a><\/span> with Prime Minister\n                  Modrow<span id=\"fnref_1_5_2_2_3_6_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_6_5\">3<\/a><\/span>, 24.11.1989<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Vienna, 2 Dezember 1989<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">Prime Minister Modrow thanks at the outset for this visit, which is\n               particularly important given the current situation in the GDR and is thus highly\n               appreciated.<\/p>\n            <p class=\"tei-p tei-p\">First, the following has to be said concerning the GDR\u2019s internal situation:<\/p>\n            <p class=\"tei-p tei-p\">The resignation of the old government and the initiation of reform measures were\n               delayed beyond any comprehensible extent. This caused the population, especially the\n               \u201cyouth fraction\u201d, to become active, and the resignation of the old and the formation\n               of the new government have taken place against a backdrop of massive demonstrations\n               and rallies. There has been little time for him to form a government and create a\n               program of action.<\/p>\n            <p class=\"tei-p tei-p\">As a first step, he decided to reduce the government (coalition distribution 28:11).\n               This was a good decision, which also found public approval. The debate on the\n               election of the new executive committee and the questioning of the old government in\n               the People\u2019s Chamber were also good because a lot of steam was discharged this way.\n               He is aware that he was being given great trust, which could be taken away at any\n               time. Now it is necessary to turn this leap of faith into real trust.<\/p>\n            <p class=\"tei-p tei-p\">The political situation in the country is very complicated. The established sources\n               of political influence are no longer significant. In rallies and demonstrations, new\n               political movements and forces that must now be included have articulated. He had\n               made the offer of a round table, which was more or less accepted. He considers this\n               an important part of his political work. On the one hand, you must respond to the\n               mood of the country, on the other hand you need all political forces to be involved\n               in a role of responsibility. It is not acceptable that a large group should be\n               content with only questioning those responsible.<\/p>\n            <p class=\"tei-p tei-p\">For all reform measures, economic stability is the prerequisite and given the\n               economic situation of the GDR, foreign economic relations are especially meaningful.\n               Austria has always been an important partner for the GDR. Relations have been\n               sustained with continuity and trust and must further develop on this basis.<\/p>\n            <p class=\"tei-p tei-p\">Among the socialist countries, the overall economic development of the GDR offers the\n               most favorable conditions for a process of renewal, but with regard to contents a new\n               mobilization must take place. Some instruments of the modern economy that had been\n               rejected by the former government now have to be implemented \u2013 especially terms such\n               as joint ventures, transfer of capital, etc.<\/p>\n            <p class=\"tei-p tei-p\">It is of utmost importance to gradually change the bureaucratically encrusted\n               centralized management of the economy, however, in a step-by-step process to avoid\n               instability.<\/p>\n            <p class=\"tei-p tei-p\">Moreover, it is necessary to renew the societal system as a socialist one, therefore\n               a program of legal decisions and a list of legislation to be enacted were created.\n               The parliament will have a lot of work to do in the next few weeks. The People\u2019s\n               Chamber has already appointed two commissions, one that has been assigned to deal\n               with the amendments to the constitution (for example, rephrasing the leadership role\n               of the working class, creation of a constitutional court), and the other to draw up a\n               new electoral law.<\/p>\n            <p class=\"tei-p tei-p\">In foreign policy, he attaches great importance to European policy. This particular\n               priority for European initiatives is new in the overall design of foreign policy.\n               Also in this sense, the visit of the Chancellor is especially important. Of course,\n               all alliance relations will be maintained, and relations with the USSR will remain\n               especially important because of the mutual economic interdependence.<\/p>\n            <p class=\"tei-p tei-p\">Regarding relations with the FRG, it was felt in the exploratory talks with\n               Seiters<span id=\"fnref_1_5_2_2_27_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_27_2\">4<\/a><\/span> that\n               an important stage of work is still necessary. The constant meddling by the FRG\n               showed that there was little trust in and respect for the sovereignty of the GDR.<\/p>\n            <p class=\"tei-p tei-p\">Of course, the decision in favour of an open border has qualitatively changed the\n               situation. The offer of the GDR has been put forward, and it has coined the term\n               \u201ctreaty community\u201d \u2013 how broad and how versatile this treaty community might be\n               remains to be explored.<\/p>\n            <p class=\"tei-p tei-p\">Trade and economic relations with Austria have developed well, and we are very\n               interested in its continuation. This is underscored by Austria\u2019s high level of\n               participation at the Autumn Fair and the interest of Austrian entrepreneurs. We\n               expect to go on working with continuity and stability. Given the annual framing\n               contract, we have gone the farthest with Austria in the development of economic\n               relations.<\/p>\n            <p class=\"tei-p tei-p\">The Chancellor expressed his thanks for the comprehensive and frank presentation.\n               Relations between Austria and the GDR are excellent in all areas, including culture\n               and tourism, and the framework agreement is a good signal that this should continue\n               in the future. In the economic sphere, Austria attaches great importance to\n               cooperation in environmental technology, and it would like to develop some such\n               initiatives. The Chancellor then gave a short overview of the outstanding Austrian\n               economic development, as well as Austrian integration policy, and referred in this\n               context to Austria\u2019s adherence to neutrality and its neutrality policy, which is very\n               important at present given the transformation in the Eastern European neighboring\n               countries.<\/p>\n            <p class=\"tei-p tei-p\">The Chancellor mentioned that he had heard an ORF<span id=\"fnref_1_5_2_2_35_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_35_2\">5<\/a><\/span> interview\n               with Mr. Krenz<span id=\"fnref_1_5_2_2_35_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_35_4\">6<\/a><\/span> upon his departure, where he was confronted with the\n               question of German reunification. Krenz expressed his opinion that it was not an\n               urgent interest for the people of the GDR. Austria sees this primarily as a decision\n               that has to be made by the German states and would also respect this decision. On the\n               other hand, one needs to take the pan-European context into consideration, and in\n               this sense, the decisions made by the CSCE on the stability of Europe.<\/p>\n            <p class=\"tei-p tei-p\">The transition to a plurality of the political spectrum and its constitutional\n               anchoring has triggered much active interest and sympathy in Austria, which would\n               also have an impact on cooperation and support. With the \u201cEast-West Fund\u201d, a new\n               structure for financial cooperation has been found that offers a sound basis for\n               joint investment projects and joint ventures, etc. Austria would also actively engage\n               in international forums in favor of Eastern European countries. Unfortunately,\n               Austria recently lost some economic projects in the GDR (for example, Buna<span id=\"fnref_1_5_2_2_37_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_37_2\">7<\/a><\/span>, Leuna<span id=\"fnref_1_5_2_2_37_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_37_4\">8<\/a><\/span>), and especially in the light of this he would like to emphasize\n               Austria\u2019s interest in strengthening economic cooperation.<\/p>\n            <p class=\"tei-p tei-p\">Prime Minister Modrow then briefly explained his position on the issue of\n               reunification. This has various aspects: on the one hand, it corresponds with a\n               natural human need, but on the other hand has some chauvinistic aspects (restoration\n               of Germany\u2019s 1937 borders). The situation in today\u2019s Europe is bound to the existence\n               of two German states, and that must be the understanding from which one starts. Of\n               course, one must look at history as a process that does not stand still, but every\n               change in this regard will take a long time and involve international thinking over\n               long periods. He could imagine a solution to this problem only within the \u201cfederal\n               structures of a wider Europe\u201d. For him, it is particularly important in this context\n               to connect the process of inner renewal with everything that shows European\n               responsibility.<\/p>\n            <p class=\"tei-p tei-p\">In the afternoon of 24.11, the Chancellor held meetings with Mr. de Maizière<span id=\"fnref_1_5_2_2_41_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_41_2\">9<\/a><\/span> (CDU), Mr.\n               Steffen Reiche (SPD)<span id=\"fnref_1_5_2_2_41_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_41_4\">10<\/a><\/span>, and Professor Jens Reich (Forum)<span id=\"fnref_1_5_2_2_41_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_41_6\">11<\/a><\/span> as well as with Mayor Momper<span id=\"fnref_1_5_2_2_41_8\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_41_8\">12<\/a><\/span>.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memorandum of\n                  conversation (translated from German): <span class=\"tei-idno tei-idno\">Austrian State Archive ÖStA, AdR,\n                     BMAA, II-Pol 1989, GZ. 518.01.12/89<\/span>. Written by Eva Nowotny, <a href=\"https://dodis.ch/P57522\" class=\"tei-ref7 tei-link\">dodis.ch/P57522<\/a>; also published in\n                  Wilson Center, doc. 165715. Forwarded to the Cabinet of the Foreign Minister on\n                  4 December 1989. The Head of the Cabinet Emil Staffelmayr took notice and\n                  forwarded the memorandum to the Political Section. No further circulation was\n                  initiated.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_6_3\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Franz Vranitzky\n                  (*1937), <a href=\"https://dodis.ch/P57523\" class=\"tei-ref7 tei-link\">dodis.ch/P57523<\/a>,\n                  Chancellor of Austria 16.6.1986\u201328.1.1997.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_6_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_6_5\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Hans Modrow (*1928), <a href=\"https://dodis.ch/P54796\" class=\"tei-ref7 tei-link\">dodis.ch/P54796<\/a>, Chairman of the GDR\n                     Council of Ministers 13.11.1989\u201312.4.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_6_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_27_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Rudolf Seiters (*1937), <a href=\"https://dodis.ch/P57431\" class=\"tei-ref7 tei-link\">dodis.ch/P57431<\/a>, Head of the Office of\n                  the Chancellery and Minister for Special Affairs of the FRG 1989\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_27_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_35_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Österreichischer Rundfunk (Austrian Broadcasting Corporation).<a class=\"fn-back\" href=\"#fnref_1_5_2_2_35_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_35_4\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Egon Krenz (*1937), <a href=\"https://dodis.ch/P54794\" class=\"tei-ref7 tei-link\">dodis.ch/P54794<\/a>, General Secretary of\n                  the SED 18.10.1989\u20133.12.1989 and Chairman of the GDR State Council\n                  18.10.1989\u20136.12.1989.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_35_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_37_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">The <span class=\"tei-orig tei-orig\">Beuna Werke<\/span> were a chemical company specializing\n                  in the production of polymer materials.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_37_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_37_4\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">The\n                     <span class=\"tei-orig tei-orig\">Leuna Werke<\/span> were the largest chemical procution site in the\n                     GDR.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_37_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_41_2\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Lothar de Maizière (*1940), <a href=\"https://dodis.ch/P54809\" class=\"tei-ref7 tei-link\">dodis.ch/P54809<\/a>, GDR Prime Minister 12.4\u20132.10.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_41_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_41_4\">\n                        <dt class=\"fn-number\">10<\/dt>\n                        <dd class=\"fn-content\">Steffen Reiche (*1960), <a href=\"https://dodis.ch/P57524\" class=\"tei-ref7 tei-link\">dodis.ch/P57524<\/a>, co-founder of the\n                  Social Democratic Party in the GDR.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_41_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_41_6\">\n                        <dt class=\"fn-number\">11<\/dt>\n                        <dd class=\"fn-content\">Jens Reich (*1939), <a href=\"https://dodis.ch/P57525\" class=\"tei-ref7 tei-link\">dodis.ch/P57525<\/a>, co-author of the appeal<span class=\"tei-orig tei-orig\"> Aufbruch 89 \u2013 Neues\n                           Forum<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_41_6\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_41_8\">\n                        <dt class=\"fn-number\">12<\/dt>\n                        <dd class=\"fn-content\">Walter\n                              Momper (*1945), <a href=\"https://dodis.ch/P57440\" class=\"tei-ref7 tei-link\">dodis.ch/P57440<\/a>,\n                              Governing Mayor of West Berlin 16.2.1989\u201324.1.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_41_8\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59673,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36357,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59673,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37026,
-                "sort": 0,
-                "attachment": {
-                    "id": 36317,
-                    "attachmentId": 36317,
-                    "date": "",
-                    "fileRef": "dodis-52929.xml",
-                    "fileRefThumbnail": "thumb_dodis-52929.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59673,
                 "volume": null,
                 "tab": false,

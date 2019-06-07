@@ -3,8 +3,8 @@
     "data": {
         "id": 52943,
         "title": "RPG-DDR",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "iw",
+        "language": "Hebrew",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "14.11.1989",
@@ -23,7 +23,7 @@
             {
                 "id": 98272,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37077,
+                "sort": 0,
+                "attachment": {
+                    "id": 37292,
+                    "attachmentId": 37292,
+                    "date": "",
+                    "fileRef": "dodis-52943-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52943-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52943\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52943<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Israeli Ambassador in Bonn, Benjamin\n                  Navon<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Israeli Foreign Ministry<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">FRG\u2013GDR<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <span class=\"tei-add2 tei-add-opener\">Restricted/Urgent<\/span>\n               <div class=\"tei-dateline tei-dateline\">Bonn, 14 November 1989<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">Under separate cover, priority \u201cImmediate\u201d, a survey on relations between the\n               FRG and the GDR<span id=\"fnref_1_5_2_2_7_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_2\">3<\/a><\/span>.<\/p>\n            <p class=\"tei-p tei-p\">Below a paragraph <span class=\"tei-add1 tei-add-edition\">[of background information]<\/span> in\n               preparation for the question in the Knesset:<\/p>\n            <p class=\"tei-p tei-p\">The question of the reunification of Germany is of interest to Israel only in the\n               context of a rise in German nationalism.<\/p>\n            <p class=\"tei-p tei-p\">The question of unification is perhaps on the \u201calmost messianic\u201d agenda in Germany\n               but is certainly not on the practical agenda. No one is dealing with it as a\n               practical problem and feelings are very mixed. My recommendation is thus to avoid\n               dire predictions about a powerful wave of German nationalism. I would remind you of\n               the statement by the Republican leader Schönhuber<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">4<\/a><\/span> about the East German refugees, \u201cSoll das<span id=\"fnref_1_5_2_2_13_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_4\">5<\/a><\/span> Pack drüben\n               bleiben\u201d (it would be better that the gang should stay there). If Schönhuber, who has\n               no qualms about exploiting nationalist feelings for his political needs, is not\n               adopting this issue, there is reason to assume that nationalism and reunification in\n               the Germany of today do not necessarily go hand in hand.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Coded telegram (incoming, translated\n                  from Hebrew): <span class=\"tei-idno tei-idno\">Israel State Archives MFA9537/11<\/span>. Addressed to\n                  Europe division 1.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Benjamin Navon (*1933), <a href=\"https://dodis.ch/P57507\" class=\"tei-ref7 tei-link\">dodis.ch/P57507<\/a>, Israeli Ambassador\n                     in Bonn, 1989\u20131993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_2\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 114 from Benjamin Navon to Europe\n                  division 1, from 14 November 1989, in the same file.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Franz\n                  Schönhuber (1923\u20132005), <a href=\"https://dodis.ch/P54840\" class=\"tei-ref7 tei-link\">dodis.ch/P54840<\/a>, journalist and politician of the FRG, founder and later\n                  chairman of The Republicans.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">In the original: <span class=\"tei-orig tei-orig\">SOLL GSD PACK DRUEBEN BLEIBEN<\/span>. The\n                     letters \u201cGSD\u201d are most likely a spelling mistake for \u201cdas\u201d.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59648,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36351,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59648,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37032,
-                "sort": 0,
-                "attachment": {
-                    "id": 36263,
-                    "attachmentId": 36263,
-                    "date": "",
-                    "fileRef": "dodis-52943.xml",
-                    "fileRefThumbnail": "thumb_dodis-52943.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59648,
                 "volume": null,
                 "tab": false,

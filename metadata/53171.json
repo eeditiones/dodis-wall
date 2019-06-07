@@ -3,8 +3,8 @@
     "data": {
         "id": 53171,
         "title": "",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "pl",
+        "language": "Polish",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "29.11.1989",
@@ -23,7 +23,7 @@
             {
                 "id": 98968,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -204,23 +204,23 @@
                 "downloadable": true
             },
             {
-                "id": 37027,
+                "id": 37084,
                 "sort": 0,
                 "attachment": {
-                    "id": 36316,
-                    "attachmentId": 36316,
+                    "id": 37299,
+                    "attachmentId": 37299,
                     "date": "",
-                    "fileRef": "dodis-53171.xml",
-                    "fileRefThumbnail": "thumb_dodis-53171.xml.jpg",
+                    "fileRef": "dodis-53171-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53171-en.html.jpg",
                     "roundedNumber": 53000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
                     "numberOfReferences": null,
                     "status": "public",
                     "fileExists": null,
                     "title": null,
                     "thumbExists": null,
-                    "mimetype": "text/xml",
+                    "mimetype": "text/html",
                     "mappings": {
                         "date": "dateId.dateBegin",
                         "attachmentType": "attachmentType",
@@ -230,13 +230,13 @@
                         "numberOfReferences": "numberOfReferences",
                         "fileRef": "filename"
                     },
-                    "attachmentHtmlContent": "Error loading file."
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53171\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53171<\/a>\n               <span class=\"tei-title5 tei-title-main\">Telegram<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> from the Polish Ambassador in Cologne,\n                  Ryszard Karski<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span>, to the Polish Deputy Minister of Foreign Affairs,\n                  Bolesław Kulski<span id=\"fnref_1_5_2_2_3_4_7\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_7\">3<\/a><\/span><\/span>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Immediately Cologne<span id=\"fnref_1_5_2_2_5_2_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_5_2_2\">4<\/a><\/span>, 29 November 1989, 6.20 p.m.<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">Assessment of Chancellor Kohl\u2019s<span id=\"fnref_1_5_2_2_7_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_2\">5<\/a><\/span> 10-point \u201cGerman policy\u201d programme presented at\n               the Bundestag on 29 November (résumé by diplomatic cable, full version 29\n               November<span id=\"fnref_1_5_2_2_7_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_7_4\">6<\/a><\/span>).<\/p>\n            <p class=\"tei-p tei-p\">1. Kohl\u2019s address marks a new quality in Bonn\u2019s reunification policy, a transition to\n               its operative and concrete phase.<\/p>\n            <p class=\"tei-p tei-p\">2. The programme he set out involves the creation of a political and economic\n               infrastructure, the concept of confederation followed by federation of the two states\n               (while pursuing the aim of full reunification of Germany), but without defining a\n               specific timeframe. The vision is very compelling and broad, without precluding any\n               modifications and other solutions heading in the same direction.<\/p>\n            <p class=\"tei-p tei-p\">3. Kohl\u2019s concept meets the expectations of West German political circles and its\n               public; it allows the Chancellor and government to seize the initiative on this\n               subject matter, both with respect to the GDR and internal politics of the FRG. Given\n               the broad support for the programme from all major political parties (except for the\n               \u201cGreens\u201d), it can be viewed as a national mission.<\/p>\n            <p class=\"tei-p tei-p\">4. Kohl\u2019s political and \u2013 crucially \u2013 economic offer addressed to the GDR (immediate\n               assistance in many fields, substantial increase in such assistance in the future,\n               facilitating links with the EEC) on condition of fundamental and irreversible\n               internal changes in the GDR is aimed at invigorating and enhancing reunification\n               sentiments among the public and the political circles of the GDR (notably in view of\n               discussions ahead of a convention of the Socialist Unity Party of Germany (SED), and\n               the important decisions about further development at home and relations with the\n               FRG). Special importance is attached to free elections in the hope that they will\n               change power relations and make it easier for Bonn to achieve its objectives.<\/p>\n            <p class=\"tei-p tei-p\">5. It is apparent that Kohl is making a strong connection between reunification and a\n               future European architecture, the CSCE and disarmament process, and W<span class=\"tei-add1 tei-add-edition\">[estern]<\/span> E<span class=\"tei-add1 tei-add-edition\">[uropean]<\/span> integration so\n               as to alleviate widespread concerns (harboured also by the Allies) that the\n               integration of both German states is proceeding too quickly and could slip out of\n               control. However, the very fact that Bonn has introduced such an initiative at this\n               stage is due to a belief that is gaining ground in the FRG whereby both the East\n               (including the USSR) and the West are less and less capable of slowing down the\n               dynamic process towards reunification. At the same time, attempts are being made to\n               create an impression that Bonn\u2019s current actions are being taken with the consent of\n               the main Allies, including the USSR (as suggested by Teltschik<span id=\"fnref_1_5_2_2_17_6\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_17_6\">7<\/a><\/span> at an internal briefing for leading West German journalists on 27\n               November).<\/p>\n            <p class=\"tei-p tei-p\">6. From the Polish point of view, it is unfavourable that guarantees for the\n               Oder-Neisse border should be completely left aside (even though Bonn is aware of\n               Poland\u2019s strong position, which was communicated during Kohl\u2019s visit, and the fact\n               that the FRG\u2019s allies \u2013 especially France \u2013 have been raising this issue). Practical\n               implementation of the programme outlined, which gives absolute priority to relations\n               with the GDR, creates the prospect \u2013 despite official assurances \u2013 of our country\n               being side-lined in FRG policy (especially in economic collaboration) behind the GDR,\n               USSR and CSSR.<\/p>\n            <p class=\"tei-p tei-p\">In the present situation, we believe that it would be advisable to:<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Consider reiterating the Polish position, notably by highlighting territorial\n               guarantees as one of the fundamental conditions for any further examination of the\n               development of the \u201cGerman problem\u201d;<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Step up efforts to coordinate views on this subject matter with the most interested\n               stakeholders in the East and West.<\/p>\n            <p class=\"tei-p tei-p\">It is especially important that the broadest possible consensus should be built at\n               home over German affairs, which are of vital importance to the nation and state.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Telegram No. 0-2787/IV (incoming,\n                  translated from Polish): <span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign\n                     Affairs AMSZ, ZD 24/91, w. 11, w. 37<\/span>. Delivered by: <span class=\"tei-orig tei-orig\">30 November\n                        1989, 12.20 a.m.<\/span><a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Ryszard Karski (*1926), <a href=\"https://dodis.ch/P57590\" class=\"tei-ref7 tei-link\">dodis.ch/P57590<\/a>, Polish Ambassador in\n                     Cologne 1987\u20131990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_7\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Bolesław Kulski, <a href=\"https://dodis.ch/P50550\" class=\"tei-ref7 tei-link\">dodis.ch/P50550<\/a>, Polish Deputy\n                     Minister of Foreign Affairs 1988\u20131990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_7\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_5_2_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">The Polish Embassy in the FRG was\n                  situated in Cologne.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_5_2_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017),\n               <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the\n               FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_7_4\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\"><span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign\n                  Affairs AMSZ, Dep. IV 31/92, w. 2<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_7_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_17_6\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Horst M. Teltschik (*1940), <a href=\"https://dodis.ch/P57413\" class=\"tei-ref7 tei-link\">dodis.ch/P57413<\/a>, Foreign policy advisor to the Chancellor of the\n                  FRG.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_17_6\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
                 },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
                 "specimenId": 59740,
                 "volume": null,
-                "tab": false,
+                "tab": true,
                 "downloadable": true
             },
             {

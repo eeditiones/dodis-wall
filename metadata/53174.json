@@ -3,8 +3,8 @@
     "data": {
         "id": 53174,
         "title": "Urgent Note Concerning the Talks between Prime Minister T. Mazowiecki  and Chancellor H. Kohl  in Frankfurt an der Oder and Slubice on 8 November this Year",
-        "langCode": "ot",
-        "language": "ot",
+        "langCode": "pl",
+        "language": "Polish",
         "assessment": 0,
         "assessmentText": "Document A",
         "documentDate": "11.11.1990",
@@ -23,7 +23,7 @@
             {
                 "id": 98971,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37104,
+                "sort": 0,
+                "attachment": {
+                    "id": 37319,
+                    "attachmentId": 37319,
+                    "date": "",
+                    "fileRef": "dodis-53174-en.html",
+                    "fileRefThumbnail": "thumb_dodis-53174-en.html.jpg",
+                    "roundedNumber": 53000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/53174\" class=\"tei-ref3 tei-head-nr\">dodis.ch/53174<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memorandum<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Polish\n                  Minister of Foreign Affairs, Krzysztof Skubiszewski<span id=\"fnref_1_5_2_2_3_4_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_5\">2<\/a><\/span><\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">Urgent Note Concerning the Talks between Prime Minister T.\n                  Mazowiecki<span id=\"fnref_1_5_2_2_3_6_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_6_3\">3<\/a><\/span> and Chancellor H. Kohl<span id=\"fnref_1_5_2_2_3_6_5\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_6_5\">4<\/a><\/span>\n                  in Frankfurt an der Oder and Slubice on 8 November this Year<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Warsaw, 11 November 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">I. In the course of talks held by Prime Minister T. Mazowiecki and the FRG\u2019s\n               Federal Chancellor H. Kohl in Frankfurt an der Oder and Slubice on 8 November the\n               following was arranged:<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">1. Treaties<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">a) This November in Warsaw, the Foreign Ministers are to sign a Treaty between the\n               Republic of Poland and the Federal Republic of Germany confirming the existing border\n               between them<span id=\"fnref_1_5_2_2_13_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_13_2\">5<\/a><\/span>.<\/p>\n            <p class=\"tei-p tei-p\">b) The process to negotiate the Treaty on Good Neighbourhood and Friendly Cooperation\n               is to be completed by late January 1991<span id=\"fnref_1_5_2_2_15_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_15_2\">6<\/a><\/span>.<\/p>\n            <p class=\"tei-p tei-p\">c) The two aforementioned treaties will be submitted together for ratification by the\n               parliaments of Poland and FRG, by late February 1991 at the latest.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">2. Movement of people<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">a) The FRG government has already decided to lift the visa requirement for Polish\n               citizens (on a reciprocal basis) and intends to implement this decision later this\n               year<span id=\"fnref_1_5_2_2_23_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_23_2\">7<\/a><\/span>. With this in mind, it entered into official consultations with\n               France and the Benelux countries (the so-called Schengen group). A positive decision\n               by the Schengen Five is due in late November; it would make it possible to remove\n               visas for travel to these countries, before Christmas if possible (by way of an\n               exchange of diplomatic notes).<\/p>\n            <p class=\"tei-p tei-p\">b) Polish consular, passport, and customs services will take actions \u2014 in\n               coordination with their counterparts from the FRG, France, Belgium, the Netherlands,\n               and Luxembourg \u2014 to ensure smooth handling of the expected increased movement of\n               people from and to Poland and to ensure it is not abused for purposes that contradict\n               the agreement about to be concluded (e.g. illicit trade, smuggling, taking up work\n               without permit). The number of border crossings will be expanded; they will be\n               extended and upgraded; passport and customs clearances will be simplified and\n               streamlined but with the simultaneous introduction of more stringent customs checks\n               and more severe administrative measures against people who abuse the freedom of\n               visa-free travel, etc.<\/p>\n            <p class=\"tei-p tei-p\">c) As soon as possible, i.e. to the extent practicable in the first quarter of 1991,\n               a pilot project will be launched: the construction, at the FRG\u2019s cost, of a\n               10km-section of a six-lane motorway on both sides of the border (5km from Frankfurt\n               an der Oder into Germany + 5km from Swiecko into Poland.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">3. Regional cooperation, especially between border regions<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">a) The following will be established: A Joint Inter-Governmental Commission for\n               Regional Cooperation and a Joint Border Commission (composed of representatives of\n               Polish provinces, border towns, communes and FRG Länder located along the\n               border).<\/p>\n            <p class=\"tei-p tei-p\">b) In 1991, a separate Poland-FRG treaty will be made on regional cooperation.<\/p>\n            <p class=\"tei-p tei-p\">c) Relevant provisions will be adopted in the Treaty on Good Neighbourhood and\n               Friendly Cooperation.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">4. Youth exchange<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">Youth exchanges should grow several times in 1991 as compared with this year\n               (expected levels of 6,000\u20137,000 people). The composition of the Polish-German Youth\n               Exchange Council will be considerably changed. Furthermore, a joint Office for the\n               organisation of youth exchanges will be established (modelled after the\n               Deutsch-Französisches Jugendwerk).<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">5. Aid for forced labourers and concentration camp prisoners<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">In January 1991, the heads of government of the two countries will reach agreement\n               about using a pragmatic approach (foundation, fund) with respect to the\n               aforementioned category of Polish citizens who had suffered under the Third\n               Reich.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">II. On <span class=\"tei-emph tei-emph\">economic and financial cooperation<\/span> between Poland and the\n               FRG:<\/p>\n            <p class=\"tei-p tei-p\">1. A list of our most important proposals and suggestions will be drawn up, together\n               with a short statement of grounds (non-paper), which will be conveyed to the FRG\n               accompanied by a personal letter from Prime Minister T. Mazowiecki to Chancellor\n               Kohl; this will be a working basis for talks between Deputy Prime Minister L.\n               Balcerowicz<span id=\"fnref_1_5_2_2_55_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_55_2\">8<\/a><\/span> and H. Kohl (the FRG Chancellor\n               reiterated his invitation for a visit). On this basis, H. Kohl will support relevant\n               Polish efforts at the EEC summit (14 December this year), in the Paris Club, and\n               among the 24 countries. The non-paper should specifically address such issues as\n               Poland\u2019s association with the EEC, write-off of Poland\u2019s debts, compensation for the\n               losses over the Gulf crisis, cooperation projects within the FRG-Poland-USSR triangle\n               (e.g. construction of homes for Soviet soldiers returning from the former GDR, food\n               shipments for the USSR), or perhaps the issue of Poland\u2019s losses in connection with\n               the reunification of Germany.<\/p>\n            <p class=\"tei-p tei-p\">2. <span class=\"tei-emph tei-emph\">Employment of Polish contract workers in Germany:<\/span> Our consent to\n               signing a new Polish-German pension agreement has been made conditional on the\n               acceptance of our proposal, i.e. retention of the current employment limits (11,000\n               in the FRG, 35,000 in the former GDR).<\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">3. Financial and economic costs of German reunification<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">If this issue cannot be resolved still this year, the heads of Polish and FRG\n               governments will raise the issue of <span class=\"tei-emph tei-emph\">rouble conversions<\/span> in our trade with\n               the former GDR area in January 1991.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">III. Other<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">1. <span class=\"tei-emph tei-emph\">Transfer of military equipment, weapons and ammunition from the FRG to\n               Poland from the stocks of the former GDR National People\u2019s Army:<\/span> H. Kohl\n               has agreed to meet some of the Polish side\u2019s requests (mainly with respect to\n               ammunition, rifles, and combat vehicles); this matter will be conclusively settled\n               during the coming FRG visit of the Polish Minister of National Defence<span id=\"fnref_1_5_2_2_67_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_67_4\">9<\/a><\/span>. It will be also essential for Poland to obtain\n               approval from the USSR. At H. Kohl\u2019s request, this matter should for the time being\n               be given a low profile (pending its successful conclusion), among others because of\n               similar efforts by Hungary and the Czech and Slovak Federative Republic.<\/p>\n            <p class=\"tei-p tei-p\">2. <span class=\"tei-emph tei-emph\">Transit of Soviet troops from the former GDR through Poland into the\n               USSR<\/span> (costs to be covered by the FRG). A joint panel of experts will be set\n               up to discuss this issue. It will be also raised during the FRG visit of the Polish\n               Minister of National Defence.<\/p>\n            <p class=\"tei-p tei-p\">3. <span class=\"tei-emph tei-emph\">Reinstallation of a TV/radio transmitter on Sniezka<\/span> (removed in 1980\n               at the request of the GDR), funded by the FRG, for broadcasting in Polish, German,\n               and Czech. Prime Minister T. Mazowiecki has promised to grant this FRG request; at\n               the same time he noted the need to implement projects to launch TV/radio channels for\n               the Polish diaspora and emigrants in the FRG.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">IV. I ask the ministries concerned to promptly contact the relevant FRG\n               authorities in order to implement the aforementioned decisions. The Ministry of\n               Foreign Affairs is to be updated on an ongoing basis on progress in this area.<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memorandum (translated from\n                  Polish): <span class=\"tei-idno tei-idno\">Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep. IV\n                     15/94, w. 1<\/span>. Prepared by Jerzy Sułek, <a href=\"https://dodis.ch/P57584\" class=\"tei-ref7 tei-link\">dodis.ch/P57584<\/a>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_5\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Krzysztof\n                     Skubiszewski (1926\u20132010), <a href=\"https://dodis.ch/P57377\" class=\"tei-ref7 tei-link\">dodis.ch/P57377<\/a>, Polish Minister of Foreign Affairs\n                     12.9.1989\u201326.10.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_6_3\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Tadeusz Mazowiecki (1927\u20132013), <a href=\"https://dodis.ch/P57378\" class=\"tei-ref7 tei-link\">dodis.ch/P57378<\/a>, Prime Minister of\n                     Poland 24.8.1989\u201312.1.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_6_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_6_5\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Helmut Kohl (1930\u20132017), <a href=\"https://dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_6_5\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_13_2\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\"><span class=\"tei-orig tei-orig\">Treaty between the Republic of Poland and the\n                  Federal Republic of Germany Concerning the Demarcation of the Established and\n                  Existing Polish-German State Frontier<\/span> signed in Warsaw on 14 November\n                  1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_13_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_15_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\"><span class=\"tei-orig tei-orig\">Treaty between the\n                  Republic of Poland and the Federal Republic of Germany on Good Neighbourly\n                  Relations and Friendly Cooperation<\/span> signed in Bonn on 17 June\n                  1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_15_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_23_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\"><span class=\"tei-orig tei-orig\">Agreement on the Abolition of the Visa\n                  Requirement<\/span> concluded in the form of exchange of notes on 4 April\n                  1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_23_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_55_2\">\n                        <dt class=\"fn-number\">8<\/dt>\n                        <dd class=\"fn-content\">Leszek Balcerowicz (*1947), <a href=\"https://dodis.ch/P57596\" class=\"tei-ref7 tei-link\">dodis.ch/P57596<\/a>, Polish Deputy Prime\n                  Minister and Minister of Finance 1989\u20131991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_55_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_67_4\">\n                        <dt class=\"fn-number\">9<\/dt>\n                        <dd class=\"fn-content\">Piotr Kołodziejczyk (*1939), <a href=\"https://dodis.ch/P57612\" class=\"tei-ref7 tei-link\">dodis.ch/P57612<\/a>, Polish Minister of National Defence\n                  6.7.1990\u201323.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_67_4\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59743,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36097,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59743,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 36994,
-                "sort": 0,
-                "attachment": {
-                    "id": 37244,
-                    "attachmentId": 37244,
-                    "date": "",
-                    "fileRef": "dodis-53174.xml",
-                    "fileRefThumbnail": "thumb_dodis-53174.xml.jpg",
-                    "roundedNumber": 53000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59743,
                 "volume": null,
                 "tab": false,

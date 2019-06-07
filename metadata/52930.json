@@ -23,7 +23,7 @@
             {
                 "id": 98253,
                 "tagId": 1443,
-                "name": "International perceptions of the German reunification 1989-1990",
+                "name": "International perceptions of the German reunification 1989\u20131990",
                 "totalDocuments": 0,
                 "section": null,
                 "kind": "T",
@@ -31,19 +31,19 @@
                 "mainTag": true,
                 "relatedDocuments": {},
                 "names": [
-                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
-                    "International perceptions of the German reunification 1989-1990",
-                    "Perceptions internationales de la réunification allemande 1989-1990",
-                    "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                    "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
+                    "International perceptions of the German reunification 1989\u20131990",
+                    "Perceptions internationales de la réunification allemande 1989\u20131990",
+                    "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                     "When the Wall Came Down"
                 ],
                 "pages": {},
                 "enabled": true,
                 "actualName": null,
-                "frName": "Perceptions internationales de la réunification allemande 1989-1990",
-                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989-1990",
+                "frName": "Perceptions internationales de la réunification allemande 1989\u20131990",
+                "deName": "Internationale Perzeptionen der deutschen Wiedervereinigung 1989\u20131990",
                 "enName": "When the Wall Came Down",
-                "itName": "Percezioni internazionali della riunificazione tedesca 1989-1990",
+                "itName": "Percezioni internazionali della riunificazione tedesca 1989\u20131990",
                 "relatedAttachments": []
             },
             {
@@ -168,6 +168,42 @@
         ],
         "attachments": [
             {
+                "id": 37109,
+                "sort": 0,
+                "attachment": {
+                    "id": 37324,
+                    "attachmentId": 37324,
+                    "date": "",
+                    "fileRef": "dodis-52930-en.html",
+                    "fileRefThumbnail": "thumb_dodis-52930-en.html.jpg",
+                    "roundedNumber": 52000,
+                    "attachmentType": "xml_transcription",
+                    "attachmentTypeText": "xml_transcription",
+                    "numberOfReferences": null,
+                    "status": "public",
+                    "fileExists": null,
+                    "title": null,
+                    "thumbExists": null,
+                    "mimetype": "text/html",
+                    "mappings": {
+                        "date": "dateId.dateBegin",
+                        "attachmentType": "attachmentType",
+                        "thumbExists": "thumbExists",
+                        "id": "id",
+                        "fileExists": "fileExists",
+                        "numberOfReferences": "numberOfReferences",
+                        "fileRef": "filename"
+                    },
+                    "attachmentHtmlContent": "\n        <div id=\"document-pane\" data-version=\"1.0\">\n            <div class=\"content \">\n                <div class=\"tei-div tei-div\">\n            <h1 class=\"tei-head6 tei-head-div\">\n               <a href=\"https://dodis.ch/52930\" class=\"tei-ref3 tei-head-nr\">dodis.ch/52930<\/a>\n               <span class=\"tei-title5 tei-title-main\">Memo<span id=\"fnref_1_5_2_2_3_4_3\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_3_4_3\">1<\/a><\/span> by the Austrian Ministry of Foreign Affairs<\/span>\n               <h1 class=\"tei-title4 tei-title-sub\">German Unity; State of Affairs in Mid-July 1990<\/h1>\n            <\/h1>\n            <div class=\"tei-opener tei-opener\">\n               <div class=\"tei-dateline tei-dateline\">Vienna, 18 July 1990<\/div>\n            <\/div>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">I. Inner-German Aspects<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">The Economic, Monetary and Social union of the two German states entered into effect\n               on 1 July 1990. The most essential measure was the introduction of the Deutschmark in\n               the GDR. An agreement on the legal and constitutional unification of the two parts of\n               Germany is in preparation and should be signed by the autumn of this year.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">All-German Elections<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">The next Bundestag election was scheduled for 2 December 1990. In its place,\n               all-Germany elections should now take place on that day. The mode of election is\n               still at issue. The GDR-CDU advocates for carrying out voting separately in the FRG\n               and the GDR (electoral threshold 5%) and the accession of the GDR to the Bonn Basic\n               Law only afterwards. The SPD and FDP in both parts of the country are for a unitary\n               election in all of Germany (electoral threshold for the whole territory 5%) and the\n               accession of the GDR before the election. (This proposal i. a. would mean that the\n               PDS, the successor party to the SED in the GDR, may fail to reach the 5% threshold in\n               unified Germany.) The West German CDU is divided on the issue.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">II. External Aspects<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">Upon the occasion of the recent visit of Chancellor Kohl<span id=\"fnref_1_5_2_2_21_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_2\">2<\/a><\/span> to Moscow, President Gorbachev<span id=\"fnref_1_5_2_2_21_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_21_4\">3<\/a><\/span>\n               gave a de facto green light to German unity. The agreement achieved includes the\n               following main points:<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Unified Germany consists of the FRG, GDR and Berlin<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Full sovereignty of Germany, after unification<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Soviet consent to NATO membership of unified Germany<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Soviet troop withdrawal from the territory of the GDR in 3\u20134 years (a treaty will\n               be concluded on this)<\/p>\n            <p class=\"tei-p tei-p\">\u2013 During which time no extension of NATO structures on GDR territory, however,\n               validity of the NATO alliance obligation for it (commitment from Kohl that, also\n               later, there will be no non-German troops east of the Elbe)<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Western Allies military presence in Berlin until completion of the Soviet troop\n               withdrawal<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Reduction of total German forces to 370,000 (Compromise Genscher<span id=\"fnref_1_5_2_2_35_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_35_2\">4<\/a><\/span>-Stoltenberg<span id=\"fnref_1_5_2_2_35_4\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_35_4\">5<\/a><\/span>)<\/p>\n            <p class=\"tei-p tei-p\">\u2013 Renunciation of ABC weapons by unified Germany<\/p>\n            <p class=\"tei-p tei-p\">Gorbachev expressly pointed out that his change of attitude on the issue of German\n               NATO membership was made possible by the Moscow-positive result of the recent summit\n               of the Alliance in London.<\/p>\n            <p class=\"tei-p tei-p\">Chancellor Kohl has furthermore assured massive economic aid to the Soviet Union and\n               promised also to advocate for such assistance from other Western states.<\/p>\n            <p class=\"tei-p tei-p\">By summer of 1991 a German-Soviet agreement is to be completed, which according to\n               Chancellor Kohl will contain co-operation in various fields and regular political\n               consultations.<\/p>\n            <p class=\"tei-p tei-p\">Reactions to the German-Soviet agreement are unanimously positive worldwide (the case\n               of Ridley<span id=\"fnref_1_5_2_2_45_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_45_2\">6<\/a><\/span> in Great Britain shows\n               however the existence of subliminal reservations in individual Western European\n               countries towards the weight of the future unified Germany).<\/p>\n            <p class=\"tei-p tei-p\">Given the agreement reached in Moscow, the \u201c2+4\u201d talks in Paris on 17 July went\n               without controversy. The foreign ministers decided to work out a declaration on\n               Germany, in which the external aspects of German unity should be regulated. The\n               declaration will be discussed at the next \u201c2+4\u201d round on 12 September in Moscow.<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">Polish Western Border<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">At the recent \u201c2+4\u201d talks, where the Polish Foreign Minister<span id=\"fnref_1_5_2_2_53_2\" style=\"display:inline-block\" class=\"tei-note2 tei-note\"><a class=\"note\" rel=\"footnote\" href=\"#fn_1_5_2_2_53_2\">7<\/a><\/span> also participated, the question of the Polish western\n               border was at center (the Bonn Bundestag and the GDR People\u2019s Chamber on 21 June\n               adopted a statement on the inviolability of the Oder-Neisse line and a border treaty\n               to be concluded between Germany and Poland). At this point Poland dropped its final\n               demand, whereby the full sovereignty of Germany should only be restored after\n               ratification of this border treaty. Agreement has now been reached that the treaty\n               will be signed in the shortest possible time after the realization of German unity\n               and submitted to the parliament of unified Germany for ratification. (The FRG has\n               promised Poland economic aid too.)<\/p>\n            <p class=\"tei-p tei-p\"><\/p>\n            <p class=\"tei-p tei-p\">\n               <span class=\"tei-emph tei-emph\">III. Assessment<\/span>\n            <\/p>\n            <p class=\"tei-p tei-p\">It can now be expected that the unification of the two German states will become\n               reality before the end of the year.<\/p>\n            <p class=\"tei-p tei-p\">Through the agreements in Moscow and Paris, respectively, the following has been\n               achieved:<\/p>\n            <p class=\"tei-p tei-p\">The FRG: the realization of German unity<\/p>\n            <p class=\"tei-p tei-p\">The West: NATO membership of unified Germany<\/p>\n            <p class=\"tei-p tei-p\">The USSR: satisfying its security interests (German troop strength, German\n               renunciation of ABC weapons, first steps to change NATO as a condition for the\n               reached agreement, beyond this the bargaining chip of a troop presence east of the\n               Elbe for 3\u20134 years) and economic assistance by the FRG or the West.<\/p>\n            <p class=\"tei-p tei-p\">From a pan-European perspective, the agreement paves the way for a rapid continuation\n               of military negotiations in Vienna and for the objective of setting up a new\n               political architecture in Europe.<\/p>\n            <p class=\"tei-p tei-p\">For Austria, a point of interest will be i. a. how much impact the efforts of the\n               Western European states to firmly \u201cbind Germany to the West\u201d will have on the\n               development of the EC (deepening, European Union!).<\/p>\n         <\/div>\n                <div class=\"footnotes\">\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_3_4_3\">\n                        <dt class=\"fn-number\">1<\/dt>\n                        <dd class=\"fn-content\">Memo (translated from German):\n                  <span class=\"tei-idno tei-idno\">Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1990, GZ.\n                     22.17.01/173-II.1/90<\/span>. Written by Marius Calligaris, <a href=\"https://dodis.ch/P57521\" class=\"tei-ref7 tei-link\">dodis.ch/P57521<\/a> and signed by Johann\n                  Plattner, <a href=\"https://dodis.ch/P57520\" class=\"tei-ref7 tei-link\">dodis.ch/P57520<\/a>; also\n                  published in Wilson Center, doc. 165725. Distributed to the Federal Minister,\n                  the General Secretary, the section heads, all departments of the Political\n                  Section, and the Austrian diplomatic representations in member states of the\n                  CSCE. The information was also part of the preparation file for Franz Vranitzky\n                  on the occasion of the visit by Lothar de Maizière to Austria scheduled for 25\n                  and 26 July 1990. See <span class=\"tei-idno tei-idno\">ÖStA Arbeitsbesuch von MP Lothar de Maizière\n                     25./26. Juli 1990, Kreisky Archives, Depositum Franz Vranitzky, AP, box BM\n                     Choonhavan Chatichai (Thailand), MP Calfa CSFR 1990 PM Silva (Portugal), MP\n                     Singh (Indien), Pres. Dubcek (CSFR), PM Kang Young-Hoon (Korea), PM Bhutto\n                     (Pakistan), Pres. George Vassiliou (Zypern), MP Maiziere Lothar (DDR)\n                     25.7.90)<\/span>.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_3_4_3\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_2\">\n                        <dt class=\"fn-number\">2<\/dt>\n                        <dd class=\"fn-content\">Helmut\n               Kohl (1930\u20132017), <a href=\"dodis.ch/P31852\" class=\"tei-ref7 tei-link\">dodis.ch/P31852<\/a>, Chancellor\n               of the FRG 1.10.1982\u201327.10.1998.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_21_4\">\n                        <dt class=\"fn-number\">3<\/dt>\n                        <dd class=\"fn-content\">Mikhail Gorbachev (*1931), <a href=\"https://dodis.ch/P31707\" class=\"tei-ref7 tei-link\">dodis.ch/P31707<\/a>, General Secretary of the Communist Party of the Soviet\n                  Union 11.3.1985\u201324.8.1991, Chairman of the Supreme Soviet of the Soviet Union\n                  25.5.1989\u201315.3.1990 and President of the Soviet Union 15.3.1990\u201325.12.1991.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_21_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_35_2\">\n                        <dt class=\"fn-number\">4<\/dt>\n                        <dd class=\"fn-content\">Hans-Dietrich Genscher (1927\u20132016), <a href=\"https://dodis.ch/P15414\" class=\"tei-ref7 tei-link\">dodis.ch/P15414<\/a>, Vice-Chancellor and\n               Minister for Foreign Affairs of the FRG\n               1.10.1982\u201317.5.1992.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_35_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_35_4\">\n                        <dt class=\"fn-number\">5<\/dt>\n                        <dd class=\"fn-content\">Gerhard Stoltenberg\n                  (1928\u20132001), <a href=\"https://dodis.ch/P46108\" class=\"tei-ref7 tei-link\">dodis.ch/P46108<\/a>, Defence\n                  Minister of the FRG 21.4.1989\u20131.4.1992.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_35_4\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_45_2\">\n                        <dt class=\"fn-number\">6<\/dt>\n                        <dd class=\"fn-content\">Nicholas Ridley (1929\u20131993), <a href=\"https://dodis.ch/P48293\" class=\"tei-ref7 tei-link\">dodis.ch/P48293<\/a>, British Secretary of\n                  State for Trade and Industry 24.7.1989\u201313.7.1990.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_45_2\">↩<\/a><\/dd>\n                    <\/dl>\n                    <dl class=\"footnote\" id=\"fn_1_5_2_2_53_2\">\n                        <dt class=\"fn-number\">7<\/dt>\n                        <dd class=\"fn-content\">Krzysztof Skubiszewski (1926\u20132010), <a href=\"https://dodis.ch/P57377\" class=\"tei-ref7 tei-link\">dodis.ch/P57377<\/a>, Polish Minister of Foreign Affairs\n               12.9.1989\u201326.10.1993.<a class=\"fn-back\" href=\"#fnref_1_5_2_2_53_2\">↩<\/a><\/dd>\n                    <\/dl>\n                <\/div>\n            <\/div>\n        <\/div>"
+                },
+                "documentAttachmentType": "Transcription",
+                "documentAttachmentTag": "English",
+                "specimenId": 59675,
+                "volume": null,
+                "tab": true,
+                "downloadable": true
+            },
+            {
                 "id": 36103,
                 "sort": 0,
                 "attachment": {
@@ -198,42 +234,6 @@
                 },
                 "documentAttachmentType": "XML Source code",
                 "documentAttachmentTag": "English",
-                "specimenId": 59675,
-                "volume": null,
-                "tab": false,
-                "downloadable": true
-            },
-            {
-                "id": 37000,
-                "sort": 0,
-                "attachment": {
-                    "id": 37249,
-                    "attachmentId": 37249,
-                    "date": "",
-                    "fileRef": "dodis-52930.xml",
-                    "fileRefThumbnail": "thumb_dodis-52930.xml.jpg",
-                    "roundedNumber": 52000,
-                    "attachmentType": "xml",
-                    "attachmentTypeText": "xml",
-                    "numberOfReferences": null,
-                    "status": "public",
-                    "fileExists": null,
-                    "title": null,
-                    "thumbExists": null,
-                    "mimetype": "text/xml",
-                    "mappings": {
-                        "date": "dateId.dateBegin",
-                        "attachmentType": "attachmentType",
-                        "thumbExists": "thumbExists",
-                        "id": "id",
-                        "fileExists": "fileExists",
-                        "numberOfReferences": "numberOfReferences",
-                        "fileRef": "filename"
-                    },
-                    "attachmentHtmlContent": "Error loading file."
-                },
-                "documentAttachmentType": "XML Source code",
-                "documentAttachmentTag": "",
                 "specimenId": 59675,
                 "volume": null,
                 "tab": false,

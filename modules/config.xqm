@@ -73,13 +73,13 @@ declare variable $config:facets := [
     map {
         "dimension": "genre",
         "heading": "Genre",
-        "max": 5,
+        "max": 10,
         "hierarchical": true()
     },
     map {
         "dimension": "language",
         "heading": "Language",
-        "max": 5,
+        "max": 10,
         "hierarchical": false(),
         "output": function($label) {
             switch($label)
@@ -94,19 +94,19 @@ declare variable $config:facets := [
     map {
         "dimension": "persons-mentioned",
         "heading": "Persons Mentioned",
-        "max": 5,
+        "max": 10,
         "hierarchical": false()
     },
     map {
         "dimension": "places-mentioned",
         "heading": "Places Mentioned",
-        "max": 5,
+        "max": 10,
         "hierarchical": false()
     },
     map {
         "dimension": "organizations-mentioned",
         "heading": "Organizations Mentioned",
-        "max": 5,
+        "max": 10,
         "hierarchical": false()
     }
 ];

@@ -73,41 +73,50 @@ declare variable $config:facets := [
     map {
         "dimension": "genre",
         "heading": "Genre",
-        "max": 10,
+        "max": 20,
         "hierarchical": true()
     },
     map {
         "dimension": "language",
         "heading": "Language",
-        "max": 10,
-        "hierarchical": false(),
-        "output": function($label) {
-            switch($label)
-                case "de" return "German"
-                case "es" return "Spanish"
-                case "la" return "Latin"
-                case "fr" return "French"
-                case "en" return "English"
-                default return $label
-        }
+        "max": 5,
+        "hierarchical": false()
+    },
+    map {
+        "dimension": "author-person",
+        "heading": "Author",
+        "max": 5,
+        "hierarchical": false()
+    },
+    map {
+        "dimension": "author-org",
+        "heading": "Organizational Author",
+        "max": 5,
+        "hierarchical": false()
     },
     map {
         "dimension": "persons-mentioned",
         "heading": "Persons Mentioned",
-        "max": 10,
+        "max": 5,
         "hierarchical": false()
     },
     map {
         "dimension": "places-mentioned",
         "heading": "Places Mentioned",
-        "max": 10,
+        "max": 5,
         "hierarchical": false()
     },
     map {
         "dimension": "organizations-mentioned",
         "heading": "Organizations Mentioned",
-        "max": 10,
+        "max": 5,
         "hierarchical": false()
+    },
+    map {
+        "dimension": "date",
+        "heading": "Date",
+        "max": 5,
+        "hierarchical": true()
     }
 ];
 

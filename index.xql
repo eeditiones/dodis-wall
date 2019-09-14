@@ -15,14 +15,18 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
         switch ($field)
             case "title" return
                 $header//tei:msDesc/tei:head
-            case "author" return
-                let $ref := $header//tei:correspAction[type="sent"]/tei:persName/@ref
+            case "author-person" return
+                let $ref := $header//tei:correspAction[@type="sent"]/tei:persName/@ref
                 return
                     id(substring-after($ref, '#'), root($root))//tei:persName[@type='full']
+            case "author-org" return
+                let $ref := $header//tei:correspAction[@type="sent"]/tei:orgName/@ref
+                return
+                    id(substring-after($ref, '#'), root($root))//tei:orgName
             case "language" return
                 $header//tei:langUsage/tei:language
             case "date" return
-                $header//tei:msDesc/tei:history/tei:origin/@when
+                tokenize($header//tei:msDesc/tei:history/tei:origin/@when, '-')
             case "genre" return
                 $header//tei:textClass/tei:keywords/tei:term
             case "persons-mentioned" return

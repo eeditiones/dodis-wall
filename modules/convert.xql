@@ -5,35 +5,30 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 import module namespace config="http://www.tei-c.org/tei-simple/config" at "config.xqm";
 
-declare function cv:process($nodes as node()*, $metadata as map(*)) {
-    for $node in $nodes
-    return
-        typeswitch($node)
-            case document-node() return
-                document {
-                    cv:process($node/node(), $metadata)
-                }
-            case element(tei:TEI) return
-                <TEI xmlns="http://www.tei-c.org/ns/1.0">
-                { cv:process($node/node(), $metadata) }
-                </TEI>
-            case element(tei:teiHeader) return
-                <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
-                {
-                    cv:fileDesc($metadata),
-                    cv:profileDesc($metadata),
-                    cv:process($node/tei:revisionDesc, $metadata)
-                }
-                </teiHeader>
-            case element() return
-                element { node-name($node) } {
-                    $node/@*,
-                    cv:process($node/node(), $metadata)
-                }
-            case processing-instruction() return
-                ()
-            default return
-                $node
+declare function cv:process($root as element(), $metadata as map(*)) {
+    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        {
+            cv:fileDesc($metadata),
+            cv:profileDesc($metadata),
+            $root/tei:revisionDesc
+        }
+        </teiHeader>
+        { cv:facsimiles($metadata) }
+        { $root/tei:text }
+    </TEI>
+};
+
+declare function cv:facsimiles($metadata as map(*)) {
+    <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+    {
+        let $pages := xs:integer($metadata?data?pagesCount)
+        for $page in 0 to $pages - 1
+        let $pagePart := if ($pages > 1) then "-" || $page else ()
+        return
+            <graphic url="{$metadata?data?id}{$pagePart}.png"/>
+    }
+    </facsimile>
 };
 
 declare function cv:fileDesc($metadata as map(*)) {
@@ -45,6 +40,9 @@ declare function cv:fileDesc($metadata as map(*)) {
                 <title n="{$metadata?data?volumes?1?numberInVolume}">{$metadata?data?title}</title>
                 <author>{$volume?author}</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="{$metadata?data?pagesCount}"></measure>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>{$volume?date}</date>
@@ -295,6 +293,6 @@ let $lang := $metadata?data?langCode
 let $transcript := doc($config:app-root || "/src/data/" || $id || ".xml")
 let $translation := doc($config:app-root || "/src/data/" || $id || "-en.xml")
 let $xml := head(($transcript, $translation))
-let $transformed := cv:process($xml, $metadata)
+let $transformed := cv:process($xml/*, $metadata)
 return
     xmldb:store($output, $id || ".xml", $transformed)

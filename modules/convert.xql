@@ -234,6 +234,7 @@ declare function cv:people($metadata as map(*)) {
                         <forename>{$person?firstName}</forename>
                         <surname>{$person?lastName}</surname>
                     </persName>
+                    <persName type="full">{$person?fullName}</persName>
                     {
                         for $otherName in $person?names?*
                         return
@@ -285,14 +286,14 @@ declare function cv:date($date as xs:string) {
         )
 };
 
-let $output := xmldb:create-collection($config:data-root, "merged")
-for $file in xmldb:get-child-resources($config:app-root || "/metadata")
+let $output := $config:data-root
+for $file in xmldb:get-child-resources($config:app-root || "/src/metadata")
 let $id := substring-before($file, ".json")
-let $json := util:binary-doc($config:app-root || "/metadata/" || $file)
+let $json := util:binary-doc($config:app-root || "/src/metadata/" || $file)
 let $metadata := parse-json(util:binary-to-string($json))
 let $lang := $metadata?data?langCode
-let $transcript := doc($config:data-root || "/" || $id || ".xml")
-let $translation := doc($config:data-root || "/" || $id || "-en.xml")
+let $transcript := doc($config:app-root || "/src/data/" || $id || ".xml")
+let $translation := doc($config:app-root || "/src/data/" || $id || "-en.xml")
 let $xml := head(($transcript, $translation))
 let $transformed := cv:process($xml, $metadata)
 return

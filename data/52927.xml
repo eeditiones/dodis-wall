@@ -57,6 +57,7 @@
                             <forename>Fritz</forename>
                             <surname>Bauer</surname>
                         </persName>
+                        <persName type="full">Bauer, Fritz (1930–)</persName>
                         <persName>Bauer, Fritz</persName>
                         <persName>Bauer, Friedrich</persName>
                         <birth when="1930">
@@ -70,6 +71,7 @@
                             <forename>Willy</forename>
                             <surname>Brandt</surname>
                         </persName>
+                        <persName type="full">Brandt, Willy (1913–1992)</persName>
                         <persName>Brandt, Willy</persName>
                         <persName>Frahm, Herbert Ernst Karl</persName>
                         <birth when="1913-12-18">
@@ -86,6 +88,7 @@
                             <forename>Nikita Sergeevič</forename>
                             <surname>Chruščëv</surname>
                         </persName>
+                        <persName type="full">Chruščëv, Nikita Sergeevič (1894–1971)</persName>
                         <persName>Chrustschew, Nikita S.</persName>
                         <persName>Kroustchev</persName>
                         <persName>Khrushchov, Nikita</persName>
@@ -113,6 +116,7 @@
                             <forename>Bruno</forename>
                             <surname>Kreisky</surname>
                         </persName>
+                        <persName type="full">Kreisky, Bruno (1911–1990)</persName>
                         <persName>Kreisky, Bruno</persName>
                         <birth when="1911-01-22">
                             <placeName>Vienna</placeName>
@@ -128,6 +132,7 @@
                             <forename>Irving</forename>
                             <surname>Kristol</surname>
                         </persName>
+                        <persName type="full">Kristol, Irving (1920–2009)</persName>
                         <persName>Kristol, Irving</persName>
                         <birth when="1920-01-22"/>
                         <death when="2009-09-18"/>
@@ -139,6 +144,7 @@
                             <forename>Thomas</forename>
                             <surname>Nowotny</surname>
                         </persName>
+                        <persName type="full">Nowotny, Thomas (1937–)</persName>
                         <persName>Nowotny, Thomas</persName>
                         <birth when="1937-06-13">
                             <placeName>Vienna</placeName>
@@ -151,6 +157,7 @@
                             <forename>Franz </forename>
                             <surname>Wunderbaldinger</surname>
                         </persName>
+                        <persName type="full">Wunderbaldinger, Franz  (1927–)</persName>
                         <persName>Wunderbaldinger, Franz </persName>
                         <birth when="1927-08-01"/>
                         <sex>male</sex>

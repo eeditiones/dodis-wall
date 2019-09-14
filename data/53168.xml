@@ -54,6 +54,7 @@
                             <forename>Józef</forename>
                             <surname>Czyrek</surname>
                         </persName>
+                        <persName type="full">Czyrek, Józef (1928–2013)</persName>
                         <persName>Czyrek, Józef</persName>
                         <persName>Czyrek, Josef</persName>
                         <birth when="1928-07-20">
@@ -70,6 +71,7 @@
                             <forename>Janusz</forename>
                             <surname>Fekecz</surname>
                         </persName>
+                        <persName type="full">Fekecz, Janusz (1930–)</persName>
                         <persName>Fekecz, Janusz</persName>
                         <birth when="1930"/>
                         <sex>male</sex>
@@ -80,6 +82,7 @@
                             <forename>Hans-Dietrich</forename>
                             <surname>Genscher</surname>
                         </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
                         <persName>Genscher, Hans-Dietrich</persName>
                         <birth when="1927-03-21"/>
                         <death when="2016-03-31"/>
@@ -91,6 +94,7 @@
                             <forename>Dieter</forename>
                             <surname>Kastrup</surname>
                         </persName>
+                        <persName type="full">Kastrup, Dieter (1937–)</persName>
                         <persName>Kastrup, Dieter</persName>
                         <birth when="1937-03-11">
                             <placeName>Bielefeld</placeName>
@@ -103,6 +107,7 @@
                             <forename>Helmut</forename>
                             <surname>Kohl</surname>
                         </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
                         <persName>Kohl, Helmut</persName>
                         <birth when="1930-04-03">
                             <placeName>Ludwigshafen am Rhein</placeName>
@@ -116,6 +121,7 @@
                             <forename>Bolesław</forename>
                             <surname>Kulski</surname>
                         </persName>
+                        <persName type="full">Kulski, Bolesław</persName>
                         <persName>Kulski, Bolesław</persName>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P50550</idno>
@@ -125,6 +131,7 @@
                             <forename>Jerzy</forename>
                             <surname>Mąkosa</surname>
                         </persName>
+                        <persName type="full">Mąkosa, Jerzy</persName>
                         <persName>Mąkosa, Jerzy</persName>
                         <persName>Makosa, Jerzy</persName>
                         <sex>unspecified</sex>
@@ -135,6 +142,7 @@
                             <forename>Franz Joachim</forename>
                             <surname>Schoeller</surname>
                         </persName>
+                        <persName type="full">Schoeller, Franz Joachim (1926–)</persName>
                         <persName>Schoeller, Franz Jochen</persName>
                         <persName>Schoeller, Franz Joachim</persName>
                         <birth when="1926-06-24"/>
@@ -146,6 +154,7 @@
                             <forename>Krysztof</forename>
                             <surname>Skubiszweski</surname>
                         </persName>
+                        <persName type="full">Skubiszweski, Krysztof (1926–2010)</persName>
                         <persName>Skubiszewski, Krzysztof Jan</persName>
                         <persName>Skubiszweski, Krysztof</persName>
                         <birth when="1926-10-08">
@@ -162,6 +171,7 @@
                             <forename>Jerzy</forename>
                             <surname>Sułek</surname>
                         </persName>
+                        <persName type="full">Sułek, Jerzy (1939–)</persName>
                         <persName>Sułek, Jerzy</persName>
                         <persName>Sulek, Jerzy</persName>
                         <birth when="1939"/>
@@ -173,6 +183,7 @@
                             <forename>Lech</forename>
                             <surname>Wałęsa</surname>
                         </persName>
+                        <persName type="full">Wałęsa, Lech (1943–)</persName>
                         <persName>Walesa, Lech</persName>
                         <persName>Wałęsa, Lech</persName>
                         <birth when="1943-09-29"/>
@@ -184,6 +195,7 @@
                             <forename>Jürgen van</forename>
                             <surname>Zwoll</surname>
                         </persName>
+                        <persName type="full">Zwoll, Jürgen van (1939–)</persName>
                         <persName>Zwoll, Jürgen van</persName>
                         <birth when="1939"/>
                         <sex>male</sex>

@@ -58,6 +58,7 @@
                             <forename>Willy</forename>
                             <surname>Brandt</surname>
                         </persName>
+                        <persName type="full">Brandt, Willy (1913–1992)</persName>
                         <persName>Brandt, Willy</persName>
                         <persName>Frahm, Herbert Ernst Karl</persName>
                         <birth when="1913-12-18">
@@ -74,6 +75,7 @@
                             <forename>Eberhard</forename>
                             <surname>Diepgen</surname>
                         </persName>
+                        <persName type="full">Diepgen, Eberhard (1941–)</persName>
                         <persName>Diepgen, Eberhard</persName>
                         <birth when="1941-11-13">
                             <placeName>Berlin</placeName>
@@ -86,6 +88,7 @@
                             <forename>Hans-Dietrich</forename>
                             <surname>Genscher</surname>
                         </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
                         <persName>Genscher, Hans-Dietrich</persName>
                         <birth when="1927-03-21"/>
                         <death when="2016-03-31"/>
@@ -97,6 +100,7 @@
                             <forename>Helmut</forename>
                             <surname>Kohl</surname>
                         </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
                         <persName>Kohl, Helmut</persName>
                         <birth when="1930-04-03">
                             <placeName>Ludwigshafen am Rhein</placeName>
@@ -110,6 +114,7 @@
                             <forename>Erhard </forename>
                             <surname>Krack </surname>
                         </persName>
+                        <persName type="full">Krack , Erhard  (1931–2000)</persName>
                         <persName>Krack , Erhard </persName>
                         <birth when="1931-01-09">
                             <placeName>Gdańsk</placeName>
@@ -125,6 +130,7 @@
                             <forename>Walter</forename>
                             <surname>Momper</surname>
                         </persName>
+                        <persName type="full">Momper, Walter (1945–)</persName>
                         <persName>Momper, Walter</persName>
                         <birth when="1945-02-21"/>
                         <sex>male</sex>
@@ -135,6 +141,7 @@
                             <forename>Günter</forename>
                             <surname>Schabowski</surname>
                         </persName>
+                        <persName type="full">Schabowski, Günter (1929–2015)</persName>
                         <persName>Schabowski, Günter</persName>
                         <persName>Schabovsky, Günther</persName>
                         <birth when="1929-01-04"/>
@@ -149,6 +156,7 @@
                             <forename>Jan van der</forename>
                             <surname>Tas</surname>
                         </persName>
+                        <persName type="full">Tas, Jan van der (1928–2009)</persName>
                         <persName>Tas, Jan G. van der</persName>
                         <persName>Tas, Jan van der</persName>
                         <birth when="1928-03-09"/>
@@ -161,6 +169,7 @@
                             <forename>Richard von</forename>
                             <surname>Weizsäcker</surname>
                         </persName>
+                        <persName type="full">Weizsäcker, Richard von (1920–2015)</persName>
                         <persName>Weizsäcker, Richard von</persName>
                         <birth when="1920-04-15"/>
                         <death when="2015-01-31"/>
@@ -172,6 +181,7 @@
                             <forename>Hans</forename>
                             <surname>van den Broek</surname>
                         </persName>
+                        <persName type="full">van den Broek, Hans (1936–)</persName>
                         <persName>van den Broek, Henri</persName>
                         <persName>van den Broek, Hans</persName>
                         <birth when="1936-12-11"/>

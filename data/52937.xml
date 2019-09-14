@@ -57,6 +57,7 @@
                             <forename>Anthony</forename>
                             <surname>Advokaat</surname>
                         </persName>
+                        <persName type="full">Advokaat, Anthony</persName>
                         <persName>Advokaat, Anthony</persName>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57645</idno>
@@ -66,6 +67,7 @@
                             <forename>François</forename>
                             <surname>Cann</surname>
                         </persName>
+                        <persName type="full">Cann, François (1932–)</persName>
                         <persName>Cann, François</persName>
                         <birth when="1932-05-13"/>
                         <sex>male</sex>
@@ -76,6 +78,7 @@
                             <forename>Robert</forename>
                             <surname>Corbett</surname>
                         </persName>
+                        <persName type="full">Corbett, Robert (1940–)</persName>
                         <persName>Corbett, Robert</persName>
                         <persName>Corbett, Robert John Swan</persName>
                         <persName>Corbett, Robert J. S.</persName>
@@ -88,6 +91,7 @@
                             <forename>Thomas W.</forename>
                             <surname>Delworth</surname>
                         </persName>
+                        <persName type="full">Delworth, Thomas W. (1929–2012)</persName>
                         <persName>Delworth, Thomas W.</persName>
                         <persName>Delworth, William Thomas</persName>
                         <birth when="1929-02-24"/>
@@ -100,6 +104,7 @@
                             <forename>Raymond E.</forename>
                             <surname>Haddock</surname>
                         </persName>
+                        <persName type="full">Haddock, Raymond E. (1936–)</persName>
                         <persName>Haccock, Raymond Earl</persName>
                         <persName>Haddock, Raymond E.</persName>
                         <birth when="1936-09-26"/>
@@ -111,6 +116,7 @@
                             <forename>Egon</forename>
                             <surname>Krenz</surname>
                         </persName>
+                        <persName type="full">Krenz, Egon (1937–)</persName>
                         <persName>Krenz, Egon</persName>
                         <persName>Krenz, Egon Rudi Ernst</persName>
                         <birth when="1937-03-19">
@@ -124,6 +130,7 @@
                             <forename>Walter</forename>
                             <surname>Momper</surname>
                         </persName>
+                        <persName type="full">Momper, Walter (1945–)</persName>
                         <persName>Momper, Walter</persName>
                         <birth when="1945-02-21"/>
                         <sex>male</sex>
@@ -134,6 +141,7 @@
                             <forename>Günter</forename>
                             <surname>Schabowski</surname>
                         </persName>
+                        <persName type="full">Schabowski, Günter (1929–2015)</persName>
                         <persName>Schabowski, Günter</persName>
                         <persName>Schabovsky, Günther</persName>
                         <birth when="1929-01-04"/>

@@ -55,6 +55,7 @@
                             <forename>George Herbert Walker</forename>
                             <surname>Bush</surname>
                         </persName>
+                        <persName type="full">Bush, George Herbert Walker (1924–2018)</persName>
                         <persName>Bush, George Herbert Walker</persName>
                         <persName>Bush, George H. W.</persName>
                         <birth when="1924-06-23"/>
@@ -69,6 +70,7 @@
                             <forename>Dick</forename>
                             <surname>Cheney</surname>
                         </persName>
+                        <persName type="full">Cheney, Dick (1941–)</persName>
                         <persName>Cheney, Dick</persName>
                         <persName>Cheney, Richard Bruce</persName>
                         <birth when="1941-01-30"/>
@@ -80,6 +82,7 @@
                             <forename>Hans-Dietrich</forename>
                             <surname>Genscher</surname>
                         </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
                         <persName>Genscher, Hans-Dietrich</persName>
                         <birth when="1927-03-21"/>
                         <death when="2016-03-31"/>
@@ -91,6 +94,7 @@
                             <forename>Mikhail Sergeyevich</forename>
                             <surname>Gorbachev</surname>
                         </persName>
+                        <persName type="full">Gorbachev, Mikhail Sergeyevich (1931–)</persName>
                         <persName>Gorbatschow, Michail Sergejewitsch</persName>
                         <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
                         <persName>Gorbatschow, Michail</persName>
@@ -115,6 +119,7 @@
                             <forename>Helmut</forename>
                             <surname>Kohl</surname>
                         </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
                         <persName>Kohl, Helmut</persName>
                         <birth when="1930-04-03">
                             <placeName>Ludwigshafen am Rhein</placeName>
@@ -128,6 +133,7 @@
                             <forename>Yegor</forename>
                             <surname>Ligachev</surname>
                         </persName>
+                        <persName type="full">Ligachev, Yegor (1920–)</persName>
                         <persName>Ligachev, Yegor</persName>
                         <persName>Ligatschow, Jegor Kusmitsch</persName>
                         <persName>Лигачёв, Его́р Кузьми́ч </persName>
@@ -142,6 +148,7 @@
                             <forename>Tadeusz</forename>
                             <surname>Mazowiecki</surname>
                         </persName>
+                        <persName type="full">Mazowiecki, Tadeusz (1927–2013)</persName>
                         <persName>Mazowiecki, Tadeusz</persName>
                         <birth when="1927-04-18">
                             <placeName>Plock</placeName>
@@ -157,6 +164,7 @@
                             <forename>Gianni De</forename>
                             <surname>Michelis</surname>
                         </persName>
+                        <persName type="full">Michelis, Gianni De (1940–)</persName>
                         <persName>Michelis, Gianni De</persName>
                         <birth when="1940-11-26">
                             <placeName>Venice</placeName>
@@ -169,6 +177,7 @@
                             <forename>François</forename>
                             <surname>Mitterrand</surname>
                         </persName>
+                        <persName type="full">Mitterrand, François (1916–1996)</persName>
                         <persName>Mitterand, François</persName>
                         <persName>Mitterrand, François</persName>
                         <birth when="1916-10-26">
@@ -185,6 +194,7 @@
                             <forename>Hans</forename>
                             <surname>Modrow</surname>
                         </persName>
+                        <persName type="full">Modrow, Hans (1928–)</persName>
                         <persName>Modrow, Hans</persName>
                         <birth when="1928-01-27">
                             <placeName>Jasenitz</placeName>
@@ -197,6 +207,7 @@
                             <forename>Colin L.</forename>
                             <surname>Powell</surname>
                         </persName>
+                        <persName type="full">Powell, Colin L. (1937–)</persName>
                         <persName>Powell, Colin L.</persName>
                         <birth when="1937-04-05">
                             <placeName>New York</placeName>
@@ -209,6 +220,7 @@
                             <forename>Brent</forename>
                             <surname>Scowcroft</surname>
                         </persName>
+                        <persName type="full">Scowcroft, Brent (1925–)</persName>
                         <persName>Scowcroft, Brent</persName>
                         <birth when="1925-03-19">
                             <placeName>Ogden</placeName>
@@ -221,6 +233,7 @@
                             <forename>Eduard</forename>
                             <surname>Shevardnadze</surname>
                         </persName>
+                        <persName type="full">Shevardnadze, Eduard (1928–2014)</persName>
                         <persName>Schewardnadse, Eduard</persName>
                         <persName>შევარდნაძე, ედუარდ</persName>
                         <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
@@ -240,6 +253,7 @@
                             <forename>Margaret</forename>
                             <surname>Thatcher</surname>
                         </persName>
+                        <persName type="full">Thatcher, Margaret (1925–2013)</persName>
                         <persName>La Dame de Fer</persName>
                         <persName>Thatcher, Margaret</persName>
                         <persName>Iron Lady</persName>
@@ -257,6 +271,7 @@
                             <forename>Manfred Hermann</forename>
                             <surname>Wörner</surname>
                         </persName>
+                        <persName type="full">Wörner, Manfred Hermann (1934–1994)</persName>
                         <persName>Woerner, Manfred H.</persName>
                         <persName>Wörner, Manfred Hermann</persName>
                         <birth when="1934-09-24">

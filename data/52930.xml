@@ -59,6 +59,7 @@
                             <forename>Marius</forename>
                             <surname>Calligaris</surname>
                         </persName>
+                        <persName type="full">Calligaris, Marius (1944–)</persName>
                         <persName>Calligaris, Marius</persName>
                         <birth when="1944"/>
                         <sex>male</sex>
@@ -69,6 +70,7 @@
                             <forename>Hans-Dietrich</forename>
                             <surname>Genscher</surname>
                         </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
                         <persName>Genscher, Hans-Dietrich</persName>
                         <birth when="1927-03-21"/>
                         <death when="2016-03-31"/>
@@ -80,6 +82,7 @@
                             <forename>Mikhail Sergeyevich</forename>
                             <surname>Gorbachev</surname>
                         </persName>
+                        <persName type="full">Gorbachev, Mikhail Sergeyevich (1931–)</persName>
                         <persName>Gorbatschow, Michail Sergejewitsch</persName>
                         <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
                         <persName>Gorbatschow, Michail</persName>
@@ -104,6 +107,7 @@
                             <forename>Thomas </forename>
                             <surname>Klestil</surname>
                         </persName>
+                        <persName type="full">Klestil, Thomas  (1932–2004)</persName>
                         <persName>Klestil, Thomas </persName>
                         <birth when="1932-11-04"/>
                         <death when="2004-07-06"/>
@@ -115,6 +119,7 @@
                             <forename>Helmut</forename>
                             <surname>Kohl</surname>
                         </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
                         <persName>Kohl, Helmut</persName>
                         <birth when="1930-04-03">
                             <placeName>Ludwigshafen am Rhein</placeName>
@@ -128,6 +133,7 @@
                             <forename>Alois</forename>
                             <surname>Mock</surname>
                         </persName>
+                        <persName type="full">Mock, Alois (1934–2017)</persName>
                         <persName>Mock, Alois</persName>
                         <birth when="1934-06-10"/>
                         <death when="2017-06-01"/>
@@ -139,6 +145,7 @@
                             <forename>Johann</forename>
                             <surname>Plattner</surname>
                         </persName>
+                        <persName type="full">Plattner, Johann (1932–)</persName>
                         <persName>Plattner, Johann</persName>
                         <birth when="1932"/>
                         <sex>male</sex>
@@ -149,6 +156,7 @@
                             <forename>Nicholas</forename>
                             <surname>Ridley</surname>
                         </persName>
+                        <persName type="full">Ridley, Nicholas (1929–1993)</persName>
                         <persName>Ridley, Nicholas</persName>
                         <persName>Baron Ridley of Liddesdale</persName>
                         <birth when="1929-02-17"/>
@@ -161,6 +169,7 @@
                             <forename>Krysztof</forename>
                             <surname>Skubiszweski</surname>
                         </persName>
+                        <persName type="full">Skubiszweski, Krysztof (1926–2010)</persName>
                         <persName>Skubiszewski, Krzysztof Jan</persName>
                         <persName>Skubiszweski, Krysztof</persName>
                         <birth when="1926-10-08">
@@ -177,6 +186,7 @@
                             <forename>Gerhard</forename>
                             <surname>Stoltenberg</surname>
                         </persName>
+                        <persName type="full">Stoltenberg, Gerhard (1928–2001)</persName>
                         <persName>Stoltenberg, Gerhard</persName>
                         <birth when="1928-09-29">
                             <placeName>Kiel</placeName>

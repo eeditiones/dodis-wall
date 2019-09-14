@@ -54,6 +54,7 @@
                             <forename>Konrad</forename>
                             <surname>Adenauer</surname>
                         </persName>
+                        <persName type="full">Adenauer, Konrad (1876–1967)</persName>
                         <persName>Adenauer, Konrad</persName>
                         <birth when="1876-01-05">
                             <placeName>Köln</placeName>
@@ -69,6 +70,7 @@
                             <forename>Lothar</forename>
                             <surname>Bolz</surname>
                         </persName>
+                        <persName type="full">Bolz, Lothar (1903–1986)</persName>
                         <persName>Bolz, Lothar</persName>
                         <birth when="1903-09-03"/>
                         <death when="1986-12-29"/>
@@ -80,6 +82,7 @@
                             <forename>Lucius D.</forename>
                             <surname>Clay</surname>
                         </persName>
+                        <persName type="full">Clay, Lucius D. (1897–1978)</persName>
                         <persName>Clay, Lucius D.</persName>
                         <birth when="1897"/>
                         <death when="1978"/>
@@ -91,6 +94,7 @@
                             <forename>Maurice</forename>
                             <surname>Couve de Murville</surname>
                         </persName>
+                        <persName type="full">Couve de Murville, Maurice (1907–1999)</persName>
                         <persName>Couve de Murville, Maurice</persName>
                         <persName>Couve de Murville</persName>
                         <birth when="1907-01-24">
@@ -107,6 +111,7 @@
                             <forename>Nikolaj</forename>
                             <surname>Fedorenko</surname>
                         </persName>
+                        <persName type="full">Fedorenko, Nikolaj (1912–2000)</persName>
                         <persName>Federenko, Nikolai T.</persName>
                         <persName>Fedorenko, Nikolaj</persName>
                         <birth when="1912"/>
@@ -119,6 +124,7 @@
                             <forename>Andrej Andreevič</forename>
                             <surname>Gromyko</surname>
                         </persName>
+                        <persName type="full">Gromyko, Andrej Andreevič (1909–1989)</persName>
                         <persName>Gromyko, Andreï Andreïevitch</persName>
                         <persName>Gromyko, Andrej Andreevič</persName>
                         <persName>Gromyko, Andrei Andrejewitsch</persName>
@@ -141,6 +147,7 @@
                             <forename>Christian</forename>
                             <surname>Herter</surname>
                         </persName>
+                        <persName type="full">Herter, Christian (1895–1966)</persName>
                         <persName>Herter, Christian</persName>
                         <persName>Herter, Christian Archibald</persName>
                         <birth when="1895"/>
@@ -153,6 +160,7 @@
                             <forename>Adolf</forename>
                             <surname>Hitler</surname>
                         </persName>
+                        <persName type="full">Hitler, Adolf (1889–1945)</persName>
                         <persName>Hitler, Adolf</persName>
                         <birth when="1889-04-20">
                             <placeName>Braunau am Inn</placeName>
@@ -168,6 +176,7 @@
                             <forename>Vyacheslav Ivanovich</forename>
                             <surname>Kochemasov</surname>
                         </persName>
+                        <persName type="full">Kochemasov, Vyacheslav Ivanovich (1918–1998)</persName>
                         <persName>Kotschemassow, Wjatscheslaw Iwanowitsch</persName>
                         <persName>Kochemasov, Vyacheslav Ivanovich</persName>
                         <birth when="1918-09-18"/>
@@ -182,6 +191,7 @@
                             <forename>Marie Pierre</forename>
                             <surname>König</surname>
                         </persName>
+                        <persName type="full">König, Marie Pierre (1898–1970)</persName>
                         <persName>König, Marie Pierre</persName>
                         <persName>Koenig, Pierre Marie</persName>
                         <persName>Koenig, Pierre</persName>
@@ -195,6 +205,7 @@
                             <forename>Selwyn</forename>
                             <surname>Lloyd</surname>
                         </persName>
+                        <persName type="full">Lloyd, Selwyn</persName>
                         <persName>Lloyd, Selwyn</persName>
                         <sex>unspecified</sex>
                         <idno type="URI">https://dodis.ch/P13952</idno>
@@ -204,6 +215,7 @@
                             <forename>Brian Hubert</forename>
                             <surname>Robertson</surname>
                         </persName>
+                        <persName type="full">Robertson, Brian Hubert (1896–1974)</persName>
                         <persName>Robertson, Brian Hubert</persName>
                         <birth when="1896"/>
                         <death when="1974"/>
@@ -215,6 +227,7 @@
                             <forename>Vladimir Semenovich</forename>
                             <surname>Semyonov</surname>
                         </persName>
+                        <persName type="full">Semyonov, Vladimir Semenovich (1911–1992)</persName>
                         <persName>Semionov</persName>
                         <persName>Semenov, Vladimir S.</persName>
                         <persName>Semënov, Vladimir Semënovič</persName>
@@ -230,6 +243,7 @@
                             <forename>Valerian Aleksandrovič</forename>
                             <surname>Zorin</surname>
                         </persName>
+                        <persName type="full">Zorin, Valerian Aleksandrovič (1902–1986)</persName>
                         <persName>Zorine, Valerian Alexandrovitch</persName>
                         <persName>Sorin, Walerian Alexandrowitsch</persName>
                         <persName>Sorin, Walerian A.</persName>
@@ -246,6 +260,7 @@
                             <forename>Georgij Konstantinovič </forename>
                             <surname>Žukov</surname>
                         </persName>
+                        <persName type="full">Žukov, Georgij Konstantinovič </persName>
                         <persName>Joukov, Gueorgui</persName>
                         <persName>Schukow, Georgi Konstantinowitsch</persName>
                         <persName>Жуков, Георгий Константинович</persName>

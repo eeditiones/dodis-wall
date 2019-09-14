@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="5">Kohl-Besuch und Mauerfall</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52948</idno>
+                    </msIdentifier>
+                    <head>Kohl-Besuch und Mauerfall</head>
+                    <msContents>
+                        <summary>Der Besuch Helmut Kohls in Warschau am 9. und 10. November 1989 wurde durch die spontane Rückkehr des Kanzlers nach Bonn unterbrochen, nachdem die DDR die innerdeutsche Grenze geöffnet hatte.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-09">9.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Journal</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57375">Fritsch-Seerhausen, Rüdiger Freiherr von (1953–)</persName>
+                    <orgName ref="#R22209">Germany/FRG/Embassy in Warsaw</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57375">
+                        <persName>
+                            <forename>Rüdiger Freiherr von</forename>
+                            <surname>Fritsch-Seerhausen</surname>
+                        </persName>
+                        <persName>Fritsch-Seerhausen, Rüdiger Freiherr von</persName>
+                        <birth when="1953-12-28"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57375</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P57376">
+                        <persName>
+                            <forename>Günther</forename>
+                            <surname>Knackstedt</surname>
+                        </persName>
+                        <persName>Knackstedt, Günther</persName>
+                        <birth when="1929-07-29">
+                            <placeName>Berlin</placeName>
+                        </birth>
+                        <death when="2012-05-27">
+                            <placeName>Luxemburg (Hauptstadt)</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57376</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57378">
+                        <persName>
+                            <forename>Tadeusz</forename>
+                            <surname>Mazowiecki</surname>
+                        </persName>
+                        <persName>Mazowiecki, Tadeusz</persName>
+                        <birth when="1927-04-18">
+                            <placeName>Plock</placeName>
+                        </birth>
+                        <death when="2013-10-28">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57378</idno>
+                    </person>
+                    <person xml:id="P57379">
+                        <persName>
+                            <forename>Adam</forename>
+                            <surname>Michnik</surname>
+                        </persName>
+                        <persName>Michnik, Adam</persName>
+                        <birth when="1946-10-17">
+                            <placeName>Varsovie</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57379</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R30915">
+                        <orgName>Deutsche Welle</orgName>
+                        <idno type="URI">https://dodis.ch/R30915</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R33445">
+                        <orgName>Gazeta Wyborcza</orgName>
+                        <idno type="URI">https://dodis.ch/R33445</idno>
+                    </org>
+                    <org xml:id="R22209">
+                        <orgName>Germany/FRG/Embassy in Warsaw</orgName>
+                        <idno type="URI">https://dodis.ch/R22209</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R33444">
+                        <orgName>Solidarność</orgName>
+                        <idno type="URI">https://dodis.ch/R33444</idno>
+                        <placeName ref="#G405">Gdańsk</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52948">dodis.ch/52948</ref>
+               <title type="main">Extract from the Diary<note xml:id="e573">Diary (translated from
+                     German). The diary is privately owned. These extracts were published in German
+                     in the <idno>Federal Foreign Office staff magazine “InternAA”, 2012, No. 12, p.
+                        8.</idno> Also published in: <idno>Die Einheit. Das Auswärtige Amt, das
+                        DDR-Außenministerium und der Zwei-plus-Vier-Prozess, ed. by Horst Möller et.
+                        al. on behalf of the Institute for Contemporary History Munich–Berlin,
+                        Göttingen, 2015, doc. 19.</idno>
+                        </note> of the Protocol Officer at the
+                  Embassy of the FRG in Warsaw, Rüdiger Freiherr von Fritsch<note xml:id="e576">Rüdiger Freiherr von Fritsch (*1953), <ref target="https://dodis.ch/P57375">dodis.ch/P57375</ref>, Protocol officer at the Embassy of the FRG in Warsaw
+                     23.10.1989–15.11.1989. He had served as a Protocol Officer at the Embassy in
+                     Warsaw from 1986 to the autumn of 1989 and had already been posted to Nairobi
+                     when he was summoned back to Warsaw at short notice in late October 1989 to
+                     work on Chancellor Kohl’s long-planned visit to Poland from 9 to 14 November
+                     1989.</note>
+                    </title>
+               <title type="sub">Kohl’s Visit and the Fall of the Wall</title>
+            </head>
+            <opener>
+               <dateline>Warsaw, 9 and 10 November 1989</dateline>
+            </opener>
+            <p>
+                    <emph>Thursday, 9 November 1989</emph>: Early in the morning, Deutsche Welle says:
+               “Everything is finally ready. The route has been planned, the communiqués written and
+               the Chancellor<note xml:id="e588">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> can now travel to Poland …” If they only knew! The
+                  Ambassador<note xml:id="e594">Günther Knackstedt (1929–2012), <ref target="https://dodis.ch/P57376">dodis.ch/P57376</ref>, Ambassador of the FRG
+                  in Warsaw 3.11.1989–1.6.1992.</note> is trying desperately to contact the Foreign
+                  Minister<note xml:id="e600">Krzysztof Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of
+                  Foreign Affairs 12.9.1989–26.10.1993.</note>, but is not getting anywhere. Not
+               only is the visit programme still up in the air, but the planned joint declaration by
+               Kohl and Mazowiecki<note xml:id="e606">Tadeusz Mazowiecki (1927–2013), <ref target="https://dodis.ch/P57378">dodis.ch/P57378</ref>, Prime Minister of
+                  Poland 24.8.1989–12.1.1991.</note>, which has been discussed for months, isn’t
+               finished either. The Chancellor has let it be known that he will not leave Bonn until
+               it is ready. Yesterday, the discussion focused on whether we should say “of German
+               ethnic origin” or “of German descent”. Today, the talk concerns an “and” or “or” in
+               some part of the text I’m not familiar with. At some point, that too is resolved. Can
+               the Chancellor and his entourage really set off? Warsaw is shrouded in fog! At around
+               12.30 p.m., we got the go-ahead from Polish security. The flight was scheduled to
+               leave Bonn at 1.00 p.m. … We set off for the airport just after two, the delegation
+               arrived and we drove back to the city. Chancellor Kohl has rejected the suggested
+               programme for the weekend once again and wants to discuss it with Mazowiecki
+               himself.</p>
+            <p/>
+            <p>At around 6.30 p.m., Genscher<note xml:id="e616">Hans-Dietrich Genscher (1927–2016),
+                     <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor
+                  and Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note> met Adam
+                  Michnik<note xml:id="e622">Adam Michnik (*1946), <ref target="https://dodis.ch/P57379">dodis.ch/P57379</ref>, Member of the Sejm for
+                  Solidarnosz and editor-in-chief of the Gazeta Wyborcza.</note>, one of the leading
+               figures in the democratic (hitherto) opposition and now editor-in-chief of “Gazeta
+               Wyborcza”, Solidarity’s new daily. It was an interesting meeting. Michnik is
+               preoccupied with the German Question. For the first time, he said, it feels as if the
+               GDR actually exists as a state. Formerly, it was not merely a state with a Soviet
+               basis, but rather a Soviet basis with a state. In his opinion, that gives rise to
+               entirely new opportunities, also as regards the question of reunification. He said
+               people only want to reform the GDR, not renounce it. He’s worried about growing
+               nationalism in Europe, particularly in hitherto socialist countries, and sees this as
+               a result of radical anti-communism, with the pendulum now swinging the other way.
+               This is tangible in Poland, he said, but also in Hungary and the Soviet Union. –
+               Earlier on, I heard the news that put everything else in the shade – the GDR has
+               opened its borders. Incredible! How will Europe live with that? National
+               reunification or European integration, as planned from 1992? Germany must become the
+               main topic (of conflict) in Europe in the near future.</p>
+            <p>
+                    <emph>Friday, 10 November 1989</emph>: The events in Germany are all anyone is
+               talking about in the government guest house. The Chancellor’s office is talking about
+               him flying back at around 5.00 or 5.30 p.m. today. He would then return to Poland,
+               maybe tomorrow. It’s all go in the delegation office. Special guests on the
+               delegation want to know what’s going on and the journalists are already packing.
+               Shortly afterwards, we hear that the Chancellor has decided to fly as early as 2.30
+               p.m. Hectic attempts are made to inform the flight crew. Shortly after that, I meet a
+               colleague outside the Council of Ministers building who tells me the Chancellor wants
+               to fly at 1.30 p.m.! We speed out to the airport, where I speak to the airport
+               management by phone. They immediately dispatch security staff and the necessary
+               technicians who see what can be done. The plane hasn’t even been refuelled yet. They
+               allow our car onto the airfield – the military section!</p>
+            <p>
+                    <emph>12.45 p.m.</emph> The captain doesn’t know yet that the departure has been
+               brought forward. “2.00 p.m. at the earliest if it all goes well.” But that means
+               there won’t be any food on board. No worries, the main thing is to get away. After
+               some discussion, the Polish side is prepared to let the plane take off from its
+               parking position, thus saving 20 minutes.</p>
+            <p>
+                    <emph>1.45 p.m.</emph> The plane is ready for take-off. The Polish security people
+               are very cooperative and obliging. They don’t bother inspecting passports or
+               anything.</p>
+            <p>Kohl and Genscher arrive five minutes later. They give a short statement to the press
+               and the plane leaves. We draw up a tourism programme from scratch for the special
+               delegation members who have been left behind.</p>
+            <p>A colleague and I meet Adam Michnik at “Gazeta Wyborcza” at <emph>10.00 p.m.</emph>
+               He signs a copy of today’s paper for us. The front page has a picture of Kohl and
+               Mazowiecki and the headline “Europe without Walls”. At the dinner afterwards, there
+               is a very lively discussion, as always. We talk about Germany, Poland, Russia and
+               Europe. We discuss the church, nationalism, republicans and socialism. We cover
+               Solidarity and the future, as well as European integration and the German
+               Question.</p>
+            <p>Michnik is surprised and fascinated by the events in the GDR, which have not changed
+               his positive attitude towards German unification in the slightest. In fact, he feels
+               the events back up his analysis. He wants to know what we think will happen. What
+               would be possible in a situation like this? It’s hard to say what will happen
+               tomorrow.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

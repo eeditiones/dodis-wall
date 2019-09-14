@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="61">Two Plus Four: The End Game</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52919</idno>
+                    </msIdentifier>
+                    <head>Two Plus Four: The End Game</head>
+                    <msContents>
+                        <summary>Impressions of the last 48 hours before the signature of the Treaty on the Final Settlement with Respect to Germany.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-09-17">17.9.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Letter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57460">Weston, John (1938–)</persName>
+                    <orgName ref="#R223">GB/Foreign Office</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57460">Weston, John (1938–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57461">Mallaby, Christopher (1936–)</persName>
+                    <orgName ref="#R26529">Great Britain/Embassy in Bonn</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P56605">
+                        <persName>
+                            <forename>James </forename>
+                            <surname>Baker</surname>
+                        </persName>
+                        <persName>Baker, James A. </persName>
+                        <persName>Baker, James </persName>
+                        <persName>Baker III, James Addison</persName>
+                        <persName>Baker, James Addison</persName>
+                        <persName>Baker, Jim</persName>
+                        <birth when="1930-04-28">
+                            <placeName>Houston</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56605</idno>
+                    </person>
+                    <person xml:id="P57409">
+                        <persName>
+                            <forename>Robert D.</forename>
+                            <surname>Blackwill</surname>
+                        </persName>
+                        <persName>Blackwill, Robert D.</persName>
+                        <persName>Blackwill, Bob</persName>
+                        <birth when="1939-08-08"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57409</idno>
+                    </person>
+                    <person xml:id="P57463">
+                        <persName>
+                            <forename>Alexander</forename>
+                            <surname>Bondarenko</surname>
+                        </persName>
+                        <persName>Bondarenko, Alexander</persName>
+                        <persName>Bondarenko, Alexander Pawlowitsch</persName>
+                        <persName>Bondarenko, Aleksander</persName>
+                        <persName>Бондаренко, Александр Павлович</persName>
+                        <persName>Bondarenko, Alexander Pavlovich</persName>
+                        <birth when="1922-06-10"/>
+                        <death when="2010-11-11">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57463</idno>
+                    </person>
+                    <person xml:id="P57455">
+                        <persName>
+                            <forename>Bertrand</forename>
+                            <surname>Dufourcq</surname>
+                        </persName>
+                        <persName>Dufourcq, Bertrand</persName>
+                        <birth when="1933-07-05">
+                            <placeName>Paris</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57455</idno>
+                    </person>
+                    <person xml:id="P15651">
+                        <persName>
+                            <forename>Roland</forename>
+                            <surname>Dumas</surname>
+                        </persName>
+                        <persName>Dumas, Roland</persName>
+                        <birth when="1922-08-22">
+                            <placeName>Limoges</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15651</idno>
+                    </person>
+                    <person xml:id="P57472">
+                        <persName>
+                            <forename>Frank</forename>
+                            <surname>Elbe</surname>
+                        </persName>
+                        <persName>Elbe, Frank</persName>
+                        <birth when="1941-05-09">
+                            <placeName>Iserlohn</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57472</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P57471">
+                        <persName>
+                            <forename>David</forename>
+                            <surname>Gow</surname>
+                        </persName>
+                        <persName>Gow, David</persName>
+                        <birth when="1945"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57471</idno>
+                    </person>
+                    <person xml:id="P57401">
+                        <persName>
+                            <forename>Douglas R.</forename>
+                            <surname>Hurd</surname>
+                        </persName>
+                        <persName>Hurd, Douglas R.</persName>
+                        <birth when="1930-03-08">
+                            <placeName>Marlborough</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57401</idno>
+                    </person>
+                    <person xml:id="P57383">
+                        <persName>
+                            <forename>Dieter</forename>
+                            <surname>Kastrup</surname>
+                        </persName>
+                        <persName>Kastrup, Dieter</persName>
+                        <birth when="1937-03-11">
+                            <placeName>Bielefeld</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57383</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57466">
+                        <persName>
+                            <forename>Juli Alexandrowitsch</forename>
+                            <surname>Kwizinski</surname>
+                        </persName>
+                        <persName>Kwizinski, Juli Alexandrowitsch</persName>
+                        <persName>Kvitsinsky, Yuli</persName>
+                        <persName>Kvitsinsky, Yuli Alexandrovich</persName>
+                        <birth when="1936-09-26"/>
+                        <death when="2010-03-03">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57466</idno>
+                    </person>
+                    <person xml:id="P57461">
+                        <persName>
+                            <forename>Christopher</forename>
+                            <surname>Mallaby</surname>
+                        </persName>
+                        <persName>Mallaby, Christopher</persName>
+                        <birth when="1936-06-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57461</idno>
+                    </person>
+                    <person xml:id="P57468">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Powell</surname>
+                        </persName>
+                        <persName>Powell, Charles</persName>
+                        <birth when="1941-07-06"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57468</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                    <person xml:id="P57460">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>Weston</surname>
+                        </persName>
+                        <persName>Weston, P.J.</persName>
+                        <persName>Weston, John</persName>
+                        <birth when="1938-04-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57460</idno>
+                    </person>
+                    <person xml:id="P57469">
+                        <persName>
+                            <forename>Robert</forename>
+                            <surname>Zoellick</surname>
+                        </persName>
+                        <persName>Zoellick, Robert Bruce</persName>
+                        <persName>Zoellick, Robert</persName>
+                        <birth when="1953-07-25"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57469</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R8254">
+                        <orgName>France/Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R8254</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R223">
+                        <orgName>GB/Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R223</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R33469">
+                        <orgName>GB/Prime Minister's Office</orgName>
+                        <idno type="URI">https://dodis.ch/R33469</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R26529">
+                        <orgName>Great Britain/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R26529</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4529">
+                        <orgName>Guardian</orgName>
+                        <idno type="URI">https://dodis.ch/R4529</idno>
+                    </org>
+                    <org xml:id="R31507">
+                        <orgName>Helsinki Final Act</orgName>
+                        <idno type="URI">https://dodis.ch/R31507</idno>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R33471">
+                        <orgName>Toshiba</orgName>
+                        <idno type="URI">https://dodis.ch/R33471</idno>
+                        <placeName ref="#G35">Tokyo</placeName>
+                    </org>
+                    <org xml:id="R569">
+                        <orgName>USA/Congress</orgName>
+                        <idno type="URI">https://dodis.ch/R569</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R118">
+                        <orgName>USA/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R118</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R369">
+                        <orgName>USSR/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R369</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G622">
+                        <placeName>Helsinki</placeName>
+                        <location>
+                            <geo>60.17332524.941025</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G622</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G15388">
+                        <placeName>Stavropol</placeName>
+                        <location>
+                            <geo>45.0541.983333</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15388</idno>
+                    </place>
+                    <place xml:id="G94">
+                        <placeName>Stockholm</placeName>
+                        <location>
+                            <geo>59.32932318.06858</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G94</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52919">dodis.ch/52919</ref>
+               <title type="main">Letter<note xml:id="e6733">Letter: <idno>Foreign and Commonwealth
+                        Office RS 021/1/90</idno>. Copied to HM Representatives at Moscow, Paris and
+                     UK Delegation to NATO and to Andrew Wood, British Minister in
+                     Washington.</note> from the Deputy Undersecretary of State (Defense) of the
+                  British Foreign and Commonwealth Office, John Weston<note xml:id="e6736">John
+                     Weston (*1938), <ref target="https://dodis.ch/P57460">dodis.ch/P57460</ref>,
+                     Deputy Under-Secretary of State (Defence) in the British Foreign and
+                     Commonwealth Office 1989–1990.</note>, to the British Ambassador in Bonn, Sir
+                  Christopher Mallaby<note xml:id="e6742">Sir Christopher Mallaby (*1936), <ref target="https://dodis.ch/P57461">dodis.ch/P57461</ref>, British Ambassador
+                     in Bonn, 1988–1993.</note>
+                    </title>
+               <title type="sub">Two plus Four: The End Game</title>
+            </head>
+            <opener>
+               <add>Personal and Confidential</add>
+               <dateline>London, 17 September 1990</dateline>
+            </opener>
+            <p>Dear Christopher,</p>
+            <p>1. The minor squall that blew up following David Gow’s <emph>Guardian</emph> article
+               of 7 September<note xml:id="e6758">David Gow (*1945), <ref target="https://dodis.ch/P57471">dodis.ch/P57471</ref>, Correspondent of The
+                  Guardian in Bonn 1989–1995. The headline read: <orig>Bonn getting too close to
+                     Moscow</orig>.</note> and German press comment after the treaty signing on 12
+               September prompts me to put on record a few impressions of the last forty-eight hours
+               before signature of this historic treaty.</p>
+            <p>2. After four consecutive days work in East Berlin from 4 to 7 September the
+               Political Directors parted late on the Friday with an agreement on an enumerated ten
+               article draft treaty subject to a couple of square bracketed passages and accompanied
+               by a Soviet proposal, which had no status, for a further draft article on “crossing
+               the line”. We had agreed to foregather in Moscow in the early evening of 11 September
+               to vet the final technical cosmetics by legal advisers and treaty experts, leaving it
+               to Ministers to resolve on the morning of 12 September the three main outstanding
+               issues (dual capable systems, crossing the line, suspension of QRRs<note xml:id="e6766">Quadripartite Rights and Responsibilities.</note>). Signature was
+               then scheduled to take place at 4 pm the same day. This put the Russians under a
+               pleasing time bind.</p>
+            <p>3. Less than twenty-four hours after we left Berlin, when Bondarenko<note xml:id="e6771">Aleksander Bondarenko (1922–2010), <ref target="https://dodis.ch/P57463">dodis.ch/P57463</ref>, Head of the Third
+                  European Department in the Soviet Ministry of Foreign Affairs 1971–1991 and a
+                  Soviet representative in the Two plus Four negotiations.</note> had reported to
+                  Kvitsinsky<note xml:id="e6777">Yuli Kvitsinsky (1936–2010), <ref target="https://dodis.ch/P57466">dodis.ch/P57466</ref>, Soviet Ambassador in
+                  Bonn, 1986–1990.</note> and Shevardnadze<note xml:id="e6783">Eduard Shevardnadze
+                  (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister
+                  of Foreign Affairs of the Soviet Union 2.7.1985–26.12.1990.</note> had returned
+               from the Far East, we heard in our respective capitals that the Russians were
+               proposing instead a further full day of Political Director work in Moscow on 11
+               September (requiring us to travel to Moscow on 10 September). This transparent
+               attempt to give themselves more room for manoeuvre should in my view have been
+               resisted. But by the time I got Kastrup<note xml:id="e6789">Dieter Kastrup (*1937),
+                     <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref>, Political Director
+                  in the FRG Foreign Ministry, 1988–1991.</note> on the telephone on Sunday 9
+               September, he had already conceded the point. The Americans being already in Moscow
+               after the Helsinki Summit, we and the French were clearly not in a position to hold
+                  out.<note xml:id="e6795">The Helsinki Summit, to discuss the Iraq-Kuwait war, was
+                  held between Presidents Bush and Gorbachev on 5 September 1990.</note>
+                </p>
+            <p>4. We duly met in the whited sepulchre of the Octyabrskaya Hotel on the morning of 11
+               September. A hastily arranged One plus Three for a few minutes beforehand
+               revealed:</p>
+            <p>a) intense German annoyance about David Gow in the Guardian of 7 September, over
+               which they suspected the UK; and,</p>
+            <p>b) that the FRG delegation had already been holding bilaterals with the Russians in
+               an attempt to sew up a deal on the final points, misrepresenting US views (at least
+               to us) into the bargain.</p>
+            <p>The Russians for their part had advanced the signature ceremony from 4 p.m. to 12.30
+               p.m. the next day and confirmed that Gorbachev<note xml:id="e6805">Mikhail Gorbachev
+                  (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General
+                  Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman
+                  of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the
+                  Soviet Union 15.3.1990–25.12.1991.</note> would attend personally. [Kastrup then
+               also told me that he thought the Russians would return to their earlier attempt to
+               get us to drop the words “upon German request” from the provision in Article 5
+               covering the continued troop presence of the three Allies in Berlin, in an attempt
+               further to blur the distinction between the Allied presence and the residual Soviet
+               forces presence. I told Kastrup, having taken the precaution of speaking to Charles
+                  Powell<note xml:id="e6811">Charles Powell (*1941), <ref target="https://dodis.ch/P57468">dodis.ch/P57468</ref>, Private Secretary to
+                  the British Prime Minister, 1983–1991.</note> over the weekend before leaving
+               London (the Secretary of State<note xml:id="e6817">Douglas Hurd (*1930), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British Secretary of
+                  State for Foreign and Commonwealth Affairs, 26.10.1989–5.7.1995.</note> being in
+               Japan), that I knew the Prime Minister’s Office attached importance to retaining
+               those words. This may be partly the origin of the later German press canard that
+               British firmness stemmed from the views of the Prime Minister. I had not however
+               discussed “crossing the line” with Charles Powell, because I did not want to risk
+               placing myself under unrealistic restrictions on that issue. In the event the
+               Russians did not return to the charge on the words “upon German request”.]<note xml:id="e6823">Square brackets in original.</note>
+                </p>
+            <p>5. When we broke at 4 pm on 11 September the position was as described in Moscow Tel
+               No. 1694<note xml:id="e6827">This telegram reported that all remaining issues had
+                  been settled except <orig>crossing the line</orig>, which looked precarious
+                  because of <orig>German weakness and apparent American
+               acquiescence</orig>.</note>. Dual capable systems were already safely in the bag.
+               Suspension of QRR did not look a stopper. The real crux was on “crossing the line”.
+               The pass had already been virtually sold for the transitional period covering Soviet
+               troop withdrawal, on the basis that paragraph 1 of Article 5 would preclude any
+               military activity there by armed forces of states other than the Soviet Union and
+               Germany. It also looked uncertain whether for the period thereafter we could hold the
+               position with a provision excluding merely large-scale military manoeuvres (as
+               defined by the 1986 Stockholm CSBMs Agreement), which up to then had been
+               Kvitsinsky’s professed major preoccupation. Kastrup was arguing for a simple
+               provision against all deployment, coupled with some kind of oral statement; on the
+               grounds that such was the sense of Stavropol: the reference (ill-defined) to
+               manoeuvres appeared to be intended as a compromise. Dufourcq<note xml:id="e6830">Bertrand Dufourcq (*1933), <ref target="https://dodis.ch/P57455">dodis.ch/P57455</ref>, Political Director, French Ministry of Foreign Affairs,
+                  1988–1991.</note> was personally unhappy about this but inhibited by the fact that
+               his Minister was not due to arrive in Moscow until 3.30 a.m. on 12 September.
+                  Zoellick’s<note xml:id="e6836">Robert Zoellick (*1953), <ref target="https://dodis.ch/P57469">dodis.ch/P57469</ref>, Counsellor, US
+                  Department of State, 1989–1992.</note> compass was beginning to veer
+               uncertainly.</p>
+            <p>6. With the Secretary of State’s arrival around 5.30 p.m., bilateral Ministerials got
+               under way—Baker<note xml:id="e6844">James Baker (*1930), <ref target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, United States Secretary
+                  of State 25.1.1989–23.8.1992.</note>/Genscher,<note xml:id="e6850">Hans-Dietrich
+                  Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>,
+                  Vice-Chancellor and Minister for Foreign Affairs of the FRG
+                  1.10.1982–17.5.1992.</note> Secretary of State/Baker and later Secretary of
+               State/Genscher. The upshot was that we and the Americans (joined by the French)
+               agreed to camp for the rest of the evening on Ministerial instructions to the effect
+               that, if paragraph 1 of Article 5 precluded all military activity [during the
+               transitional period, paragraph 3 of Article 5 should go no further than precluding
+               deployment “with the aim of holding large scale military manoeuvres”. But our
+               scheduled resumption at 8 pm that evening was delayed for a further hour by private
+               German/Russian bilateral activity elsewhere – a performance described as “tacky” by
+               Zoellick, who was greatly irritated by it.</p>
+            <p>7. When Kastrup and Kvitsinsky eventually returned after 9 p.m., the former put to us
+               in the margin before resumption his provisional agreement with the Russians on a
+               simple “no deployment” formula coupled with a four point oral statement by Genscher
+               at the Plenary negotiating session, which the Russians would undertake to listen to
+               in silence. [The Genscher four points were: no large scale military manoeuvres;
+               military activities below that threshold were not specifically excluded but would not
+               necessarily take place, the application of the word “deployment” would be for
+               sovereign Germany to decide; in doing so, she would exercise reason and
+               responsibility and bear in mind the security interests of all.]<note xml:id="e6858">Square brackets in original.</note>
+                </p>
+            <p>8. This triggered sharp open disagreement among the One plus Three on the sidelines
+               of the meeting. The thrust of UK/US/French objections was that the Alliance should
+               not bind itself by treaty with the Soviet Union in a way which would indefinitely
+               foreclose options extending far beyond the foreseeable circumstances and would
+               further limit German sovereignty beyond Stavropol. With 12 billion DM in their kitty
+               and the world expecting signature in little more than twelve hours, we did not need
+               to offer the Russians any more concessions. The German response was that this was all
+               totally unrealistic since peace had broken out in Europe. (“Oh come on! You can’t be
+               serious.” was the stock rejoinder.) They also argued that the German word “verlegt”
+               describing the deal at Stavropol went a good way beyond a mere no stationing
+               agreement. When the formal session resumed I asked Kvitsinsky whether he would
+               confirm that silence by Shevardnadze in the face of an oral statement by Genscher
+               could be interpreted at the very least as the Soviet Union not disagreeing with this
+               statement. Kvitsinsky declined to provide any such assurance.</p>
+            <p>9. After further skirmishing we broke inconclusively around 10.30 pm. At that point
+               there were at least five alternatives in the air.</p>
+            <p>i) Soviet position: no military activity in transitional period, simple “no
+               deployment” formula thereafter;</p>
+            <p>ii) US/UK/French proposal: no military activity for transitional period and “no
+               deployment with the aim of holding large-scale military manoeuvres” thereafter;</p>
+            <p>iii) FRG position: as for the Russians, but with oral statement by Genscher at
+               plenary session on 12 September to which Shevardnadze would make no reply.</p>
+            <p>iv) Zoellick fallback mark I: instead of formulation at (ii) above, after “no
+               deployment” add new sentence in treaty (crafted with the UK) as follows: “Decisions
+               on whether, and if so what kind of, military activities take place in that part of
+               Germany would be for the sovereign united Germany to make in accordance with
+               provisions of this treaty, the principles reflected in the Preamble and taking
+               account of the security interests of the states party.”</p>
+            <p>v) Zoellick fallback mark II: simple “no deployment” formula in the Treaty plus a
+               letter from Genscher either to the Three Allied Foreign Ministers or to the NATO
+               Secretary-General setting out the Genscher Four Points.</p>
+            <p>10. At this juncture the Russians decided to put the frighteners on a bit. They sent
+               senior MFA<note xml:id="e6876">Ministry of Foreign Affairs.</note> officials round to
+               each delegation (in my case catching me in my bedroom just short of midnight) to
+               state formally on instructions that because of the failure to agree at official
+               level, the plenary session at 10 am the next day at the Octyabrskaya had been
+               postponed, the timing of signature was in question and the press would have to be
+               informed. Instead Mr Shevardnadze wished to see his Ministerial colleagues alone at a
+               working session in the MFA Mansion at Alexander Tolstoy Street next morning at the
+               same hour. This tactic, which in my view was never convincing since the Russians were
+               under the greatest time pressure of all, got Genscher in enough of a lather for him
+               to go off to see Baker at 1.15 in the morning, when the latter had already taken his
+               sleeping pill and final bedtime drink. [With hindsight this gives a subtle extra
+               flavour to the reference in Baker’s speeches at the plenary session and the press
+               conference on 12 September about free citizens no longer being threatened by a knock
+               on the door at dead of night!]<note xml:id="e6879">Square brackets in
+                  original.</note>
+                </p>
+            <p>11. By the following morning, when One plus Three Ministers met at the French Embassy
+               under Dumas’s<note xml:id="e6883">Roland Dumas (*1922), <ref target="https://dodis.ch/P15651">dodis.ch/P15651</ref>, French Foreign
+                  Minister, 10.5.1988–28.3.1993.</note> slightly dishevelled chairmanship, further
+               US/FRG work had produced the form of words which was eventually to become the text of
+               the agreed minute annexed to the Treaty. One plus Three Ministers quickly agreed that
+               they did not wish to hold out for the formulation at paragraph 9 (ii) above at the
+               expense of delaying signature in Moscow. But Baker in particular was clear that if
+               the Administration were to carry the treaty successfully on the Hill, something in
+               writing would be necessary about the provisions on military activity in the former
+               GDR after Soviet troop departure; oral assurances would not do. When we broke from
+               the breakfast the preferred solution was an inspired question and answer at the press
+               conference which Shevardnadze would pass to Genscher who would answer in terms of the
+               latest agreed text; this would then be confirmed as a record of the exchange in the
+               press conference by letter from Genscher to his five Two plus Four colleagues or,
+               failing that, to the Three.</p>
+            <p>12. Genscher and Baker went off to see Shevardnadze. The Russians then let it be
+               known that the timetable for the morning’s meetings had reverted to the original
+               plan. Two plus Four Ministers had a private session at the Octyabrskaya Hotel prior
+               to the Plenary session there. It was then that Baker stumbled on the notion of an
+               agreed minute, to be annexed to the treaty and signed in addition to it by all six
+               Ministers. Slightly to everyone’s surprise this won Shevardnadze’s assent. By this
+               time the German delegation were once more in a highly excitable state, Genscher’s
+               Private Secretary, Frank Elbe<note xml:id="e6891">Frank Elbe (*1941), <ref target="https://dodis.ch/P57472">dodis.ch/P57472</ref>, Private Secretary of
+                  Hans-Dietrich Genscher 1987–1992.</note>, being particularly disagreeable, and
+               venting all kinds of nonsense about how close “some people” had come “to screwing it
+               up”. The formal plenary session and the predictable speeches for the occasion
+               followed without controversy. We broke to allow final preparations of the text for
+               signature. At this point we moved from the sublime to the ridiculous. The German
+               word-processor back-up went on the blink, thus delaying both German and French texts
+               of the agreed minute. The American delegation, despite being 180 strong in Moscow,
+               were apparently unable to produce a typewriter in the hotel that morning. I began to
+               wonder about the wisdom of having conceded to the Americans the final textual work,
+               the UK team having earned much credit throughout the session in Berlin and the early
+               stages in Moscow with our Toshiba lap-top producing running updates of the texts in
+               near real time around the table.</p>
+            <p>13. Signature duly followed under Gorbachev’s benevolent eye. Bondarenko looked ten
+               years younger on the instant. Champagne and congratulations were lavish. The final
+               forty-eight hours were nevertheless instructive. They brought home for me that, with
+               the arrival of German unity, Germany will not be simply the Federal Republic plus,
+               but a different entity. Looking back on the whole process I see something of a thread
+               running through: the early reluctance of the Germans to discuss politico-military
+               issues at One plus Three, the bilateral concessions made at Stavropol
+                  (<emph>pace</emph> Bob Blackwill’s valedictory at Carnegie, Zoellick sees that as
+               essentially bilateral) the subsequent systematic ambiguity about what had been agreed
+               there on the troop movement question (“verlegt” in German serving variously as
+               “stationing”, “deployed” and “moved” depending on the day and the argument), the
+                  <emph>fait accompli</emph> over the exclusion of SOFA/SA<note xml:id="e6899">Status of Forces Agreement/Supplementary Agreement (to the SOFA).</note> from
+               application in the former GDR, the acrimony over the crossing the line issue at the
+               last, Genscher’s unforthcoming answer at the press conference to the question about
+               Allied forces in Berlin, and the general obtuseness and emotion on the German side
+               faced with the assertion that an important Alliance interest might be at stake.</p>
+            <p>14. I do not wish to exaggerate all this or to diminish the achievement, for the
+               Germans and indeed for us all, that German unification represents. We have every
+               reason to work within the Alliance as within the Community to maintain and if
+               possible strengthen the underlying strategic Western solidarity. But as we embark on
+               this renewed challenge from 3 October I already begin to feel as I look at our German
+               partners that:</p>
+            <p>‘You are not the same people who left that station</p>
+            <p>Or who will arrive at any terminus …’<note xml:id="e6908">
+                        <idno>T. S. Eliot, The Dry
+                     Salvages, Four Quartets, Canto III, London, 1944.</idno>
+                    </note>
+                </p>
+            <p/>
+            <p>I would be interested in your diagnosis.</p>
+            <p/>
+            <p>Yours ever John</p>
+         </div>
+      </body>
+   </text>
+</TEI>

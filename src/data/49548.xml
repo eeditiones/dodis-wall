@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quaderni di Dodis 12</title>
+                <author>Diplomatische Dokumente der Schweiz</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="http://dodis.ch/49548">dodis.ch/49548</ref>
+                    <title type="main">Interne Notiz<note xml:id="e735">Notiz: <idno type="CH-BAR">
+                                CH-BAR#E2010A#1999/250#7145*(B.73.0).</idno> Verfasst und
+                            unterzeichnet von Daniel Woker, <ref target="dodis.ch/P27996"
+                                >dodis.ch/P27996</ref>. Kopie an: Silvio Arioli, <ref
+                                target="http://dodis.ch/P24523">dodis.ch/P24523</ref>, Klaus Jacobi,
+                                <ref target="http://dodis.ch/P19511">dodis.ch/P19511</ref>, die
+                            Sektion Mittel- und Osteuropäische Länder, das Sekratariat des
+                            Departementschefs, das Politisches Sekretariat, die Direktion für
+                            Verwaltungsangelegenheiten und Aussendienst sowie der Presse- und
+                            Informationsdienst des Politischen Departements, das Bundesamt für
+                            Ausländerfragen des Justiz- und Polizeidepartements sowie die
+                            schweizerischen Botschaften in Berlin und Bonn.</note> des
+                        Eidgenössischen Departements für auswärtige Angelegenheiten</title>
+                    <title type="sub">DDR: Nicht nur die Mauer zittert</title>
+                </head>
+                <opener>
+                    <dateline>
+                        <placeName>Bern, </placeName>
+                        <date when="1989-11-13">13. November 1989</date>
+                    </dateline>
+                </opener>
+                <p>Am Freitag, 10.11.1989, empfängt der Unterzeichnete den DDR-Botschaftsrat
+                        Tschierlich<note xml:id="e633">Arnold Tschirlich, <ref
+                            target="http://dodis.ch/P54816">dodis.ch/P54816</ref>, Botschaftsrat an
+                        der Botschaft der DDR in Bern 27.6.1986–1990.</note>, auf dessen dringendes
+                    Ersuchen und, in T<add type="edition">[schierlich]</add>’s Worten, als
+                    offizielle Vorstellung der DDR gegenüber den schweizerischen Behörden mit Blick
+                    auf das heutige historische Ereignis.</p>
+                <p>T<add type="edition">[schierlich]</add> erscheint ausgesprochen «dépassé par les
+                    évènements». Er übergibt zunächst die beiliegende Informationsnotiz<note
+                        xml:id="e624">Notiz der Botschaft der DDR in Bern vom 10. November 1989,
+                            <ref target="http://dodis.ch/52350">dodis.ch/52350</ref>.</note>. Sowohl
+                    die darin enthaltene Regelung wie auch T<add type="edition">[schierlich]</add>’s
+                    Anmerkung, die Mauer bestehe unveränderlich weiter und habe weiterhin ihre
+                    Funktion als Grenze sind zum Zeitpunkt seiner Intervention (später Freitag
+                    Nachmittag) teilweise bereits überholt. Zwei Aspekte in T<add type="edition"
+                        >[schierlich]</add>’s teilweise etwas wirren Ausführungen verdienen indes
+                    Aufmerksamkeit:</p>
+                <p>– In seiner Botschaft hatten sich heute eine grosse Anzahl Schweizer nach
+                    formlosen Ausreisemöglichkeiten DDR – Schweiz (für Verwandte etc.) rsp.
+                    ebensolche Reisemöglichkeiten in die DDR erkundigt. Die DDR-Behörden gingen
+                    davon aus, dass die geltenden Visa-Vorschriften zwischen der DDR und der Schweiz
+                    weiterhin gelten.</p>
+                <p>– T<add type="edition">[schierlich]</add> scheint sich, allerdings sehr
+                    verklausuliert, zu erkundigen, ob die Schweiz einer «nun reformierten» DDR
+                    Unterstützung gewähren würde, «da durch die neue Reiseregelung sehr viel
+                    Substanz verloren gehe».</p>
+                <p>Ich antwortete T<add type="edition">[schierlich]</add> im Sinne der heute von
+                    Presse- und Informationsdienst aufgelegten Mitteilung, dass wir die Öffnung der
+                    DDR-Grenze als Schritt Richtung Freiheit und Demokratie sehr begrüssten.</p>
+                <p><emph>Abzuklären:</emph> Soll und muss die schweizerische Visapraxis mit der DDR
+                    im Lichte der jüngsten Ereignisse überprüft werden? Dies auch im Lichte der eben
+                    eingetroffenen Mitteilung unserer Botschaft in Berlin (Tlx 72 vom 10.11. in
+                        Beilage<note xml:id="e629">Telex Nr. 72 der schweizerischen Botschaft in
+                        Berlin vom 10. November 1989, <ref target="http://dodis.ch/52351"
+                            >dodis.ch/52351</ref>.</note>) die ebenfalls mit Anfragen überschwemmt
+                    wird.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

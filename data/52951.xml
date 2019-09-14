@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="32">Sowjetische Haltung zur deutschen Frage – Jüngste Äusserungen Gortbatschows und Schewardnadses</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52951</idno>
+                    </msIdentifier>
+                    <head>Sowjetische Haltung zur deutschen Frage – Jüngste Äusserungen Gortbatschows und Schewardnadses</head>
+                    <msContents>
+                        <summary>M. Gorbatschow und E. Schewardnadse halten die deutsche Einigung für unvermeidlich. Deshalb konzentrieren sie sich darauf, die Entwicklung durch den KSZE-Prozess zu steuern und die deutsche Einigung als Katalysator zu nutzen, um die Entwicklung in Europa in ihrem Interesse zu beeinflussen.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-01-31">31.1.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57434">Brett, Helmut-Wolfgang (1949–)</persName>
+                    <persName ref="#P57432">Neubert, Klaus (1942–)</persName>
+                    <persName ref="#P57433">Stüdemann, Dietmar (1941–)</persName>
+                    <orgName ref="#R9256">Germany/FRG/Federal Foreign Office</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57432">Neubert, Klaus (1942–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P15414">Genscher, Hans-Dietrich (1927–2016)</persName>
+                    <orgName ref="#R9256">Germany/FRG/Federal Foreign Office</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57436">
+                        <persName>
+                            <forename>Ulrich</forename>
+                            <surname>Brandenburg</surname>
+                        </persName>
+                        <persName>Brandenburg, Ulrich</persName>
+                        <birth when="1950-10-12">
+                            <placeName>Münster</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57436</idno>
+                    </person>
+                    <person xml:id="P57434">
+                        <persName>
+                            <forename>Helmut-Wolfgang</forename>
+                            <surname>Brett</surname>
+                        </persName>
+                        <persName>Brett, Helmut-Wolfgang</persName>
+                        <birth when="1949-10-27"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57434</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P57435">
+                        <persName>
+                            <forename>Wilhelm</forename>
+                            <surname>Höynck</surname>
+                        </persName>
+                        <persName>Höynck, Wilhelm</persName>
+                        <persName>Höynck, Wilhelm Heinrich</persName>
+                        <birth when="1933-12-11">
+                            <placeName>Solingen</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57435</idno>
+                    </person>
+                    <person xml:id="P57383">
+                        <persName>
+                            <forename>Dieter</forename>
+                            <surname>Kastrup</surname>
+                        </persName>
+                        <persName>Kastrup, Dieter</persName>
+                        <birth when="1937-03-11">
+                            <placeName>Bielefeld</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57383</idno>
+                    </person>
+                    <person xml:id="P57395">
+                        <persName>
+                            <forename>Frank</forename>
+                            <surname>Lambach</surname>
+                        </persName>
+                        <persName>Lambach, Frank</persName>
+                        <birth when="1937">
+                            <placeName>Berlin</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57395</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57432">
+                        <persName>
+                            <forename>Klaus</forename>
+                            <surname>Neubert</surname>
+                        </persName>
+                        <persName>Neubert, Klaus</persName>
+                        <birth when="1942-06-23">
+                            <placeName>Dresden</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57432</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P57433">
+                        <persName>
+                            <forename>Dietmar</forename>
+                            <surname>Stüdemann</surname>
+                        </persName>
+                        <persName>Stüdemann, Dietmar</persName>
+                        <birth when="1941-10-20">
+                            <placeName>Wels</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57433</idno>
+                    </person>
+                    <person xml:id="P57384">
+                        <persName>
+                            <forename>Jürgen</forename>
+                            <surname>Sudhoff</surname>
+                        </persName>
+                        <persName>Sudhoff, Jürgen</persName>
+                        <persName>Sudhoff, Jürgen Hellmut</persName>
+                        <birth when="1935-08-20">
+                            <placeName>Bochum</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57384</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R31507">
+                        <orgName>Helsinki Final Act</orgName>
+                        <idno type="URI">https://dodis.ch/R31507</idno>
+                    </org>
+                    <org xml:id="R13418">
+                        <orgName>Izvestija</orgName>
+                        <idno type="URI">https://dodis.ch/R13418</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G137">
+                        <placeName>Brussels</placeName>
+                        <location>
+                            <geo>50.8503384.35171</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G137</idno>
+                    </place>
+                    <place xml:id="G1380">
+                        <placeName>Central Europe</placeName>
+                        <location>
+                            <geo>49.8817.3</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1380</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52951">dodis.ch/52951</ref>
+               <title type="main">Memo<note xml:id="e3331">Memo (copy, translated from German):
+                        <idno>Political Archive of the German Federal Foreign Office PA/AA B 38, Bd.
+                        14707, file reference 213-321.00 SOW</idno>. Written by Klaus Neubert, <ref target="https://dodis.ch/P57432">dodis.ch/P57432</ref>, Dietmar Stüdemann,
+                        <ref target="https://dodis.ch/P57433">dodis.ch/P57433</ref> and Helmut
+                     Wolfgang Brett, <ref target="https://dodis.ch/P57434">dodis.ch/P57434</ref> and
+                     signed by Klaus Neubert. Forwarded to Hans-Dietrich Genscher via Wilhelm
+                     Höynck, <ref target="https://dodis.ch/P57435">dodis.ch/P57435</ref>, Dieter
+                     Kastrup, <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref> and Jürgen
+                     Sudhoff, <ref target="https://dodis.ch/P57384">dodis.ch/P57384</ref>.
+                     Handwritten note by Frank Lambach, <ref target="https://dodis.ch/P57395">dodis.ch/P57395</ref>, to Ulrich Brandenburg, <ref target="https://dodis.ch/P57436">dodis.ch/P57436</ref>, from 31 January
+                     1990: <orig>In my opinion, the “castling queenside” involves constantly
+                        adapting to a development that is getting out of control </orig>
+                            <add type="edition">[for]</add>
+                     <orig> Moscow</orig>. Also published in: <idno>Die Einheit. Das Auswärtige Amt,
+                        das DDR-Außenministerium und der Zwei-plus-Vier-Prozess, ed. by Horst Möller
+                        et. al. on behalf of the Institute for Contemporary History Munich–Berlin,
+                        Göttingen, 2015, doc. 44.</idno>
+                        </note> for the Foreign Minister of the FRG,
+                  Hans-Dietrich Genscher<note xml:id="e3361">Hans-Dietrich Genscher (1927–2016),
+                        <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor
+                     and Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>
+                    </title>
+               <title type="sub">Soviet Position on the German Question. Latest Comments by
+                  Gorbachev and Shevardnadze</title>
+            </head>
+            <opener>
+               <dateline>Bonn, 31 January 1990</dateline>
+            </opener>
+            <p n="1">
+                    <emph>Purpose of the memo:</emph> for information</p>
+            <p>
+               <title type="doc">I.</title>
+            </p>
+            <p/>
+            <p n="1">With his manifest and unreserved support for German unification, Gorbachev<note xml:id="e3380">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union 15.3.1990–25.12.1991.</note>
+               has put himself – as so often in the past – in the vanguard of a development that has
+               been recognised as unstoppable. He is acting from the conviction that he will only be
+               able to influence further developments between East and West Germany if Moscow no
+               longer seeks to slow down the course of events. However, Gorbachev’s support is
+               surprisingly clear. While not unexpected, it is more the logical conclusion of his
+               view that the German Question remains open and is thus the culmination so far of a
+               development apparent in his comments since November 1989, as well as in
+                  Shevardnadze’s<note xml:id="e3386">Eduard Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign
+                  Affairs of the Soviet Union 2.7.1985–26.12.1990.</note> speech in Brussels on 19
+               December 1989<note xml:id="e3392">In this speech before the Political Committee of
+                  the European Parliament Eduard Shevardnadze explained the Soviet position on
+                  European integration and on a possible German unification.</note> and article in
+               “Izvestia” on 18 January 1990.</p>
+            <p/>
+            <p>
+               <title type="doc">II.</title>
+            </p>
+            <p/>
+            <p n="1">Gorbachev is acting now because – like Shevardnadze in his article in
+               “Izvestia” – he wants to largely steer and tangibly influence the discussion on and
+               organisation of a CSCE Summit. He is making use of the short period before
+                  Ottawa<note xml:id="e3403">The Open Skies conference convened on 12 February 1990
+                  in Ottawa, Canada. It was the first large scale international conference after the
+                  fall of the Berlin Wall.</note> to lend impetus to the discussion in the West. At
+               the same time, he is addressing the Soviet public with the aim of gaining support for
+               a historically inevitable and increasingly urgently needed solution to the German
+               Question. This latter aspect is very important for Soviet domestic policy as regards
+               underpinning foreign policy. The clear show of support for Modrow<note xml:id="e3406">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>,
+                  Chairman of the GDR Council of Ministers 13.11.1989–12.4.1990.</note> and the fact
+               that the Party of Democratic Socialism (PDS) has now recognised German unification as
+               necessary make Gorbachev’s comments helpful for this affiliated party’s election
+               campaign. His critical subtext denouncing destabilisation attempts should be
+               understood in this context. In protecting Modrow, he is simultaneously avoiding any
+               connection with the future fate of the PDS. Gorbachev is explicitly addressing
+               Germans in both East and West, thus reflecting Shevardnadze’s positive conclusion in
+               the “Izvestia” article and trusting the Federal Government to live up to its historic
+               responsibility for peace and stability in Europe. Moscow is already developing
+               positions for its dialogue with both German states after 18 March.<note xml:id="e3412">On 18 March 1990 the first free and democratic election to the
+                  People’s Chamber of the GDR took place.</note>
+                </p>
+            <p/>
+            <p>
+               <title type="doc">III.</title>
+            </p>
+            <p/>
+            <p n="1">1. In view of German unification, which Moscow regards as inevitable, this
+               process must be guided. That is why Moscow cannot afford to abandon the classic
+               instruments (Four Power responsibility; enemy state clause<note xml:id="e3422">The
+                  term <orig>enemy state clause</orig> refers to Article 53, Article 107 and a
+                  half-sentence in Article 77 of the Charter of the United Nations of 26 June 1945
+                  by which the signatory States can take enforcement action directed against renewal
+                  of aggressive policy on the part of an enemy state (including military
+                  intervention) without special authorisation of the UN Security Council. Enemy
+                  states are defined <orig>as any state which during the Second World War has been
+                     an enemy of any signatory of the present Charter</orig> (that is, primarily
+                  Germany and Japan).</note>) now. In the future, we should continue to expect
+               Soviet warnings against unilateral and destabilising measures aimed at the GDR and in
+               relation to our European neighbours (no automatic incorporation of the GDR, no
+               interference in internal affairs and a clear stance on the border issue).</p>
+            <p>In view of these signals from Moscow, we should take the following into account:</p>
+            <p>– The Four Power rights are important for the position of the three protecting powers
+                  <emph>in Berlin</emph> even if developments between East and West Germany are
+               likely to improve the city’s situation independently of these rights. However, their
+               original purpose of safeguarding <emph>peace</emph> in and around Germany has now
+               been <emph>superseded</emph> by <emph>other</emph> instruments.</p>
+            <p>– Shevardnadze’s reference to the enemy state clause as a <emph>peacekeeping
+                  instrument</emph> is equally obsolete. As regards <emph>peacekeeping,</emph> the
+               Four Power rights and the enemy state clause only make sense if there is <emph>a
+                  threat of war.</emph> As neither German state poses such a threat, these two
+               instruments are not applicable.</p>
+            <p>– Shevardnadze’s linking of the Four Power rights, the Charter of the United Nations
+               and the CSCE process is something <emph>we</emph> can turn around and use for
+               ourselves in the following way. If the Four Power rights and the UN are not current
+               issues because there is <emph>no threat to peace,</emph> then they are at best a type
+               of insurance policy for purely hypothetical cases, thus leaving the CSCE as the only
+               truly relevant instrument for <emph>shaping policy</emph> rather than preventing
+               war.</p>
+            <p>2. The Soviets will therefore attempt to steer further developments in German
+               politics at the CSCE Summit. This is the only framework that enables Moscow to make
+               use of developments in Germany for its primary interest in pan-European
+               unification.</p>
+            <p>We, too, should determine the course of the CSCE Summit in light of German policy
+               aspects. In giving us the right to self-determination and the possibility of peaceful
+               change, the HFA<note xml:id="e3437">Helsinki Final Act of 1 August 1975.</note>
+               provides us with enough prerequisites for German unification. It would be in our
+               interest to state in a Summit document that Germany’s development must be embedded in
+               Europe’s. This would simultaneously commit all Europeans to German unification.
+               However, we should not tie this to a strict schedule so that the strong momentum in
+               German development can continue speeding up European integration to the same extent
+               as before (locomotive function).</p>
+            <p>In order to create a politically meaningful connection that is also
+                  <emph>flexible</emph> as regards the concrete development of relations between
+               East and West Germany (synchronisation), it seems sensible to expand the CSCE
+               process, including a certain amount of institutionalisation.</p>
+            <p/>
+            <p>
+               <title type="doc">IV.</title>
+            </p>
+            <p/>
+            <p n="1">
+                    <emph>1.</emph> The German Question is one of Moscow’s most important
+               instruments for <emph>influencing</emph> European development in view of the changes
+               in the Warsaw Pact partner countries, the unstoppable withdrawal of Soviet troops
+               from Central Europe and recognition of the dramatic economic emergency in the Soviet
+               Union. With regard to the CSCE Summit, Moscow will thus try to make greater use of
+                  <emph>us</emph> as an <emph>engine</emph> for <emph> pan-European security
+                  structures.</emph>
+                </p>
+            <p>– Moves towards closer relations between East and West Germany and German unification
+               will be fostered by progress in West-East relations/arms control and economic and
+               political cooperation. Germany’s interest in the first of these points is thus useful
+               with a view to the Soviet interests in the latter.</p>
+            <p>In this regard, German interests are a possible “catalyst” for developments that
+               could be of benefit to the Soviet Union. We should develop this element in our own
+               interests and highlight it. This would also be a logical continuation of previous
+               constellations in which both German states played a part in arms-control achievements
+               via their alliances. We still have this constellation. It will remain as a positive
+               factor for West and East <emph>in</emph> the process <emph>and after</emph>
+               unification of the two German states.</p>
+            <p>– At the same time, the Soviet Union will endeavour to find common interests with
+               other European countries that could form a counterbalance to developments between
+               East and West Germany. (It is likely to continue trying to avoid unilateral
+               dependencies when it comes to safeguarding its interests). In this way, Moscow can
+               use the German Question as a lever with our western partners in order to achieve a
+               “soft landing” in terms of time in the changed relations between East and West
+               Germany.</p>
+            <p>2. As regards protecting our own interests, this means putting German unification at
+               the heart of plans for the future Europe. As the “heart of European security”
+               (Shevardnadze’s article in “Izvestia” on 18 January), Germany fosters the
+               transformation of the alliances in a cooperative security structure. Our aim of
+               political integration between all Europeans is thus coming closer to being achieved.
+               We should therefore encourage Moscow in its firm belief that only a united Germany
+               will be a key factor for stability and the pacemaker for Central and Eastern Europe’s
+               economic and social development.</p>
+            <p>Gorbachev’s “big move” shows that in light of developments in the GDR (and other
+               Warsaw Pact countries), he has decided between Shevardnadze’s two views of changes
+               between East and West Germany, that is, a “catalyst” or a “destructive factor”. Only
+               a course that uses the momentum of German developments for peace and stability in
+               Europe, rather than opposing them, will foster the Soviet Union’s security interests
+               and role in shaping events. At the same time, this move creates new “coordinates” for
+               our policies. We will need to integrate the effects of Gorbachev’s decision on the
+               direction to take carefully in our policies on Germany and the <emph>West.</emph>
+                </p>
+         </div>
+      </body>
+   </text>
+</TEI>

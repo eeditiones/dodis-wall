@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="21">Reaktion der USA auf die Ereignisse in Berlin und der DDR seit dem 9.11.</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52949</idno>
+                    </msIdentifier>
+                    <head>Reaktion der USA auf die Ereignisse in Berlin und der DDR seit dem 9.11.</head>
+                    <msContents>
+                        <summary>Die Reaktionen der US-Regierung, der Medien und der Öffentlichkeit auf die jüngsten Ereignisse in Berlin und der DDR werden dargestellt. Die eher verhaltene Erklärung von Präsident Bush, wird auf den Fokus der US-Regierung auf die Wahrung von Stabilität in der NATO zurückführt.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-16">16.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57381">Kölsch, Eberhard (1944–2015)</persName>
+                    <persName ref="#P57380">Moltke, Gebhardt von (1938–2019)</persName>
+                    <orgName ref="#R9256">Germany/FRG/Federal Foreign Office</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57395">Lambach, Frank (1937–)</persName>
+                    <persName ref="#P57380">Moltke, Gebhardt von (1938–2019)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P15414">Genscher, Hans-Dietrich (1927–2016)</persName>
+                    <orgName ref="#R9256">Germany/FRG/Federal Foreign Office</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P39530">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Bahr</surname>
+                        </persName>
+                        <persName>Bahr, Egon Karl-Heinz</persName>
+                        <persName>Bahr, Egon</persName>
+                        <birth when="1922-03-18"/>
+                        <death when="2015-08-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P39530</idno>
+                    </person>
+                    <person xml:id="P56605">
+                        <persName>
+                            <forename>James </forename>
+                            <surname>Baker</surname>
+                        </persName>
+                        <persName>Baker, James A. </persName>
+                        <persName>Baker, James </persName>
+                        <persName>Baker III, James Addison</persName>
+                        <persName>Baker, James Addison</persName>
+                        <persName>Baker, Jim</persName>
+                        <birth when="1930-04-28">
+                            <placeName>Houston</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56605</idno>
+                    </person>
+                    <person xml:id="P57390">
+                        <persName>
+                            <forename>David</forename>
+                            <surname>Brinkley</surname>
+                        </persName>
+                        <persName>Brinkley, David</persName>
+                        <birth when="1920-07-10">
+                            <placeName>Wilmington</placeName>
+                        </birth>
+                        <death when="2003-06-11">
+                            <placeName>Dallas</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57390</idno>
+                    </person>
+                    <person xml:id="P57402">
+                        <persName>
+                            <forename>David S.</forename>
+                            <surname>Broder</surname>
+                        </persName>
+                        <persName>Broder, David Salzer</persName>
+                        <persName>Broder, David S.</persName>
+                        <birth when="1929-09-11"/>
+                        <death when="2011-03-09">
+                            <placeName>Arlington County</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57402</idno>
+                    </person>
+                    <person xml:id="P46671">
+                        <persName>
+                            <forename>Zbigniew</forename>
+                            <surname>Brzezinski</surname>
+                        </persName>
+                        <persName>Brzezinsky, Zbigniew</persName>
+                        <persName>Brzeziński, Zbigniew Kazimierz</persName>
+                        <persName>Brzezinski, Zbigniew</persName>
+                        <birth when="1928-03-28">
+                            <placeName>Varsovie</placeName>
+                        </birth>
+                        <death when="2017-05-26"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46671</idno>
+                    </person>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P57391">
+                        <persName>
+                            <forename>Dick</forename>
+                            <surname>Cheney</surname>
+                        </persName>
+                        <persName>Cheney, Dick</persName>
+                        <persName>Cheney, Richard Bruce</persName>
+                        <birth when="1941-01-30"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57391</idno>
+                    </person>
+                    <person xml:id="P55113">
+                        <persName>
+                            <forename>Günter</forename>
+                            <surname>Gaus</surname>
+                        </persName>
+                        <persName>Gaus, Günter</persName>
+                        <persName>Gaus, Günter Kurt Willi </persName>
+                        <birth when="1929-11-23">
+                            <placeName>Braunschweig</placeName>
+                        </birth>
+                        <death when="2004-05-14">
+                            <placeName>Hambourg</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P55113</idno>
+                    </person>
+                    <person xml:id="P57392">
+                        <persName>
+                            <forename>Michaela</forename>
+                            <surname>Geiger</surname>
+                        </persName>
+                        <persName>Geiger, Michaela</persName>
+                        <birth when="1943-09-29"/>
+                        <death when="1998-12-30">
+                            <placeName>Munich</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P57392</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P15124">
+                        <persName>
+                            <forename>Pierre</forename>
+                            <surname>Harmel</surname>
+                        </persName>
+                        <persName>Harmel, Pierre</persName>
+                        <birth when="1911-03-16"/>
+                        <death when="2009-11-15"/>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P15124</idno>
+                    </person>
+                    <person xml:id="P57403">
+                        <persName>
+                            <forename>Jim</forename>
+                            <surname>Hoagland</surname>
+                        </persName>
+                        <persName>Hoagland, Jim</persName>
+                        <birth when="1940-01-22"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57403</idno>
+                    </person>
+                    <person xml:id="P57383">
+                        <persName>
+                            <forename>Dieter</forename>
+                            <surname>Kastrup</surname>
+                        </persName>
+                        <persName>Kastrup, Dieter</persName>
+                        <birth when="1937-03-11">
+                            <placeName>Bielefeld</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57383</idno>
+                    </person>
+                    <person xml:id="P13656">
+                        <persName>
+                            <forename>George F.</forename>
+                            <surname>Kennan</surname>
+                        </persName>
+                        <persName>Kennan, George F.</persName>
+                        <persName>Kennan, George Frost</persName>
+                        <birth when="1904-02-16">
+                            <placeName>Milwaukee</placeName>
+                        </birth>
+                        <death when="2005-03-17">
+                            <placeName>Princeton</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13656</idno>
+                    </person>
+                    <person xml:id="P47062">
+                        <persName>
+                            <forename>Jeane</forename>
+                            <surname>Kirkpatrick</surname>
+                        </persName>
+                        <persName>Jordan, Jeanne Duane</persName>
+                        <persName>Kirkpatrick, Jeane</persName>
+                        <birth when="1926-11-19"/>
+                        <death when="2006-12-07">
+                            <placeName>Bethesda</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P47062</idno>
+                    </person>
+                    <person xml:id="P31846">
+                        <persName>
+                            <forename>Henry</forename>
+                            <surname>Kissinger</surname>
+                        </persName>
+                        <persName>Kissinger, Henry Alfred</persName>
+                        <persName>Kissinger, Henry</persName>
+                        <birth when="1923-05-27">
+                            <placeName>Fürth</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31846</idno>
+                    </person>
+                    <person xml:id="P57389">
+                        <persName>
+                            <forename>Vyacheslav Ivanovich</forename>
+                            <surname>Kochemasov</surname>
+                        </persName>
+                        <persName>Kotschemassow, Wjatscheslaw Iwanowitsch</persName>
+                        <persName>Kochemasov, Vyacheslav Ivanovich</persName>
+                        <birth when="1918-09-18"/>
+                        <death when="1998">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57389</idno>
+                    </person>
+                    <person xml:id="P57382">
+                        <persName>
+                            <forename>Karl Heinz</forename>
+                            <surname>Kuhna</surname>
+                        </persName>
+                        <persName>Kuhna, Karl-Heinz</persName>
+                        <persName>Kuhna, Karl Heinz</persName>
+                        <birth when="1938-08-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57382</idno>
+                    </person>
+                    <person xml:id="P57381">
+                        <persName>
+                            <forename>Eberhard</forename>
+                            <surname>Kölsch</surname>
+                        </persName>
+                        <persName>Kölsch, Eberhard</persName>
+                        <birth when="1944-03-15"/>
+                        <death when="2015-10-12">
+                            <placeName>Windhoek</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57381</idno>
+                    </person>
+                    <person xml:id="P57395">
+                        <persName>
+                            <forename>Frank</forename>
+                            <surname>Lambach</surname>
+                        </persName>
+                        <persName>Lambach, Frank</persName>
+                        <birth when="1937">
+                            <placeName>Berlin</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57395</idno>
+                    </person>
+                    <person xml:id="P57400">
+                        <persName>
+                            <forename>Christopher</forename>
+                            <surname>Layne</surname>
+                        </persName>
+                        <persName>Layne, Christopher</persName>
+                        <birth when="1949-11-02"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57400</idno>
+                    </person>
+                    <person xml:id="P57387">
+                        <persName>
+                            <forename>Jim</forename>
+                            <surname>Lehrer</surname>
+                        </persName>
+                        <persName>Lehrer, Jim</persName>
+                        <persName>Lehrer, James Charles</persName>
+                        <birth when="1934-05-19">
+                            <placeName>Wichita</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57387</idno>
+                    </person>
+                    <person xml:id="P57386">
+                        <persName>
+                            <forename>Robert</forename>
+                            <surname>MacNeil</surname>
+                        </persName>
+                        <persName>MacNeil, Robert Breckenridge Ware</persName>
+                        <persName>MacNeil, Robert</persName>
+                        <birth when="1931-01-29">
+                            <placeName>Montreal</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57386</idno>
+                    </person>
+                    <person xml:id="P57394">
+                        <persName>
+                            <forename>George J.</forename>
+                            <surname>Mitchell</surname>
+                        </persName>
+                        <persName>Mitchell Jr., George John</persName>
+                        <persName>Mitchell, George J.</persName>
+                        <birth when="1933-08-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57394</idno>
+                    </person>
+                    <person xml:id="P57380">
+                        <persName>
+                            <forename>Gebhardt von</forename>
+                            <surname>Moltke</surname>
+                        </persName>
+                        <persName>Moltke, Gebhardt von</persName>
+                        <birth when="1938-06-28"/>
+                        <death when="2019-01-06">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57380</idno>
+                    </person>
+                    <person xml:id="P57388">
+                        <persName>
+                            <forename>Dan</forename>
+                            <surname>Quayle</surname>
+                        </persName>
+                        <persName>Quayle, James Danforth</persName>
+                        <persName>Quayle, Dan</persName>
+                        <birth when="1947-02-04">
+                            <placeName>Indianapolis</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57388</idno>
+                    </person>
+                    <person xml:id="P57385">
+                        <persName>
+                            <forename>Jürgen</forename>
+                            <surname>Ruhfus</surname>
+                        </persName>
+                        <persName>Ruhfus, Jürgen</persName>
+                        <birth when="1930-08-04">
+                            <placeName>Bochum</placeName>
+                        </birth>
+                        <death when="2018-02-25"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57385</idno>
+                    </person>
+                    <person xml:id="P57398">
+                        <persName>
+                            <forename>William</forename>
+                            <surname>Safire</surname>
+                        </persName>
+                        <persName>Safire, William</persName>
+                        <birth when="1929-12-17">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <death when="2009-09-27">
+                            <placeName>Rockville</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57398</idno>
+                    </person>
+                    <person xml:id="P57384">
+                        <persName>
+                            <forename>Jürgen</forename>
+                            <surname>Sudhoff</surname>
+                        </persName>
+                        <persName>Sudhoff, Jürgen</persName>
+                        <persName>Sudhoff, Jürgen Hellmut</persName>
+                        <birth when="1935-08-20">
+                            <placeName>Bochum</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57384</idno>
+                    </person>
+                    <person xml:id="P54605">
+                        <persName>
+                            <forename>Vernon A.</forename>
+                            <surname>Walters</surname>
+                        </persName>
+                        <persName>Walters, Vernon A.</persName>
+                        <birth when="1917-01-03">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <death when="2002-02-10">
+                            <placeName>West Palm Beach</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54605</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R33447">
+                        <orgName>Boston Herald</orgName>
+                        <idno type="URI">https://dodis.ch/R33447</idno>
+                        <placeName ref="#G8841">Boston</placeName>
+                    </org>
+                    <org xml:id="R33446">
+                        <orgName>CNN</orgName>
+                        <idno type="URI">https://dodis.ch/R33446</idno>
+                        <placeName ref="#G3149">Atlanta</placeName>
+                    </org>
+                    <org xml:id="R33454">
+                        <orgName>German Information Center</orgName>
+                        <idno type="URI">https://dodis.ch/R33454</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                    <org xml:id="R23013">
+                        <orgName>Germany/FRG/Embassy in Washington</orgName>
+                        <idno type="URI">https://dodis.ch/R23013</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R648">
+                        <orgName>New York Times</orgName>
+                        <idno type="URI">https://dodis.ch/R648</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R8614">
+                        <orgName>Time</orgName>
+                        <idno type="URI">https://dodis.ch/R8614</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                    <org xml:id="R569">
+                        <orgName>USA/Congress</orgName>
+                        <idno type="URI">https://dodis.ch/R569</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R118">
+                        <orgName>USA/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R118</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R23059">
+                        <orgName>Wall Street Journal</orgName>
+                        <idno type="URI">https://dodis.ch/R23059</idno>
+                    </org>
+                    <org xml:id="R10002">
+                        <orgName>Washington Post</orgName>
+                        <idno type="URI">https://dodis.ch/R10002</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G1380">
+                        <placeName>Central Europe</placeName>
+                        <location>
+                            <geo>49.8817.3</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1380</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G4826">
+                        <placeName>Malta</placeName>
+                        <location>
+                            <geo>35.93749614.375416</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4826</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52949">dodis.ch/52949</ref>
+               <title type="main">Memo<note xml:id="e2122">Memo (translated from German):
+                        <idno>Political Archive of the German Federal Foreign Office PA/AA B 32, Bd.
+                        179532, file reference 204-322.00 D</idno>. Written by Gebhardt von Moltke,
+                        <ref target="https://dodis.ch/P57380">dodis.ch/P57380</ref> and Eberhard
+                     Kölsch, <ref target="https://dodis.ch/P57381">dodis.ch/P57381</ref> and signed
+                     by Gebhardt von Moltke and Frank Lambach, <ref target="https://dodis.ch/P57395">dodis.ch/P57395</ref>. Seen on 16 November 1989 by Karl Heinz Kuhna, <ref target="https://dodis.ch/P57382">dodis.ch/P57382</ref> and Dieter Kastrup,
+                        <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref>, on 17 November
+                     1989 by Jürgen Sudhoff, <ref target="https://dodis.ch/P57384">dodis.ch/P57384</ref> and on 20 November 1989 by Hans-Dietrich Genscher.
+                     Also published in: <idno>Die Einheit. Das Auswärtige Amt, das
+                        DDR-Außenministerium und der Zwei-plus-Vier-Prozess, ed. by Horst Möller et.
+                        al. on behalf of the Institute for Contemporary History Munich–Berlin,
+                        Göttingen, 2015, doc. 22</idno>.</note> for the Foreign Minister of the FRG,
+                  Hans-Dietrich Genscher<note xml:id="e2143">Hans-Dietrich Genscher (1927–2016),
+                        <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor
+                     and Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>
+                    </title>
+               <title type="sub">US Reaction to the Events in Berlin and the GDR since 9
+                  November</title>
+            </head>
+            <opener>
+               <add>
+                  <emph>Extract</emph>
+               </add>
+               <dateline>Bonn, 16 November 1989</dateline>
+            </opener>
+            <p>
+                    <emph>For information</emph> (ahead of the forthcoming talks in Washington<note xml:id="e2157">Hans-Dietrich Genscher held talks in Washington on 20 and 21
+                  November 1989.</note>)</p>
+            <p>1. The events in Berlin and the GDR have <emph>dominated the US media</emph> for
+               days. Interest in Germany and German/European-US relations has increased enormously
+               among the public (top TV journalists have been sent to Berlin; evening news
+               programmes have been broadcast in front of the Wall, with clips of historic scenes;
+               there have been special features in the “Washington Post” and “New York Times” and
+               Ambassador Ruhfus<note xml:id="e2162">Jürgen Rufus (1930–2018), <ref target="https://dodis.ch/P57385">dodis.ch/P57385</ref>, Ambassador of the FRG
+                  in Washington 16.11.1987–31.8.1992.</note> has given several TV interviews).
+               Moving scenes (cheering, joy, spontaneous celebrations) and highly symbolic images
+               (the Wall, Brandenburg Gate, people embracing and shedding tears of joy) reflect
+               Americans’ tendency to be emotional and preference for images. A <emph>large wave of
+                  sympathy</emph> has gripped the entire country. This is of great help to our
+               public diplomacy work and we should certainly make use of it. The Embassy and German
+               Information Centres are working flat out to do so. The large number of requests for
+               interviews provides a unique opportunity for Federal Government officials to present
+               Germany and its policies to a broad and receptive US audience.</p>
+            <p>2. The resounding echo in the media and among the US public made the
+                  <emph>Administration’s reaction</emph>, which largely reflects our own, look
+               rather subdued in contrast. The focus is on realism, safeguarding stability and, most
+               importantly, preserving unity in NATO. On the evening of 9 November, Bush<note xml:id="e2170">George Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United
+                  States, 20.1.1989–20.1.1993.</note> said (in Baker’s<note xml:id="e2176">James
+                  Baker (*1930), <ref target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, United
+                  States Secretary of State 25.1.1989–23.8.1992.</note> presence and with no
+               expression on his face) that he was “very pleased” about the opening of the GDR
+               borders. He praised the Federal Government for having “done a magnificent job”, but
+               was reserved about further developments and said it was “way too early” to speak
+               about reunification. Asked why he did not seem to be “elated”, Bush said he was “just
+               not an emotional kind of guy”.</p>
+            <p>On the following day, <emph>Baker</emph> said he was “extremely happy”; however, in
+               interviews he described an implied connection between the events and reunification as
+               “premature” (10.11.1989 MacNeil/Lehrer<note xml:id="e2184">The US journalists Robert
+                  MacNeil (*1931), <ref target="https://dodis.ch/P57386">dodis.ch/P57386</ref> and
+                  Jim Lehrer (*1934), <ref target="https://dodis.ch/P57387">dodis.ch/P57387</ref>,
+                  hosted <orig>The MacNeil/Lehrer NewsHour</orig> on the TV channel PBS.</note>).
+               For his part, Vice-President Quayle<note xml:id="e2193">Dan Quayle (*1947), <ref target="https://dodis.ch/P57388">dodis.ch/P57388</ref>, Vice-President of the
+                  United States, 1989–1993.</note> has said that “the reunification of Germany is
+               inevitable”.</p>
+            <p>There are <emph>three reasons</emph> for Bush and Baker’s cautious statements:</p>
+            <p>– the <emph>desire</emph> to signal to the Soviet Union in the run-up to the summit
+               near Malta that the US does not wish to see the <emph>stability of
+                  developments</emph> in Central and East Europe and Gorbachev’s<note xml:id="e2203">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union 15.3.1990–25.12.1991.</note>
+               position in light of critics of his reform process <emph>endangered</emph> by
+               thoughtless expressions of feelings of triumph. Bush and Baker are thus interpreting
+               Gorbachev’s concerns correctly (cf. Gorbachev’s message to Bush on the night of 10/11
+               November, in which he said that he was “very concerned about the possibility of
+               destabilisation”; similar reaction by Ambassador Kotchemassov<note xml:id="e2209">Vyacheslav Kotchemasov (1918–1998), <ref target="https://dodis.ch/P57389">dodis.ch/P57389</ref>, Soviet Ambassador in East Berlin 1983–1990.</note> in a
+               meeting with Ambassador Walters<note xml:id="e2215">Vernon A. Walters (1917–2002),
+                     <ref target="https://dodis.ch/P54605">dodis.ch/P54605</ref>US Ambassador in
+                  Bonn 1989–1991.</note> in East Berlin on 11 November.) Referring explicitly to
+                  <emph>your telephone call</emph> (10 November), Baker underlined that the
+               development in the GDR was also an <emph>achievement resulting from the united stance
+                  shown by the US and NATO</emph> (10.11. MacNeil/Lehrer, 12.11. Brinkley<note xml:id="e2221">The US journalist David Brinkley (1920–2003), <ref target="https://dodis.ch/P57390">dodis.ch/P57390</ref>, hosted the news
+                  broadcast <orig>This Week</orig> on the TV channel ABC.</note>). <emph>Secretary
+                  of Defence Cheney</emph>
+                    <note xml:id="e2227">Dick Cheney (*1941), <ref target="https://dodis.ch/P57391">dodis.ch/P57391</ref>, United States Secretary
+                  of Defense 21.3.1989–28.6.1992.</note> reacted in a similar, but more forceful
+               way;</p>
+            <p>
+                    <emph>– concern</emph> that a more emphatic reaction would inevitably lead to the
+               question of <emph> practical measures</emph> to support reform in the GDR, with
+                  <emph>financial implications</emph> – and at a time when the Administration was
+               being criticised for not providing enough financial support for the reform process in
+               Poland and Hungary.</p>
+            <p>– Bush and Baker’s <emph>characters</emph> and governing style based on a
+               case-by-case approach to crisis management, which deliberately refrains from using
+               far-reaching concepts.</p>
+            <p>The <emph>summit with Gorbachev</emph> on 2 and 3 December has become even more
+               relevant on account of the events in the GDR. The Administration is doing everything
+               it can to counteract the impression that it wants to make decisions over the allies’
+               heads at this summit on far-reaching arrangements on a postwar order in Central
+               Europe. On the other hand, Bush’s and Baker’s reactions, as far as we have seen so
+               far, <emph>merely hint</emph> that the West already has a concept for a European
+               peace order and proven instruments for West East dialogue in the form of the
+                  <emph>Harmel Report</emph>
+                    <note xml:id="e2239">
+                        <orig>Report of the Council on the
+                     Future Tasks of the Alliance (Harmel Report)</orig> of 13 and 14 December 1967,
+                     <ref target="https://www.nato.int/cps/en/natohq/topics_67927.htm">https://www.nato.int/cps/en/natohq/topics_67927.htm</ref>.</note> and the
+                  <emph>CSCE process</emph>.</p>
+            <p>The Administration has not commented so far on the German side’s (Bahr<note xml:id="e2247">Egon Bahr (1922–2015), <ref target="https://dodis.ch/P39530">dodis.ch/P39530</ref>, Member of the SPD.</note>, Geiger<note xml:id="e2253">Michaela Geiger (1943–1988), <ref target="https://dodis.ch/P57392">dodis.ch/P57392</ref>, Member of the CSU and Bundestag 1980–1998.</note>;
+                  Gaus<note xml:id="e2259">Günter Gaus (1929–2004), <ref target="https://dodis.ch/P55113">dodis.ch/P55113</ref>, Journalist.</note>)
+                  <emph>proposal to hold a four-power conference</emph> on Germany.</p>
+            <p>
+               <add type="edition">[…]</add>
+               <note xml:id="e2268">For the complete version of the document in German cf. <ref target="https://dodis.ch/52949">dodis.ch/52949</ref>.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

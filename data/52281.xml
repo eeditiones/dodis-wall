@@ -1,18 +1,313 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Quaderni di Dodis 12</title>
-                <author>Diplomatische Dokumente der Schweiz</author>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="36">Nr. 12, Telegramm Nr. 38. ​Die Wiedervereinigung und die Blockzugehörigkeit​</title>
+                <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52281</idno>
+                    </msIdentifier>
+                    <head>Nr. 12, Telegramm Nr. 38. ​Die Wiedervereinigung und die Blockzugehörigkeit​</head>
+                    <msContents>
+                        <summary>Analyse der drei grundlegenden Prozesse von historischer Bedeutung, die sich gegenwärtig in Europa abspielen: die europäische Integration, die Auflösung des Ostblocks und die damit verbundene Eliminierung der sicherheitspolitischen Bipolarität in Europa und die deutsche Wiedervereinigung.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-13">13.2.1990</origin>
+                    </history>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P17414">Leutert, Jürg (1949–)</persName>
+                    <orgName ref="#R1208">Swiss Embassy in Bonn (1977-)</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P16080">Hohl, Alfred (1930–2004)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R26545">EDA/Politische Direktion/Zentrale Dienste/Politisches Sekretariat</orgName>
+                    <orgName ref="#R28815">EDA/Politische Direktion/Politische Abteilung I</orgName>
+                    <orgName ref="#R19314">Swiss Embassy in East Berlin</orgName>
+                    <orgName ref="#R103">Swiss Embassy in London</orgName>
+                    <orgName ref="#R159">Swiss Embassy in Moscow</orgName>
+                    <orgName ref="#R33">Swiss Embassy in Paris</orgName>
+                    <orgName ref="#R73">Swiss Embassy in Rome</orgName>
+                    <orgName ref="#R104">Swiss Embassy in Washington</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P16080">
+                        <persName>
+                            <forename>Alfred</forename>
+                            <surname>Hohl</surname>
+                        </persName>
+                        <persName>Hohl, Alfred Reinhard</persName>
+                        <persName>Hohl, Alfred</persName>
+                        <persName>HO</persName>
+                        <persName>HN</persName>
+                        <birth when="1930-07-28"/>
+                        <death when="2004-11-12">
+                            <placeName>Luzern</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P16080</idno>
+                    </person>
+                    <person xml:id="P17414">
+                        <persName>
+                            <forename>Jürg</forename>
+                            <surname>Leutert</surname>
+                        </persName>
+                        <persName>LJ</persName>
+                        <persName>Leutert, Jürg</persName>
+                        <persName>LT</persName>
+                        <persName>Leutert, Jürg B.</persName>
+                        <persName>LG</persName>
+                        <birth when="1949-02-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P17414</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R28815">
+                        <orgName>EDA/Politische Direktion/Politische Abteilung I</orgName>
+                        <idno type="URI">https://dodis.ch/R28815</idno>
+                        <placeName ref="#G43">Bern</placeName>
+                    </org>
+                    <org xml:id="R26545">
+                        <orgName>EDA/Politische Direktion/Zentrale Dienste/Politisches Sekretariat</orgName>
+                        <idno type="URI">https://dodis.ch/R26545</idno>
+                    </org>
+                    <org xml:id="R9899">
+                        <orgName>European Union</orgName>
+                        <idno type="URI">https://dodis.ch/R9899</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R27207">
+                        <orgName>Potsdam Agreement (1945)</orgName>
+                        <idno type="URI">https://dodis.ch/R27207</idno>
+                        <placeName ref="#G131">Potsdam</placeName>
+                    </org>
+                    <org xml:id="R1208">
+                        <orgName>Swiss Embassy in Bonn (1977-)</orgName>
+                        <idno type="URI">https://dodis.ch/R1208</idno>
+                    </org>
+                    <org xml:id="R19314">
+                        <orgName>Swiss Embassy in East Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R19314</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R103">
+                        <orgName>Swiss Embassy in London</orgName>
+                        <idno type="URI">https://dodis.ch/R103</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R159">
+                        <orgName>Swiss Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R159</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R33">
+                        <orgName>Swiss Embassy in Paris</orgName>
+                        <idno type="URI">https://dodis.ch/R33</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R73">
+                        <orgName>Swiss Embassy in Rome</orgName>
+                        <idno type="URI">https://dodis.ch/R73</idno>
+                        <placeName ref="#G361">Rome</placeName>
+                    </org>
+                    <org xml:id="R104">
+                        <orgName>Swiss Embassy in Washington</orgName>
+                        <idno type="URI">https://dodis.ch/R104</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>USA/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                    <org xml:id="R1133">
+                        <orgName>USSR/State</orgName>
+                        <idno type="URI">https://dodis.ch/R1133</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G43">
+                        <placeName>Bern</placeName>
+                        <location>
+                            <geo>46.947927.444609</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G43</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G622">
+                        <placeName>Helsinki</placeName>
+                        <location>
+                            <geo>60.17332524.941025</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G622</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G361">
+                        <placeName>Rome</placeName>
+                        <location>
+                            <geo>41.912.4833</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G361</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.6284240.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
@@ -20,13 +315,11 @@
                 <head>
                     <ref target="http://dodis.ch/52281">dodis.ch/52281</ref>
                     <title type="main">Politscher Bericht<note xml:id="e626">Politischer Bericht Nr.
-                            12 und Telegramm Nr. 34 (Empfangskopie): <idno type="CH-BAR"
-                                >CH-BAR#E2010-02A#1996/400#19* (A.21.31)</idno>. Verfasst von Jürg
-                            Leutert, <ref target="http://dodis.ch/P17414"
-                            >dodis.ch/P17414</ref>.</note> des schweizerischen Botschafters in Bonn,
-                        Alfred Hohl<note xml:id="e642">Alfred Hohl (1930–2004), <ref
-                                target="http://dodis.ch/P16080">dodis.ch/P16080</ref>,
-                            schweizerischer Botschafter in Bonn 1.9.1987–16.11.1991.</note></title>
+                            12 und Telegramm Nr. 34 (Empfangskopie): <idno type="CH-BAR">CH-BAR#E2010-02A#1996/400#19* (A.21.31)</idno>. Verfasst von Jürg
+                            Leutert, <ref target="http://dodis.ch/P17414">dodis.ch/P17414</ref>.</note> des schweizerischen Botschafters in Bonn,
+                        Alfred Hohl<note xml:id="e642">Alfred Hohl (1930–2004), <ref target="http://dodis.ch/P16080">dodis.ch/P16080</ref>,
+                            schweizerischer Botschafter in Bonn 1.9.1987–16.11.1991.</note>
+                    </title>
                     <title type="sub">Nr. 38. Die Wiedervereinigung und die
                         Blockzugehörigkeit</title>
                 </head>
@@ -89,8 +382,7 @@
                     Glacis der UdSSR sich aufzulösen im Begriff ist, dürfte ein längerfristiger
                     Verbleib von Sowjet-Truppen in der DDR eher anachronistischer Symbolik als
                     sicherheitspolitischer Notwendigkeit entsprechen. </p>
-                <p>Die von Modrow<note xml:id="e683">Hans Modrow (*1928), <ref
-                            target="http://dodis.ch/54796">dodis.ch/P54796</ref>, Vorsitzender des
+                <p>Die von Modrow<note xml:id="e683">Hans Modrow (*1928), <ref target="http://dodis.ch/54796">dodis.ch/P54796</ref>, Vorsitzender des
                         Ministerrats der DDR 13.11.1989–12.4.1990.</note> mit Segen des Kremls aus
                     der Mottenkiste geholte Idee einer <emph>Neutralisierung</emph>
                     Gesamtdeutschlands geht an der Realität vorbei.</p>
@@ -103,7 +395,8 @@
                     Politik gegenüber den anderen Mächten ermöglicht. Eine Einbindung in
                     gesamteuropäische Strukturen erhöht die Kontrollierbarkeit gesamtdeutscher
                     Aussenpolitik.</p>
-                <p><emph>Andere Varianten</emph> werden gegenwärtig ebenfalls diskutiert:</p>
+                <p>
+                    <emph>Andere Varianten</emph> werden gegenwärtig ebenfalls diskutiert:</p>
                 <p>– Ein Anschluss der DDR an das NATO-Gebiet ist unrealistisch, da für die UdSSR
                     nicht zumutbar und akzeptabel.</p>
                 <p>– Eine – vorläufige – Neutralisierung und Entmilitarisierung der DDR dürfte aus

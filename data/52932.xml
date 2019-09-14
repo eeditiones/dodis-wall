@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="57">Deutsche Einheit; Sowjetische Position</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52932</idno>
+                    </msIdentifier>
+                    <head>Deutsche Einheit; Sowjetische Position</head>
+                    <msContents>
+                        <summary>Analyse der sowjetischen Position zur deutschen Einheit nach den Durchbrüchen von Mitte Juli 1990 und Diskussion der Gründe für den Sinneswandel von Gorbatschow.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-07-19">19.7.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57511">Sucharipa, Ernst (1947–2005)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57511">Sucharipa, Ernst (1947–2005)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P52036">Klestil, Thomas  (1932–2004)</persName>
+                    <persName ref="#P57512">Mock, Alois (1934–2017)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P37402">
+                        <persName>
+                            <forename>McGeorge</forename>
+                            <surname>Bundy</surname>
+                        </persName>
+                        <persName>Bundy, McGeorge</persName>
+                        <birth when="1919-03-30">
+                            <placeName>Boston</placeName>
+                        </birth>
+                        <death when="1996-09-16">
+                            <placeName>Boston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P37402</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P47062">
+                        <persName>
+                            <forename>Jeane</forename>
+                            <surname>Kirkpatrick</surname>
+                        </persName>
+                        <persName>Jordan, Jeanne Duane</persName>
+                        <persName>Kirkpatrick, Jeane</persName>
+                        <birth when="1926-11-19"/>
+                        <death when="2006-12-07">
+                            <placeName>Bethesda</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P47062</idno>
+                    </person>
+                    <person xml:id="P52036">
+                        <persName>
+                            <forename>Thomas </forename>
+                            <surname>Klestil</surname>
+                        </persName>
+                        <persName>Klestil, Thomas </persName>
+                        <birth when="1932-11-04"/>
+                        <death when="2004-07-06"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P52036</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57512">
+                        <persName>
+                            <forename>Alois</forename>
+                            <surname>Mock</surname>
+                        </persName>
+                        <persName>Mock, Alois</persName>
+                        <birth when="1934-06-10"/>
+                        <death when="2017-06-01"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57512</idno>
+                    </person>
+                    <person xml:id="P57511">
+                        <persName>
+                            <forename>Ernst</forename>
+                            <surname>Sucharipa</surname>
+                        </persName>
+                        <persName>Sucharipa, Ernst</persName>
+                        <birth when="1947-07-24"/>
+                        <death when="2005-06-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57511</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R783">
+                        <orgName>Austria/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R783</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R33487">
+                        <orgName>Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R33487</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                    <org xml:id="R8696">
+                        <orgName>Germany/GDR/National People's Army</orgName>
+                        <idno type="URI">https://dodis.ch/R8696</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G133">
+                        <placeName>America</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G133</idno>
+                    </place>
+                    <place xml:id="G905">
+                        <placeName>Caucasus</placeName>
+                        <location>
+                            <geo>43.13810542.67343</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G905</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52932">dodis.ch/52932</ref>
+               <title type="main">Memo<note xml:id="e6325">Memo (translated from German):
+                        <idno>Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1990, GZ.
+                        22.17.01/176-II.3/90</idno>. Written and signed by Ernst Sucharipa, <ref target="https://dodis.ch/P57511">dodis.ch/P57511</ref>; also published in
+                     Wilson Center, doc. 165726. Distributed to the Federal Minister, the General
+                     Secretary, the section heads, all departments of the Political Section, and the
+                     Austrian diplomatic representations in member states of the CSCE. The
+                     information was also part of the preparatory file for Franz Vranitzky on the
+                     occasion of the visit by Lothar de Maizière to Austria scheduled for 25 and 26
+                     July 1990. See <idno>ÖStA Arbeitsbesuch von MP Lothar de Maizière 25./26. Juli
+                        1990, Kreisky Archives, Depositum Franz Vranitzky, AP, box BM Choonhavan
+                        Chatichai (Thailand), MP Calfa CSFR 1990 PM Silva (Portugal), MP Singh
+                        (Indien), Pres. Dubcek (CSFR), PM Kang Young-Hoon (Korea), PM Bhutto
+                        (Pakistan), Pres. George Vassiliou (Zypern), MP Maiziere Lothar (DDR)
+                        25.7.90)</idno>.</note> by the Austrian Ministry of Foreign Affairs</title>
+               <title type="sub">German Unity, Soviet Position</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 19 July 1990</dateline>
+            </opener>
+            <p>In addition to the information of Dep<add type="edition">[artment]</add> II.1. (GZ.
+                  22.17.01/173)<note xml:id="e6341">Document 56, <ref target="https://dodis.ch/52930">dodis.ch/52930</ref>.</note> the following
+               should be noted regarding the current Soviet position on the German question:</p>
+            <p/>
+            <p>1) The concessions made by President Gorbachev<note xml:id="e6351">Mikhail Gorbachev
+                  (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General
+                  Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman
+                  of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the
+                  Soviet Union 15.3.1990–25.12.1991.</note> to Chancellor Kohl<note xml:id="e6357">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> on
+               16 July go far beyond the expectations of those who ultimately considered Soviet
+               consent to the NATO solution for a unified Germany under the prerequisite of a
+               special solution for “East Elbia”<note xml:id="e6363">A term subsuming all former
+                  Prussian territories East of the Elbe.</note> possible. The solution agreed to by
+               Kohl and Gorbachev in the Caucasus provides for the future, that is the period after
+               the withdrawal of Soviet troops, to a limited extent only, a special military status
+               for the territory of the present GDR, cf. the not entirely clear commitment of Kohl
+               that no foreign troops will be stationed in this area. In contrast, all other areas
+               of Germany as a whole will engage in a complete security policy integration. (The
+               last three issues of the prestigious American magazine “Foreign Affairs” include a
+               series of articles from known American specialist authors – Kirkpatrick<note xml:id="e6366">Jeane Kirkpatrick (1926–2006), <ref target="https://dodis.ch/P47062">dodis.ch/P47062</ref>, Political
+                  Scientist.</note>, Mc Bundy<note xml:id="e6372">McGeorge Bundy (1919–1996), <ref target="https://dodis.ch/P37402">dodis.ch/P37402</ref>, Political Scientist at
+                  the Carnegie Corporation 1990–1996.</note>, etc. – who all indicated that they did
+               not expect a consensual NATO solution.) It therefore seems legitimate to question the
+               reasons why the attitude of the Soviet Union, or – more accurately – Gorbachev, went
+               beyond all positive expectations:</p>
+            <p>2) The position taken by Gorbachev can on the one hand be explained as the result of
+               a combination of newly confirmed domestic policy strengths of the Soviet President
+               having “won” his party congress, and on the other hand the recognition of foreign
+               policy weaknesses in his country: Fully aware that the confirmation of his
+               (currently) unchallengeable role had increased his foreign policy scope, Gorbachev –
+               apparently without further coordination with other still relevant forces (military,
+               etc.) – and perhaps at the last possible moment successfully attempted to gain as
+               much capital (figuratively as well as in the true sense of the word) as possible out
+               of the Soviet withdrawal from East Germany and the renunciation of older positions of
+               the Soviet Union’s policy on Germany (insisting on the neutrality of a unified
+               Germany).</p>
+            <p>3) Gorbachev secured at least the following advantages for his country:</p>
+            <p>– The reduction of the total German force level to 370,000 men and thus (including
+               the manning level of the NVA) an overall drop of 45%;</p>
+            <p>– The obvious assumption by unified Germany of the – substantial – costs of Soviet
+               troop withdrawal (see letter of intent concerning agreement on effects of
+               DM-conversion);</p>
+            <p>– Further active efforts by the FRG to gain Western aid for the Soviet Union;</p>
+            <p>– Commitment to complete a bilateral comprehensive treaty (probably political
+               consultations and economic assistance);</p>
+            <p>4) The agreement between Kohl-Gorbachev has been completed without informing the
+               Western partners in advance, thus also signaling a future autonomy of German foreign
+               policy.</p>
+            <p>5) President Gorbachev could speculate with the idea that after a Soviet troop
+               withdrawal the negative sentiment towards foreign military presence could generally
+               grow further in the FRG and thus perhaps a traditional goal of Soviet policy could
+               still be achieved in the longer term.</p>
+            <p>6) In total, the agreements of 16 July are – as Gorbachev himself says – a matter of
+               successful “Realpolitik.” Whether the Soviet President will succeed to domestically
+               secure this result, will also depend on the further reaction in the West: too loud a
+               triumph may be harmful, but on the other hand, in light of the Germans “going it
+               alone” (see above) it is not to be expected.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

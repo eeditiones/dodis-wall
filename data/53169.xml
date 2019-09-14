@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="9"/>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53169</idno>
+                    </msIdentifier>
+                    <head/>
+                    <msContents>
+                        <summary>Report on the fall of the Berlin Wall and mass crossings by East German citizens into West Berlin.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-10">10.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57588">Obodowski, Janusz (1930–2011)</persName>
+                    <orgName ref="#R10881">Poland/Embassy in Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57588">Obodowski, Janusz (1930–2011)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57377">Skubiszweski, Krysztof (1926–2010)</persName>
+                    <orgName ref="#R8541">Poland/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57588">
+                        <persName>
+                            <forename>Janusz</forename>
+                            <surname>Obodowski</surname>
+                        </persName>
+                        <persName>Obodowski, Janusz</persName>
+                        <birth when="1930-01-02"/>
+                        <death when="2011-08-14"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57588</idno>
+                    </person>
+                    <person xml:id="P56902">
+                        <persName>
+                            <forename>Günter</forename>
+                            <surname>Schabowski</surname>
+                        </persName>
+                        <persName>Schabowski, Günter</persName>
+                        <persName>Schabovsky, Günther</persName>
+                        <birth when="1929-01-04"/>
+                        <death when="2015-11-01">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56902</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R10881">
+                        <orgName>Poland/Embassy in Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R10881</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R8541">
+                        <orgName>Poland/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R8541</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53169">dodis.ch/53169</ref>
+               <title type="main">Telegram<note xml:id="e998">Telegram No. 0-1789/IV (incoming,
+                     translated from Polish): <idno>Archives of the Polish Ministry of Foreign
+                        Affairs AMSZ, ZD 24/91, w. 3, t. 9</idno>. Delivered by: <orig>10 November
+                        1989, 4.00 a.m.</orig>
+                        </note> from the Polish Ambassador in East Berlin,
+                  Janusz Obodowski<note xml:id="e1001">Janusz Obodowski (1930–2011), <ref target="https://dodis.ch/P57588">dodis.ch/P57588</ref>, Polish Ambassador in
+                     East Berlin 1986–1990.</note>, to the Polish Minister of Foreign Affairs,
+                  Krzysztof Skubiszewski<note xml:id="e1007">Krzysztof Skubiszewski (1926–2010),
+                        <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister
+                     of Foreign Affairs 12.9.1989–26.10.1993.</note>
+                    </title>
+            </head>
+            <opener>
+               <add>For immediate action</add>
+               <dateline>East Berlin, 10 November 1989, 1.00 a.m.</dateline>
+            </opener>
+            <p>Following Schabowski’s<note xml:id="e1019">Günter Schabowski (1929–2015), <ref target="https://dodis.ch/P56902">dodis.ch/P56902</ref>, member of the SED
+                  Politburo and spokesman of the GDR government 1989.</note> statement about the
+               opening of borders with the West, the border with the FRG has burst. Masses of people
+               are crossing into West Berlin. Some are moving back and forth. Rallies at the W<add type="edition">[est]</add> B<add type="edition">[erlin]</add> border.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

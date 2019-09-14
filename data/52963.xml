@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="60">Situation in GDR</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52963</idno>
+                    </msIdentifier>
+                    <head>Situation in GDR</head>
+                    <msContents>
+                        <summary>Report on the economic difficulties for industry in the FRG evolving from the German reunification process, while in the GDR government, industry and public services are in terminal decline.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-08-09">9.8.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="nl">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57557">Tas, Jan van der (1928–2009)</persName>
+                    <orgName ref="#R33500">Netherlands/Embassy in Bonn</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57557">Tas, Jan van der (1928–2009)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57462">van den Broek, Hans (1936–)</persName>
+                    <orgName ref="#R6991">Netherlands/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57577">
+                        <persName>
+                            <forename>Jürgen</forename>
+                            <surname>Becker</surname>
+                        </persName>
+                        <persName>Becker, Jürgen</persName>
+                        <birth when="1953-05-05"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57577</idno>
+                    </person>
+                    <person xml:id="P57576">
+                        <persName>
+                            <forename>Berend van</forename>
+                            <surname>Gorkom</surname>
+                        </persName>
+                        <persName>Gorkom, Berend van</persName>
+                        <birth when="1942"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57576</idno>
+                    </person>
+                    <person xml:id="P46563">
+                        <persName>
+                            <forename>Erich</forename>
+                            <surname>Honecker</surname>
+                        </persName>
+                        <persName>Honecker, Erich</persName>
+                        <birth when="1912-08-25">
+                            <placeName>Neunkirchen</placeName>
+                        </birth>
+                        <death when="1994-05-29">
+                            <placeName>Santiago de Chile</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46563</idno>
+                    </person>
+                    <person xml:id="P57557">
+                        <persName>
+                            <forename>Jan van der</forename>
+                            <surname>Tas</surname>
+                        </persName>
+                        <persName>Tas, Jan G. van der</persName>
+                        <persName>Tas, Jan van der</persName>
+                        <birth when="1928-03-09"/>
+                        <death when="2009-09-10"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57557</idno>
+                    </person>
+                    <person xml:id="P54838">
+                        <persName>
+                            <forename>Theo</forename>
+                            <surname>Waigel</surname>
+                        </persName>
+                        <persName>Waigel, Theo</persName>
+                        <persName>Waigel, Theodor</persName>
+                        <birth when="1939-04-22">
+                            <placeName>Ursberg </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54838</idno>
+                    </person>
+                    <person xml:id="P57462">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>van den Broek</surname>
+                        </persName>
+                        <persName>van den Broek, Henri</persName>
+                        <persName>van den Broek, Hans</persName>
+                        <birth when="1936-12-11"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57462</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R9535">
+                        <orgName>Deutschland/BRD/Bundesfinanzministerium</orgName>
+                        <idno type="URI">https://dodis.ch/R9535</idno>
+                    </org>
+                    <org xml:id="R4141">
+                        <orgName>Deutschland/BRD/Sozialdemokratische Partei (1946-)</orgName>
+                        <idno type="URI">https://dodis.ch/R4141</idno>
+                    </org>
+                    <org xml:id="R9452">
+                        <orgName>Deutschland/BRD/Wirtschaftsministerium</orgName>
+                        <idno type="URI">https://dodis.ch/R9452</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9440">
+                        <orgName>Deutschland/DDR/Finanzministerium</orgName>
+                        <idno type="URI">https://dodis.ch/R9440</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R26656">
+                        <orgName>Deutschland/DDR/Wirtschaftsministerium</orgName>
+                        <idno type="URI">https://dodis.ch/R26656</idno>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33500">
+                        <orgName>Netherlands/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R33500</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R6991">
+                        <orgName>Netherlands/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R6991</idno>
+                        <placeName ref="#G88">The Hague</placeName>
+                    </org>
+                    <org xml:id="R33504">
+                        <orgName>Treuhandanstalt</orgName>
+                        <idno type="URI">https://dodis.ch/R33504</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G88">
+                        <placeName>The Hague</placeName>
+                        <location>
+                            <geo>52.07054.3007</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G88</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52963">dodis.ch/52963</ref>
+               <title type="main">Telegram<note xml:id="e6651">Telegram No. 394 (incoming,
+                     translated from Dutch): <idno>Netherlands Ministry of Foreign Affairs BuZa
+                        1985-1990, blok Z-299, </idno>
+                            <add type="edition">
+                                <idno>[NA
+                        2.05.392]</idno>
+                            </add>
+                            <idno> inv.nr. 4601 </idno>
+                            <add type="edition">
+                                <idno>[2129]</idno>
+                            </add>.</note> from the Dutch Ambassador in Bonn, Jan
+                  van der Tas<note xml:id="e6660">Jan von der Tas (1928–2009), <ref target="https://dodis.ch/P57557">dodis.ch/P57557</ref>, Dutch Ambassador in
+                     Bonn 1986–1993.</note>, to the Dutch Minister of Foreign Affairs, Hans van den
+                     Broek<note xml:id="e6666">Hans van den Broek (*1936), <ref target="https://dodis.ch/P57462">dodis.ch/P57462</ref>, Dutch Minister of
+                     Foreign Affairs 4.11.1982–3.1.1993.</note>
+                    </title>
+               <title type="sub">Situation in GDR</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 9 August 1990</dateline>
+            </opener>
+            <p>The first economic counsellor<note xml:id="e6680">Berend van Gorkom (*1942), <ref target="https://dodis.ch/P57576">dodis.ch/P57576</ref>, First economic
+                  counsellor of the Dutch Embassy in Bonn, 1989–1990.</note> had a conversation with
+               Ministerialdirektor Dr. Becker<note xml:id="e6686">Jürgen Becker (*1953), <ref target="https://dodis.ch/P57577">dodis.ch/P57577</ref>, Director General for
+                  Industry at the Ministry of Economic Affairs of the FRG.</note>, Director General
+               for Industry at the Federal Ministry of Economic Affairs and also leader of the
+               Leitungsstab Deutschland, in which all economic aspects of the German reunification
+               were coordinated.</p>
+            <p>Dr. Becker acknowledged that industry in the GDR is in big trouble, but this was also
+               generally expected. On questions regarding the economic background of the
+               increasingly rapid acceleration of the unification process Dr. Becker replied as
+               follows.</p>
+            <p>Both the government and the civil service apparatus in the GDR are apparently
+               functioning worse and worse, now that real difficulties arise. The government started
+               with enthusiasm at the time, but is showing less and less effectiveness. The
+               ministers do not do much other than catalogue what kind of money they all need. The
+               Minister of Finance does nothing apart from making sums for one thing and another and
+               sending them to Minister Waigel<note xml:id="e6696">Theo Waigel (*1939), <ref target="https://dodis.ch/P54838">dodis.ch/P54838</ref>, Finance Minister of the
+                  FRG 21.4.1989–27.10.1998.</note> with requests for more money. The Minister of
+               Finance of the GDR is thus no counterweight to the demands of the other departments.
+               Everything is shifted on to the FRG. The civil service is in fact still the old
+                  Honnecker<note xml:id="e6702">Erich Honecker (1912–1994), <ref target="https://dodis.ch/P46563">dodis.ch/P46563</ref>, General Secretary of
+                  the SED and chairman of the GDR State Council 29.10.1976–18.10.1989.</note>
+               apparatus. Becker did not want to claim that all officials are ideologically
+               motivated to thwart progress, but at the very least they lack insight into the market
+               economy. Furthermore, they are not used to making decisions, for fear of being held
+               financially responsible for policy actions (sale of land to investors) and finally
+               they are completely uncertain about their position. Becker said that of the 5,500
+               employees at the GDR Ministry of Economic Affairs, only some 400 would be taken on by
+               the Federal Ministry of Economic Affairs. The rest will soon be dismissed, a
+               perspective that is not exactly motivating.</p>
+            <p>If one arrives at the communal level in the command chain, individual responsibility
+               or initiative is completely absent. Here orders from above are still awaited. Because
+               of this, the government guidelines at work level remain virtually unnoticed, much to
+               the detriment of investment activity from the west. If one adds to this picture the
+               Volkskammer, which time and again passes laws that seriously impede entrepreneurship
+               resp. investment (limitation of the possibilities for workforce reductions etc.),
+               then it becomes clear, says spokesman, that real positive economic development in the
+               GDR awaits political unification. This must be achieved as soon as possible, the
+               sooner the better. This will of course not solve all problems immediately but will
+               enable a start to build up from.</p>
+            <p>In this context he also considered it of great importance that reunification
+               coincides with elections taking place, so that the new government (hopefully with a
+               solid majority) can intervene effectively. A reunification in September or October,
+               but with elections on 2 December is not very attractive for the Federal Government,
+               according to the speaker, also for reasons other than strictly electoral ones. It
+               will immediately be held accountable for an increasingly poor economic situation but
+               will not really be legitimized for the GDR population and will, moreover, be
+               powerless just before elections, like all democratic governments. The SPD naturally
+               sees tactical advantages in such a constellation.</p>
+            <p>Counsellor then brought the conversation round to the activities of the
+                  Treuhandanstalt<note xml:id="e6714">Trust Agency, established 17 June 1990 by the
+                  GDR authorities to privatize East German enterprises in the process of
+                  reunification.</note> and the issue of a threatening “liquidity collapse”.
+               Spokesman admitted that indeed the money appears not to circulate in the GDR. Wages
+               received are spent on imported goods from the west. The companies in the GDR (i.e.
+               those companies that are in the hands of the Treuhand) thus receive no income.
+               Moreover, what they still sell is not or in any case not immediately paid for.
+               Therefore, there must be a new injection of liquidity every month, which the banks
+               will only do if the Treuhand guarantees this. Since in this so-called watering
+                  can<note xml:id="e6717">Quoted in German: <orig>Gießkanne.</orig>
+                    </note> method
+               all companies receive credit, including those that will almost certainly go bankrupt
+               in the coming months, the need for selection becomes increasingly urgent. Dr. Becker
+               emphasized that this is absolutely necessary to quickly rid the companies of the
+               already existing view that one only needs to hold up a hand. Spokesman therefore
+               expected many applications for bankruptcies in the near future from manifestly
+               hopeless cases. On the other hand, the potassium mines etc., for example, which
+               certainly belong to the hopeless category, will be spared for a while because they
+               provide 15,000 jobs in a region where practically no other employment is available.
+               Gradually one must try to get a grip on the flow of sub‑ sidies.</p>
+            <p>The rise in unemployment that is already detectable has not so much to do with
+               company closures, but is primarily the result of reducing the infamous
+               “overstaffing”. Many inspectors and other unproductive forces are now made redundant.
+               All this was foreseen. Spokesman was surprised that this is now causing such astir in
+               the press. Everybody has known for months that if unemployment in the GDR remains
+               below one million at the end of 1990, one can<note xml:id="e6724">Handwritten
+                     note:<orig> “could have spoken”, because now already 1.2 million
+                     unemployed!</orig>
+                    </note> speak of a development that is better than
+               expected.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="24">Gespräch des Herrn Bundeskanzler mit Ministerpräsident Modrow, 24.11.1989</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52929</idno>
+                    </msIdentifier>
+                    <head>Gespräch des Herrn Bundeskanzler mit Ministerpräsident Modrow, 24.11.1989</head>
+                    <msContents>
+                        <summary>Nur zwei Wochen nach der unbeabsichtigten Öffnung der Berliner Mauer hat der österreichische Bundeskanzler F. Vranitzky die DDR besucht. Ministerpräsident H. Modrow informierte über die aktuelle Situation in Ostdeutschland. Beide Regierungschefs nahmen zur Frage der Wiedervereinigung Stellung.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-12-02">2.12.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57522">Nowotny, Eva (1944–)</persName>
+                    <orgName ref="#R753">Austria/Government</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57522">Nowotny, Eva (1944–)</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P54794">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Krenz</surname>
+                        </persName>
+                        <persName>Krenz, Egon</persName>
+                        <persName>Krenz, Egon Rudi Ernst</persName>
+                        <birth when="1937-03-19">
+                            <placeName>Kołobrzeg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54794</idno>
+                    </person>
+                    <person xml:id="P54809">
+                        <persName>
+                            <forename>Lothar de</forename>
+                            <surname>Maizière</surname>
+                        </persName>
+                        <persName>Maizière, Lothar de</persName>
+                        <birth when="1940-03-02">
+                            <placeName>Nordhausen </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54809</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57440">
+                        <persName>
+                            <forename>Walter</forename>
+                            <surname>Momper</surname>
+                        </persName>
+                        <persName>Momper, Walter</persName>
+                        <birth when="1945-02-21"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57440</idno>
+                    </person>
+                    <person xml:id="P57522">
+                        <persName>
+                            <forename>Eva</forename>
+                            <surname>Nowotny</surname>
+                        </persName>
+                        <persName>Nowotny, Eva</persName>
+                        <birth when="1944-02-17"/>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P57522</idno>
+                    </person>
+                    <person xml:id="P57525">
+                        <persName>
+                            <forename>Jens</forename>
+                            <surname>Reich</surname>
+                        </persName>
+                        <persName>Reich, Jens</persName>
+                        <birth when="1939-03-26"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57525</idno>
+                    </person>
+                    <person xml:id="P57524">
+                        <persName>
+                            <forename>Steffen</forename>
+                            <surname>Reiche</surname>
+                        </persName>
+                        <persName>Reiche, Steffen</persName>
+                        <birth when="1960-06-27"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57524</idno>
+                    </person>
+                    <person xml:id="P57431">
+                        <persName>
+                            <forename>Rudolf</forename>
+                            <surname>Seiters</surname>
+                        </persName>
+                        <persName>Seiters, Rudolf</persName>
+                        <birth when="1937-10-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57431</idno>
+                    </person>
+                    <person xml:id="P57523">
+                        <persName>
+                            <forename>Franz</forename>
+                            <surname>Vranitzky</surname>
+                        </persName>
+                        <persName>Vranitzky, Franz</persName>
+                        <birth when="1937-10-04"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57523</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R28595">
+                        <orgName>Austria/Austrian Broadcasting Corporation</orgName>
+                        <idno type="URI">https://dodis.ch/R28595</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R753">
+                        <orgName>Austria/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R753</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R783">
+                        <orgName>Austria/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R783</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R33492">
+                        <orgName>Buna-Werke GmbH</orgName>
+                        <idno type="URI">https://dodis.ch/R33492</idno>
+                        <placeName ref="#G15396">Schkopau</placeName>
+                    </org>
+                    <org xml:id="R3943">
+                        <orgName>Deutschland/DDR/Christlich Demokratische Union</orgName>
+                        <idno type="URI">https://dodis.ch/R3943</idno>
+                    </org>
+                    <org xml:id="R32010">
+                        <orgName>Deutschland/DDR/Neues Forum</orgName>
+                        <idno type="URI">https://dodis.ch/R32010</idno>
+                    </org>
+                    <org xml:id="R32011">
+                        <orgName>Deutschland/DDR/Sozialdemokratische Partei in der DDR</orgName>
+                        <idno type="URI">https://dodis.ch/R32011</idno>
+                    </org>
+                    <org xml:id="R9496">
+                        <orgName>Germany/FRG/State</orgName>
+                        <idno type="URI">https://dodis.ch/R9496</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R10937">
+                        <orgName>Germany/GDR/State</orgName>
+                        <idno type="URI">https://dodis.ch/R10937</idno>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33491">
+                        <orgName>Leunawerke</orgName>
+                        <idno type="URI">https://dodis.ch/R33491</idno>
+                        <placeName ref="#G15395">Leuna</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G15395">
+                        <placeName>Leuna</placeName>
+                        <location>
+                            <geo>51.31666712.016667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15395</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52929">dodis.ch/52929</ref>
+               <title type="main">Memorandum of conversation<note xml:id="e2408">Memorandum of
+                     conversation (translated from German): <idno>Austrian State Archive ÖStA, AdR,
+                        BMAA, II-Pol 1989, GZ. 518.01.12/89</idno>. Written by Eva Nowotny, <ref target="https://dodis.ch/P57522">dodis.ch/P57522</ref>; also published in
+                     Wilson Center, doc. 165715. Forwarded to the Cabinet of the Foreign Minister on
+                     4 December 1989. The Head of the Cabinet Emil Staffelmayr took notice and
+                     forwarded the memorandum to the Political Section. No further circulation was
+                     initiated.</note> by the Austrian Federal Chancellery</title>
+               <title type="sub">Conversation of the Chancellor<note xml:id="e2416">Franz Vranitzky
+                     (*1937), <ref target="https://dodis.ch/P57523">dodis.ch/P57523</ref>,
+                     Chancellor of Austria 16.6.1986–28.1.1997.</note> with Prime Minister
+                     Modrow<note xml:id="e2422">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                     Council of Ministers 13.11.1989–12.4.1990.</note>, 24.11.1989</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 2 Dezember 1989</dateline>
+            </opener>
+            <p>Prime Minister Modrow thanks at the outset for this visit, which is particularly
+               important given the current situation in the GDR and is thus highly appreciated.</p>
+            <p>First, the following has to be said concerning the GDR’s internal situation:</p>
+            <p>The resignation of the old government and the initiation of reform measures were
+               delayed beyond any comprehensible extent. This caused the population, especially the
+               “youth fraction”, to become active, and the resignation of the old and the formation
+               of the new government have taken place against a backdrop of massive demonstrations
+               and rallies. There has been little time for him to form a government and create a
+               program of action.</p>
+            <p>As a first step, he decided to reduce the government (coalition distribution 28:11).
+               This was a good decision, which also found public approval. The debate on the
+               election of the new executive committee and the questioning of the old government in
+               the People’s Chamber were also good because a lot of steam was discharged this way.
+               He is aware that he was being given great trust, which could be taken away at any
+               time. Now it is necessary to turn this leap of faith into real trust.</p>
+            <p>The political situation in the country is very complicated. The established sources
+               of political influence are no longer significant. In rallies and demonstrations, new
+               political movements and forces that must now be included have articulated. He had
+               made the offer of a round table, which was more or less accepted. He considers this
+               an important part of his political work. On the one hand, you must respond to the
+               mood of the country, on the other hand you need all political forces to be involved
+               in a role of responsibility. It is not acceptable that a large group should be
+               content with only questioning those responsible.</p>
+            <p>For all reform measures, economic stability is the prerequisite and given the
+               economic situation of the GDR, foreign economic relations are especially meaningful.
+               Austria has always been an important partner for the GDR. Relations have been
+               sustained with continuity and trust and must further develop on this basis.</p>
+            <p>Among the socialist countries, the overall economic development of the GDR offers the
+               most favorable conditions for a process of renewal, but with regard to contents a new
+               mobilization must take place. Some instruments of the modern economy that had been
+               rejected by the former government now have to be implemented – especially terms such
+               as joint ventures, transfer of capital, etc.</p>
+            <p>It is of utmost importance to gradually change the bureaucratically encrusted
+               centralized management of the economy, however, in a step-by-step process to avoid
+               instability.</p>
+            <p>Moreover, it is necessary to renew the societal system as a socialist one, therefore
+               a program of legal decisions and a list of legislation to be enacted were created.
+               The parliament will have a lot of work to do in the next few weeks. The People’s
+               Chamber has already appointed two commissions, one that has been assigned to deal
+               with the amendments to the constitution (for example, rephrasing the leadership role
+               of the working class, creation of a constitutional court), and the other to draw up a
+               new electoral law.</p>
+            <p>In foreign policy, he attaches great importance to European policy. This particular
+               priority for European initiatives is new in the overall design of foreign policy.
+               Also in this sense, the visit of the Chancellor is especially important. Of course,
+               all alliance relations will be maintained, and relations with the USSR will remain
+               especially important because of the mutual economic interdependence.</p>
+            <p>Regarding relations with the FRG, it was felt in the exploratory talks with
+                  Seiters<note xml:id="e2453">Rudolf Seiters (*1937), <ref target="https://dodis.ch/P57431">dodis.ch/P57431</ref>, Head of the Office of
+                  the Chancellery and Minister for Special Affairs of the FRG 1989–1991.</note> that
+               an important stage of work is still necessary. The constant meddling by the FRG
+               showed that there was little trust in and respect for the sovereignty of the GDR.</p>
+            <p>Of course, the decision in favour of an open border has qualitatively changed the
+               situation. The offer of the GDR has been put forward, and it has coined the term
+               “treaty community” – how broad and how versatile this treaty community might be
+               remains to be explored.</p>
+            <p>Trade and economic relations with Austria have developed well, and we are very
+               interested in its continuation. This is underscored by Austria’s high level of
+               participation at the Autumn Fair and the interest of Austrian entrepreneurs. We
+               expect to go on working with continuity and stability. Given the annual framing
+               contract, we have gone the farthest with Austria in the development of economic
+               relations.</p>
+            <p>The Chancellor expressed his thanks for the comprehensive and frank presentation.
+               Relations between Austria and the GDR are excellent in all areas, including culture
+               and tourism, and the framework agreement is a good signal that this should continue
+               in the future. In the economic sphere, Austria attaches great importance to
+               cooperation in environmental technology, and it would like to develop some such
+               initiatives. The Chancellor then gave a short overview of the outstanding Austrian
+               economic development, as well as Austrian integration policy, and referred in this
+               context to Austria’s adherence to neutrality and its neutrality policy, which is very
+               important at present given the transformation in the Eastern European neighboring
+               countries.</p>
+            <p>The Chancellor mentioned that he had heard an ORF<note xml:id="e2467">Österreichischer Rundfunk (Austrian Broadcasting Corporation).</note> interview
+               with Mr. Krenz<note xml:id="e2470">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>, General Secretary of
+                  the SED 18.10.1989–3.12.1989 and Chairman of the GDR State Council
+                  18.10.1989–6.12.1989.</note> upon his departure, where he was confronted with the
+               question of German reunification. Krenz expressed his opinion that it was not an
+               urgent interest for the people of the GDR. Austria sees this primarily as a decision
+               that has to be made by the German states and would also respect this decision. On the
+               other hand, one needs to take the pan-European context into consideration, and in
+               this sense, the decisions made by the CSCE on the stability of Europe.</p>
+            <p>The transition to a plurality of the political spectrum and its constitutional
+               anchoring has triggered much active interest and sympathy in Austria, which would
+               also have an impact on cooperation and support. With the “East-West Fund”, a new
+               structure for financial cooperation has been found that offers a sound basis for
+               joint investment projects and joint ventures, etc. Austria would also actively engage
+               in international forums in favor of Eastern European countries. Unfortunately,
+               Austria recently lost some economic projects in the GDR (for example, Buna<note xml:id="e2478">The <orig>Beuna Werke</orig> were a chemical company specializing
+                  in the production of polymer materials.</note>, Leuna<note xml:id="e2481">The
+                     <orig>Leuna Werke</orig> were the largest chemical procution site in the
+                  GDR.</note>), and especially in the light of this he would like to emphasize
+               Austria’s interest in strengthening economic cooperation.</p>
+            <p>Prime Minister Modrow then briefly explained his position on the issue of
+               reunification. This has various aspects: on the one hand, it corresponds with a
+               natural human need, but on the other hand has some chauvinistic aspects (restoration
+               of Germany’s 1937 borders). The situation in today’s Europe is bound to the existence
+               of two German states, and that must be the understanding from which one starts. Of
+               course, one must look at history as a process that does not stand still, but every
+               change in this regard will take a long time and involve international thinking over
+               long periods. He could imagine a solution to this problem only within the “federal
+               structures of a wider Europe”. For him, it is particularly important in this context
+               to connect the process of inner renewal with everything that shows European
+               responsibility.</p>
+            <p>In the afternoon of 24.11, the Chancellor held meetings with Mr. de Maizière<note xml:id="e2488">Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809">dodis.ch/P54809</ref>, GDR Prime Minister 12.4–2.10.1990.</note> (CDU), Mr.
+               Steffen Reiche (SPD)<note xml:id="e2494">Steffen Reiche (*1960), <ref target="https://dodis.ch/P57524">dodis.ch/P57524</ref>, co-founder of the
+                  Social Democratic Party in the GDR.</note>, and Professor Jens Reich (Forum)<note xml:id="e2500">Jens Reich (*1939), <ref target="https://dodis.ch/P57525">dodis.ch/P57525</ref>, co-author of the appeal<orig> Aufbruch 89 – Neues
+                     Forum</orig>.</note> as well as with Mayor Momper<note xml:id="e2506">Walter
+                  Momper (*1945), <ref target="https://dodis.ch/P57440">dodis.ch/P57440</ref>,
+                  Governing Mayor of West Berlin 16.2.1989–24.1.1991.</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="39">Summary of the Minister's Visit</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52945</idno>
+                    </msIdentifier>
+                    <head>Summary of the Minister's Visit</head>
+                    <msContents>
+                        <summary>A report on Foreign Minister Arens' talks in Bonn with Chancellor Kohl and President von Weizsäcker. Arens told the latter that he sees the reunification of Germany as "a foregone conclusion". Kohl said that East Germany was rapidly collapsing, and assured Arens that "there is no Fourth Reich, and never will be."</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-20">20.2.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="iw">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57507">Navon, Benjamin (1933–)</persName>
+                    <orgName ref="#R26238">Israel/Embassy in Bonn</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R4531">Israel/Foreign Ministry</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57439">
+                        <persName>
+                            <forename>Moshe</forename>
+                            <surname>Arens</surname>
+                        </persName>
+                        <persName>Arens, Moshe</persName>
+                        <persName>Arens, Mosche</persName>
+                        <birth when="1925-12-27">
+                            <placeName>Kaunas</placeName>
+                        </birth>
+                        <death when="2019-01-07">
+                            <placeName>Savyon</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57439</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P52578">
+                        <persName>
+                            <forename>Chaim</forename>
+                            <surname>Herzog</surname>
+                        </persName>
+                        <persName>חיים הרצוג</persName>
+                        <persName>Herzog, Haïm </persName>
+                        <persName>Herzog, Chaim</persName>
+                        <birth when="1918-09-17">
+                            <placeName>Belfast</placeName>
+                        </birth>
+                        <death when="1997-04-17">
+                            <placeName>Tel-Aviv</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P52578</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57507">
+                        <persName>
+                            <forename>Benjamin</forename>
+                            <surname>Navon</surname>
+                        </persName>
+                        <persName>Navon, Benjamin</persName>
+                        <birth when="1933-07-23">
+                            <placeName>Czernowitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57507</idno>
+                    </person>
+                    <person xml:id="P54271">
+                        <persName>
+                            <forename>Yitzhak</forename>
+                            <surname>Shamir</surname>
+                        </persName>
+                        <persName>Shamir, Yitzhak</persName>
+                        <persName>Schamir, Jitzchak</persName>
+                        <persName>שמיר, יצחק</persName>
+                        <persName>Shamir, Itzak</persName>
+                        <persName>Jaziernicki, Jitzchak</persName>
+                        <persName>Шамир, Ицхак</persName>
+                        <persName>Езерницкий, Ицхак</persName>
+                        <birth when="1915-10-22">
+                            <placeName>Ruzhany</placeName>
+                        </birth>
+                        <death when="2012-06-30">
+                            <placeName>Tel-Aviv</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54271</idno>
+                    </person>
+                    <person xml:id="P57526">
+                        <persName>
+                            <forename>Michael</forename>
+                            <surname>Shiloh</surname>
+                        </persName>
+                        <persName>Shiloh, Michael</persName>
+                        <birth when="1934">
+                            <placeName>The Hague</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57526</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                    <person xml:id="P5944">
+                        <persName>
+                            <forename>Richard von</forename>
+                            <surname>Weizsäcker</surname>
+                        </persName>
+                        <persName>Weizsäcker, Richard von</persName>
+                        <birth when="1920-04-15"/>
+                        <death when="2015-01-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P5944</idno>
+                    </person>
+                    <person xml:id="P54805">
+                        <persName>
+                            <forename>Alexander Nikolaevich</forename>
+                            <surname>Yakovlev </surname>
+                        </persName>
+                        <persName>Jakowlew, Alexander Nikolajewitsch</persName>
+                        <persName>Jakovlev, Aleksandr Nikolaevič</persName>
+                        <persName>Iakovlev, Alexandre Nikolaïevitch</persName>
+                        <persName>Я́ковлев, Алекса́ндр Никола́евич</persName>
+                        <persName>Yakovlev , Alexander Nikolaevich</persName>
+                        <birth when="1923-12-02">
+                            <placeName>Korolewo</placeName>
+                        </birth>
+                        <death when="2005-10-18">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54805</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R23652">
+                        <orgName>EU/Council of Ministers (2009-)</orgName>
+                        <idno type="URI">https://dodis.ch/R23652</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R19371">
+                        <orgName>EU/European Commission (2009-)</orgName>
+                        <idno type="URI">https://dodis.ch/R19371</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R8864">
+                        <orgName>Germany/FRG/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R8864</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R1747">
+                        <orgName>Germany/Gestapo</orgName>
+                        <idno type="URI">https://dodis.ch/R1747</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R26238">
+                        <orgName>Israel/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R26238</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4531">
+                        <orgName>Israel/Foreign Ministry</orgName>
+                        <idno type="URI">https://dodis.ch/R4531</idno>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R27172">
+                        <orgName>Treaty of Versailles (1919)</orgName>
+                        <idno type="URI">https://dodis.ch/R27172</idno>
+                        <placeName ref="#G835">Versailles</placeName>
+                    </org>
+                    <org xml:id="R1798">
+                        <orgName>USSR/Politburo of the Central Committee of the CPSU</orgName>
+                        <idno type="URI">https://dodis.ch/R1798</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G4664">
+                        <placeName>Arab states</placeName>
+                        <location>
+                            <geo>28.0827.7</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4664</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G15287">
+                        <placeName>Chernobyl</placeName>
+                        <location>
+                            <geo>51.38944430.099167</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15287</idno>
+                    </place>
+                    <place xml:id="G73">
+                        <placeName>Czechoslovakia</placeName>
+                        <location>
+                            <geo>50.08333314.416667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G73</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G5">
+                        <placeName>German Reich</placeName>
+                        <location>
+                            <geo>51.1656910.451526</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G1761">
+                        <placeName>Israel</placeName>
+                        <location>
+                            <geo>31.04605134.851612</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1761</idno>
+                    </place>
+                    <place xml:id="G324">
+                        <placeName>Jerusalem</placeName>
+                        <location>
+                            <geo>31.76831835.21371</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G324</idno>
+                    </place>
+                    <place xml:id="G335">
+                        <placeName>Palestine</placeName>
+                        <location>
+                            <geo>31.95216235.233154</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G335</idno>
+                    </place>
+                    <place xml:id="G961">
+                        <placeName>Rhine</placeName>
+                        <location>
+                            <geo>51.9816674.080556</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G961</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G204">
+                        <placeName>South Africa</placeName>
+                        <location>
+                            <geo>-30.55948322.937506</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G204</idno>
+                    </place>
+                    <place xml:id="G1253">
+                        <placeName>Sudetenland</placeName>
+                        <location>
+                            <geo>50.516</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1253</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G835">
+                        <placeName>Versailles</placeName>
+                        <location>
+                            <geo>48.8014072.130122</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G835</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.6284240.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                    <place xml:id="G13205">
+                        <placeName>Élysée Palace</placeName>
+                        <location>
+                            <geo>48.8701442.316486</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13205</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52945">dodis.ch/52945</ref>
+               <title type="main">Telegram<note xml:id="e4242">Telegram (incoming, translated from
+                     Hebrew): <idno>Israel State Archives MFA 7352/17</idno>. Addressed to Europe
+                     division 1.</note> from the Israeli Ambassador in Bonn, Benjamin Navon<note xml:id="e4245">Benjamin Navon (*1933), <ref target="https://dodis.ch/P57507">dodis.ch/P57507</ref>, Israeli Ambassador in Bonn, 1989–1993.</note>, to
+                  the Israeli Foreign Ministry</title>
+               <title type="sub">Summary of the Foreign Minister’s<note xml:id="e4253">Moshe Arens
+                     (1925–2019), <ref target="https://dodis.ch/P57439">dodis.ch/P57439</ref>,
+                     Israeli Foreign Minister 22.12.1988–11.6.1990.</note> Visit to Bonn</title>
+            </head>
+            <opener>
+               <add>Secret/Immediate</add>
+               <dateline>Bonn, 20 February 1990</dateline>
+            </opener>
+            <p>During his visit the Foreign Minister had three working meetings:</p>
+            <p/>
+            <p>Breakfast with his colleague, Genscher<note xml:id="e4270">Hans-Dietrich Genscher
+                  (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>,
+                  Vice-Chancellor and Minister for Foreign Affairs of the FRG
+                  1.10.1982–17.5.1992.</note>
+                </p>
+            <p/>
+            <p>A meeting with the President of the FRG, von Weizsäcker<note xml:id="e4279">Richard
+                  von Weizsäcker (1920–2015), <ref target="https://dodis.ch/P5944">dodis.ch/P5944</ref>, President of the FRG 1.7.1984 –30.6.1994.</note>
+                </p>
+            <p/>
+            <p>A meeting with Chancellor Kohl<note xml:id="e4288">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note>.</p>
+            <p n="1"/>
+            <p>3 subjects ran through the meetings like a scarlet thread.</p>
+            <p/>
+            <p>A) Our attitude to the reunification of Germany.</p>
+            <p/>
+            <p>B) The sanctions of the Commission<note xml:id="e4306">In January 1990 a proposal by
+                  the European Parliament to break off scientific ties with Israel because of its
+                  policies in the Occupied Territories was presented to the European Commission.
+                  Israel feared further sanctions.</note>
+                </p>
+            <p/>
+            <p>C) A report on our contacts with the GDR</p>
+            <p/>
+            <p>1. Michael Shiloh has reported at length on the breakfast with Genscher<note xml:id="e4316">Michael Shiloh (*1934), <ref target="https://dodis.ch/P57526">dodis.ch/P57526</ref>, the Adviser on Diaspora Affairs in the Israeli Ministry
+                  of Foreign Affairs to the Bureau of the Foreign Minister, 18 February 1990,
+                     <idno>Israel State Archives MFA 7532/13</idno>.</note>. We would add that
+               Genscher’s office asked us to refrain from publishing Genscher’s support for
+               continuing our contacts on establishing relations with the GDR.</p>
+            <p n="1"/>
+            <p>2. The conversation with the President.</p>
+            <p>The Foreign Minister opened by passing on greetings from President Herzog<note xml:id="e4328">Chaim Herzog (1918–1997), <ref target="https://dodis.ch/P52578">dodis.ch/P52578</ref>, President of Israel 5.5.1983–13.5.1993.</note> and
+               expressing his hopes to welcome von Weizsäcker in Israel soon.</p>
+            <p>The Foreign Minister reported on our contacts with the GDR. In this context he
+               mentioned that Foreign Minister Genscher supports this step and its continuation.</p>
+            <p/>
+            <p>He said that he sees the reunification of Germany as “a foregone conclusion”<note xml:id="e4340">English in the original.</note>. He has faith in the institutions
+               and the democratic tradition of the FRG. He sees the extension of this tradition to
+               the GDR as a positive development. Israelis and Jews speak, for understandable
+               reasons, of the past, but obviously it is necessary to look towards the future.</p>
+            <p>The President thanked Foreign Minister Arens for his words about reunification and
+               added that there is no way to foretell when it will happen.</p>
+            <p>The President thinks it is necessary not only to carry out the formal process with
+               the Four Powers, but also to give Germany’s neighbours a feeling of confidence in a
+               united Germany. He sees giving this feeling as a kind of unofficial legitimacy. As an
+               aim he quotes Politburo member Yakovlev<note xml:id="e4347">Alexander Yakovlev
+                  (1923–2005), <ref target="https://dodis.ch/P54805">dodis.ch/P54805</ref>, member
+                  of the CPSU Politburo 1987–1990.</note>, who said that the aim should be not a
+               German Europe but a European Germany.</p>
+            <p>The President spoke emphatically about the Eastern border, and said that on this
+               point Germany would leave no room for further doubt.</p>
+            <p>The Foreign Minister said that he does not see a significant difference between
+               Germany with 61 million residents and Germany with 77 million residents. The
+               President said that perhaps there are some neighbours who fear that the size of
+               Germany would lead to a nationalist awakening, but he dismissed this fear on the
+               spot.</p>
+            <p>He went on to dismiss the concept of “Fortress Europe”. He mentioned that the USSR
+               was the last colonialist empire.</p>
+            <p>Afterwards the Foreign Minister reported on the issue of sanctions <add type="edition">[on Israel]</add> at the Commission, and expressed his confidence
+               that Foreign Minister Genscher would be able to solve the problem at the Council of
+               Ministers. After this the Foreign Minister reported on the peace initiative and
+               expressed his hope that a three way meeting would take place within a few weeks.</p>
+            <p>The President spoke of the need to hold negotiations with parties and organizations
+               with which one does not agree, and said that the Palestinians must be helped to
+               overcome their past mistakes. In reply the Foreign Minister compared the attitude
+               towards the refugees in the Arab world, to that in other parts of the world while
+               giving the concrete example of how Europe would look if the Sudeten refugees were
+               still being held in camps along the border.</p>
+            <p>The President said that he would visit Czechoslovakia on 15.3., the anniversary of
+               the entry of the German army into Czechoslovakia. He asked us not to publish this
+               until it was made public in both capitals.</p>
+            <p>The whole conversation lasted over an hour although only 45 minutes had been
+               allotted. It was exceptionally marked by a most sympathetic atmosphere.</p>
+            <p/>
+            <p>3. The conversation with the Chancellor.</p>
+            <p>The conversation, which was fixed for the day of the Chancellor’s announcement on
+               East Germany in the Bundestag, a meeting with the prime ministers of the states
+               and/or with Mitterand<note xml:id="e4376">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  21.5.1981–17.5.1995.</note> in the Elysée palace, was originally allotted 15
+               minutes. Nevertheless, it lasted over half an hour, in a positive atmosphere. The
+               Chancellor apologized for having so little time that day and added that he could not
+               “resist the charms of the Ambassador” despite the lack of time. The Foreign Minister
+               started by sending greetings from the Prime Minister<note xml:id="e4382">Yitzhak
+                  Shamir (1915–2012), <ref target="https://dodis.ch/P54271">dodis.ch/P54271</ref>,
+                  Prime Minister of Israel 20.10.1986–13.7.1992.</note> and expressing the hope that
+               their exchange of letters had not left any bitter aftertaste. The Chancellor said
+               that the problem for him was non-existent.</p>
+            <p>The Foreign Minister said that he has faith in the democracy of the FRG and the
+               extension of that democratic tradition to the GDR is desirable and a good thing. The
+               Foreign Minister reported on his conversations with Genscher and gave details about
+               our contacts with the GDR. He said that the East Germans had informed us that they
+               wanted to establish diplomatic relations. We had presented a number of prior
+               conditions.</p>
+            <p>The Foreign Minister mentioned Modrow’s<note xml:id="e4392">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                  Council of Ministers 13.11.1989–12.4.1990.</note> announcement and said that we
+               are asking ourselves, in view of the approaching reunification, if there is any point
+               in continuing contacts with the GDR. He added that Genscher supported these contacts
+               and the establishment of relations with the GDR. Kohl replied to this that he shared
+               Genscher’s stand but qualified this by recommending that it should not be done for
+               the next 4 weeks (that is, until the elections in the GDR). After this, Kohl spoke at
+               length about developments in the GDR. He said that although he had not had much
+               belief in the stability of the regime, he did not expect such a rapid collapse. He
+               mentioned his 10 point plan which had 3 stages. He had thought then of elections in
+               the GDR within a year. In fact the first two stages (that is, the treaty relationship
+               and confederation) have already been consigned to oblivion. He mentioned that there
+               are already firms in the GDR today doing their accounts in (West) German marks. There
+               are parts of the GDR which are breaking away from the crumbling central government.
+               In one district the president decided to open all the borders and to declare all the
+               Christian festivals as district holidays. A considerable number of the leaders and
+               the mayors are in prison or under investigation. Policemen do not turn up for work
+               since they do not want to be seen in uniform.</p>
+            <p>Kohl mentioned that a citizen of the GDR must be at least 79 in order to remember
+               what free elections are like.</p>
+            <p>With reference to the members of the Round Table, he said that they are idealists
+               without any experience. He described Modrow himself as an honest man and said that he
+               is aware that his days in power are numbered and will end on 18 March. He spoke
+               sarcastically of the retirement terms offered to party functionaries and so on, who
+               have been promised that they will receive their salary for the next two years. Kohl
+               said that it is as if the Gestapo members had received their salary for two years
+               from 1945 on.</p>
+            <p>He then spoke of the question of monetary union and the GDR’s demand for 16 billion
+               marks – a sum that will last, in his opinion, for two weeks. According to Kohl there
+               are 200 companies in the FRG which are ready to start economic activity immediately
+               in the GDR, if they are given suitable collateral for their investment. He mentioned
+               that three nuclear reactors in East Germany are “in a worse state than Chernobyl”.
+               Despite all this, Kohl is optimistic, since the GDR is situated in the traditional
+               industrial area of Germany. Later he spoke briefly about the fears of their
+               neighbours on the subject of the two <add type="edition">[military]</add> alliances
+               and the presence of 380 thousand Russian troops in East Germany. He said that he had
+               told Gorbachev<note xml:id="e4407">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of
+                  the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman of the
+                  Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the Soviet
+                  Union 15.3.1990–25.12.1991.</note> that if there was a clash in the GDR between
+               demonstrators and the soldiers – that would be the end of perestroika. Kohl sees a
+               united Germany as a factor stabilizing the peace between Eastern and Western
+               Europe.</p>
+            <p>There is no Fourth Reich and there never will be. The new Germany has a new axis. The
+               Versailles settlement was a historical error, but the errors of that time were not
+               repeated. The economic axis is in the south-west, and the Rhine is the decisive river
+               in Germany. We all have an interest in Gorbachev’s success and in his remaining in
+               office. If it were not for the developments in Germany, there would be no reform in
+               Hungary and Czechoslovakia.</p>
+            <p>Towards the end of the conversation Foreign Minister Arens told Kohl that he had
+               mentioned the sanctions in his talk with Genscher and with President von Weizsäcker.
+               He said that Genscher had promised to act, Kohl said definitely that he opposes
+               sanctions and in this context mentioned his stand, together with the British Prime
+                  Minister<note xml:id="e4417">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  United Kingdom 4.5.1979–28.11.1990.</note>, against sanctions on South Africa.</p>
+            <p>The Chancellor asked us to keep him up to date on this issue.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,19 +1,411 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title> Diplomatische Dokumente der Schweiz, Band 27 </title>
-				<author> Diplomatische Dokumente der Schweiz </author>
-			</titleStmt>
-			<publicationStmt>
-				<publisher> Diplomatische Dokumente der Schweiz </publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p> </p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="10">Debatte über die deutsche Wiedervereinigung; Information und Sprachregelung</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52928</idno>
+                    </msIdentifier>
+                    <head>Debatte über die deutsche Wiedervereinigung; Information und Sprachregelung</head>
+                    <msContents>
+                        <summary>Am Tag nach der zufälligen Öffnung der Berliner Mauer sah sich das österreichische Außenministerium gezwungen, seinen Diplomaten grundlegende Informationen über die Haltung Österreichs zu der Wiedervereinigung Deutschlands zur Verfügung zu stellen.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-10">10.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57520">Plattner, Johann (1932–)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57520">Plattner, Johann (1932–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P52036">Klestil, Thomas  (1932–2004)</persName>
+                    <persName ref="#P57512">Mock, Alois (1934–2017)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57464">
+                        <persName>
+                            <forename>Mark</forename>
+                            <surname>Eyskens</surname>
+                        </persName>
+                        <persName>Eyskens, Mark</persName>
+                        <birth when="1933-04-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57464</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P52036">
+                        <persName>
+                            <forename>Thomas </forename>
+                            <surname>Klestil</surname>
+                        </persName>
+                        <persName>Klestil, Thomas </persName>
+                        <birth when="1932-11-04"/>
+                        <death when="2004-07-06"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P52036</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P57512">
+                        <persName>
+                            <forename>Alois</forename>
+                            <surname>Mock</surname>
+                        </persName>
+                        <persName>Mock, Alois</persName>
+                        <birth when="1934-06-10"/>
+                        <death when="2017-06-01"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57512</idno>
+                    </person>
+                    <person xml:id="P57520">
+                        <persName>
+                            <forename>Johann</forename>
+                            <surname>Plattner</surname>
+                        </persName>
+                        <persName>Plattner, Johann</persName>
+                        <birth when="1932"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57520</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P57511">
+                        <persName>
+                            <forename>Ernst</forename>
+                            <surname>Sucharipa</surname>
+                        </persName>
+                        <persName>Sucharipa, Ernst</persName>
+                        <birth when="1947-07-24"/>
+                        <death when="2005-06-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57511</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R783">
+                        <orgName>Austria/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R783</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R2256">
+                        <orgName>Belgien/Parlament</orgName>
+                        <idno type="URI">https://dodis.ch/R2256</idno>
+                    </org>
+                    <org xml:id="R11207">
+                        <orgName>Deutschland/BRD/Bundesverfassungsgericht</orgName>
+                        <idno type="URI">https://dodis.ch/R11207</idno>
+                        <placeName ref="#G1081">Karlsruhe</placeName>
+                    </org>
+                    <org xml:id="R9899">
+                        <orgName>European Union</orgName>
+                        <idno type="URI">https://dodis.ch/R9899</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R11519">
+                        <orgName>Germany/FRG/Federal Chancellery</orgName>
+                        <idno type="URI">https://dodis.ch/R11519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R32124">
+                        <orgName>Germany/FRG/Permanent Representation in East Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R32124</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R27204">
+                        <orgName>Potsdam Conference (1945)</orgName>
+                        <idno type="URI">https://dodis.ch/R27204</idno>
+                        <placeName ref="#G131">Potsdam</placeName>
+                    </org>
+                    <org xml:id="R27189">
+                        <orgName>Treaty of Rome (1957)</orgName>
+                        <idno type="URI">https://dodis.ch/R27189</idno>
+                        <placeName ref="#G361">Rome</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G75">
+                        <placeName>Belgium</placeName>
+                        <location>
+                            <geo>50.5038874.469936</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G75</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G5">
+                        <placeName>German Reich</placeName>
+                        <location>
+                            <geo>51.1656910.451526</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5</idno>
+                    </place>
+                    <place xml:id="G1970">
+                        <placeName>Germany/Trizone (1948-1949)</placeName>
+                        <location>
+                            <geo>50.8216888.099033</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1970</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G131">
+                        <placeName>Potsdam</placeName>
+                        <location>
+                            <geo>52.39056813.064473</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G131</idno>
+                    </place>
+                    <place xml:id="G361">
+                        <placeName>Rome</placeName>
+                        <location>
+                            <geo>41.912.4833</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G361</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.6284240.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                    <place xml:id="G298">
+                        <placeName>Yalta</placeName>
+                        <location>
+                            <geo>44.49520534.1663</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G298</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
 	<text>
 		<body>
 			<div type="doc">
@@ -99,8 +491,7 @@
 					human rights situation, more freedom and democracy in the GDR, more freedom to
 					travel through a "permeable" border). </p>
 				<p> In his previous statements on German-German relations, Foreign Minister Genscher
-						<note xml:id="e780"> Hans-Dietrich Genscher (1927–2016), <ref
-							target="http://dodis.ch/P15414"> dodis.ch/P15414 </ref> ,
+						<note xml:id="e780"> Hans-Dietrich Genscher (1927–2016), <ref target="http://dodis.ch/P15414"> dodis.ch/P15414 </ref> ,
 						Vice-Chancellor and Minster for Foreign Affairs of the FGR 1982–1992.
 					</note> has pointed out in light of recent developments that the FRG also sees
 					the framework for the goal, which was formulated in the Letter on German Unity,
@@ -110,26 +501,21 @@
 					Europe ...”), Genscher wants changes in the German-German relationship to be
 					embedded in a pan-European development. With regard to statements made by West
 					German politicians, in which the existing borders of Poland are questioned,
-					Chancellor Kohl <note xml:id="e790"> Helmut Kohl (1930–2017), <ref
-							target="http://dodis.ch/P32852"> dodis.ch/P32852 </ref> , Chancellor of
+					Chancellor Kohl <note xml:id="e790"> Helmut Kohl (1930–2017), <ref target="http://dodis.ch/P32852"> dodis.ch/P32852 </ref> , Chancellor of
 						the FRG 1982–1998. </note> and Foreign Minister Genscher have since
-					clarified that the FRG makes no territorial claims toward Poland. <title
-						type="doc"> 3) The Attitude of the GDR </title> The government of the GDR
+					clarified that the FRG makes no territorial claims toward Poland. <title type="doc"> 3) The Attitude of the GDR </title> The government of the GDR
 					without change emphasizes - not least in the context of citizenship - the
 					existence and international recognition of two German states. </p>
 				<p> It appears worth noticing that the reform groups have not in any way called the
 					independent existence of the GDR into question so far: the right to
 					reunification is not raised in opposition circles. <title type="doc"> 4) The
-						Attitude of the European States </title> From Gorbachev’s <note
-						xml:id="e834"> Mikhail Gorbachev (*1931), <ref
-							target="http://dodis.ch/P31707"> dodis.ch/P31707 </ref> , General
+						Attitude of the European States </title> From Gorbachev’s <note xml:id="e834"> Mikhail Gorbachev (*1931), <ref target="http://dodis.ch/P31707"> dodis.ch/P31707 </ref> , General
 						Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
 						Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
 						President of the Soviet Union 15.3.1990–25.12.1991. </note> statements (the
 					current European order is not being idealized, but recognition of the post-war
 					reality has so far secured peace on the continent) and Foreign Minister
-					Shevardnadze’s <note xml:id="e847"> Eduard Shevardnadze (1928–2014), <ref
-							target="http://dodis.ch/P54603"> dodis.ch/P54603 </ref> , Minister of
+					Shevardnadze’s <note xml:id="e847"> Eduard Shevardnadze (1928–2014), <ref target="http://dodis.ch/P54603"> dodis.ch/P54603 </ref> , Minister of
 						Foreign Affairs of the Soviet Union 2.7.1985–26.12.1990 </note> statements
 					(rejection of revanchist forces that tried to revise postwar realities in
 					Europe) it is clear that the Moscow leadership still holds on to the “status quo
@@ -142,9 +528,7 @@
 					rethinking in Moscow of the Berlin question or even the Germany question has not
 					yet come about. </p>
 				<p> Of the Western European countries only statements by France and Belgium on the
-					German-German question have become known. President Mitterrand <note
-						xml:id="e870"> François Mitterrand (1916–1996), <ref
-							target="http://dodis.ch/P47396"> dodis.ch/P47396 </ref> , President of
+					German-German question have become known. President Mitterrand <note xml:id="e870"> François Mitterrand (1916–1996), <ref target="http://dodis.ch/P47396"> dodis.ch/P47396 </ref> , President of
 						France 1981–1995. </note> noted that the reunification of the two German
 					states is a legitimate concern of the German people, but that this issue also
 					concerns the four victorious powers and that European stability must be given

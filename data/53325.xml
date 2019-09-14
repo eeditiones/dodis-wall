@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="53">No 131</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53325</idno>
+                    </msIdentifier>
+                    <head>No 131</head>
+                    <msContents>
+                        <summary>Press statement issued by Matthias Gehler, Spokesperson of the Government of the German Democratic Republic, regarding the election dates.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-06-28">28.6.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="tr">Turkish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57531">Mekik, Metin (1932–2013)</persName>
+                    <orgName ref="#R33493">Turkey/Embassy in East Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57531">Mekik, Metin (1932–2013)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R841">Turkey/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57563">
+                        <persName>
+                            <forename>Matthias</forename>
+                            <surname>Gehler</surname>
+                        </persName>
+                        <persName>Gehler, Matthias</persName>
+                        <birth when="1954-08-04"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57563</idno>
+                    </person>
+                    <person xml:id="P57531">
+                        <persName>
+                            <forename>Metin</forename>
+                            <surname>Mekik</surname>
+                        </persName>
+                        <persName>Mekik, Metin</persName>
+                        <persName>Mekik, Mehmet Metin</persName>
+                        <birth when="1932-01-30">
+                            <placeName>Istanbul</placeName>
+                        </birth>
+                        <death when="2013-02-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57531</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33000">
+                        <orgName>Germany/GDR/State News Agency</orgName>
+                        <idno type="URI">https://dodis.ch/R33000</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33493">
+                        <orgName>Turkey/Embassy in East Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33493</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R841">
+                        <orgName>Turkey/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R841</idno>
+                        <placeName ref="#G471">Ankara</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G471">
+                        <placeName>Ankara</placeName>
+                        <location>
+                            <geo>39.9207732.85411</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G471</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53325">dodis.ch/53325</ref>
+               <title type="main">Telegram<note xml:id="e5937">Telegram No. 131 (copy, translated
+                     from Turkish): <idno>Turkish Diplomatic Archives 3178470</idno>. Ref:
+                        <idno>Telegram No.isda-isba/751 non-confidential telegram</idno>.</note>
+                  from the Turkish Ambassador in East Berlin, Metin Mekik<note xml:id="e5940">Metin
+                     Mekik (1932–2013), <ref target="https://dodis.ch/P57531">dodis.ch/P57531</ref>,
+                     Turkish Ambassador in East Berlin.</note>, to the Turkish Ministry of Foreign
+                  Affairs</title>
+            </head>
+            <opener>
+               <add>Normal</add>
+               <dateline>East Berlin, 28 June 1990, 3.30 p.m.</dateline>
+            </opener>
+            <p>Matthias Gehler<note xml:id="e5953">Matthias Gehler (*1954), <ref target="https://dodis.ch/P57563">dodis.ch/P57563</ref>, Spokesman of the GDR
+                  Government 12.4.1990–2.10.1990.</note> the Government Spokesman of the German
+               Democratic Republic, by issuing a statement to the press following the meeting held
+               yesterday by the Government of the Democratic German Republic stated that the
+               Government would not make any explanation (negative) concerning the all-Germany
+               election dates.</p>
+            <p>In accordance with the relevant news issued on the ADN Bulletin, Gehler stated that
+               the government of the Federal Republic of Germany aspired to hold the elections this
+               year in December; however, if the reunification process progresses too rapidly, the
+               psychological state of the people of the Democratic German Republic should be taken
+               into consideration; the transition to a market economy is a new application that has
+               created fear among the people. The economic, monetary and social union of the German
+               Democratic Republic and the Federal Republic of Germany would be formed on
+                  1<hi>st</hi> of July, and he reaffirmed that the internal border controls would be
+               removed between the two countries.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

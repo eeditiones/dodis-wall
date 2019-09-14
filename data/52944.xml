@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="26">Israel-GDR</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52944</idno>
+                    </msIdentifier>
+                    <head>Israel-GDR</head>
+                    <msContents>
+                        <summary>East German overtures towards Israel, including public statements in press interviews. Govrin believes that the GDR sees Israel and world Jewry as potential allies against plans for German reunification.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-12-17">17.12.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="iw">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Letter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57509">Govrin, Yosef (1930–)</persName>
+                    <orgName ref="#R4531">Israel/Foreign Ministry</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57509">Govrin, Yosef (1930–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57513">Merhav, Reuven (1936–)</persName>
+                    <orgName ref="#R4531">Israel/Foreign Ministry</orgName>
+                </correspAction>
+                <correspAction type="received-copy">
+                    <persName ref="#P57515">Melamed, Moshe (1936–)</persName>
+                    <persName ref="#P57514">Meridor, Sallai (1955–)</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57439">
+                        <persName>
+                            <forename>Moshe</forename>
+                            <surname>Arens</surname>
+                        </persName>
+                        <persName>Arens, Moshe</persName>
+                        <persName>Arens, Mosche</persName>
+                        <birth when="1925-12-27">
+                            <placeName>Kaunas</placeName>
+                        </birth>
+                        <death when="2019-01-07">
+                            <placeName>Savyon</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57439</idno>
+                    </person>
+                    <person xml:id="P51055">
+                        <persName>
+                            <forename>Oskar</forename>
+                            <surname>Fischer</surname>
+                        </persName>
+                        <persName>Fischer, Oskar</persName>
+                        <birth when="1923-03-19"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P51055</idno>
+                    </person>
+                    <person xml:id="P57509">
+                        <persName>
+                            <forename>Yosef</forename>
+                            <surname>Govrin</surname>
+                        </persName>
+                        <persName>Govrin, Yosef</persName>
+                        <birth when="1930-12-18">
+                            <placeName>Czernowitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57509</idno>
+                    </person>
+                    <person xml:id="P57515">
+                        <persName>
+                            <forename>Moshe</forename>
+                            <surname>Melamed</surname>
+                        </persName>
+                        <persName>Melamed, Moshe</persName>
+                        <persName>Melamed, Mosche</persName>
+                        <birth when="1936-05-08"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57515</idno>
+                    </person>
+                    <person xml:id="P57513">
+                        <persName>
+                            <forename>Reuven</forename>
+                            <surname>Merhav</surname>
+                        </persName>
+                        <persName>Merhav, Reuven</persName>
+                        <birth when="1936-02-09">
+                            <placeName>Tel-Aviv</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57513</idno>
+                    </person>
+                    <person xml:id="P57514">
+                        <persName>
+                            <forename>Sallai</forename>
+                            <surname>Meridor</surname>
+                        </persName>
+                        <persName>Meridor, Sallai</persName>
+                        <birth when="1955-09-22">
+                            <placeName>Jérusalem</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57514</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R4531">
+                        <orgName>Israel/Foreign Ministry</orgName>
+                        <idno type="URI">https://dodis.ch/R4531</idno>
+                    </org>
+                    <org xml:id="R570">
+                        <orgName>UN/General Assembly</orgName>
+                        <idno type="URI">https://dodis.ch/R570</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G233">
+                        <placeName>Bucharest</placeName>
+                        <location>
+                            <geo>44.432526.10389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G233</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G1761">
+                        <placeName>Israel</placeName>
+                        <location>
+                            <geo>31.04605134.851612</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1761</idno>
+                    </place>
+                    <place xml:id="G324">
+                        <placeName>Jerusalem</placeName>
+                        <location>
+                            <geo>31.76831835.21371</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G324</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52944">dodis.ch/52944</ref>
+               <title type="main">Letter<note xml:id="e2589">Letter (translated from Hebrew):
+                        <idno>Israel State Archives MFA7352/17</idno>. Copies to Sallai Meridor,
+                        <ref target="https://dodis.ch/P57514">dodis.ch/P57514</ref> and Moshe
+                     Melamed, <ref target="https://dodis.ch/P57515">dodis.ch/P57515</ref>.</note>
+                  from the Assistant Director-General for Eastern Europe, Yosef Govrin<note xml:id="e2598">Yosef Govrin (*1930), <ref target="https://dodis.ch/P57509">dodis.ch/P57509</ref>, Assistant Director-General for Eastern Europe in the
+                     Israeli Ministry of Foreign Affairs 1989–1993.</note>, to the Director-General
+                  of the Foreign Ministry, Reuven Merhav<note xml:id="e2604">Reuven Merhav (*1936),
+                        <ref target="https://dodis.ch/P57513">dodis.ch/P57513</ref>,
+                     Director-General of the Israeli Ministry of Foreign Affairs
+                  1989–1991.</note>
+                    </title>
+               <title type="sub">Subject: Israel-GDR</title>
+            </head>
+            <opener>
+               <dateline>Jerusalem, 17 December 1989</dateline>
+            </opener>
+            <p>1. In the calls by the leaders of the GDR to establish diplomatic relations with
+               Israel which we have witnessed over the last few days, we can see some difference in
+               their content and their tone. (“Without prior conditions”, “The GDR expects capital
+               investment from Israel even before the establishment of relations”,”The GDR intends
+               to discuss payment of compensation to the victims of the Nazis”, “East Germany cannot
+               pay compensation – especially not when it is in economic difficulties – but will be
+               ready to give humanitarian aid to Holocaust victims” etc.) (The quotations are taken
+               from press reports and may not be accurate).</p>
+            <p>2. However, they have a marked interest in discussing the subject of establishing
+               relations and the question of compensation with us. As well as the GDR’s interest in
+               improving its image in the West and getting help from it and from Israel to
+               reconstruct the economy, it seems to me that the reason for the recent offensive is
+               the assumption that the GDR of today sees Israel and world Jewry as a partner in
+               opposing “German reunification”. And relations with it may give the current regime a
+               stamp of diplomatic approval, while it is disassociating itself from the methods of
+               the previous regime in the GDR.</p>
+            <p>3. The wish to discuss normalization of relations with us was passed on, as you know,
+               through me in March this year, while I was serving in Bucharest<note xml:id="e2620">As Israel’s Ambassador.</note> – as an official message: <add type="edition">[a
+                  proposal]</add> to hold a diplomatic dialogue (in Bucharest) and a meeting of the
+               two Foreign Ministers at the UN General Assembly. It may be that this was the
+               intention of the East German Prime Minister, Modrow<note xml:id="e2626">Hans Modrow
+                  (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of
+                  the GDR Council of Ministers 13.11.1989–12.4.1990.</note>, when he mentioned in an
+               interview with a Haaretz<note xml:id="e2632">Israeli daily newspaper.</note> reporter
+               (Today) “We have approached Israel directly. I hope that the answer will be
+               positive”. As far as I know there has been no other approach up till now.</p>
+            <p>4. Events in the GDR are still developing and it is too early to judge if there will
+               be a significant change in the East Germans’ attitude towards our issues. Therefore I
+               would recommend that for the moment we confine ourselves to the expression that was
+               already published in our name at this time, that is, “that the GDR must first
+               recognize its responsibility for the Holocaust and the crimes of the Nazis and
+               arrange the payment of compensation to the victims of the Nazis.”</p>
+         </div>
+      </body>
+   </text>
+</TEI>

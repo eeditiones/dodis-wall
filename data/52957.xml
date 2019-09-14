@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="4">GDR-Internally</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52957</idno>
+                    </msIdentifier>
+                    <head>GDR-Internally</head>
+                    <msContents>
+                        <summary>Observations on the political situation and internal developments in the GDR in the days prior to the opening of the Wall.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-08">8.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="nl">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57545">Jacobs, Egbert (1945–)</persName>
+                    <orgName ref="#R33496">Netherlands/Embassy in Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57545">Jacobs, Egbert (1945–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57462">van den Broek, Hans (1936–)</persName>
+                    <orgName ref="#R6991">Netherlands/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P54812">
+                        <persName>
+                            <forename>Manfred</forename>
+                            <surname>Gerlach</surname>
+                        </persName>
+                        <persName>Gerlach, Manfred</persName>
+                        <birth when="1928-05-08">
+                            <placeName>Leipzig</placeName>
+                        </birth>
+                        <death when="2011-10-17">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54812</idno>
+                    </person>
+                    <person xml:id="P57547">
+                        <persName>
+                            <forename>Horst</forename>
+                            <surname>Gienke</surname>
+                        </persName>
+                        <persName>Gienke, Horst</persName>
+                        <birth when="1930-04-18"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57547</idno>
+                    </person>
+                    <person xml:id="P57546">
+                        <persName>
+                            <forename>Hans-Joachim</forename>
+                            <surname>Heusinger</surname>
+                        </persName>
+                        <persName>Heusinger, Hans-Joachim</persName>
+                        <birth when="1925-04-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57546</idno>
+                    </person>
+                    <person xml:id="P46563">
+                        <persName>
+                            <forename>Erich</forename>
+                            <surname>Honecker</surname>
+                        </persName>
+                        <persName>Honecker, Erich</persName>
+                        <birth when="1912-08-25">
+                            <placeName>Neunkirchen</placeName>
+                        </birth>
+                        <death when="1994-05-29">
+                            <placeName>Santiago de Chile</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46563</idno>
+                    </person>
+                    <person xml:id="P57545">
+                        <persName>
+                            <forename>Egbert</forename>
+                            <surname>Jacobs</surname>
+                        </persName>
+                        <persName>Jacobs, Egbert</persName>
+                        <persName>Jacobs, Egbert Frederik</persName>
+                        <birth when="1945"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57545</idno>
+                    </person>
+                    <person xml:id="P54794">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Krenz</surname>
+                        </persName>
+                        <persName>Krenz, Egon</persName>
+                        <persName>Krenz, Egon Rudi Ernst</persName>
+                        <birth when="1937-03-19">
+                            <placeName>Kołobrzeg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54794</idno>
+                    </person>
+                    <person xml:id="P57414">
+                        <persName>
+                            <forename>Yegor</forename>
+                            <surname>Ligachev</surname>
+                        </persName>
+                        <persName>Ligachev, Yegor</persName>
+                        <persName>Ligatschow, Jegor Kusmitsch</persName>
+                        <persName>Лигачёв, Его́р Кузьми́ч </persName>
+                        <persName>Ligatchev, Egor Kouzmitch</persName>
+                        <persName>Ligachyov, Yegor Kuzmich</persName>
+                        <birth when="1920-11-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57414</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57525">
+                        <persName>
+                            <forename>Jens</forename>
+                            <surname>Reich</surname>
+                        </persName>
+                        <persName>Reich, Jens</persName>
+                        <birth when="1939-03-26"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57525</idno>
+                    </person>
+                    <person xml:id="P56902">
+                        <persName>
+                            <forename>Günter</forename>
+                            <surname>Schabowski</surname>
+                        </persName>
+                        <persName>Schabowski, Günter</persName>
+                        <persName>Schabovsky, Günther</persName>
+                        <birth when="1929-01-04"/>
+                        <death when="2015-11-01">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56902</idno>
+                    </person>
+                    <person xml:id="P57548">
+                        <persName>
+                            <forename>Markus</forename>
+                            <surname>Wolf</surname>
+                        </persName>
+                        <persName>Wolf, Markus Johannes</persName>
+                        <persName>Wolf, Markus</persName>
+                        <persName>Wolf, Mischa</persName>
+                        <birth when="1924-01-19"/>
+                        <death when="2006-11-09"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57548</idno>
+                    </person>
+                    <person xml:id="P57462">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>van den Broek</surname>
+                        </persName>
+                        <persName>van den Broek, Henri</persName>
+                        <persName>van den Broek, Hans</persName>
+                        <birth when="1936-12-11"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57462</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R3943">
+                        <orgName>Deutschland/DDR/Christlich Demokratische Union</orgName>
+                        <idno type="URI">https://dodis.ch/R3943</idno>
+                    </org>
+                    <org xml:id="R33501">
+                        <orgName>Deutschland/DDR/Evangelische Kirche</orgName>
+                        <idno type="URI">https://dodis.ch/R33501</idno>
+                    </org>
+                    <org xml:id="R33498">
+                        <orgName>Deutschland/DDR/Innenministerium</orgName>
+                        <idno type="URI">https://dodis.ch/R33498</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R3944">
+                        <orgName>Deutschland/DDR/Liberal-Demokratische Partei Deutschlands (Ost) (1949-1990)</orgName>
+                        <idno type="URI">https://dodis.ch/R3944</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R8857">
+                        <orgName>Deutschland/DDR/National-Demokratische Partei Deutschlands</orgName>
+                        <idno type="URI">https://dodis.ch/R8857</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R32010">
+                        <orgName>Deutschland/DDR/Neues Forum</orgName>
+                        <idno type="URI">https://dodis.ch/R32010</idno>
+                    </org>
+                    <org xml:id="R8859">
+                        <orgName>Deutschland/DDR/Polizei</orgName>
+                        <idno type="URI">https://dodis.ch/R8859</idno>
+                    </org>
+                    <org xml:id="R32025">
+                        <orgName>Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Politbüro des ZK der SED</orgName>
+                        <idno type="URI">https://dodis.ch/R32025</idno>
+                    </org>
+                    <org xml:id="R11614">
+                        <orgName>Deutschland/DDR/Sozialistische Einheitspartei Deutschlands/Zentralkomitee</orgName>
+                        <idno type="URI">https://dodis.ch/R11614</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R22780">
+                        <orgName>Germany/GDR/Ministry for State Security</orgName>
+                        <idno type="URI">https://dodis.ch/R22780</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33496">
+                        <orgName>Netherlands/Embassy in Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33496</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R6991">
+                        <orgName>Netherlands/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R6991</idno>
+                        <placeName ref="#G88">The Hague</placeName>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G1203">
+                        <placeName>Beijing</placeName>
+                        <location>
+                            <geo>39.90403116.407524</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1203</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G807">
+                        <placeName>Dresden</placeName>
+                        <location>
+                            <geo>51.05040713.737262</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G807</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G995">
+                        <placeName>Elbe (river)</placeName>
+                        <location>
+                            <geo>53.8933338.705556</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G995</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G13948">
+                        <placeName>Greifswald</placeName>
+                        <location>
+                            <geo>54.09583313.381111</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13948</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.1326335.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G15397">
+                        <placeName>Ootmarsum</placeName>
+                        <location>
+                            <geo>52.4072226.899444</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15397</idno>
+                    </place>
+                    <place xml:id="G88">
+                        <placeName>The Hague</placeName>
+                        <location>
+                            <geo>52.07054.3007</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G88</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52957">dodis.ch/52957</ref>
+               <title type="main">Telegram<note xml:id="e399">Telegram No. 177 (incoming, translated
+                     from Dutch): <idno>Netherlands Ministry of Foreign Affairs BZ, 5e
+                        BloK</idno>
+                            <add type="edition">
+                                <idno>[NA 2.05.392]</idno>
+                            </add>
+                            <idno>,
+                        inv.nr. 2128</idno>. Delivered by: <orig>8 November 1989, 8.17
+                     p.m.</orig>
+                            <idno/>
+                        </note> from the Dutch Ambassador in East Berlin, Egbert
+                     Jacobs<note xml:id="e405">Egbert Jacobs (*1945), <ref target="https://dodis.ch/P57545">dodis.ch/P57545</ref>, Dutch Ambassador in
+                     East Berlin 1989–1990.</note>, to the Dutch Minister of Foreign Affairs, Hans
+                  van den Broek<note xml:id="e411">Hans van den Broek (*1936), <ref target="https://dodis.ch/P57462">dodis.ch/P57462</ref>, Dutch Minister of
+                     Foreign Affairs 4.11.1982–3.1.1993.</note>
+                    </title>
+               <title type="sub">GDR Internally</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>East Berlin, 8 November 1989</dateline>
+            </opener>
+            <p>Is there a more significant symbol imaginable for the “revaluation of all
+                  values”<note xml:id="e425">Quoted in German: <orig>Umwertung aller
+                  Werte.</orig>
+                    </note> in this country than a high official from the Ministry of the
+               Interior who in a forum discussion on GDR-TV calls upon his fellow countrymen on
+               their way to the Federal Republic to be sure to travel via border post a and not
+               border post b, because at border post a there is less traffic and things can
+               therefore be arranged much faster?</p>
+            <p>For all observers here reporting on the state of affairs in the GDR is now at least
+               as difficult as jumping on a speeding TGV as it passes. Now the Politburo has
+               resigned as well! The international media provide a good overall picture of the
+               situation, and in particular the West German media also offer enough grounds for
+               analysis and reflection. Nonetheless, I will not exclude you from some personal notes
+               regarding the past week.</p>
+            <p>
+               <title type="doc">1.</title>
+            </p>
+            <p/>
+            <p>The big demonstration of last Saturday in Berlin has – apart from the exemplary
+               peaceful and at times even somewhat playful sequence of events – brought to light a
+               few interesting things. First, the credibility problem still hangs like a millstone
+               around Krenz’<note xml:id="e439">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>, General Secretary of
+                  the SED 18.10.1989–3.12.1989 and Chairman of the GDR State Council
+                  18.10.1989–6.12.1989.</note> neck. The rapid succession of concessional gestures,
+               steps and decisions in the first weeks after his leadership acceptance has not
+               provided a “benefit of the doubt” position for him. During the rally the functionary
+               whom we would call the Dean of the Order of Attorneys in the Netherlands gave a
+               speech. Among other things, he openly praised Krenz for his de-escalating
+               intervention shortly after the heavy-handed police action on 6 and 7 October, when
+               the tension in the country was high. A deafening protest was the speaker’s reward.
+               The same thing happened when the speaker suggested that Krenz should be judged in the
+               GDR on his actions and not for his words on the events in Beijing in June. A lot of
+               water – and mercury – will need to flow under the bridge over the Elbe before Krenz
+               will manage to get into a position where the man in the street <emph>will</emph> give
+               him the benefit of the doubt. This is especially true because <emph>the</emph>
+               skeleton in his closet for him is not so much his statement about Beijing, as his
+               presidency of the “Election Committee” of 7 May last. Now that the pressure to
+               introduce a radically new electoral law is becoming irresistible, it is inevitable
+               that and in the margin of this – also fundamental – discussion, the electoral fraud
+               of May will be brought to the fore, which is still fresh in the memory. Krenz will
+               not be able to separate himself from this.</p>
+            <p>A second noteworthy aspect to last Saturday’s big rally (which, as far as I know, has
+               not been reported internationally) was the total – repeat total – absence of
+               references to re-unification. Most of the banners that were carried had slogans with
+               a fierce political content in relation to this country – not a subject remains
+               undiscussed in the streets, in public and “teach-in”-like meetings, and also on the
+               nowadays in any case worthwhile GDR-television – but about re-unification there was
+               not a word, not a slogan, not a chorus and not a banner. The preoccupation of both
+               the leaders of the block parties that were awakened from their hibernation and the
+               leaders of the “Initiative”, and of the demonstrators in the street is still the
+               reformation of the GDR. In Dutch newspapers I also read reflections of more or less
+               authoritative opinion makers who all assume axiomatically that the end of the present
+               turbulent developments can only be re-unification. “The more freedom, the less GDR”,
+               as it is crisply put. Be this as it may, the now unleashed public discussion in the
+               GDR, which has no taboos, gives <emph>no</emph> evidence of this axiom. But maybe
+               that does not apply to axioms.</p>
+            <p>
+               <title type="doc">2.</title>
+            </p>
+            <p/>
+            <p>The Volkskammer also awakes. The concept of the “Travel Law” had hardly been
+               published before the standing committee on justice completely rejected the draft.
+               Personally, and admittedly based on conspiracy theories, I had assumed that the
+               design would have some room “built in” for amendments by the Volkskammer, after which
+               a draft as amended by the Volkskammer would receive force of law. Although I do not
+               know the composition of this permanent committee it may be assumed that it will have
+               a majority of SED members. On this politically white hot GDR issue with which
+                  <emph>all</emph> representatives would like to show themselves aligned, the
+               budding profiling drive (<emph>also</emph> of the SED-representatives) has apparently
+               overcome the usual party discipline.</p>
+            <p>Meanwhile the permanent committee for “Constitution and Law” of the Volkskammer has
+               charged the Presidium in unambiguous terms with laxity and has demanded an emergency
+               session with plenary debate.</p>
+            <p>
+               <title type="doc">3.</title>
+            </p>
+            <p/>
+            <p>In close interaction with the awakening of the Volkskammer the awakening of the block
+               parties is taking place. I have reported before on the pioneering role of the liberal
+               LDPD and its chairman Gerlach<note xml:id="e463">Manfred Gerlach (1928–2011), <ref target="https://dodis.ch/P54812">dodis.ch/P54812</ref>, Chairman of the Council
+                  of State of the GDR 6.12.1989–5.4.1990.</note>. He continues to fulfill this role.
+               As the first person belonging to the political establishment he recently questioned
+               the “claim to power and truth”<note xml:id="e469">Quoted in German: <orig>Machts- und
+                     Wahrheitsanspruch.</orig>
+                    </note> of the SED. In the past 2 months Gerlach has
+               shown himself to be a good director of the interaction between his own statements and
+               the street protests, and there need be no doubt in my opinion that the promised new
+               electoral law will in fact defray with the “leading role”<note xml:id="e474">Quoted
+                  in German:<orig> führende Rolle.</orig>
+                    </note> of the SED. The question remains
+               how the lawyers will shape things, taking into account that the Minister of
+                  Justice<note xml:id="e479">Hans-Joachim Heusinger (*1925): <ref target="https://dodis.ch/P57546">dodis.ch/P57546</ref>, Deputy Chairman Council
+                  of Ministers of the GDR 1972–1989.</note> – now obviously outgoing – is the only
+               LDPD member in the government.</p>
+            <p>Gerlach has already been nominated for the presidency of the Volkskammer by his party
+               and he appears to me a good contender, also given the fact that Krenz clearly wants
+               him to (co-)play a prominent role. This would boost the activation process of the
+               Volkskammer and would enable the LDPD, with a new chairman, to distance itself from
+               the past, and therefore from the SED.</p>
+            <p>Meanwhile the NDPD has chosen a new chairman, the CDU is still working on this. The
+               potential importance of a credible CDU-chairman is of course fundamental for the
+               recovery of good relations with the churches, because these were in fact
+               non-existent. And should it come to that, then it needs no argument that a strong,
+               potential oppositional block could arise. The general break-up has now taken its
+               first victim in the Evangelische Kirche: the legion of “public officials who have
+                  resigned”<note xml:id="e489">Quoted in German: <orig>zurückgetretene öffentliche
+                     Persönlichkeiten.</orig>
+                    </note> has been reinforced with the Bishop of
+                  Greifswald<note xml:id="e494">Horst Gienke (*1930): <ref target="https://dodis.ch/P57547">dodis.ch/P57547</ref>, Bishop of Greifswald
+                  1972–1989.</note> a few days ago, the most state-loyal Landesbischof in the
+               Evangelische Kirche, the man who in July received Honecker<note xml:id="e500">Erich
+                  Honecker (1912–1994), <ref target="https://dodis.ch/P46563">dodis.ch/P46563</ref>,
+                  General Secretary of the SED and chairman of the GDR State Council
+                  29.10.1976–18.10.1989.</note> at the consecration of the restored basilica in
+               Greifswald, to the apprehension of his colleagues.</p>
+            <p>
+               <title type="doc">4.</title>
+            </p>
+            <p/>
+            <p>Amidst all the powder vapor it remains significant that still no personality with
+               even a glimmer of charisma has risen to report “to speak”.<note xml:id="e513">Quoted
+                  in German: <orig>zu Wort</orig>.</note> The line-up of speakers at the large
+               Berlin rally included a number of well-known artists, Prof. Reich of the Neue Forum,
+               and also the former HVA-chief Markus Wolf<note xml:id="e516">Markus Wolf (1924–2006),
+                     <ref target="https://dodis.ch/P57548">dodis.ch/P57548</ref>, GDR spymaster and
+                  head of the STASI (Hauptverwaltung Aufklärung) 1952–1989.</note>, all of whom are
+               speakers of an almost sleep-inducing dullness. The SED secretary in Dresden,
+                  Modrow<note xml:id="e522">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+                  Council of Ministers 13.11.1989–12.4.1990.</note>, now internationally typified as
+               a “reformer”, is in the lead in a demonstration that specifically demands the
+               “renunciation of the monopoly on power and truth”<note xml:id="e528">Quoted in
+                  German: <orig>Verzicht auf Machts- und Wahrheitsmonopol.</orig>
+                    </note> of his own
+               SED, but in his public appearance he has the characteristics of an alderman from
+                  Ootmarsum<note xml:id="e533">Village on the eastern border of the Netherlands,
+                     <ref target="https://dodis.ch/G15397">dodis.ch/G15397</ref>.</note>. The same
+               applies in my opinion to Günther Schabovski<note xml:id="e539">Günter Schabowski
+                  (1929–2015), <ref target="https://dodis.ch/P56902">dodis.ch/P56902</ref>, member
+                  of the SED Politburo and spokesman of the GDR government 1989.</note>, who
+               incidentally was the only major SED-functionary (Politburo) to speak at the big
+               Berlin rally and hardly got a word in, because he was constantly being shrieked down.
+               A bad omen for this “reformer” who will presumably receive a heavier portfolio within
+               the Politburo (economy?, media?).</p>
+            <p>Also noticeably absent from the stage are actors with a conservative background. If
+               there is a GDR-Ligachev<note xml:id="e547">Yegor Ligachev (*1920), <ref target="https://dodis.ch/P57414">dodis.ch/P57414</ref>, Second Secretary of
+                  Communist Party of the Soviet Union 10.3.1985–14.7.1990.</note> he dares not
+               manifest himself as such. I find this deceitful, because it is difficult to conceive
+               that there is no conservative wing within the SED. In the euphoria of the moment it
+               is too easily assumed that there are really no communists left in the GDR.</p>
+            <p>
+               <title type="doc">5.</title>
+            </p>
+            <p/>
+            <p>Today the Central Committee of the SED has gathered for its 3-day meeting. It is
+               expected that this assembly will also demand an emergency session of the Volkskammer,
+               with plenary debate, bringing forward the date of the elections for the Volkskammer
+               (which Krenz mentioned were tentatively planned for mid- ‘91 just two weeks ago), a
+               special SED Party Congress to be held this year – the regular Congress is scheduled
+               in May ‘90 – a directive statement on emigration (which will take into account the
+               rejection of the draft submitted by the government), on a new electoral law, on the
+               economy, and a new Politburo. At the very least.</p>
+            <p>
+               <title type="doc">6.</title>
+            </p>
+            <p/>
+            <p>And finally: there are still no strikes. Instead people are working extra time, more
+               and more. How is it possible.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

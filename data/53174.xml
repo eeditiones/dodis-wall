@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="63">Urgent Note Concerning the Talks between Prime Minister T. Mazowiecki  and Chancellor H. Kohl  in Frankfurt an der Oder and Slubice on 8 November this Year</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53174</idno>
+                    </msIdentifier>
+                    <head>Urgent Note Concerning the Talks between Prime Minister T. Mazowiecki  and Chancellor H. Kohl  in Frankfurt an der Oder and Slubice on 8 November this Year</head>
+                    <msContents>
+                        <summary>Summary of the talks between Prime Minister Mazowiecki and Chancellor Kohl. The current developments and arrangements for immediate measures, plans to sign a border treaty and a good neighbourly relations treaty, and the decision to abolish the visa requirement are discussed.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-11-11">11.11.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57584">Sułek, Jerzy (1939–)</persName>
+                    <orgName ref="#R8541">Poland/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57377">Skubiszweski, Krysztof (1926–2010)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R391">Poland/Government</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57596">
+                        <persName>
+                            <forename>Leszek</forename>
+                            <surname>Balcerowicz</surname>
+                        </persName>
+                        <persName>Balcerowicz, Leszek</persName>
+                        <birth when="1947-01-19"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57596</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57612">
+                        <persName>
+                            <forename>Piotr</forename>
+                            <surname>Kołodziejczyk</surname>
+                        </persName>
+                        <persName>Kołodziejczyk, Piotr</persName>
+                        <persName>Kołodziejczyk, Piotr Franciszek</persName>
+                        <birth when="1939-06-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P57612</idno>
+                    </person>
+                    <person xml:id="P57378">
+                        <persName>
+                            <forename>Tadeusz</forename>
+                            <surname>Mazowiecki</surname>
+                        </persName>
+                        <persName>Mazowiecki, Tadeusz</persName>
+                        <birth when="1927-04-18">
+                            <placeName>Plock</placeName>
+                        </birth>
+                        <death when="2013-10-28">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57378</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                    <person xml:id="P57584">
+                        <persName>
+                            <forename>Jerzy</forename>
+                            <surname>Sułek</surname>
+                        </persName>
+                        <persName>Sułek, Jerzy</persName>
+                        <persName>Sulek, Jerzy</persName>
+                        <birth when="1939"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57584</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R9899">
+                        <orgName>European Union</orgName>
+                        <idno type="URI">https://dodis.ch/R9899</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R8864">
+                        <orgName>Germany/FRG/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R8864</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R9496">
+                        <orgName>Germany/FRG/State</orgName>
+                        <idno type="URI">https://dodis.ch/R9496</idno>
+                    </org>
+                    <org xml:id="R8696">
+                        <orgName>Germany/GDR/National People's Army</orgName>
+                        <idno type="URI">https://dodis.ch/R8696</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R22612">
+                        <orgName>Paris Club</orgName>
+                        <idno type="URI">https://dodis.ch/R22612</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R8541">
+                        <orgName>Poland/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R8541</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R25687">
+                        <orgName>Poland/Ministry of National Defence</orgName>
+                        <idno type="URI">https://dodis.ch/R25687</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R2370">
+                        <orgName>Poland/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R2370</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R33506">
+                        <orgName>Schengen Agreement</orgName>
+                        <idno type="URI">https://dodis.ch/R33506</idno>
+                        <placeName ref="#G15400">Schengen</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G75">
+                        <placeName>Belgium</placeName>
+                        <location>
+                            <geo>50.5038874.469936</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G75</idno>
+                    </place>
+                    <place xml:id="G1432">
+                        <placeName>Benelux</placeName>
+                        <location>
+                            <geo>50.0808185.86129</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1432</idno>
+                    </place>
+                    <place xml:id="G73">
+                        <placeName>Czechoslovakia</placeName>
+                        <location>
+                            <geo>50.08333314.416667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G73</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G1318">
+                        <placeName>Frankfurt an der Oder</placeName>
+                        <location>
+                            <geo>52.3514.55</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1318</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G5">
+                        <placeName>German Reich</placeName>
+                        <location>
+                            <geo>51.1656910.451526</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5</idno>
+                    </place>
+                    <place xml:id="G15275">
+                        <placeName>Gulf States</placeName>
+                        <location>
+                            <geo>26.90472251.5475</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15275</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G196">
+                        <placeName>Luxemburg</placeName>
+                        <location>
+                            <geo>49.8152736.129583</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G196</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.1326335.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G15400">
+                        <placeName>Schengen</placeName>
+                        <location>
+                            <geo>49.476.36</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15400</idno>
+                    </place>
+                    <place xml:id="G15402">
+                        <placeName>Słubice</placeName>
+                        <location>
+                            <geo>52.3514.566667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15402</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G15404">
+                        <placeName>Śnieżka</placeName>
+                        <location>
+                            <geo>50.73598915.73965</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15404</idno>
+                    </place>
+                    <place xml:id="G15403">
+                        <placeName>Świecko</placeName>
+                        <location>
+                            <geo>52.314.6</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15403</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53174">dodis.ch/53174</ref>
+               <title type="main">Memorandum<note xml:id="e7087">Memorandum (translated from
+                     Polish): <idno>Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep. IV
+                        15/94, w. 1</idno>. Prepared by Jerzy Sułek, <ref target="https://dodis.ch/P57584">dodis.ch/P57584</ref>.</note> by the Polish
+                  Minister of Foreign Affairs, Krzysztof Skubiszewski<note xml:id="e7093">Krzysztof
+                     Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of Foreign Affairs
+                     12.9.1989–26.10.1993.</note>
+                    </title>
+               <title type="sub">Urgent Note Concerning the Talks between Prime Minister T.
+                     Mazowiecki<note xml:id="e7100">Tadeusz Mazowiecki (1927–2013), <ref target="https://dodis.ch/P57378">dodis.ch/P57378</ref>, Prime Minister of
+                     Poland 24.8.1989–12.1.1991.</note> and Chancellor H. Kohl<note xml:id="e7106">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note>
+                  in Frankfurt an der Oder and Slubice on 8 November this Year</title>
+            </head>
+            <opener>
+               <dateline>Warsaw, 11 November 1990</dateline>
+            </opener>
+            <p>I. In the course of talks held by Prime Minister T. Mazowiecki and the FRG’s Federal
+               Chancellor H. Kohl in Frankfurt an der Oder and Slubice on 8 November the following
+               was arranged:</p>
+            <p/>
+            <p>
+               <emph>1. Treaties</emph>
+            </p>
+            <p>a) This November in Warsaw, the Foreign Ministers are to sign a Treaty between the
+               Republic of Poland and the Federal Republic of Germany confirming the existing border
+               between them<note xml:id="e7123">
+                        <orig>Treaty between the Republic of Poland and the
+                     Federal Republic of Germany Concerning the Demarcation of the Established and
+                     Existing Polish-German State Frontier</orig> signed in Warsaw on 14 November
+                  1990.</note>.</p>
+            <p>b) The process to negotiate the Treaty on Good Neighbourhood and Friendly Cooperation
+               is to be completed by late January 1991<note xml:id="e7128">
+                        <orig>Treaty between the
+                     Republic of Poland and the Federal Republic of Germany on Good Neighbourly
+                     Relations and Friendly Cooperation</orig> signed in Bonn on 17 June
+                  1991.</note>.</p>
+            <p>c) The two aforementioned treaties will be submitted together for ratification by the
+               parliaments of Poland and FRG, by late February 1991 at the latest.</p>
+            <p/>
+            <p>
+               <emph>2. Movement of people</emph>
+            </p>
+            <p>a) The FRG government has already decided to lift the visa requirement for Polish
+               citizens (on a reciprocal basis) and intends to implement this decision later this
+                  year<note xml:id="e7139">
+                        <orig>Agreement on the Abolition of the Visa
+                     Requirement</orig> concluded in the form of exchange of notes on 4 April
+                  1991.</note>. With this in mind, it entered into official consultations with
+               France and the Benelux countries (the so-called Schengen group). A positive decision
+               by the Schengen Five is due in late November; it would make it possible to remove
+               visas for travel to these countries, before Christmas if possible (by way of an
+               exchange of diplomatic notes).</p>
+            <p>b) Polish consular, passport, and customs services will take actions — in
+               coordination with their counterparts from the FRG, France, Belgium, the Netherlands,
+               and Luxembourg — to ensure smooth handling of the expected increased movement of
+               people from and to Poland and to ensure it is not abused for purposes that contradict
+               the agreement about to be concluded (e.g. illicit trade, smuggling, taking up work
+               without permit). The number of border crossings will be expanded; they will be
+               extended and upgraded; passport and customs clearances will be simplified and
+               streamlined but with the simultaneous introduction of more stringent customs checks
+               and more severe administrative measures against people who abuse the freedom of
+               visa-free travel, etc.</p>
+            <p>c) As soon as possible, i.e. to the extent practicable in the first quarter of 1991,
+               a pilot project will be launched: the construction, at the FRG’s cost, of a
+               10km-section of a six-lane motorway on both sides of the border (5km from Frankfurt
+               an der Oder into Germany + 5km from Swiecko into Poland.</p>
+            <p/>
+            <p>
+               <emph>3. Regional cooperation, especially between border regions</emph>
+            </p>
+            <p>a) The following will be established: A Joint Inter-Governmental Commission for
+               Regional Cooperation and a Joint Border Commission (composed of representatives of
+               Polish provinces, border towns, communes and FRG Länder located along the
+               border).</p>
+            <p>b) In 1991, a separate Poland-FRG treaty will be made on regional cooperation.</p>
+            <p>c) Relevant provisions will be adopted in the Treaty on Good Neighbourhood and
+               Friendly Cooperation.</p>
+            <p/>
+            <p>
+               <emph>4. Youth exchange</emph>
+            </p>
+            <p>Youth exchanges should grow several times in 1991 as compared with this year
+               (expected levels of 6,000–7,000 people). The composition of the Polish-German Youth
+               Exchange Council will be considerably changed. Furthermore, a joint Office for the
+               organisation of youth exchanges will be established (modelled after the
+               Deutsch-Französisches Jugendwerk).</p>
+            <p/>
+            <p>
+               <emph>5. Aid for forced labourers and concentration camp prisoners</emph>
+            </p>
+            <p>In January 1991, the heads of government of the two countries will reach agreement
+               about using a pragmatic approach (foundation, fund) with respect to the
+               aforementioned category of Polish citizens who had suffered under the Third
+               Reich.</p>
+            <p/>
+            <p>II. On <emph>economic and financial cooperation</emph> between Poland and the
+               FRG:</p>
+            <p>1. A list of our most important proposals and suggestions will be drawn up, together
+               with a short statement of grounds (non-paper), which will be conveyed to the FRG
+               accompanied by a personal letter from Prime Minister T. Mazowiecki to Chancellor
+               Kohl; this will be a working basis for talks between Deputy Prime Minister L.
+                  Balcerowicz<note xml:id="e7174">Leszek Balcerowicz (*1947), <ref target="https://dodis.ch/P57596">dodis.ch/P57596</ref>, Polish Deputy Prime
+                  Minister and Minister of Finance 1989–1991.</note> and H. Kohl (the FRG Chancellor
+               reiterated his invitation for a visit). On this basis, H. Kohl will support relevant
+               Polish efforts at the EEC summit (14 December this year), in the Paris Club, and
+               among the 24 countries. The non-paper should specifically address such issues as
+               Poland’s association with the EEC, write-off of Poland’s debts, compensation for the
+               losses over the Gulf crisis, cooperation projects within the FRG-Poland-USSR triangle
+               (e.g. construction of homes for Soviet soldiers returning from the former GDR, food
+               shipments for the USSR), or perhaps the issue of Poland’s losses in connection with
+               the reunification of Germany.</p>
+            <p>2. <emph>Employment of Polish contract workers in Germany:</emph> Our consent to
+               signing a new Polish-German pension agreement has been made conditional on the
+               acceptance of our proposal, i.e. retention of the current employment limits (11,000
+               in the FRG, 35,000 in the former GDR).</p>
+            <p>
+               <emph>3. Financial and economic costs of German reunification</emph>
+            </p>
+            <p>If this issue cannot be resolved still this year, the heads of Polish and FRG
+               governments will raise the issue of <emph>rouble conversions</emph> in our trade with
+               the former GDR area in January 1991.</p>
+            <p/>
+            <p>
+               <emph>III. Other</emph>
+            </p>
+            <p>1. <emph>Transfer of military equipment, weapons and ammunition from the FRG to
+                  Poland from the stocks of the former GDR National People’s Army:</emph> H. Kohl
+               has agreed to meet some of the Polish side’s requests (mainly with respect to
+               ammunition, rifles, and combat vehicles); this matter will be conclusively settled
+               during the coming FRG visit of the Polish Minister of National Defence<note xml:id="e7192">Piotr Kołodziejczyk (*1939), <ref target="https://dodis.ch/P57612">dodis.ch/P57612</ref>, Polish Minister of National Defence
+                  6.7.1990–23.12.1991.</note>. It will be also essential for Poland to obtain
+               approval from the USSR. At H. Kohl’s request, this matter should for the time being
+               be given a low profile (pending its successful conclusion), among others because of
+               similar efforts by Hungary and the Czech and Slovak Federative Republic.</p>
+            <p>2. <emph>Transit of Soviet troops from the former GDR through Poland into the
+                  USSR</emph> (costs to be covered by the FRG). A joint panel of experts will be set
+               up to discuss this issue. It will be also raised during the FRG visit of the Polish
+               Minister of National Defence.</p>
+            <p>3. <emph>Reinstallation of a TV/radio transmitter on Sniezka</emph> (removed in 1980
+               at the request of the GDR), funded by the FRG, for broadcasting in Polish, German,
+               and Czech. Prime Minister T. Mazowiecki has promised to grant this FRG request; at
+               the same time he noted the need to implement projects to launch TV/radio channels for
+               the Polish diaspora and emigrants in the FRG.</p>
+            <p/>
+            <p>IV. I ask the ministries concerned to promptly contact the relevant FRG authorities
+               in order to implement the aforementioned decisions. The Ministry of Foreign Affairs
+               is to be updated on an ongoing basis on progress in this area.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="47">The answers of E. A. Shevardnadze to the Questions of the Irish Newspaper “Irish Times”</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53318</idno>
+                    </msIdentifier>
+                    <head>The answers of E. A. Shevardnadze to the Questions of the Irish Newspaper “Irish Times”</head>
+                    <msContents>
+                        <summary>The USSR’s approach towards the unification of Germany, considering it as a historic event meeting the aspiration of all German people, is laid out. However, it is underscored that the membership of the united Germany in NATO is unacceptable for the Soviet Union.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-04-26">26.4.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Interview</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P54603">Shevardnadze, Eduard (1928–2014)</persName>
+                    <orgName ref="#R369">USSR/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R26460">The Irish Times</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57504">
+                        <persName>
+                            <forename>Gerry</forename>
+                            <surname>Collins</surname>
+                        </persName>
+                        <persName>Collins, James Gerard</persName>
+                        <persName>Collins, Gerry</persName>
+                        <birth when="1938-10-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57504</idno>
+                    </person>
+                    <person xml:id="P57464">
+                        <persName>
+                            <forename>Mark</forename>
+                            <surname>Eyskens</surname>
+                        </persName>
+                        <persName>Eyskens, Mark</persName>
+                        <birth when="1933-04-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57464</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P42316">
+                        <persName>
+                            <forename>Charles</forename>
+                            <surname>Haughey</surname>
+                        </persName>
+                        <persName>Haughey, Charles</persName>
+                        <persName>Haughey, Charles James</persName>
+                        <birth when="1925-09-16"/>
+                        <death when="2006-06-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P42316</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R519">
+                        <orgName>Allied Control Council</orgName>
+                        <idno type="URI">https://dodis.ch/R519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R29472">
+                        <orgName>Conference on Security and Co-operation in Europe/Neutral and Non-Aligned countries</orgName>
+                        <idno type="URI">https://dodis.ch/R29472</idno>
+                    </org>
+                    <org xml:id="R31173">
+                        <orgName>Conference on international economic cooperation</orgName>
+                        <idno type="URI">https://dodis.ch/R31173</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R4766">
+                        <orgName>Council of Europe/Committee of Ministers of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R4766</idno>
+                        <placeName ref="#G2361">Strasbourg</placeName>
+                    </org>
+                    <org xml:id="R9899">
+                        <orgName>European Union</orgName>
+                        <idno type="URI">https://dodis.ch/R9899</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R750">
+                        <orgName>Ireland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R750</idno>
+                        <placeName ref="#G4927">Dublin</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R26460">
+                        <orgName>The Irish Times</orgName>
+                        <idno type="URI">https://dodis.ch/R26460</idno>
+                    </org>
+                    <org xml:id="R570">
+                        <orgName>UN/General Assembly</orgName>
+                        <idno type="URI">https://dodis.ch/R570</idno>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R369">
+                        <orgName>USSR/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R369</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G9">
+                        <placeName>Atlantic Ocean</placeName>
+                        <location>
+                            <geo>-14.599414-28.673147</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G9</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G73">
+                        <placeName>Czechoslovakia</placeName>
+                        <location>
+                            <geo>50.08333314.416667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G73</idno>
+                    </place>
+                    <place xml:id="G4927">
+                        <placeName>Dublin</placeName>
+                        <location>
+                            <geo>53.3333-6.25</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4927</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G622">
+                        <placeName>Helsinki</placeName>
+                        <location>
+                            <geo>60.17332524.941025</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G622</idno>
+                    </place>
+                    <place xml:id="G128">
+                        <placeName>Irland</placeName>
+                        <location>
+                            <geo>53.41291-8.24389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G128</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G5801">
+                        <placeName>Shannon</placeName>
+                        <location>
+                            <geo>52.566667-9.7</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5801</idno>
+                    </place>
+                    <place xml:id="G15">
+                        <placeName>Sweden</placeName>
+                        <location>
+                            <geo>60.12816218.643501</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G663">
+                        <placeName>Ural Mountains</placeName>
+                        <location>
+                            <geo>54.25558.102</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G663</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.6284240.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53318">dodis.ch/53318</ref>
+               <title type="main">Interview<note xml:id="e5376">Interview (translated from Russian):
+                        <idno>Archive of the Foreign Ministry of the Russian Federation АВПРФ, ф.
+                        757, оп. 35, п. 197, д. 12, л. 55–63об</idno>. For the published version of
+                     the interview cf. <idno>The Irish Times, 28 April 1990, p. 5</idno>.</note> by
+                  the Irish Times with the Foreign Minister of the Soviet Union, Eduard
+                     Shevardnaze<note xml:id="e5379">Eduard Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign
+                     Affairs of the Soviet Union 2.7.1985–26.12.1990.</note>
+                    </title>
+               <title type="sub">Answers of E. A. Shevardnadze to Questions of the Irish Newspaper
+                  “Irish Times”</title>
+            </head>
+            <opener>
+               <dateline>
+                        <add type="edition">[Moscow,]</add> 26 April 1990</dateline>
+            </opener>
+            <p>1. <emph>Question.</emph> What guarantees will the Soviet Union seek to ensure that
+               German unity will not become a threat to the security of other countries?</p>
+            <p>
+                    <emph>Answer.</emph> The movement towards the unification of Germany – that is, of
+               course, a historic event. It means the implementation of the legitimate, deepest
+               aspirations of the German people. It draws a line under the postwar era in the life
+               of Europe and at the same time determines the content of this process.</p>
+            <p>The political and military structure of Europe created as the outcome of World War
+               II, despite all its shortcomings during almost half a century, has provided stability
+               and peace on the continent. A new, emerging European structure should at least have
+               the same properties. This is an all-European task. All the interested states should
+               make a productive contribution to its solution, though, of course, the four powers,
+               including the Soviet Union, are endowed in this case with a special
+               responsibility.</p>
+            <p>The main thing, obviously, is to find such a military and political status for a
+               united Germany which would not radically upset the balance of power. This, in our
+               opinion, would be fully achievable if Germany becomes a non-aligned country in the
+               military sense with the armed forces potential intended only for defense
+               purposes.</p>
+            <p>Another guarantee, the value of which cannot be overemphasized, is the coherence of
+               the movement towards the unification of Germany with efforts to create all-European
+               security structures.</p>
+            <p/>
+            <p>2. <emph>Question.</emph> How does the Soviet Union see the role of the national
+               integrity of Germany in the political and military structure existing now on the
+               European continent?</p>
+            <p/>
+            <p>
+                    <emph>Answer.</emph> The unified Germany wouldn’t fit into the present military and
+               political European structures without problems. These structures were built when the
+               two German states were part of different alliances and not for a unified Germany.</p>
+            <p>The prospect of German unification is an important incentive, giving us a chance to
+               fundamentally reform the current structures of the European security – in effect, to
+               recreate them. Anyway, like any serious work, it will take time and a transitional
+               period. In any case, it would be a mistake if in the course of building German unity
+               we destroy the existing security system without replacing it with a new one.</p>
+            <p/>
+            <p>3. <emph>Question.</emph> Could the Soviet Union, under any conditions accept the
+               united Germany as a member of NATO?</p>
+            <p>
+                    <emph>Answer.</emph> Membership of the united Germany in NATO is unacceptable for us,
+               since this would mean a radical break-up of the current balance of power in Europe.
+               From the Western side we expect the understanding of the impossibility of such an
+               option. It is necessary to jointly seek other solutions that would not undermine
+               anyone’s security. Such solutions are achievable if we retain the basis of reality
+               and respect of our mutual interests.</p>
+            <p>In searching for such solutions, we shouldn’t limit ourselves to the familiar
+               recipes. For example, there was the idea of a double membership of the united Germany
+               in NATO and the Warsaw Pact. I would like to highlight such an option once again,
+               although someone in the West has tried to dismiss it out of hand. Though this option
+               may seem non-standard, that does not mean that it is unrealistic. Anyway, one must
+               understand the arguments of those who believe that the idea of “double membership”
+               may not only help to find the solution for one of the most difficult questions
+               arising in connection with the unification of Germany, but could instead be a
+               practical step towards creating European security structures. The territory of
+               Germany would turn into the testing ground for the constructive interaction of blocs,
+               a place of their gradual diffusion. Generally, this is something to think about.
+               Germany itself would not lose anything with such a decision.</p>
+            <p/>
+            <p>4. <emph>Question.</emph> How do you assess the role of the European Communities in
+               the framework of the CSCE in the new conditions?</p>
+            <p>
+                    <emph>Answer.</emph> The “Twelve” have always played a prominent role in determining
+               the main directions of the development of the Helsinki process, they have often
+               facilitated the search for mutually acceptable solutions and reasonable compromises.
+               We hope that the EC member states will bring their political power and influence,
+               together with the other participants in the all-European process, in the current
+               rapidly developing situation in Europe to ensure its development in conditions of
+               stability. We particularly appreciate the EC’s support of our initiative to convene a
+               CSCE summit in 1990. We are ready for the most active cooperation with the “Twelve”
+               in practical preparations for this meeting, providing a qualitatively new impetus to
+               the development of the CSCE process as a whole.</p>
+            <p/>
+            <p>5. <emph>Question.</emph> How does the Soviet Union see the work of the Conference on
+               Security and Cooperation in Europe under the new conditions?</p>
+            <p/>
+            <p>
+                    <emph>Answer.</emph> Today it is already obvious that it is not only desirable, but
+               necessary to maintain the existing momentum in the development of the all-European
+               process. The question of the future of the CSCE process will undoubtedly be one of
+               the central themes on the agenda of the European summit. A meaningful exchange of
+               views on the options for European development would contribute to the formulation of
+               agreed conceptual approaches and the formation of a future European community, taking
+               into account both the ideas of Mikhail Gorbachev<note xml:id="e5433">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> about “a common
+               European home”, François Mitterrand’s<note xml:id="e5439">François Mitterrand
+                  (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>,
+                  President of France 21.5.1981–17.5.1995.</note> proposals for a “European
+               Confederation” and the ideas of Mark Eyskens<note xml:id="e5445">Mark Eyskens
+                  (*1933), <ref target="https://dodis.ch/P57464">dodis.ch/P57464</ref>, Belgian
+                  Minister of Foreign Affairs 19.6.1989–7.3.1992.</note> on the “confederal
+               commonality of Europe”, as well as the views expressed by other countries.</p>
+            <p>Many good ideas have been put forward on the formation of all-European structures. In
+               addition to the well-known Soviet proposals for the establishment of the All-European
+               Council, consisting of the heads of states, the Committee of Ministers of Foreign
+               Affairs of the CSCE countries and the Center for the prevention of military threats,
+               there are proposals from the FRG, Poland and Czechoslovakia. Thus, there is something
+               to think over and to discuss, considering the interests of Europe, present and
+               future.</p>
+            <p/>
+            <p>6. <emph>Question.</emph> How do the “2 + 4” talks affect the process of the
+               development of the Conference on Security and Cooperation in Europe?</p>
+            <p>
+                    <emph>Answer.</emph> There is a direct connection. The movement towards the united
+               Germany should not hamper the building of the common European house and we believe it
+               would be utterly unacceptable if it disturbs the balance of power and stability in
+               Europe, calling into question the positive results achieved within the framework of
+               the CSCE. On the contrary, the convergence and unification of the two Germanies are
+               set to become an integral part of the broad efforts to establish a new way of
+               European life based on peace and cooperation.</p>
+            <p>Proceeding from this understanding, the Soviet side stands for discussing within the
+               framework of the “Six” the issue of the synchronization of building German unity with
+               the CSCE process. We share the approach of those states which believe that the
+               results of the work of the “Six” should be considered and possibly approved at the
+               meeting of the CSCE members at the highest level.</p>
+            <p/>
+            <p>7. <emph>Question.</emph> Will the Soviet Union as a participant of the “2 + 4” talks
+               insist on addressing the issues affecting the interests of other European countries,
+               including a peace settlement in Europe?</p>
+            <p>
+                    <emph>Answer.</emph> The Soviet Union as a participant of the discussions of the
+               “Six” is guided not only by its own national interests, but also by the broad
+               interests of European security. Doing things differently would be irresponsible.
+               Today, it is impossible for someone to build security at the expense of other
+               countries, it could be relevant only if the interests of all European countries are
+               taken into account.</p>
+            <p/>
+            <p>In the course of work specific questions will probably arise affecting the interests
+               of countries that are not members of the “Six”. In our view, it should be possible to
+               involve them in the discussions in the “Six” at corresponding stages.</p>
+            <p>The building of the German unity brings a practical dimension into the question of
+               the elaboration of an international legal settlement to draw a final line under the
+               past war.</p>
+            <p>The most correct form of such settlement would be a peace treaty or an equivalent
+               document in which the issues relating to the military-political status, the question
+               of borders etc., would find their solutions. We think that such a document could be
+               worked out within the framework of the “Six” with the active participation of the two
+               German states.</p>
+            <p/>
+            <p>8. <emph>Question.</emph> How do you see the role in the all-European process of
+               military neutral countries such as Austria, Ireland and Sweden?</p>
+            <p>
+                    <emph>Answer.</emph> We believe that any country can make an important contribution
+               to the CSCE process as it has been conceived as a non-aligned structure with the
+               decisions taken by consensus. Therefore, the voice of any country is essential. The
+               three countries you mentioned, along with other neutral and non-aligned countries are
+               actively involved in all-European cooperation and each of them has made a solid
+               contribution, though in its own way, to its development. Now, when the confrontation
+               between the countries belonging to the military blocs vanishes, the reconciliatory
+               role of neutral countries, of course, is becoming less important, although it still
+               remains valid. This has been confirmed in particular by the Conference on Economic
+               Cooperation in Europe which took place in Bonn, where the draft of the final document
+               was represented by the “N + N” group.</p>
+            <p>Today, when the question of the necessity to create the new security structures has
+               become extremely urgent, every country participating in the European process should
+               contribute to this work. This concerns not only bloc countries but all the nations of
+               the continent. Security is indivisible, and all the members of NATO and of the Warsaw
+               Pact want it to be strengthened, as do militarily neutral countries like Austria,
+               Ireland, and Sweden.</p>
+            <p/>
+            <p>9. <emph>Question.</emph> How do you see the development of relations between the
+               USSR and the countries that are members of the European Communities within the
+               framework of the political and economic cooperation in a changing Europe?</p>
+            <p>
+                    <emph>Answer.</emph> The current changes in Europe are a good start to raise the
+               political and economic cooperation between the USSR and the European Communities to a
+               qualitatively new level.</p>
+            <p>In the context of the ongoing rapprochement between the East and the West, we
+               consider it possible and realistic to set a task that will focus our political
+               dialogue with the European Communities on the gradual transition from a simple
+               exchange of views, through a comparison of our positions to practical interaction and
+               partnership in consolidating positive changes in Europe and throughout the world. It
+               seems that the USSR and the “Twelve” could become co-authors of many specific ideas
+               and steps towards the formation of the European community of the XXI century.</p>
+            <p/>
+            <p>The USSR-EC agreement on trade, commerce and economic cooperation is an example of a
+               fundamentally new approach to the economic cooperation of Eastern and Western Europe,
+               a kind of future outlook. It is a practical contribution where both sides work
+               together to lay the economic foundation of the common European home. Obviously, it is
+               time to think together about the establishment of some permanent all-European
+               structures of economic cooperation which would help to reconcile the economies of the
+               East and the West with a prospect of reaching a common European economic space from
+               the Atlantic to the Urals.</p>
+            <p/>
+            <p>10.<emph> Question.</emph> Both Moscow and Dublin critically commented on the
+               unrealized opportunities in Soviet-Irish relations. What could be done about this,
+               and are there plans for a meeting at the level of foreign ministers to sign, for
+               example, an agreement on cultural cooperation, following the understanding reached
+               two years ago?</p>
+            <p>
+                    <emph>Answer.</emph> It must be recognized that for a long time our relations with
+               Ireland have been given a sort of residual attention. Honestly speaking, we did not
+               really feel that the Irish side sought to provide any real drive in its relations
+               with the Soviet Union. With all this, there is little reason to talk about any kind
+               of coolness or alienation in bilateral relations. Since their official establishment
+               in 1973 there have been no acute or unpleasant problems between Dublin and Moscow. On
+               the contrary, our countries have always respected each other. Another thing is
+               important as well. There have always been a lot of similarities and even coincidences
+               in our approaches towards the central problems of European and regional policy. We
+               highly appreciate the contribution of Ireland to the all-European process, the
+               settlement of regional conflicts and the UN peacekeeping activities.</p>
+            <p>A new political era in world affairs, which started with Perestroika, opens up new
+               opportunities for the development of Soviet-Irish relations on an equal and mutually
+               beneficial basis. Mikhail Gorbachev’s visit to Ireland and his talks with Charles
+                  Haughey<note xml:id="e5503">Charles Haughey (1925–2006), <ref target="https://dodis.ch/P42316">dodis.ch/P42316</ref>, Prime Minister of
+                  Ireland 10.3.1987–11.2.1992.</note> in Shannon on 2 April 1989 are considered by
+               both sides to be the most important reference point characterizing the translation of
+               the entire complex of bilateral relations into the phase of dynamic and constructive
+               cooperation. It can be said with satisfaction that the results of the visit are quite
+               successful and they are being implemented with regard to the deepening of the
+               political dialogue between the two countries, the expansion of economic and cultural
+               ties, and of parliamentary exchanges. A lot has already been done on these fronts,
+               although, of course, this is only the beginning.</p>
+            <p>It has been mutually agreed to include plans for Soviet-Irish contacts at the high
+               and highest levels visits of prime minister Ch. Haughey and Foreign Minister G.
+                  Collins<note xml:id="e5511">Gerry Collins (*1938), <ref target="https://dodis.ch/P57504">dodis.ch/P57504</ref>, Irish Minister for
+                  Foreign Affairs 12.7.1989–11.2.1992.</note>. Both our countries are willing to
+               have these visits, and preparations have already started. Today this is particularly
+               important because of Irelands’ chairmanship in the EC, as Dublin enjoys the status of
+               the capital of the integrating Western Europe in the current half-year. However,
+               unfortunately, circumstances can just get the <emph>better of us</emph> sometimes. An
+               extremely busy calendar of events requiring special attention on the part of the
+               Soviet leadership does not make it possible to set the exact dates. To complete the
+               picture, I would like to say that besides the visits we maintain other contacts with
+               the Irish leadership. I had and I have opportunities to engage in dialogue with the
+               Foreign Minister of Ireland either within the framework of the UN General Assembly,
+               or other forums, including all-European forums.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

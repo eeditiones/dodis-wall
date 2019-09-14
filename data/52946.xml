@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="45">GDR-FRG-Israel. Following our Telegram No. 73 of 12.4.</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52946</idno>
+                    </msIdentifier>
+                    <head>GDR-FRG-Israel. Following our Telegram No. 73 of 12.4.</head>
+                    <msContents>
+                        <summary>Review of the situation in the GDR following the elections. The new parliament has passed a resolution recognizing Germany's crimes against the Jews and instructing the government to work for establishment of relations with Israel. Open official negotiations with the GDR are proposed.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-04-16">16.4.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="iw">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57507">Navon, Benjamin (1933–)</persName>
+                    <orgName ref="#R26238">Israel/Embassy in Bonn</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R4531">Israel/Foreign Ministry</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P51055">
+                        <persName>
+                            <forename>Oskar</forename>
+                            <surname>Fischer</surname>
+                        </persName>
+                        <persName>Fischer, Oskar</persName>
+                        <birth when="1923-03-19"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P51055</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P46563">
+                        <persName>
+                            <forename>Erich</forename>
+                            <surname>Honecker</surname>
+                        </persName>
+                        <persName>Honecker, Erich</persName>
+                        <birth when="1912-08-25">
+                            <placeName>Neunkirchen</placeName>
+                        </birth>
+                        <death when="1994-05-29">
+                            <placeName>Santiago de Chile</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46563</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P54809">
+                        <persName>
+                            <forename>Lothar de</forename>
+                            <surname>Maizière</surname>
+                        </persName>
+                        <persName>Maizière, Lothar de</persName>
+                        <birth when="1940-03-02">
+                            <placeName>Nordhausen </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54809</idno>
+                    </person>
+                    <person xml:id="P54793">
+                        <persName>
+                            <forename>Markus</forename>
+                            <surname>Meckel</surname>
+                        </persName>
+                        <persName>Meckel, Markus</persName>
+                        <birth when="1952-08-18">
+                            <placeName>Müncheberg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54793</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57507">
+                        <persName>
+                            <forename>Benjamin</forename>
+                            <surname>Navon</surname>
+                        </persName>
+                        <persName>Navon, Benjamin</persName>
+                        <birth when="1933-07-23">
+                            <placeName>Czernowitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57507</idno>
+                    </person>
+                    <person xml:id="P54271">
+                        <persName>
+                            <forename>Yitzhak</forename>
+                            <surname>Shamir</surname>
+                        </persName>
+                        <persName>Shamir, Yitzhak</persName>
+                        <persName>Schamir, Jitzchak</persName>
+                        <persName>שמיר, יצחק</persName>
+                        <persName>Shamir, Itzak</persName>
+                        <persName>Jaziernicki, Jitzchak</persName>
+                        <persName>Шамир, Ицхак</persName>
+                        <persName>Езерницкий, Ицхак</persName>
+                        <birth when="1915-10-22">
+                            <placeName>Ruzhany</placeName>
+                        </birth>
+                        <death when="2012-06-30">
+                            <placeName>Tel-Aviv</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54271</idno>
+                    </person>
+                    <person xml:id="P57526">
+                        <persName>
+                            <forename>Michael</forename>
+                            <surname>Shiloh</surname>
+                        </persName>
+                        <persName>Shiloh, Michael</persName>
+                        <birth when="1934">
+                            <placeName>The Hague</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57526</idno>
+                    </person>
+                    <person xml:id="P5944">
+                        <persName>
+                            <forename>Richard von</forename>
+                            <surname>Weizsäcker</surname>
+                        </persName>
+                        <persName>Weizsäcker, Richard von</persName>
+                        <birth when="1920-04-15"/>
+                        <death when="2015-01-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P5944</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R26238">
+                        <orgName>Israel/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R26238</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4531">
+                        <orgName>Israel/Foreign Ministry</orgName>
+                        <idno type="URI">https://dodis.ch/R4531</idno>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G215">
+                        <placeName>Copenhagen</placeName>
+                        <location>
+                            <geo>55.67609812.568337</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G215</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G1761">
+                        <placeName>Israel</placeName>
+                        <location>
+                            <geo>31.04605134.851612</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1761</idno>
+                    </place>
+                    <place xml:id="G324">
+                        <placeName>Jerusalem</placeName>
+                        <location>
+                            <geo>31.76831835.21371</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G324</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52946">dodis.ch/52946</ref>
+               <title type="main">Telegram<note xml:id="e5123">Telegram (incoming, translated from
+                     Hebrew): <idno>Israel State Archives MFA7352/18</idno>. A handwritten note was
+                     added: <orig>1. For the minister 2. The GDR file</orig>. Another handwritten
+                     note was added: <orig>I don’t know if Benny Navon is clever, but modest he
+                        isn’t</orig>. The name “Navon” means “wise” in Hebrew.</note> from the
+                  Israeli Ambassador in Bonn, Benjamin Navon<note xml:id="e5126">Benjamin Navon
+                     (*1933), <ref target="https://dodis.ch/P57507">dodis.ch/P57507</ref>, Israeli
+                     Ambassador in Bonn, 1989–1993.</note>, to the Israeli Foreign Ministry</title>
+               <title type="sub">GDR – FRG – Israel. Following our Telegram No. 73 of 12.4.<note xml:id="e5134">The Israeli Embassy in Bonn and the Information Department to
+                     Europe 1 Division, Eastern Europe Division and the Press Division, 12 April
+                     1990, <idno>Israel State Archives, MFA7352/18</idno>.</note>
+                    </title>
+            </head>
+            <opener>
+               <add>Secret/Usual <add type="edition">[priority]</add>
+                    </add>
+               <dateline>Bonn, 16 April 1990</dateline>
+            </opener>
+            <p>A) For the first time a coalition government has been formed in East Germany which
+               was elected by democratic process. The coalition agreement sets the following
+               goals:</p>
+            <p>1. Ensuring prosperity and social equality for all citizens of the GDR.</p>
+            <p>2. Freedom and justice for all.</p>
+            <p>3. Realizing in a speedy and responsible way the reunification of Germany after
+               negotiations with the FRG on the basis of Article 23 of the Constitution (of the
+               FRG). This will be a contribution to the “peaceful settlement” of Europe.</p>
+            <p/>
+            <p>B) In the opening meeting of the new East German parliament (Volkskammer), a
+               resolution was unanimously adopted which says:</p>
+            <p>… It was Germans who during the period of national socialism inflicted immeasurable
+               suffering on the peoples of the world. Nationalism and racial madness led to
+               genocide, particularly among Jews from all European countries, among the peoples of
+               the Soviet Union, the Polish people and the Sinti and Roma [the Gypsy people] ….We
+               ask the Jews all over the world for their forgiveness. We ask the people in Israel to
+               forgive us for the hypocrisy and hostility shown in official GDR policy towards the
+               State of Israel, and to forgive the persecution and degradation of Jewish compatriots
+               in our country, also after 1945…. [The new government must act to establish] We
+               declare that we will strive for [the establishment of] diplomatic relations with the
+               State of Israel<note xml:id="e5157">See the English translation of the declaration in
+                     <idno> Israel State Archives, P 4731/2</idno>. Navon’s translation into Hebrew,
+                  given in square brackets, is slightly different from the original.</note>.</p>
+            <p/>
+            <p>C) Paragraphs A and B give expression to the subjects which interest us:</p>
+            <p>1. The temporary existence of the GDR, which will pass through most or all of the
+               stage of union with the FRG within one to three years.</p>
+            <p>2. The GDR’s confrontation with its past and request for forgiveness and pardon from
+               the Jewish people and the State of Israel.</p>
+            <p>3. Expression of a wish to establish diplomatic relations with the State of
+               Israel.</p>
+            <p>To this we must add the unambiguous FRG aspect, which is that the President<note xml:id="e5172">Richard von Weizsäcker (1920–2015), <ref target="https://dodis.ch/P5944">dodis.ch/P5944</ref>, President of the FRG
+                  1.7.1984 –30.6.1994.</note>, the Chancellor<note xml:id="e5178">Helmut Kohl
+                  (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>,
+                  Chancellor of the FRG 1.10.1982–27.10.1998.</note> and Foreign Minister
+                  Genscher<note xml:id="e5184">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+                  Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note> have
+               encouraged and approved the idea that we should establish diplomatic relations with
+               the GDR. The Israeli aspect is also quite unambiguous. East Germany has fulfilled our
+               conditions (which we never defined as such) for opening negotiations on establishing
+               relations.</p>
+            <p>Things had already begun to move during Hans Modrow’s<note xml:id="e5192">Hans Modrow
+                  (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of
+                  the GDR Council of Ministers 13.11.1989–12.4.1990.</note> term as prime minister
+               (both in his letter <add type="edition">[to Yitzhak Shamir]</add> and the statements
+               made to Michael Shiloh<note xml:id="e5201">Michael Shiloh (*1934), <ref target="https://dodis.ch/P57526">dodis.ch/P57526</ref>, Adviser on Diaspora
+                  affairs in the Israeli Foreign Ministry and Israel’s representative at the talks
+                  with the GDR in Copenhagen.</note> in the Copenhagen talks) and received official
+               status in the resolution of the East German Volkskammer quoted above.</p>
+            <p>The question may be asked why establish relations at all with a German state which
+               will disappear in the foreseeable future. To this I suggest four replies:</p>
+            <p>1. Our support in principle for universal relations between states.</p>
+            <p>2. The GDR’s fulfillment of our “conditions”.</p>
+            <p>3. The political leadership of the GDR, where the parties are largely a reflection of
+               the parties in the FRG, will rapidly merge into the leadership of the FRG as
+               reunification approaches and will become part of the leadership of Germany. East
+               Germany of today will become five of the sixteen states of united Germany. It is
+               essential to encourage this leadership as part of Germany’s future leadership.</p>
+            <p>4. In our negotiations with the GDR, we must tactfully and with restraint make a case
+               for our demands from that state, in the knowledge that the burden of answering those
+               demands will fall mainly on the FRG.</p>
+            <p/>
+            <p>D) We no longer have any reason to play the game of the SED – the game of
+                  Honecker<note xml:id="e5221">Erich Honecker (1912–1994), <ref target="https://dodis.ch/P46563">dodis.ch/P46563</ref>, General Secretary of
+                  the SED and chairman of the GDR State Council 29.10.1976–18.10.1989.</note> and
+               Oskar Fischer<note xml:id="e5227">Oskar Fischer (*1933), <ref target="https://dodis.ch/P51055">dodis.ch/P51055</ref>, Foreign Minister of the
+                  GDR 3.3.1975–12.4.1990.</note>. Bonn is no longer in the eyes of the East German
+               government of de Maizière<note xml:id="e5233">Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809">dodis.ch/P54809</ref>, GDR Prime Minister
+                  12.4–2.10.1990.</note> and Markus Meckel<note xml:id="e5239">Markus Meckel
+                  (*1952), <ref target="https://dodis.ch/P54793">dodis.ch/P54793</ref>, Foreign
+                  Minister of the GDR 12.4.–20.8.1990.</note> “the capital of the revanchists”,
+               where everything is bad. On the contrary, Bonn is the capital of the state which the
+               GDR will join according to Article 23, in the foreseeable future. We should not,
+               therefore, continue with the anachronism of showing consideration for the outdated
+               SED ideology, consideration which may definitely be seen in the FRG as attempting –
+               even if only symbolically – to continue the division of Germany.</p>
+            <p/>
+            <p>In the light of all the above, I propose a decision on opening negotiations to
+               establish relations between us and East Germany, on the lines that have been
+               mentioned. The site of the talks should be Bonn. I have no doubt that the GDR
+               government will accept this and the FRG government will approve. The symbolism will
+               be clear. I would be grateful to be appointed as the head of the delegation for the
+                  negotiations<note xml:id="e5249">This sentence and the last one are
+                  underlined.</note>. Since we will establish relations with a state which has
+               adopted as its slogan its temporary status and the end of its existence by means of a
+               merger with West Germany, it is appropriate that our relations with it should reflect
+               this situation. My status as non-resident Ambassador in East Germany will certainly
+               be welcomed in Bonn and East Berlin.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

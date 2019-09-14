@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="33">No 775.</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53172</idno>
+                    </msIdentifier>
+                    <head>No 775.</head>
+                    <msContents>
+                        <summary>The heads of Polish diplomatic missions abroad are given the following instruction: Polish support for German reunification is made contingent upon Germany recognizing Poland’s western border along the Oder and Lusatian Neisse Rivers.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-01">1.2.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57377">Skubiszweski, Krysztof (1926–2010)</persName>
+                    <orgName ref="#R8541">Poland/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57377">Skubiszweski, Krysztof (1926–2010)</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R8541">
+                        <orgName>Poland/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R8541</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G467">
+                        <placeName>Athens</placeName>
+                        <location>
+                            <geo>37.98391723.72936</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G467</idno>
+                    </place>
+                    <place xml:id="G1203">
+                        <placeName>Beijing</placeName>
+                        <location>
+                            <geo>39.90403116.407524</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1203</idno>
+                    </place>
+                    <place xml:id="G85">
+                        <placeName>Belgrade</placeName>
+                        <location>
+                            <geo>44.81666620.466667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G85</idno>
+                    </place>
+                    <place xml:id="G8923">
+                        <placeName>Brasilia</placeName>
+                        <location>
+                            <geo>-15.8-47.85</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G8923</idno>
+                    </place>
+                    <place xml:id="G233">
+                        <placeName>Bucharest</placeName>
+                        <location>
+                            <geo>44.432526.10389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G233</idno>
+                    </place>
+                    <place xml:id="G8">
+                        <placeName>Budapest</placeName>
+                        <location>
+                            <geo>47.49791319.040236</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G8</idno>
+                    </place>
+                    <place xml:id="G208">
+                        <placeName>Buenos Aires</placeName>
+                        <location>
+                            <geo>-34.60372-58.38159</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G208</idno>
+                    </place>
+                    <place xml:id="G42">
+                        <placeName>Canberra</placeName>
+                        <location>
+                            <geo>-35.28346149.12807</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G42</idno>
+                    </place>
+                    <place xml:id="G780">
+                        <placeName>Cologne</placeName>
+                        <location>
+                            <geo>50.937536.960279</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G780</idno>
+                    </place>
+                    <place xml:id="G215">
+                        <placeName>Copenhagen</placeName>
+                        <location>
+                            <geo>55.67609812.568337</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G215</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G28">
+                        <placeName>Geneva</placeName>
+                        <location>
+                            <geo>46.198396.142296</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G28</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G622">
+                        <placeName>Helsinki</placeName>
+                        <location>
+                            <geo>60.17332524.941025</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G622</idno>
+                    </place>
+                    <place xml:id="G349">
+                        <placeName>Lisbon</placeName>
+                        <location>
+                            <geo>38.72225-9.139337</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G349</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G941">
+                        <placeName>Madrid</placeName>
+                        <location>
+                            <geo>40.416775-3.70379</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G941</idno>
+                    </place>
+                    <place xml:id="G4660">
+                        <placeName>Mexico City</placeName>
+                        <location>
+                            <geo>19.432608-99.13321</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4660</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G516">
+                        <placeName>New Delhi</placeName>
+                        <location>
+                            <geo>28.63530777.22496</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G516</idno>
+                    </place>
+                    <place xml:id="G23">
+                        <placeName>New York</placeName>
+                        <location>
+                            <geo>40.712784-74.00594</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G23</idno>
+                    </place>
+                    <place xml:id="G4452">
+                        <placeName>Oder–Neisse line</placeName>
+                        <location>
+                            <geo>51.6965414.715844</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4452</idno>
+                    </place>
+                    <place xml:id="G406">
+                        <placeName>Oslo</placeName>
+                        <location>
+                            <geo>59.91386810.752245</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G406</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G71">
+                        <placeName>Prague</placeName>
+                        <location>
+                            <geo>50.0755414.4378</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G71</idno>
+                    </place>
+                    <place xml:id="G361">
+                        <placeName>Rome</placeName>
+                        <location>
+                            <geo>41.912.4833</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G361</idno>
+                    </place>
+                    <place xml:id="G755">
+                        <placeName>Sofia</placeName>
+                        <location>
+                            <geo>42.6977123.321867</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G755</idno>
+                    </place>
+                    <place xml:id="G94">
+                        <placeName>Stockholm</placeName>
+                        <location>
+                            <geo>59.32932318.06858</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G94</idno>
+                    </place>
+                    <place xml:id="G88">
+                        <placeName>The Hague</placeName>
+                        <location>
+                            <geo>52.07054.3007</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G88</idno>
+                    </place>
+                    <place xml:id="G35">
+                        <placeName>Tokyo</placeName>
+                        <location>
+                            <geo>35.689487139.69171</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G35</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53172">dodis.ch/53172</ref>
+               <title type="main">Circular telegram<note xml:id="e3466">Telegram No. 775 (copy,
+                     translated from Polish): <idno>Archives of the Polish Ministry of Foreign
+                        Affairs AMSZ, ZD 33/92</idno>. Delivered to the Cryptography Section:
+                        <orig>1 February 1990, 2.30 p.m.</orig> Addressed to the heads of post in
+                     Moscow, Berlin A., Prague, Budapest, Sofia, Bucharest, Belgrade, II Paris, I
+                     London, I Rome, I Berlin – I Mission, Cologne, I The Hague, II Madrid, I
+                     Lisbon, I Vienna, I Bern, II Athens, II Stockholm, I Copenhagen, II Helsinki, I
+                     Oslo, I Washington, IV Ottawa, IV Mexico City, IV Buenos Aires, Brasilia, New
+                     Delhi, Beijing, Tokyo, Canberra, New York – Mission, IV Geneva – Mission
+                     II.</note> by the Polish Minister of Foreign Affairs, Krzysztof
+                     Skubiszewski<note xml:id="e3469">Krzysztof Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of
+                     Foreign Affairs 12.9.1989–26.10.1993.</note>
+                    </title>
+            </head>
+            <opener>
+               <add>Urgent</add>
+               <dateline>Warsaw, 1 February 1990</dateline>
+            </opener>
+            <p>With regard to the ongoing discussion about German reunification, please find below
+               the position to be presented during talks:</p>
+            <p>The Polish government set out its position on the unity of the German nation under
+               international law or as a state in the foreign minister’s statement to the Sejm of 7
+               December 1989. The Polish government made it clear that it respects the right of the
+               Germans to self-determination. However, this right can be realized in the framework
+               of European order and stabilization. This order includes the existing borders between
+               the two German states and their neighbours. Both German states can only unite – in
+               one form or another – provided that Poland’s western border along the Oder and
+               Lusatian Neisse rivers is maintained. The rapprochement and ultimately fusion of the
+               two German states should proceed gradually even as our continent’s unity is restored
+               and a new security system is built in Europe. This is a complex and multi-stage
+               process. The unity of the German nation cannot be restored with a one-off declaration
+               or act. Changes across German territory must go hand-in-hand with changes in Europe
+               that support building structures that would encompass the whole of Europe. This does
+               not rule out regional institutions made up of certain countries, however. A reunited
+               German state will have its place in a thoroughly reformed and united Europe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="56">Deutsche Einheit; Stand Mitte Juli 1990</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52930</idno>
+                    </msIdentifier>
+                    <head>Deutsche Einheit; Stand Mitte Juli 1990</head>
+                    <msContents>
+                        <summary>Die Information fasst die Fortschritte auf dem Weg zur deutschen Einheit nach den Durchbrüchen von Mitte Juli 1990 zusammen und beleuchtet die Auswirkungen auf die Integrationspolitik Österreichs.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-07-18">18.7.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57521">Calligaris, Marius (1944–)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57520">Plattner, Johann (1932–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P52036">Klestil, Thomas  (1932–2004)</persName>
+                    <persName ref="#P57512">Mock, Alois (1934–2017)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57521">
+                        <persName>
+                            <forename>Marius</forename>
+                            <surname>Calligaris</surname>
+                        </persName>
+                        <persName>Calligaris, Marius</persName>
+                        <birth when="1944"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57521</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P52036">
+                        <persName>
+                            <forename>Thomas </forename>
+                            <surname>Klestil</surname>
+                        </persName>
+                        <persName>Klestil, Thomas </persName>
+                        <birth when="1932-11-04"/>
+                        <death when="2004-07-06"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P52036</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57512">
+                        <persName>
+                            <forename>Alois</forename>
+                            <surname>Mock</surname>
+                        </persName>
+                        <persName>Mock, Alois</persName>
+                        <birth when="1934-06-10"/>
+                        <death when="2017-06-01"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57512</idno>
+                    </person>
+                    <person xml:id="P57520">
+                        <persName>
+                            <forename>Johann</forename>
+                            <surname>Plattner</surname>
+                        </persName>
+                        <persName>Plattner, Johann</persName>
+                        <birth when="1932"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57520</idno>
+                    </person>
+                    <person xml:id="P48293">
+                        <persName>
+                            <forename>Nicholas</forename>
+                            <surname>Ridley</surname>
+                        </persName>
+                        <persName>Ridley, Nicholas</persName>
+                        <persName>Baron Ridley of Liddesdale</persName>
+                        <birth when="1929-02-17"/>
+                        <death when="1993-03-04"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P48293</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                    <person xml:id="P46108">
+                        <persName>
+                            <forename>Gerhard</forename>
+                            <surname>Stoltenberg</surname>
+                        </persName>
+                        <persName>Stoltenberg, Gerhard</persName>
+                        <birth when="1928-09-29">
+                            <placeName>Kiel</placeName>
+                        </birth>
+                        <death when="2001-11-23">
+                            <placeName>Bad-Godesberg</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46108</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R783">
+                        <orgName>Austria/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R783</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R9485">
+                        <orgName>Bundeswehr</orgName>
+                        <idno type="URI">https://dodis.ch/R9485</idno>
+                    </org>
+                    <org xml:id="R2345">
+                        <orgName>Deutschland/BRD/Christlich Demokratische Union Deutschlands</orgName>
+                        <idno type="URI">https://dodis.ch/R2345</idno>
+                    </org>
+                    <org xml:id="R8058">
+                        <orgName>Deutschland/BRD/Freie Demokratische Partei</orgName>
+                        <idno type="URI">https://dodis.ch/R8058</idno>
+                    </org>
+                    <org xml:id="R4141">
+                        <orgName>Deutschland/BRD/Sozialdemokratische Partei (1946-)</orgName>
+                        <idno type="URI">https://dodis.ch/R4141</idno>
+                    </org>
+                    <org xml:id="R3943">
+                        <orgName>Deutschland/DDR/Christlich Demokratische Union</orgName>
+                        <idno type="URI">https://dodis.ch/R3943</idno>
+                    </org>
+                    <org xml:id="R33495">
+                        <orgName>Deutschland/DDR/Freie Demokratische Partei</orgName>
+                        <idno type="URI">https://dodis.ch/R33495</idno>
+                    </org>
+                    <org xml:id="R32011">
+                        <orgName>Deutschland/DDR/Sozialdemokratische Partei in der DDR</orgName>
+                        <idno type="URI">https://dodis.ch/R32011</idno>
+                    </org>
+                    <org xml:id="R9899">
+                        <orgName>European Union</orgName>
+                        <idno type="URI">https://dodis.ch/R9899</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R8864">
+                        <orgName>Germany/FRG/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R8864</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R9496">
+                        <orgName>Germany/FRG/State</orgName>
+                        <idno type="URI">https://dodis.ch/R9496</idno>
+                    </org>
+                    <org xml:id="R10937">
+                        <orgName>Germany/GDR/State</orgName>
+                        <idno type="URI">https://dodis.ch/R10937</idno>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G995">
+                        <placeName>Elbe (river)</placeName>
+                        <location>
+                            <geo>53.8933338.705556</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G995</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G4452">
+                        <placeName>Oder–Neisse line</placeName>
+                        <location>
+                            <geo>51.6965414.715844</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4452</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.6284240.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52930">dodis.ch/52930</ref>
+               <title type="main">Memo<note xml:id="e6203">Memo (translated from German):
+                        <idno>Austrian State Archive ÖStA, AdR, BMAA, II-Pol 1990, GZ.
+                        22.17.01/173-II.1/90</idno>. Written by Marius Calligaris, <ref target="https://dodis.ch/P57521">dodis.ch/P57521</ref> and signed by Johann
+                     Plattner, <ref target="https://dodis.ch/P57520">dodis.ch/P57520</ref>; also
+                     published in Wilson Center, doc. 165725. Distributed to the Federal Minister,
+                     the General Secretary, the section heads, all departments of the Political
+                     Section, and the Austrian diplomatic representations in member states of the
+                     CSCE. The information was also part of the preparation file for Franz Vranitzky
+                     on the occasion of the visit by Lothar de Maizière to Austria scheduled for 25
+                     and 26 July 1990. See <idno>ÖStA Arbeitsbesuch von MP Lothar de Maizière
+                        25./26. Juli 1990, Kreisky Archives, Depositum Franz Vranitzky, AP, box BM
+                        Choonhavan Chatichai (Thailand), MP Calfa CSFR 1990 PM Silva (Portugal), MP
+                        Singh (Indien), Pres. Dubcek (CSFR), PM Kang Young-Hoon (Korea), PM Bhutto
+                        (Pakistan), Pres. George Vassiliou (Zypern), MP Maiziere Lothar (DDR)
+                        25.7.90)</idno>.</note> by the Austrian Ministry of Foreign Affairs</title>
+               <title type="sub">German Unity; State of Affairs in Mid-July 1990</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 18 July 1990</dateline>
+            </opener>
+            <p>
+               <emph>I. Inner-German Aspects</emph>
+            </p>
+            <p>The Economic, Monetary and Social union of the two German states entered into effect
+               on 1 July 1990. The most essential measure was the introduction of the Deutschmark in
+               the GDR. An agreement on the legal and constitutional unification of the two parts of
+               Germany is in preparation and should be signed by the autumn of this year.</p>
+            <p/>
+            <p>
+               <emph>All-German Elections</emph>
+            </p>
+            <p>The next Bundestag election was scheduled for 2 December 1990. In its place,
+               all-Germany elections should now take place on that day. The mode of election is
+               still at issue. The GDR-CDU advocates for carrying out voting separately in the FRG
+               and the GDR (electoral threshold 5%) and the accession of the GDR to the Bonn Basic
+               Law only afterwards. The SPD and FDP in both parts of the country are for a unitary
+               election in all of Germany (electoral threshold for the whole territory 5%) and the
+               accession of the GDR before the election. (This proposal i. a. would mean that the
+               PDS, the successor party to the SED in the GDR, may fail to reach the 5% threshold in
+               unified Germany.) The West German CDU is divided on the issue.</p>
+            <p/>
+            <p>
+               <emph>II. External Aspects</emph>
+            </p>
+            <p>Upon the occasion of the recent visit of Chancellor Kohl<note xml:id="e6233">Helmut
+                  Kohl (1930–2017), <ref target="dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor
+                  of the FRG 1.10.1982–27.10.1998.</note> to Moscow, President Gorbachev<note xml:id="e6239">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union 15.3.1990–25.12.1991.</note>
+               gave a de facto green light to German unity. The agreement achieved includes the
+               following main points:</p>
+            <p>– Unified Germany consists of the FRG, GDR and Berlin</p>
+            <p>– Full sovereignty of Germany, after unification</p>
+            <p>– Soviet consent to NATO membership of unified Germany</p>
+            <p>– Soviet troop withdrawal from the territory of the GDR in 3–4 years (a treaty will
+               be concluded on this)</p>
+            <p>– During which time no extension of NATO structures on GDR territory, however,
+               validity of the NATO alliance obligation for it (commitment from Kohl that, also
+               later, there will be no non-German troops east of the Elbe)</p>
+            <p>– Western Allies military presence in Berlin until completion of the Soviet troop
+               withdrawal</p>
+            <p>– Reduction of total German forces to 370,000 (Compromise Genscher<note xml:id="e6259">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+                  Minister for Foreign Affairs of the FRG
+                  1.10.1982–17.5.1992.</note>-Stoltenberg<note xml:id="e6265">Gerhard Stoltenberg
+                  (1928–2001), <ref target="https://dodis.ch/P46108">dodis.ch/P46108</ref>, Defence
+                  Minister of the FRG 21.4.1989–1.4.1992.</note>)</p>
+            <p>– Renunciation of ABC weapons by unified Germany</p>
+            <p>Gorbachev expressly pointed out that his change of attitude on the issue of German
+               NATO membership was made possible by the Moscow-positive result of the recent summit
+               of the Alliance in London.</p>
+            <p>Chancellor Kohl has furthermore assured massive economic aid to the Soviet Union and
+               promised also to advocate for such assistance from other Western states.</p>
+            <p>By summer of 1991 a German-Soviet agreement is to be completed, which according to
+               Chancellor Kohl will contain co-operation in various fields and regular political
+               consultations.</p>
+            <p>Reactions to the German-Soviet agreement are unanimously positive worldwide (the case
+               of Ridley<note xml:id="e6281">Nicholas Ridley (1929–1993), <ref target="https://dodis.ch/P48293">dodis.ch/P48293</ref>, British Secretary of
+                  State for Trade and Industry 24.7.1989–13.7.1990.</note> in Great Britain shows
+               however the existence of subliminal reservations in individual Western European
+               countries towards the weight of the future unified Germany).</p>
+            <p>Given the agreement reached in Moscow, the “2+4” talks in Paris on 17 July went
+               without controversy. The foreign ministers decided to work out a declaration on
+               Germany, in which the external aspects of German unity should be regulated. The
+               declaration will be discussed at the next “2+4” round on 12 September in Moscow.</p>
+            <p/>
+            <p>
+               <emph>Polish Western Border</emph>
+            </p>
+            <p>At the recent “2+4” talks, where the Polish Foreign Minister<note xml:id="e6295">Krzysztof Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of Foreign Affairs
+                  12.9.1989–26.10.1993.</note> also participated, the question of the Polish western
+               border was at center (the Bonn Bundestag and the GDR People’s Chamber on 21 June
+               adopted a statement on the inviolability of the Oder-Neisse line and a border treaty
+               to be concluded between Germany and Poland). At this point Poland dropped its final
+               demand, whereby the full sovereignty of Germany should only be restored after
+               ratification of this border treaty. Agreement has now been reached that the treaty
+               will be signed in the shortest possible time after the realization of German unity
+               and submitted to the parliament of unified Germany for ratification. (The FRG has
+               promised Poland economic aid too.)</p>
+            <p/>
+            <p>
+               <emph>III. Assessment</emph>
+            </p>
+            <p>It can now be expected that the unification of the two German states will become
+               reality before the end of the year.</p>
+            <p>Through the agreements in Moscow and Paris, respectively, the following has been
+               achieved:</p>
+            <p>The FRG: the realization of German unity</p>
+            <p>The West: NATO membership of unified Germany</p>
+            <p>The USSR: satisfying its security interests (German troop strength, German
+               renunciation of ABC weapons, first steps to change NATO as a condition for the
+               reached agreement, beyond this the bargaining chip of a troop presence east of the
+               Elbe for 3–4 years) and economic assistance by the FRG or the West.</p>
+            <p>From a pan-European perspective, the agreement paves the way for a rapid continuation
+               of military negotiations in Vienna and for the objective of setting up a new
+               political architecture in Europe.</p>
+            <p>For Austria, a point of interest will be i. a. how much impact the efforts of the
+               Western European states to firmly “bind Germany to the West” will have on the
+               development of the EC (deepening, European Union!).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="59">A draft of an Agreement on the Final International-Legal Settlement with Germany</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53319</idno>
+                    </msIdentifier>
+                    <head>A draft of an Agreement on the Final International-Legal Settlement with Germany</head>
+                    <msContents>
+                        <summary>The Soviet Draft of an Agreement of the final legal settlement of the German issue to be confirmed and adopted at the Meeting of Heads of States-signatories to the Final Helsinki Act.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-08-06">6.8.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="received">
+                    <persName ref="#P54603">Shevardnadze, Eduard (1928–2014)</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P535">
+                        <persName>
+                            <forename>Adolf</forename>
+                            <surname>Hitler</surname>
+                        </persName>
+                        <persName>Hitler, Adolf</persName>
+                        <birth when="1889-04-20">
+                            <placeName>Braunau am Inn</placeName>
+                        </birth>
+                        <death when="1945-04-30">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P535</idno>
+                    </person>
+                    <person xml:id="P57383">
+                        <persName>
+                            <forename>Dieter</forename>
+                            <surname>Kastrup</surname>
+                        </persName>
+                        <persName>Kastrup, Dieter</persName>
+                        <birth when="1937-03-11">
+                            <placeName>Bielefeld</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57383</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R519">
+                        <orgName>Allied Control Council</orgName>
+                        <idno type="URI">https://dodis.ch/R519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R3961">
+                        <orgName>Allied Kommandatura</orgName>
+                        <idno type="URI">https://dodis.ch/R3961</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R804">
+                        <orgName>British Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R804</idno>
+                    </org>
+                    <org xml:id="R1508">
+                        <orgName>British Military Government in Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R1508</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9485">
+                        <orgName>Bundeswehr</orgName>
+                        <idno type="URI">https://dodis.ch/R9485</idno>
+                    </org>
+                    <org xml:id="R1108">
+                        <orgName>France/Army</orgName>
+                        <idno type="URI">https://dodis.ch/R1108</idno>
+                    </org>
+                    <org xml:id="R8254">
+                        <orgName>France/Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R8254</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R95">
+                        <orgName>France/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R95</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R1557">
+                        <orgName>France/Occupation authority in Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R1557</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R1603">
+                        <orgName>GB/Botschaft in Moskau</orgName>
+                        <idno type="URI">https://dodis.ch/R1603</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R11487">
+                        <orgName>Germany/FRG/Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R11487</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R9496">
+                        <orgName>Germany/FRG/State</orgName>
+                        <idno type="URI">https://dodis.ch/R9496</idno>
+                    </org>
+                    <org xml:id="R33483">
+                        <orgName>Germany/GDR/Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R33483</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R130">
+                        <orgName>Great Britain/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R130</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>USA/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                    <org xml:id="R2433">
+                        <orgName>USA/Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R2433</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R118">
+                        <orgName>USA/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R118</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R803">
+                        <orgName>USA/Office of Military Government for Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R803</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                    <org xml:id="R202">
+                        <orgName>United Nations</orgName>
+                        <idno type="URI">https://dodis.ch/R202</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G15393">
+                        <placeName>Arkhyz</placeName>
+                        <location>
+                            <geo>43.56541.278889</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15393</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G719">
+                        <placeName>Germany/American Zone of Occupation (1945-1946)</placeName>
+                        <idno type="URI">https://dodis.ch/G719</idno>
+                    </place>
+                    <place xml:id="G753">
+                        <placeName>Germany/British Zone of Occupation (1945-1946)</placeName>
+                        <location>
+                            <geo>52.1824847.527744</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G753</idno>
+                    </place>
+                    <place xml:id="G720">
+                        <placeName>Germany/French Zone of Occupation (1945-1948)</placeName>
+                        <location>
+                            <geo>48.3980898.503325</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G720</idno>
+                    </place>
+                    <place xml:id="G622">
+                        <placeName>Helsinki</placeName>
+                        <location>
+                            <geo>60.17332524.941025</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G622</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53319">dodis.ch/53319</ref>
+               <title type="main">Memo<note xml:id="e6498">Memo (translated from Russian):
+                        <idno>Archive of the Foreign Ministry of the Russian Federation АВП РФ, ф.
+                        757, оп. 35, п. 196, д. 9, л. 151–161.</idno>
+                        </note> for the Foreign
+                  Minister of the Soviet Union, Eduard Shevardnaze<note xml:id="e6501">Eduard
+                     Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign Affairs of the Soviet Union
+                     2.7.1985–26.12.1990.</note>
+                    </title>
+            </head>
+            <opener>
+               <dateline>Moscow, 6 August 1990</dateline>
+            </opener>
+            <p>This is the draft of the “Final International Legal Settlement with Germany”,
+               prepared in the light of agreements reached in Arkhyz.</p>
+            <p>As it was agreed at the experts’ meeting of the “Six” held 19 July in Bonn (after the
+               ministerial meeting in Paris), the Western participants and the Soviet side must
+               exchange their drafts of the final document before 15 August in order to facilitate
+               the work of the experts when they come to Berlin at the beginning of September to
+               agree the final text of the said document.</p>
+            <p>It would be advisable to hand our project to the rest of the “Six” participants as
+               soon as possible, at any rate before the arrival of Kastrup<note xml:id="e6515">Dieter Kastrup (*1937), <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref>, Political Director in the FRG Foreign Ministry,
+                  1988–1991.</note> (August 13) and especially Genscher<note xml:id="e6521">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and Minister for Foreign Affairs of the
+                  FRG 1.10.1982–17.5.1992.</note> (August 17) in Moscow. In this case, we may
+               knowthe reaction of West Germany to the Soviet draft even before experts start
+               working in Berlin and give it due consideration.</p>
+            <p>If there are no other instructions or comments from your side, we will pass the
+               proposed draft to the embassies of the FRG, GDR and the three Western powers in
+               Moscow (with adequate translations into foreign languages).</p>
+            <p>Please approve.</p>
+            <p/>
+            <p>
+               <emph>Draft</emph>
+            </p>
+            <p/>
+            <p>
+               <emph>Final International legal settlement with Germany</emph>
+            </p>
+            <p>Preamble</p>
+            <p>The Governments of the German Democratic Republic, the Federal Republic of Germany,
+               the Union of Soviet Socialist Republics, the United Kingdom of Great Britain and
+               Northern Ireland, the United States of America and the French Republic,</p>
+            <p>– realizing that the peoples of their states have been living in peace with each
+               other since 1945;</p>
+            <p>– taking into account the historical changes of recent time in Europe, which provide
+               an opportunity to overcome its division;</p>
+            <p>– taking into account the rights and responsibilities of the Four powers relating to
+               Germany as a whole and to Berlin, as well as respective agreements and decisions of
+               the Four powers taken during war and the post-war period;</p>
+            <p>– determined, in accordance with their obligations under the Charter of the United
+               Nations, to develop friendly relations among nations on the basis of respect for the
+               principle of equal rights and self-determination of peoples, and to take other
+               appropriate measures to strengthen universal peace;</p>
+            <p>– referring to the principles and provisions of the CSCE Helsinki Final Act;</p>
+            <p>– recognizing that these principles have laid a solid foundation for the
+               establishment of a just and to secure a peaceful arrangement in Europe;</p>
+            <p>– determined to take into consideration the security interests of all concerned;</p>
+            <p>– convinced of the need to finally overcome antagonism and develop cooperation in
+               Europe;</p>
+            <p>– reaffirming its readiness to take effective measures for the purpose of further
+               disarmament, transformation of existing military and political alliances,
+               establishment relations of trust and partnership between them, institutionalization
+               of the CSCE process, including the establishment of all-European security
+               frameworks;</p>
+            <p>– noting that the German people, freely exercising their right of self-determination,
+               have expressed their will towards building the state unity of Germany in order to
+               serve the cause of world peace as an equal and sovereign member of Europe following
+               the path of unity;</p>
+            <p>– convinced that the unification of Germany into a state with finalized borders is a
+               significant contribution to the cause of peace and stability in the conti‑ nent;</p>
+            <p>– submitted by their foreign Ministers in accordance with the Declaration of 13
+               February 1990 adopted in Ottawa, met on 5 May 1990 in Bonn, on 22 June 1990 in
+               Berlin, on 17 July 1990 in Paris … September 1990 in Moscow … In Washington and … In
+               London. The Minister of Foreign Affairs of the Republic of Poland participated in the
+               meeting 17 July 1990 in Paris.</p>
+            <p>The Governments of the participating States have agreed on the international aspects
+               of building German unity as follows.</p>
+            <p>1. The united Germany will include the territories of the German Democratic Republic,
+               the Federal Republic of Germany and the whole of Berlin. Its external borders in the
+               final analysis will become the borders of the German Democratic Republic and the
+               Federal Republic of Germany from the date of entry into force of the final
+               settlement. Confirmation of the final nature of borders is a fundamental part of the
+               peaceful order in Europe.</p>
+            <p>The united Germany and the Republic of Poland confirm the existing border between
+               them in a treaty that is binding in accordance with international law.</p>
+            <p>The united Germany has no territorial claims against other States and will not make
+               such claims in the future.</p>
+            <p>The Governments of the German Democratic Republic and the Federal Republic of Germany
+               will ensure that the Constitution of the united Germany will not contain any
+               provisions contrary to these principles. Accordingly, this applies to the provisions
+               set out in the preamble, in articles 23 (phrase 2) and 146 of the Basic Law of the
+               Federal Republic of Germany.</p>
+            <p/>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of the relevant commitments and statements made by the Government
+               of the German Democratic Republic and the Federal Republic of Germany and declare
+               that with their implementation the final character of the borders of the unified
+               Germany will be confirmed.</p>
+            <p>2. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany, on behalf of the German people proclaim that the united Germany will build
+               its policy in such a way that only peace could come from its territory. No military
+               action will be taken from its territory against anyone, either on its own or in
+               alliance with other states, except in the exercise of the legitimate right of
+               self-defense. There will also be no military activities of third States in its
+               territory directed against anyone.</p>
+            <p>The Union of Soviet Socialist Republics, the United Kingdom of Great Britain and
+               Northern Ireland, the United States of America and the French Republic take note of
+               that Declaration and, for their part, confirm that they will be guided by the same
+               principles in their relations with the United Germany.</p>
+            <p>3. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany declare that the united Germany will not produce, possess or acquire nuclear,
+               chemical and biological weapons. The United Germany reaffirms its participation in
+               the Nuclear Non-Proliferation Treaty.</p>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of this obligation.</p>
+            <p>4. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany reaffirm their joint declaration at the Vienna talks on the reduction of
+               conventional weapons meaning that the military strength of the united Germany will
+               not exceed in total the limit of 370 thousand persons for Ground, Air and Naval
+               forces. Reductions to this level will be made over a maximum period of four years,
+               starting with the entry into force of the first Vienna Agreement.</p>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of this statement.</p>
+            <p>5. The United Germany and the Soviet Union will conclude a treaty on conditions of
+               stay, reduction and withdrawal of Soviet troops from the territory of the former GDR
+               in the context of the decisions to be taken at the negotiations in Vienna to reduce
+               to a certain level the military forces and weapons of each participant of
+               negotiations.</p>
+            <p>During the period of stay of the Soviet troops, which will not exceed 4 years from
+               the date of entry into force of the aforementioned treaty, in the territory of the
+               united Germany with the exception of the area of Greater Berlin, there should be no
+               other foreign troops, as well as German troops integrated into NATO. The German
+               territorial defense forces may be deployed there, including the Greater Berlin area.
+               When the withdrawal of Soviet troops is completed, the said territory will remain
+               free from the presence of any foreign troops. Neither will nuclear weapons and the
+               means of their delivery be deployed there.</p>
+            <p>6. The question of the temporary stay, reduction and withdrawal of troops of the
+               United Kingdom of Great Britain and Northern Ireland, the United States of America
+               and the French Republic from the territory of the former FRG is to be resolved by
+               concluding appropriate treaties between the united Germany and the States
+               mentioned.</p>
+            <p>7. The troops of the United Kingdom of Great Britain and Northern Ireland, the United
+               States of America and the French Republic will not cross the line coinciding with the
+               current state border between the German Democratic Republic and the Federal Republic
+               of Germany, excluding the movement of their troops located in the Western sectors of
+               Berlin. The troops of the Soviet Union, for their part, will also not cross the
+               line.</p>
+            <p>8. With the entry in force of the final international legal settlement with Germany,
+               the occupation regime of the western sectors of Berlin is terminated.</p>
+            <p>At the same time, allied agreements on the Berlin air corridors, the Berlin control
+               zone and the military transit via ground communications shall cease to have effect.
+               The tripartite Allied Commandant’s office in the western sectors of Berlin is to be
+               disbanded and military missions and other diplomatic missions accredited to the
+               Allied authorities in Berlin should be abolished.</p>
+            <p>The quadripartite Agreement of 3 September 1971 is to be annulled.</p>
+            <p>The troops of the Four powers will remain in Berlin for the period Soviet troops are
+               in the GDR. The terms of their stay will be regulated by the treaties between the
+               united Germany and the Governments concerned. The number of military contingents of
+               the Four powers, areas of their deployment and the nature of their weapons will
+               remain unchanged. Nuclear weapons and means of their delivery will not be deployed in
+               Berlin.</p>
+            <p>The parties will facilitate the use of Berlin’s resources for the establishment of
+               all-European security and cooperation structures, including the placement of relevant
+               authorities in this city.</p>
+            <p>9. The Governments of the German Democratic Republic and the Federal Republic of
+               Germany declare that the united Germany</p>
+            <p>– recognizes the legality of the measures and decisions taken by the Four powers in
+               matters of denazification, demilitarization and democratization, jointly or
+               separately in their former occupation zones. The legality of these decisions,
+               including those related to property and land issues, will not be subject to review by
+               German courts or other German state bodies;</p>
+            <p>– will help to ensure that fair compensation is provided to persons employed for
+               forced labor in Germany during the Second World War;</p>
+            <p>– will take all measures to prevent the revival of Nazi political ideology, as well
+               as National Socialist political parties and movements. If such parties and movements
+               are created, their activities will be prohibited;</p>
+            <p>– will ensure inviolability of memorials and other monuments erected on the German
+               territory in memory of sacrifices made by peoples to defeat fascism, as well as of
+               military graves of citizens of the countries of the anti-Hitler<note xml:id="e6621">Adolf Hitler (1889–1945), <ref target="https://dodis.ch/P535">dodis.ch/P535</ref>, Führer of the German Third Reich 1933–1945.</note> coalition
+               and will provide proper care for these objects;</p>
+            <p>– confirm the validity of international treaties and agreements concluded by the
+               German Democratic Republic and the Federal Republic of Germany in accordance with the
+               principle “Pacta sunt servanda” and, if necessary, conduct negotiations with States
+               party to previously concluded treaties on clarifying, amending or terminating of
+               existing obligations and replacing them with new ones on the basis of mutual
+               agreement of the Parties.</p>
+            <p>The Governments of the Union of Soviet Socialist Republics, the United Kingdom of
+               Great Britain and Northern Ireland, the United States of America and the French
+               Republic take note of this statement.</p>
+            <p>10. The Union of Soviet Socialist Republics, the United Kingdom of Great Britain and
+               Northern Ireland, the United States of America and the French Republic declare that
+               with the entry into force of the Final International Legal Settlement with Germany,
+               their rights and responsibility for Germany on the whole and Berlin are to be
+               terminated, and the united Germany acquires all the prerogatives of a sovereign
+               state. Accordingly, all the reservations made by the Four powers with the admission
+               of the two German states to the United Nations are recalled.</p>
+            <p>This statement should be considered as an integral part of all the foregoing
+               provisions of this document.</p>
+            <p>11. This Final international legal settlement with Germany will be submitted to the
+               meeting of the Heads of States and Governments who signed the Helsinki Final Act.</p>
+            <p>It will be entered in force after the implementation of the constitutional procedures
+               as stipulated in the legislation of the States parties.</p>
+            <p>Done at (place) (date),</p>
+            <p>Copies, in the Russian, English, French and German languages, each of which is
+               equally authentic.</p>
+            <p>Signatures</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="51"/>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53323</idno>
+                    </msIdentifier>
+                    <head/>
+                    <msContents>
+                        <summary>Report concerning the “Draft providing the annexation of German Democratic Republic to the territory of Federal Republic of Germany”, submitted by the DSU Party.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-06-18">18.6.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="tr">Turkish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57531">Mekik, Metin (1932–2013)</persName>
+                    <orgName ref="#R33493">Turkey/Embassy in East Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57531">Mekik, Metin (1932–2013)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R841">Turkey/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57560">
+                        <persName>
+                            <forename>Günther</forename>
+                            <surname>Krause</surname>
+                        </persName>
+                        <persName>Krause, Günther</persName>
+                        <birth when="1953-09-13">
+                            <placeName>Halle (Saale)</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57560</idno>
+                    </person>
+                    <person xml:id="P54809">
+                        <persName>
+                            <forename>Lothar de</forename>
+                            <surname>Maizière</surname>
+                        </persName>
+                        <persName>Maizière, Lothar de</persName>
+                        <birth when="1940-03-02">
+                            <placeName>Nordhausen </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54809</idno>
+                    </person>
+                    <person xml:id="P57531">
+                        <persName>
+                            <forename>Metin</forename>
+                            <surname>Mekik</surname>
+                        </persName>
+                        <persName>Mekik, Metin</persName>
+                        <persName>Mekik, Mehmet Metin</persName>
+                        <birth when="1932-01-30">
+                            <placeName>Istanbul</placeName>
+                        </birth>
+                        <death when="2013-02-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57531</idno>
+                    </person>
+                    <person xml:id="P57559">
+                        <persName>
+                            <forename>Richard</forename>
+                            <surname>Schröder</surname>
+                        </persName>
+                        <persName>Schröder, Richard</persName>
+                        <birth when="1943-12-26"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57559</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R3943">
+                        <orgName>Deutschland/DDR/Christlich Demokratische Union</orgName>
+                        <idno type="URI">https://dodis.ch/R3943</idno>
+                    </org>
+                    <org xml:id="R32011">
+                        <orgName>Deutschland/DDR/Sozialdemokratische Partei in der DDR</orgName>
+                        <idno type="URI">https://dodis.ch/R32011</idno>
+                    </org>
+                    <org xml:id="R32007">
+                        <orgName>Germany/GDR/Democratic Awakening</orgName>
+                        <idno type="URI">https://dodis.ch/R32007</idno>
+                    </org>
+                    <org xml:id="R31996">
+                        <orgName>Germany/GDR/German Social Union</orgName>
+                        <idno type="URI">https://dodis.ch/R31996</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33493">
+                        <orgName>Turkey/Embassy in East Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33493</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R841">
+                        <orgName>Turkey/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R841</idno>
+                        <placeName ref="#G471">Ankara</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G471">
+                        <placeName>Ankara</placeName>
+                        <location>
+                            <geo>39.9207732.85411</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G471</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53323">dodis.ch/53323</ref>
+               <title type="main">Telegram<note xml:id="e5835">Telegram No. 82/9 (copy, translated
+                     from Turkish): <idno>Turkish Diplomatic Archives 3180745</idno>. Copies to the
+                     Turkish Embassies in Washington, Moscow, Bonn, London and Paris and the Turkish
+                     Missions to NATO in Brussels, to EC in Brussels and to the CFE Talks in
+                     Vienna.</note> from the Turkish Ambassador in East Berlin, Metin Mekik<note xml:id="e5838">Metin Mekik (1932–2013), <ref target="https://dodis.ch/P57531">dodis.ch/P57531</ref>, Turkish Ambassador in East Berlin.</note>, to the
+                  Turkish Ministry of Foreign Affairs</title>
+            </head>
+            <opener>
+               <add>Normal</add>
+               <dateline>East Berlin, 18 June 1990, 5.00 p.m.</dateline>
+            </opener>
+            <p>During the private session held on 17 June 1990 by GDR People’s Chamber, the
+               coalition partner DSU submitted a draft providing the annexation of the GDR into the
+               territory of FRG under article 23 of the Basic Law of the FRG. This vital submission,
+               which is described as the end of the GDR, has been put on the agenda by a two-thirds
+               majority.</p>
+            <p>With regards to that development, it has been stated that if the draft is adopted,
+               the GDR Council of Ministers will be repealed because the Basic Law recognizes only
+               one council. Furthermore, it has been stated that President de Maizière<note xml:id="e5853">Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809">dodis.ch/P54809</ref>, GDR Prime Minister 12.4–2.10.1990.</note> will have to
+               lay down his office on the same day and this office will be taken over by Chancellor
+                  Kohl<note xml:id="e5859">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note>.</p>
+            <p>While advising to be calm and cautious, President de Maizière has explained that he
+               also supports an early annexation. However, it was pointed out that a second
+               unification treaty including the general conditions should be made beforehand.
+               Moreover, the need for federal states to also be established in the GDR before the
+               annexation has been underlined.</p>
+            <p>It has been asserted that in case of the adoption of GDR’s draft, this will be a
+               “fait accompli” and 2+4 meetings will no longer be needed. SPD Parliamentary Leader
+               Richard Schröder<note xml:id="e5869">Richard Schröder (*1943), <ref target="https://dodis.ch/P57559">dodis.ch/P57559</ref>, Member of the People’s
+                  Chamber 5.4.1990–2.10.1990 and SPD Parliamentary Leader 3.4.– 21.8.1990.</note>
+               argued that political union should be made through agreement with the “super powers”.
+               CDU/DA Chief Negotiator of the Financial, Economic and Social Unification Treaty
+               Günther Krause<note xml:id="e5875">Günther Krause (*1953), <ref target="https://dodis.ch/P57560">dodis.ch/P57560</ref>, GDR chief negotiator
+                  and signatory of the German Reunification Treaty.</note> noted that the annexation
+               should be carried out in the summer and the annexation procedure will be determined
+               by the second unification treaty.</p>
+            <p>According to Krause, this second unification treaty will enter into force following
+               the election which will be held for the whole of Germany on the 2<hi>nd</hi> or
+                  16<hi>th</hi> of December in 1990. Before that, GDR federal state elections will
+               be held on 23 September 1990.</p>
+            <p>The draft has been referred to the Constitutional Committee and the Inter-German
+               Committee by a two-thirds majority.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="8">Telephone Conversation with Helmut Kohl, Chancellor - Federal Republic of Germany</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52911</idno>
+                    </msIdentifier>
+                    <head>Telephone Conversation with Helmut Kohl, Chancellor - Federal Republic of Germany</head>
+                    <msContents>
+                        <summary>During the telephone call with President Bush, Chancellor Kohl reported on his trip to Poland and the situation in East Germany after the Berlin Wall was first breached the previous day.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-10">10.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Minutes</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57404">Gates, Robert M. (1943–)</persName>
+                    <orgName ref="#R11894">USA/White House</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57405">
+                        <persName>
+                            <forename>Nicholas F.</forename>
+                            <surname>Brady</surname>
+                        </persName>
+                        <persName>Brady, Nicholas F.</persName>
+                        <birth when="1930-04-11">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57405</idno>
+                    </person>
+                    <person xml:id="P57406">
+                        <persName>
+                            <forename>Barbara</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, Barbara</persName>
+                        <birth when="1925-06-08">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <death when="2018-04-17">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P57406</idno>
+                    </person>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P57404">
+                        <persName>
+                            <forename>Robert M.</forename>
+                            <surname>Gates</surname>
+                        </persName>
+                        <persName>Gates, Robert M.</persName>
+                        <persName>Gates, Bob</persName>
+                        <birth when="1943-09-25">
+                            <placeName>Wichita</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57404</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P57407">
+                        <persName>
+                            <forename>Hannelore</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Hannelore</persName>
+                        <birth when="1933-03-07">
+                            <placeName>Berlin</placeName>
+                        </birth>
+                        <death when="2001-07-05">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P57407</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P54794">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Krenz</surname>
+                        </persName>
+                        <persName>Krenz, Egon</persName>
+                        <persName>Krenz, Egon Rudi Ernst</persName>
+                        <birth when="1937-03-19">
+                            <placeName>Kołobrzeg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54794</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R593">
+                        <orgName>UN/International Monetary Fund</orgName>
+                        <idno type="URI">https://dodis.ch/R593</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R11894">
+                        <orgName>USA/White House</orgName>
+                        <idno type="URI">https://dodis.ch/R11894</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G9166">
+                        <placeName>Dallas</placeName>
+                        <location>
+                            <geo>32.783056-96.806667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G9166</idno>
+                    </place>
+                    <place xml:id="G807">
+                        <placeName>Dresden</placeName>
+                        <location>
+                            <geo>51.05040713.737262</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G807</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G962">
+                        <placeName>Leipzig</placeName>
+                        <location>
+                            <geo>51.33969512.373075</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G962</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52911">dodis.ch/52911</ref>
+               <title type="main">Memorandum<note xml:id="e871">Memorandum (copy): <idno>Bush
+                        Presidential Library 91111-004</idno>. Participants: George H. W. Bush,
+                     Helmut Kohl and Robert M. Gates. The conversation took place in the Oval Office
+                     on 10 November, 1989, 3.29–3.47PM.</note> by the United States’ Deputy National
+                  Security Advisor, Robert M. Gates<note xml:id="e874">Robert M. Gates (*1943), <ref target="https://dodis.ch/P57404">dodis.ch/P57404</ref>, United States Deputy
+                     National Security Advisor 20.3.1989–6.11.1991.</note>
+                    </title>
+               <title type="sub">Telephone Conversation with Helmut Kohl<note xml:id="e881">Helmut
+                     Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>,
+                     Chancellor of the FRG 1.10.1982–27.10.1998.</note>, Chancellor – Federal
+                  Republic of Germany</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Washington, D.C., 10 November 1989</dateline>
+            </opener>
+            <p>
+                    <emph>Chancellor Kohl</emph>: The reforms in Poland are moving ahead. They have a new
+               government with fine people. They are too idealistic with too little professionalism.
+               Many of their professionals have spent the last couple of years in prison, not a
+               place where one can learn how to govern. They are committed to democracy and market
+               economics; we must help them. My request is as follows.</p>
+            <p>I just told Margaret Thatcher<note xml:id="e896">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  United Kingdom 4.5.1979–28.11.1990.</note> and will tell Mitterrand<note xml:id="e902">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  21.5.1981–17.5.1995.</note> tomorrow that we should give instructions to our
+               representatives at the IMF that the negotiations with Poland should be completed
+               speedily. These negotiations are not nice for the Poles but they are aware of the
+               need and they seek clarity and clear cut conditions. We should help to get an
+               agreement completed by the end of November. So I ask you, help us. Go and do this in
+               the interest of the people. With respect to the rest of my trip to Poland, I will
+               tell you next week after I return. Do you have any questions on Poland.</p>
+            <p/>
+            <p>
+                    <emph>The President</emph>
+                    <note xml:id="e912">George Herbert Walker Bush (1924–2018),
+                     <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the
+                  United States, 20.1.1989–20.1.1993.</note>: I have no questions; I’ll be
+               interested to hear from you next week. I’m very interested in the GDR.</p>
+            <p/>
+            <p>
+                    <emph>Kohl</emph>: I’ve just arrived from Berlin. It is like witnessing an enormous
+               fair. It has the atmosphere of a festival. The frontiers are absolutely open. At
+               certain points they are literally taking down the Wall and building new checkpoints.
+               At Checkpoint Charlie, thousands of people are crossing both ways. There are many
+               young people who are coming over for a visit and enjoying our open way of life. I
+               expect they will go home tonight. I would cautiously tell you that it appears that
+               the opening has not led to a dramatic increase in the movement of refugees. It may be
+               with the frontier open, people will simply go back and forth, looking, visiting and
+               going home. This will work only if the GDR really reforms and I have my doubts.
+                  Krenz<note xml:id="e922">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>, General Secretary of the SED 18.10.1989–3.12.1989 and
+                  Chairman of the GDR State Council 18.10.1989–6.12.1989.</note> will carry out
+               reforms but I think there are limits. One of those limits seems to be one party rule,
+               and this simply will not work. Certainly, in particular, it will not work without
+               pluralism, free trade unions and so forth. I could imagine that this will continue
+               for a few weeks – that for a few weeks people will wait to see if the reforms come
+               and if there is no light at the end of the tunnel they will run away from the GDR in
+               great numbers. This would be a catastrophe for economic development; good people are
+               leaving. The figures this year – 230,000 have come. Their average age has been
+               between 25 and 30. This is a catastrophe for the GDR. They are doctors, lawyers,
+               specialists who cannot be replaced. They can earn more here. This is a dramatic
+               thing; an historic hour. Let me repeat. There were two major manifestations
+               (political gatherings) in Berlin. One was in front of the Berlin Town Hall where
+               there were a lot of left wing rowdies, these are the pictures that will be shown on
+               TV around the world. The second was at the Kurfurstendamm organized by our political
+               friends. It was at about· 6:30PM and the estimates are that there were
+               120,000–200,000 people. The overall spirit was optimistic and friendly. When I
+               thanked the Americans for their role in all of this, there was much applause. Without
+               the US this day would not have been possible. Tell your people that. The GDR people
+               in the protests and demonstrations have been sincere, not aggressive. This makes it
+               very impressive. There have been no conflicts, even though in East Berlin, Leipzig
+               and Dresden hundreds of thousands have been in the streets. I hope they will continue
+               to be calm and peaceful. This is my short report.</p>
+            <p/>
+            <p>
+                    <emph>The President</emph>: First, let me say how great is our respect for the way
+               the FRG has handled all of this. Second, my meeting with Gorbachev<note xml:id="e932">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 11.3.1985–24.8.1991, Chairman of the Supreme Soviet of the Soviet Union
+                  25.5.1989–15.3.1990 and President of the Soviet Union 15.3.1990–25.12.1991.</note>
+               in early December has become even more important. I want to be sure you and I spend
+               enough time on the telephone so I have the full benefit of your thinking before I
+               meet with him.</p>
+            <p/>
+            <p>
+                    <emph>Kohl</emph>: We should do that. It’s important.</p>
+            <p/>
+            <p>
+                    <emph>The President</emph>: I will call Brady<note xml:id="e946">Nicholas F. Brady
+                  (*1930), <ref target="https://dodis.ch/P57405">dodis.ch/P57405</ref>, United
+                  States Secretary of the Treasury 15.9.1988–17.1.1993.</note> today or tomorrow to
+               tell him of your suggestion for a rapid completion of the IMF agreement on Poland.
+               Fourth, I want to see our people continue to avoid especially hot rhetoric that might
+               by mistake cause a problem.</p>
+            <p/>
+            <p>
+                    <emph>Kohl</emph>: That’s very good of you.</p>
+            <p/>
+            <p>
+                    <emph>The Presiden</emph>t: Fifth, I want to tell the US press of our talk, that you
+               gave me a thorough briefing, that you did publicly acknowledge the role of the US,
+               and that you and I agreed to talk later next week.</p>
+            <p/>
+            <p>
+                    <emph>Kohl</emph>: Excellent.</p>
+            <p/>
+            <p>
+                    <emph>The President</emph>: Take care, good luck. I’m proud of the way you’re
+               handling an extraordinarily difficult problem.</p>
+            <p/>
+            <p>
+                    <emph>Kohl</emph>: Thank you. Give my best to Barbara<note xml:id="e972">Barbara Bush
+                  (1925–2018), <ref target="https://dodis.ch/P57406">dodis.ch/P57406</ref>, United
+                  States First Lady 20.1.1989–20.1.1993.</note>.</p>
+            <p/>
+            <p>
+                    <emph>The President</emph>: I’m in Dallas. Same to Hanalore<note xml:id="e982">Hannelore Kohl (1933–2001), <ref target="https://dodis.ch/P57407">dodis.ch/P57407</ref>, Wife of Helmut Kohl.</note>.</p>
+            <p/>
+            <p>
+                    <emph>Kohl</emph>: Thank you and kind regards. Tell her to save her money that I
+               intend to send sausages for Christmas.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="31">DDR; Besuch von MP Modrow in Österreich; Arbeitsgespräch HBM – AM Fischer,  26.1.1990</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52931</idno>
+                    </msIdentifier>
+                    <head>DDR; Besuch von MP Modrow in Österreich; Arbeitsgespräch HBM – AM Fischer,  26.1.1990</head>
+                    <msContents>
+                        <summary>Im Zuge des Gegenbesuchs des ostdeutschen Ministerpräsidenten H. Modrow in Österreich traf sich der ostdeutsche Außenminister O. Fischer mit seinem österreichischen Amtskollegen A. Mock und sagte ihm, "dass es zur Vereinigung kommen werde".</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-01-30">30.1.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57510">Manz, Hans Peter (1955–)</persName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57511">Sucharipa, Ernst (1947–2005)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R29680">Austria/Embassy in Berlin</orgName>
+                    <orgName ref="#R783">Austria/Ministry of Foreign Affairs</orgName>
+                    <orgName ref="#R8804">Österreich/Botschaft in Bonn</orgName>
+                    <orgName ref="#R33490">Österreich/Delegation in West Berlin</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P15651">
+                        <persName>
+                            <forename>Roland</forename>
+                            <surname>Dumas</surname>
+                        </persName>
+                        <persName>Dumas, Roland</persName>
+                        <birth when="1922-08-22">
+                            <placeName>Limoges</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15651</idno>
+                    </person>
+                    <person xml:id="P51055">
+                        <persName>
+                            <forename>Oskar</forename>
+                            <surname>Fischer</surname>
+                        </persName>
+                        <persName>Fischer, Oskar</persName>
+                        <birth when="1923-03-19"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P51055</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P57510">
+                        <persName>
+                            <forename>Hans Peter</forename>
+                            <surname>Manz</surname>
+                        </persName>
+                        <persName>Manz, Hans Peter</persName>
+                        <birth when="1955-10-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57510</idno>
+                    </person>
+                    <person xml:id="P57415">
+                        <persName>
+                            <forename>Gianni De</forename>
+                            <surname>Michelis</surname>
+                        </persName>
+                        <persName>Michelis, Gianni De</persName>
+                        <birth when="1940-11-26">
+                            <placeName>Venice</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57415</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P57512">
+                        <persName>
+                            <forename>Alois</forename>
+                            <surname>Mock</surname>
+                        </persName>
+                        <persName>Mock, Alois</persName>
+                        <birth when="1934-06-10"/>
+                        <death when="2017-06-01"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57512</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57511">
+                        <persName>
+                            <forename>Ernst</forename>
+                            <surname>Sucharipa</surname>
+                        </persName>
+                        <persName>Sucharipa, Ernst</persName>
+                        <birth when="1947-07-24"/>
+                        <death when="2005-06-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57511</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R29680">
+                        <orgName>Austria/Embassy in Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R29680</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R783">
+                        <orgName>Austria/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R783</idno>
+                        <placeName ref="#G238">Vienna</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R8804">
+                        <orgName>Österreich/Botschaft in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R8804</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R33490">
+                        <orgName>Österreich/Delegation in West Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33490</idno>
+                        <placeName ref="#G3581">West Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G622">
+                        <placeName>Helsinki</placeName>
+                        <location>
+                            <geo>60.17332524.941025</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G622</idno>
+                    </place>
+                    <place xml:id="G238">
+                        <placeName>Vienna</placeName>
+                        <location>
+                            <geo>48.20817616.37382</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G238</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52931">dodis.ch/52931</ref>
+               <title type="main">Memorandum of conversation<note xml:id="e3250">Memorandum of
+                     conversation (translated from German): <idno>Austrian State Archive ÖStA, AdR,
+                        BMAA, II-Pol 1990, GZ. 43.18.01/11-II.3/90</idno>. Written by Hans Peter
+                     Manz, dodis.ch/P57510 and signed by Ernst Sucharipa <ref target="https://dodis.ch/P57511">dodis.ch/P57511</ref>; also published in
+                     Wilson Center, doc. 165719. Sent to the Cabinet of the Foreign Minister, the
+                     General Secretariat, the section heads II, III, IV, the Departments II.1, II.7,
+                     III.7, IV.2, the Austrian Embassies in East Berlin and Bonn and the Austrian
+                     Delegation in West Berlin.</note> by the Austrian Foreign Ministry</title>
+               <title type="sub">GDR; Visit of Prime Minister Modrow<note xml:id="e3258">Hans Modrow
+                     (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman
+                     of the GDR Council of Ministers 13.11.1989– 12.4.1990.</note> in Austria;
+                  Conversation FM<note xml:id="e3264">Alois Mock (1934–2017), <ref target="https://dodis.ch/P57512">dodis.ch/P57512</ref>, Austrian Foreign
+                     Minister 21.1.1987–4.5.1995.</note>– Foreign Minister Fischer,
+                  26.1.1990</title>
+            </head>
+            <opener>
+               <dateline>Vienna, 30 January 1990</dateline>
+            </opener>
+            <p>During the work meeting of the Federal Minister with GDR FM Fischer<note xml:id="e3275">Oskar Fischer (*1923), <ref target="https://dodis.ch/P51055">dodis.ch/P51055</ref>, Foreign Minister of the GDR 3.3.1975–12.4.1990.</note>
+               on 26 January 1990 the following issues were broached:</p>
+            <p/>
+            <p>
+               <emph>1. Bilateral Issues</emph>
+            </p>
+            <p>1.1. <emph>Repealing Visa Requirements:</emph> The foreign ministers agreed to
+               tentatively repeal the visa requirements from 1 February 1990, 0:00 until 28 February
+               1990, 24:00. By then, negotiations on a corresponding agreement should be completed,
+               which should come into force on 1 March 1990.</p>
+            <p>1.2. <emph>Repealing Car Tax Liability:</emph> Foreign Minister Fischer handed over a
+               note in which the request was put forward again. The note will be transferred to
+               Department III.7 under a separate reference number.</p>
+            <p/>
+            <p>
+               <emph>2. International Questions</emph>
+            </p>
+            <p>2.1. Unification of the German States: Foreign Minister Fischer emphasized that it
+               would come to unification; it must be embedded in the overcoming of European
+               division.</p>
+            <p>2.2. <emph>CSCE process:</emph> According to Foreign Minister Fischer the
+               negotiations in Vienna are going too slowly (the usual conference mechanism is
+               running rampant). He therefore welcomes the initiative of Genscher<note xml:id="e3297">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and
+                  Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>, Dumas<note xml:id="e3303">Roland Dumas (*1922), <ref target="https://dodis.ch/P15651">dodis.ch/P15651</ref>, French Foreign Minister 10.5.1988–28.3.1993.</note> and
+               de Michelis<note xml:id="e3309">Gianni De Michelis (*1940), <ref target="https://dodis.ch/P57415">dodis.ch/P57415</ref>, Italian Foreign
+                  Minister 22.07.1989–28.06.1992.</note>. Given the time and effort required for a
+               summit of 35, and the pressing international issues, to the GDR it seems worth
+               considering following directly up in Vienna with “Helsinki II”. The holding of two
+               separate summits in the current year (Signing of the agreements/European discussion)
+               would, anyway, not be advantageous. The Federal Minister emphasized Austria’s
+               interest but referred to the still upcoming interim conference before Helsinki
+               1991.</p>
+            <p>2.3. Foreign Minister Fischer spoke positively of Mitterrand’s<note xml:id="e3317">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P">dodis.ch/P</ref>13775, President of France 21.5.1981–17.5.1995.</note> idea of
+               a European confederation.</p>
+            <p>2.4. The Federal Minister pointed out that Austria’s policy of neutrality is still a
+               part of the credibility of Austrian foreign policy, even if in the light of the
+               international development it no longer has the same weight it once had.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

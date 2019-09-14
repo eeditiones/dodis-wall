@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="52">No 367/D.401. Meetings of the Senate of West Berlin and the Government of East Berlin</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53324</idno>
+                    </msIdentifier>
+                    <head>No 367/D.401. Meetings of the Senate of West Berlin and the Government of East Berlin</head>
+                    <msContents>
+                        <summary>Summary of the decisions taken at the meeting between the Senate of West Berlin and the Government of East Berlin, who gathered in the City Hall of East Berlin for the first time in 42 years.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-06-21">21.6.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="tr">Turkish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Political report</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57551">Emregül, Akin (1937–)</persName>
+                    <orgName ref="#R33499">Turkey/Consulate General in Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57551">Emregül, Akin (1937–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R841">Turkey/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57551">
+                        <persName>
+                            <forename>Akin</forename>
+                            <surname>Emregül</surname>
+                        </persName>
+                        <persName>Emregül, Akın</persName>
+                        <persName>Emregül, Akin</persName>
+                        <birth when="1937"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57551</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R8173">
+                        <orgName>East Berlin/City Administration</orgName>
+                        <idno type="URI">https://dodis.ch/R8173</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R9417">
+                        <orgName>East Berlin/Magistrat</orgName>
+                        <idno type="URI">https://dodis.ch/R9417</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R33499">
+                        <orgName>Turkey/Consulate General in Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33499</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R841">
+                        <orgName>Turkey/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R841</idno>
+                        <placeName ref="#G471">Ankara</placeName>
+                    </org>
+                    <org xml:id="R8170">
+                        <orgName>West Berlin/City Administration</orgName>
+                        <idno type="URI">https://dodis.ch/R8170</idno>
+                        <placeName ref="#G3581">West Berlin</placeName>
+                    </org>
+                    <org xml:id="R9436">
+                        <orgName>West Berlin/Senate</orgName>
+                        <idno type="URI">https://dodis.ch/R9436</idno>
+                        <placeName ref="#G3581">West Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G471">
+                        <placeName>Ankara</placeName>
+                        <location>
+                            <geo>39.9207732.85411</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G471</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G4454">
+                        <placeName>Brandenburg</placeName>
+                        <location>
+                            <geo>52.4125312.531645</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4454</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53324">dodis.ch/53324</ref>
+               <title type="main">Political report<note xml:id="e5897">Political report No.
+                     367/D.401 (copy, translated from Turkish): <idno>Turkish Diplomatic Archives
+                        3180235</idno>. Internal distribution within the Turkish Ministry of Foreign
+                     Affairs and to the Turkish Embassy in Bonn.</note> of the Turkish Consul
+                  General in Berlin, Akın Emregül<note xml:id="e5900">Akın Emregül (*1937), <ref target="https://dodis.ch/P57551">dodis.ch/P57551</ref>, Turkish Consul
+                     General in Berlin 30.4.1988–1.7.1992.</note>, to the Turkish Ministry of
+                  Foreign Affairs</title>
+               <title type="sub">Meetings of the Senate of West Berlin and the Government of East
+                  Berlin</title>
+            </head>
+            <opener>
+               <dateline>Berlin, June 1990</dateline>
+            </opener>
+            <p>1) The Senate of West Berlin and the Government of East Berlin (Magistrat) gathered
+               in the City Hall (Rotes Rathaus) of East Berlin for the first time in 42 years. Some
+               of the decisions taken are as follows in summary:</p>
+            <p>– Berlin will be the capital of the united Germany. Every kind of effort will be made
+               in this regard.</p>
+            <p>– Both administrations of the city will continue to make joint efforts in order to
+               rapidly finalize issues such as the rehabilitation of Berlin, transportation,
+               telecommunication, housing and other issues and will redouble these efforts.</p>
+            <p>– Berlin should be a state with the insertion of Brandenburg.</p>
+            <p>– A determined effort will be made in order to host the Olympic Games in 2000 or
+               2004.</p>
+            <p>– A close cooperation will be established with European capitals, particularly with
+               Moscow, Paris and Warsaw so that the Conference on Security and Cooperation in Europe
+               shall set up a headquarter in Berlin and that a bridge of friendship and cooperation
+               shall be laid among European cities.</p>
+            <p>– Common measures will be developed in order to ensure the peace of the city and to
+               prevent violence.</p>
+            <p>– A common effort will be made to create a tolerant attitude towards minorities and
+               pursue an approach which is compatible with the multicultural lifestyle of the city
+               and which protects the social rights of the people of Berlin.</p>
+            <p>– Joint meetings will continue to be held in the City Hall of East Berlin on Tuesdays
+               every 15 days.</p>
+            <p>– A personnel exchange program will be implemented at the administrative level
+               between the governments of the two states.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

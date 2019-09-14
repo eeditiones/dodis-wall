@@ -1,18 +1,443 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Quaderni di Dodis 12</title>
-                <author>Diplomatische Dokumente der Schweiz</author>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="44">Nr. 24, Telegramm Nr. 97. Zu früh?</title>
+                <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
             </publicationStmt>
             <sourceDesc>
-                <p/>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52282</idno>
+                    </msIdentifier>
+                    <head>Nr. 24, Telegramm Nr. 97. Zu früh?</head>
+                    <msContents>
+                        <summary>Analyse der Aussage eines Staatssekretärs des Auswärtigen Amts, dass die Wiedervereinigung als Aufgabe schlicht und einfach zu früh an Bonn herangetragen worden sei. Er befürchtet, dass die BRD noch nicht voll genug in Europa integriert sei und die Chancen deutsch-nationale Aufwallungen noch viel zu reell sind.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-04-10">10.4.1990</origin>
+                    </history>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P16080">Hohl, Alfred (1930–2004)</persName>
+                    <orgName ref="#R1208">Swiss Embassy in Bonn (1977-)</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P16080">Hohl, Alfred (1930–2004)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R27">Federal Department for Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="received-copy">
+                    <orgName ref="#R719">EMD/GSt/Nachrichtendienst</orgName>
+                    <orgName ref="#R72">Swiss Embassy in Brussels</orgName>
+                    <orgName ref="#R103">Swiss Embassy in London</orgName>
+                    <orgName ref="#R159">Swiss Embassy in Moscow</orgName>
+                    <orgName ref="#R33">Swiss Embassy in Paris</orgName>
+                    <orgName ref="#R104">Swiss Embassy in Washington</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P3822">
+                        <persName>
+                            <forename>Otto von</forename>
+                            <surname>Bismarck-Schönhausen</surname>
+                        </persName>
+                        <persName>Bismarck, Otto Eduard Leopold</persName>
+                        <persName>Bismarck, Otto Eduard Leopold Fürst von Schönhausen</persName>
+                        <persName>Bismarck-Schönhausen, Otto von</persName>
+                        <persName>Bismarck, Otto von</persName>
+                        <birth when="1815-04-01">
+                            <placeName>Schönhausen</placeName>
+                        </birth>
+                        <death when="1898-07-30">
+                            <placeName>Friedrichsruh</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P3822</idno>
+                    </person>
+                    <person xml:id="P47396">
+                        <persName>
+                            <forename>Jacques</forename>
+                            <surname>Delors</surname>
+                        </persName>
+                        <persName>Delors, Jacques</persName>
+                        <birth when="1925-07-20">
+                            <placeName>Paris</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47396</idno>
+                    </person>
+                    <person xml:id="P2893">
+                        <persName>
+                            <forename>Ludwig</forename>
+                            <surname>Erhard</surname>
+                        </persName>
+                        <persName>Erhard, Ludwig</persName>
+                        <birth when="1897">
+                            <placeName>Fürth</placeName>
+                        </birth>
+                        <death when="1977">
+                            <placeName>Bonn</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P2893</idno>
+                    </person>
+                    <person xml:id="P2869">
+                        <persName>
+                            <forename>Walter</forename>
+                            <surname>Hallstein</surname>
+                        </persName>
+                        <persName>Hallstein, Walter</persName>
+                        <birth when="1901-11-17"/>
+                        <death when="1982-03-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P2869</idno>
+                    </person>
+                    <person xml:id="P535">
+                        <persName>
+                            <forename>Adolf</forename>
+                            <surname>Hitler</surname>
+                        </persName>
+                        <persName>Hitler, Adolf</persName>
+                        <birth when="1889-04-20">
+                            <placeName>Braunau am Inn</placeName>
+                        </birth>
+                        <death when="1945-04-30">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P535</idno>
+                    </person>
+                    <person xml:id="P16080">
+                        <persName>
+                            <forename>Alfred</forename>
+                            <surname>Hohl</surname>
+                        </persName>
+                        <persName>Hohl, Alfred Reinhard</persName>
+                        <persName>Hohl, Alfred</persName>
+                        <persName>HO</persName>
+                        <persName>HN</persName>
+                        <birth when="1930-07-28"/>
+                        <death when="2004-11-12">
+                            <placeName>Luzern</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P16080</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P54839">
+                        <persName>
+                            <forename>Oskar</forename>
+                            <surname>Lafontaine</surname>
+                        </persName>
+                        <persName>Lafontaine, Oskar</persName>
+                        <birth when="1943-09-16">
+                            <placeName>Saarlouis</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54839</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54840">
+                        <persName>
+                            <forename>Franz</forename>
+                            <surname>Schönhuber</surname>
+                        </persName>
+                        <persName>Schönhuber, Franz</persName>
+                        <birth when="1923-01-10"/>
+                        <death when="2005-11-27">
+                            <placeName>Munich</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54840</idno>
+                    </person>
+                    <person xml:id="P56923">
+                        <persName>
+                            <forename>Walter</forename>
+                            <surname>Wallmann</surname>
+                        </persName>
+                        <persName>Wallmann, Walter</persName>
+                        <birth when="1932-09-24"/>
+                        <death when="2013-09-21">
+                            <placeName>Frankfurt</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56923</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R719">
+                        <orgName>EMD/GSt/Nachrichtendienst</orgName>
+                        <idno type="URI">https://dodis.ch/R719</idno>
+                        <placeName ref="#G43">Bern</placeName>
+                    </org>
+                    <org xml:id="R27">
+                        <orgName>Federal Department for Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R27</idno>
+                        <placeName ref="#G43">Bern</placeName>
+                    </org>
+                    <org xml:id="R95">
+                        <orgName>France/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R95</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R27207">
+                        <orgName>Potsdam Agreement (1945)</orgName>
+                        <idno type="URI">https://dodis.ch/R27207</idno>
+                        <placeName ref="#G131">Potsdam</placeName>
+                    </org>
+                    <org xml:id="R1208">
+                        <orgName>Swiss Embassy in Bonn (1977-)</orgName>
+                        <idno type="URI">https://dodis.ch/R1208</idno>
+                    </org>
+                    <org xml:id="R72">
+                        <orgName>Swiss Embassy in Brussels</orgName>
+                        <idno type="URI">https://dodis.ch/R72</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R103">
+                        <orgName>Swiss Embassy in London</orgName>
+                        <idno type="URI">https://dodis.ch/R103</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R159">
+                        <orgName>Swiss Embassy in Moscow</orgName>
+                        <idno type="URI">https://dodis.ch/R159</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R33">
+                        <orgName>Swiss Embassy in Paris</orgName>
+                        <idno type="URI">https://dodis.ch/R33</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R104">
+                        <orgName>Swiss Embassy in Washington</orgName>
+                        <idno type="URI">https://dodis.ch/R104</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R27172">
+                        <orgName>Treaty of Versailles (1919)</orgName>
+                        <idno type="URI">https://dodis.ch/R27172</idno>
+                        <placeName ref="#G835">Versailles</placeName>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>USA/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G457">
+                        <placeName>Albania</placeName>
+                        <location>
+                            <geo>41.1533320.168331</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G457</idno>
+                    </place>
+                    <place xml:id="G47">
+                        <placeName>Asia</placeName>
+                        <location>
+                            <geo>34.047863100.61965</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G47</idno>
+                    </place>
+                    <place xml:id="G560">
+                        <placeName>Balkans</placeName>
+                        <location>
+                            <geo>43.221.6</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G560</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G284">
+                        <placeName>Bulgaria</placeName>
+                        <location>
+                            <geo>42.73388325.48583</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G284</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G12980">
+                        <placeName>Hesse</placeName>
+                        <location>
+                            <geo>49.8666678.651</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12980</idno>
+                    </place>
+                    <place xml:id="G4965">
+                        <placeName>Kosovo</placeName>
+                        <location>
+                            <geo>42.5813720.889336</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4965</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G131">
+                        <placeName>Potsdam</placeName>
+                        <location>
+                            <geo>52.39056813.064473</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G131</idno>
+                    </place>
+                    <place xml:id="G1379">
+                        <placeName>Prussia</placeName>
+                        <location>
+                            <geo>5213.4</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1379</idno>
+                    </place>
+                    <place xml:id="G4481">
+                        <placeName>Rhineland-Palatinate</placeName>
+                        <location>
+                            <geo>50.1183477.308953</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4481</idno>
+                    </place>
+                    <place xml:id="G234">
+                        <placeName>Romania</placeName>
+                        <location>
+                            <geo>45.9431624.96676</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G234</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G4894">
+                        <placeName>Saarland</placeName>
+                        <location>
+                            <geo>49.40476.9608</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4894</idno>
+                    </place>
+                    <place xml:id="G4544">
+                        <placeName>Verdun</placeName>
+                        <location>
+                            <geo>49.158945.386757</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4544</idno>
+                    </place>
+                    <place xml:id="G835">
+                        <placeName>Versailles</placeName>
+                        <location>
+                            <geo>48.8014072.130122</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G835</idno>
+                    </place>
+                    <place xml:id="G298">
+                        <placeName>Yalta</placeName>
+                        <location>
+                            <geo>44.49520534.1663</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G298</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
@@ -20,12 +445,12 @@
                 <head>
                     <ref target="http://dodis.ch/52282">dodis.ch/52282</ref>
                     <title type="main">Politischer Bericht<note xml:id="e579">Politischer Bericht
-                            Nr. 24 und Telegramm Nr. 97 (Empfangskopie): <idno type="CH-BAR"
-                                >CH-BAR#E2010-02A#1996/400#19* (A.21.31).</idno></note> des
+                            Nr. 24 und Telegramm Nr. 97 (Empfangskopie): <idno type="CH-BAR">CH-BAR#E2010-02A#1996/400#19* (A.21.31).</idno>
+                        </note> des
                         schweizerischen Botschaft in Bonn, Alfred Hohl<note xml:id="e596">Alfred
-                            Hohl (1930–2004), <ref target="http://dodis.ch/P16080"
-                                >dodis.ch/P16080</ref>, schweizerischer Botschafter in Bonn
-                            1.9.1987–16.11.1991.</note></title>
+                            Hohl (1930–2004), <ref target="http://dodis.ch/P16080">dodis.ch/P16080</ref>, schweizerischer Botschafter in Bonn
+                            1.9.1987–16.11.1991.</note>
+                    </title>
                     <title type="sub">Zu früh?</title>
                 </head>
                 <opener>
@@ -62,14 +487,12 @@
                     der Deutschen, eine Art Büsserattitude verbunden mit der Bereitschaft den
                     Schwachen und Defavorisierten zu helfen, zum mindesten partiell geändert hat.
                     Man denkt hier wieder vorab deutsch, aber dem Kanzler<note xml:id="e641">Helmut
-                        Kohl (1930-2017), <ref target="http://dodis.ch/P31852"
-                        >dodis.ch/P31852</ref>, Bundeskanzler der BRD 1.10.1982–27.10.1998.</note>
+                        Kohl (1930-2017), <ref target="http://dodis.ch/P31852">dodis.ch/P31852</ref>, Bundeskanzler der BRD 1.10.1982–27.10.1998.</note>
                     attestieren die meisten meiner Gesprächspartner europapolitische
                     Zuverlässigkeit. Kohl will möglicherweise letztlich nicht nur Kanzler der
                     Wiedervereinigung sondern auch Deus ex Machina Europas werden. Da sich diese
                     Rolle bisher die Franzosen vorbehalten hatten, wird das Spiel spannend.
-                        Delors<note xml:id="e651">Jacques Delors (*1925), <ref
-                            target="http://dodis.ch/P47396">dodis.ch/P47396</ref>, Französischer
+                        Delors<note xml:id="e651">Jacques Delors (*1925), <ref target="http://dodis.ch/P47396">dodis.ch/P47396</ref>, Französischer
                         Politiker, Präsident der Europäischen Kommission 7.1.1985–24.1.1995.</note>
                     möchte sich sicher so wenig wie Mitterand<note xml:id="e662">François Mitterand
                         (1916–1996), <ref target="http://dodis.ch/P13775">dodis.ch/P13775</ref>,
@@ -82,18 +505,15 @@
                 <p>Eine Parforcetour vom deutschen Michel zum Eurobürger. Manchmal sieht es fast so
                     aus.</p>
                 <p>Man kann sich somit in guten Treuen fragen, warum für den eingangs zitierten
-                    Staatssektretär im A<add type="edition">[uswärtigen]</add> A<add type="sub"
-                        >[mt]</add>. die Wiedervereinigung 20 Jahre zu früh ins Haus fällt. Gibt es
+                    Staatssektretär im A<add type="edition">[uswärtigen]</add> A<add type="sub">[mt]</add>. die Wiedervereinigung 20 Jahre zu früh ins Haus fällt. Gibt es
                     hier wirklich noch nationale Territorialambitionen wie zu Zeiten der Könige von
-                    Preussen, Bismarcks<note xml:id="e681">Otto von Bismark (1815–1898), <ref
-                            target="http://dodis.ch/3822">dodis.ch/P3822</ref>, deutscher
+                    Preussen, Bismarcks<note xml:id="e681">Otto von Bismark (1815–1898), <ref target="http://dodis.ch/3822">dodis.ch/P3822</ref>, deutscher
                         Reichskanzler 1871–1890.</note> oder Hitlers<note xml:id="e691">Adolf Hitler
                         (1889–1945), <ref target="http://dodis.ch/P535">dodis.ch/P535</ref>, Führer
                         des Deutschen Reichs 1933–1945.</note>? Bei Kohl: nein. Bei ihm registriert
                     man vielmehr eine wirkliche Bereitschaft, Deutschland in Europa aufgehen zu
                     lassen. Das ist echt und gemahnt an Walter Hallstein<note xml:id="e677">Walter
-                        Hallstein (1901–1982), <ref target="http://dodis.ch/P2869"
-                            >dodis.ch/P2869</ref>, Beamter im Auswärtigen Amt der BRD und
+                        Hallstein (1901–1982), <ref target="http://dodis.ch/P2869">dodis.ch/P2869</ref>, Beamter im Auswärtigen Amt der BRD und
                         Vorsitzender der Kommission der Europäischen Wirtschaftsgemeinschaft. Nach
                         ihm wurde die “Hallstein-Doktrin“ beannt, die besagt, dass die BRD es als
                         unfreundlichen Akt ansähe, wenn Drittstaaten die DDR anerkennen
@@ -101,15 +521,12 @@
                     argumentiert. Wenn er vom deutsch-französischen Handschlag über den Gräbern von
                     Verdun spricht, dann erstickt seine Stimme in Tränen. Die Fürsprecher der
                     Vertriebenen Verbände bleiben dieser Haltung gegenüber mitsamt der
-                        schönhuberschen<note xml:id="e712">Franz Schönhuber (1923–2005), <ref
-                            target="http://dodis.ch/P54840">dodis.ch/P54840</ref>, Journalist und
+                        schönhuberschen<note xml:id="e712">Franz Schönhuber (1923–2005), <ref target="http://dodis.ch/P54840">dodis.ch/P54840</ref>, Journalist und
                         Politiker in der BRD, Gründer und später Vorsitzender der
                         Republikaner.</note> Camarilla eher eine ephemere Donquichotterie.</p>
                 <p>Die Nationalismus ist wohl ganz allgemein heute eher die Religion der Armen
                     geworden. Wütet in Kosowo, Rumänien oder Bulgarien – bald einmal vielleicht auch
-                    in Albanien. Hier hat die deutsche Sättigung, im Umfeld des von Erhards<note
-                        xml:id="e724">Ludwig Erhard (1897–1977), <ref target="http://dodis.ch/P2893"
-                            >dodis.ch/P2893</ref>, Bundeskanzler der BRD 1963–1966.</note>
+                    in Albanien. Hier hat die deutsche Sättigung, im Umfeld des von Erhards<note xml:id="e724">Ludwig Erhard (1897–1977), <ref target="http://dodis.ch/P2893">dodis.ch/P2893</ref>, Bundeskanzler der BRD 1963–1966.</note>
                     Wirtschaftswunder portierten Materialismus, den berüchtigten Appetit auf
                     Lebensraum wohl weitgehend ausgeräumt. Man jagt da schon eher Vorstellungen
                     eines qualitativen Wachstums nach.</p>
@@ -127,8 +544,7 @@
                 <p>Warum nutzt eigentlich niemand Kohl’s fast täppisch liebenwürdige
                     Europabereitschaft? Warum verdächtigt männiglich den behäbigen Riesen aus der
                     Pfalz abartiger germanischer Macchiavellismen? Warum anderseits der Bonus für
-                    den Blechtrommler Oskar<note xml:id="e734">Oskar Lafontaine (*1943), <ref
-                            target="http://dodis.ch/P54839">dodis.ch/P54839</ref>, Ministerpräsient
+                    den Blechtrommler Oskar<note xml:id="e734">Oskar Lafontaine (*1943), <ref target="http://dodis.ch/P54839">dodis.ch/P54839</ref>, Ministerpräsient
                         des Saarlands 1985–1998 und Kanzlerkandidat der SPD für die Bundestagswahl
                         1990.</note> aus dem Saarland?</p>
                 <p>Falsche Politik ist in Europa oft gemacht worden. Aber Bonn liegt diesbezüglich

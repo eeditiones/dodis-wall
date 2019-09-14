@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="29">No. 12. The German Question: Our Public Line</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52925</idno>
+                    </msIdentifier>
+                    <head>No. 12. The German Question: Our Public Line</head>
+                    <msContents>
+                        <summary>Concern at the perception of the UK attitude towards German unity is expressed.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-01-05">5.1.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57461">Mallaby, Christopher (1936–)</persName>
+                    <orgName ref="#R26529">Great Britain/Embassy in Bonn</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57461">Mallaby, Christopher (1936–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57401">Hurd, Douglas R. (1930–)</persName>
+                    <orgName ref="#R223">GB/Foreign Office</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P56605">
+                        <persName>
+                            <forename>James </forename>
+                            <surname>Baker</surname>
+                        </persName>
+                        <persName>Baker, James A. </persName>
+                        <persName>Baker, James </persName>
+                        <persName>Baker III, James Addison</persName>
+                        <persName>Baker, James Addison</persName>
+                        <persName>Baker, Jim</persName>
+                        <birth when="1930-04-28">
+                            <placeName>Houston</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56605</idno>
+                    </person>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P57401">
+                        <persName>
+                            <forename>Douglas R.</forename>
+                            <surname>Hurd</surname>
+                        </persName>
+                        <persName>Hurd, Douglas R.</persName>
+                        <birth when="1930-03-08">
+                            <placeName>Marlborough</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57401</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57461">
+                        <persName>
+                            <forename>Christopher</forename>
+                            <surname>Mallaby</surname>
+                        </persName>
+                        <persName>Mallaby, Christopher</persName>
+                        <birth when="1936-06-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57461</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R25156">
+                        <orgName>EU/European Council (2009-)</orgName>
+                        <idno type="URI">https://dodis.ch/R25156</idno>
+                    </org>
+                    <org xml:id="R223">
+                        <orgName>GB/Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R223</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R26529">
+                        <orgName>Great Britain/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R26529</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G137">
+                        <placeName>Brussels</placeName>
+                        <location>
+                            <geo>50.8503384.35171</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G137</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G5959">
+                        <placeName>Kiev</placeName>
+                        <location>
+                            <geo>50.450130.5234</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5959</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G2361">
+                        <placeName>Strasbourg</placeName>
+                        <location>
+                            <geo>48.583157.747882</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2361</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52925">dodis.ch/52925</ref>
+               <title type="main">Telegram<note xml:id="e2864">Telegram No. 12 (incoming): <idno>UK
+                        National Archives FCO 33/10716</idno>. Repeated for information: Priority to
+                     the British Embassy in East Berlin; Routine British Military Government Berlin,
+                     the British Embassies in Washington, Moscow and Paris and the UK Delegation to
+                     NATO.</note> from the British Ambassador in Bonn, Sir Christopher Mallaby<note xml:id="e2867">Sir Christopher Mallaby (*1936), <ref target="https://dodis.ch/P57461">dodis.ch/P57461</ref>, British Ambassador
+                     in Bonn, 1988–1993.</note>, to the British Secretary of State for Foreign and
+                  Commonwealth Affairs, Douglas Hurd<note xml:id="e2873">Douglas Hurd (*1930), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British Secretary of
+                     State for Foreign and Commonwealth Affairs, 26.10.1989–5.7.1995.</note>
+                    </title>
+               <title type="sub">The German Question: Our Public Line</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 5 January 1990, 4.41 p.m.</dateline>
+            </opener>
+            <p>
+               <emph>Summary</emph>
+            </p>
+            <p>1. Despite our supportive line on the German wish to achieve unity through
+               self-determination, the UK is perceived here as perhaps the least positive of the
+               three Western Allies, and the least important. Need to present our policy in the most
+               positive light we can. Your visit to East Berlin and the GDR an opportunity.</p>
+            <p/>
+            <p>
+               <emph>Detail</emph>
+            </p>
+            <p>2. I remain concerned that despite our consistent support for the principle of German
+               unity through self-determination, the UK is perceived here as opposing, or at least
+               wishing to brake, reunification. The French, on the other hand, whose doubts seem if
+               anything stronger than ours, manage to maintain a more positive public image
+                  (Mitterrand’s<note xml:id="e2895">François Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France
+                  21.5.1981–17.5.1995.</note> remarks in Kiev notwithstanding<note xml:id="e2901">President Mitterrand had met President Gorbachev in Kiev on 6 December 1989. At a
+                  joint news conference he had stated: <orig>None of our countries, and especially
+                     one whose weight is so great and whose geographical position is such, can act
+                     without taking into account the balance of Europe.</orig>
+                    </note>). The US are
+               perceived as the most supportive of German aspirations even while laying down
+               conditions for German unity.</p>
+            <p>3. Two recent British statements have stuck in German minds and coloured their
+               perception of our policy. The first was your comment in Berlin on 16 November that
+               German unity was not on the agenda<note xml:id="e2906">In fact Douglas Hurd had used
+                  this formula on at least three previous occasions: in a press conference in The
+                  Hague on 9 November 1989, a BBC World Service interview on 10 November 1989 and a
+                  BBC Radio interview in Bonn on 15 November 1989.</note>. This was true at the
+               time. But Kohl’s<note xml:id="e2909">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> ten point statement on 28 November put it on the
+               agenda, even if without a timetable. The second was the Prime Minister’s<note xml:id="e2915">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  United Kingdom 4.5.1979–28.11.1990.</note> statement in Brussels on 1 December
+               that reunification should not take place for ten to fifteen years<note xml:id="e2921">In fact at the NATO Heads of Government meeting on 4 December 1989.</note>. The
+               latter continues to be quoted by German commentators as evidence of a negative and
+               mistrustful British attitude.</p>
+            <p>4. As against the background of Bush’s<note xml:id="e2926">George Herbert Walker Bush
+                  (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>,
+                  President of the United States, 20.1.1989–20.1.1993.</note> policy of a “Europe
+               whole and free”, Baker’s<note xml:id="e2932">James Baker (*1930), <ref target="https://dodis.ch/P56605">dodis.ch/P56605</ref>, United States Secretary
+                  of State 25.1.1989–23.8.1992.</note> four conditions for German reunification have
+               been well-received here, because of the spirit that is thought to lie behind them and
+               because they are seen as designed to facilitate, rather than prevent, German unity.
+               The same cannot be said of Mitterrand’s contributions. In Bonn on 3 November he said
+               he had no fear of German reunification, which posed no problems for France. Three
+               days later in Kiev he said reunification “is not a question for now” and that the
+               question of frontiers should not be raised again. The fact is that as the FRG’s best
+               friend and most important European partner, France can get away with a great deal. It
+               is characteristic that Kohl should have visited Mitterrand in south-west France on 4
+               January to mend fences<note xml:id="e2938">Helmut Kohl had visited François
+                  Mitterrand’s private residence at Latche in Gascony.</note>. The UK by contrast is
+               at present seen as neither especially important nor as well disposed. Both aspects
+               can reduce our influence on the FRG at this critical time.</p>
+            <p>5. Your visit to East Berlin and the GDR which is likely to be widely reported here,
+               provides an important opportunity to try to put a more positive spin on our
+                  presentation<note xml:id="e2943">Douglas Hurd’s visit was to take place on 22–24
+                  January 1990.</note>. You could use the Strasbourg/NATO formulae (East Berlin
+               telnos 003 and 007<note xml:id="e2946">The European Council’s Strasbourg declaration
+                  read: <orig>We seek the strengthening of the state of peace in Europe in which the
+                     German people will regain its unity through free self-determination. This
+                     process should take place peacefully and democratically, in full respect of the
+                     relevant agreements and treaties and of all the principles defined by the
+                     Helsinki Final Act, in a context of dialogue and East-West cooperation. It also
+                     has to be placed in the context of European integration.</orig> The Strasbourg
+                  formula was repeated in the communiqué issued at the end of the North Atlantic
+                  Council.</note>) but present them as a statement of British policy. You could also
+               draw on other elements in the public line recently produced by the Department in
+               consultation with this Embassy<note xml:id="e2949">Charles Powell (*1941), <ref target="https://dodis.ch/P57468">dodis.ch/P57468</ref>, Private Secretary to
+                  the British Prime Minister, commented in a letter to the Foreign and Commonwealth
+                  Office dated 9 January 1990: <orig>The Prime Minister has seen Bonn telegram
+                     number 12 commenting on our public line on the German question. She thought it
+                     showed a lack of understanding of our policy which she finds alarming. She
+                     would like to see any reply before it is sent.</orig>
+                  <idno>UK National Archives FCO 33/10893</idno>.</note>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

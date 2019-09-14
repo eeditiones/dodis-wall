@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="17">Minutes of the Conversation between the Minister of Foreign Affairs of the People’s Republic of Poland Prof. K. Skubiszewski and the and the Foreign Minister of the Federal Republic of Germany H. D. Genscher Held on 10 November 1989 (Second Plenary Session)</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53170</idno>
+                    </msIdentifier>
+                    <head>Minutes of the Conversation between the Minister of Foreign Affairs of the People’s Republic of Poland Prof. K. Skubiszewski and the and the Foreign Minister of the Federal Republic of Germany H. D. Genscher Held on 10 November 1989 (Second Plenary Session)</head>
+                    <msContents>
+                        <summary>During the conversation between Foreign Minister Skubiszewski and Chancellor Kohl the latter’s decision to interrupt his visit to Poland and the impact of the fall of the Berlin Wall on Polish-West German relations were discussed.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-14">14.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Report</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="#R8541">Poland/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R9256">
+                        <orgName>Germany/FRG/Federal Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R9256</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R8541">
+                        <orgName>Poland/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R8541</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G512">
+                        <placeName>Baltic Sea</placeName>
+                        <location>
+                            <geo>5921</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G512</idno>
+                    </place>
+                    <place xml:id="G96">
+                        <placeName>Baltic states</placeName>
+                        <location>
+                            <geo>52.3336267.227882</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G96</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G1380">
+                        <placeName>Central Europe</placeName>
+                        <location>
+                            <geo>49.8817.3</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1380</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G5">
+                        <placeName>German Reich</placeName>
+                        <location>
+                            <geo>51.1656910.451526</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G15">
+                        <placeName>Sweden</placeName>
+                        <location>
+                            <geo>60.12816218.643501</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.6284240.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53170">dodis.ch/53170</ref>
+               <title type="main">Minutes of conversation<note xml:id="e1738">Minutes of
+                     conversation (translated from Polish): <idno>Archives of the Polish Ministry of
+                        Foreign Affairs AMSZ, Dep. IV 31/92, w. 2</idno>.</note> by the Polish
+                  Ministry of Foreign Affairs</title>
+               <title type="sub">Minutes of the Conversation between the Foreign Minister of the
+                  People’s Republic of Poland Prof. K. Skubiszewski<note xml:id="e1743">Krzysztof
+                     Skubiszewski (1926–2010), <ref target="https://dodis.ch/P57377">dodis.ch/P57377</ref>, Polish Minister of Foreign Affairs
+                     12.9.1989–26.10.1993.</note> and the Foreign Minister of the Federal Republic
+                  of Germany H.D. Genscher<note xml:id="e1749">Hans-Dietrich Genscher (1927–2016),
+                        <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor
+                     and Minister for Foreign Affairs of the FRG 1.10.1982–17.5.1992.</note>, Held
+                  on 10 November 1989 (Second Plenary Session)<note xml:id="e1755">This note is part
+                     of a comprehensive record (undated) of talks held during Chancellor Kohl’s
+                     visit, drafted probably on 14 November 1989.</note>
+                    </title>
+            </head>
+            <p>After Minister Skubiszewski opened another plenary session on 10 November 1989, the
+               floor was taken by Minister Genscher, who informed the meeting of Chancellor
+                  Kohl’s<note xml:id="e1759">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> decision to interrupt his visit to Poland for about
+               24 hours following the developments in the GDR (opening of the border with the West
+               and the mass movement of people from the GDR to the FRG). He added that the
+               Chancellor planned to call an extraordinary cabinet meeting and that the Polish side
+               had shown full understanding of his decision.</p>
+            <p>Next, Minister Genscher declared that in light of the events in the GDR, he wanted to
+               present a position on the matter to the Polish side. After Minister Skubiszewski
+               accepted this departure from the official programme for the session, Minister
+               Genscher discussed the following points:</p>
+            <p>– Situation following the opening of the border with the West by the GDR; masses of
+               East Germans crossing the border and being given an enthusiastic welcome by FRG and
+                  W<add type="edition">[est]</add> B<add type="edition">[erlin]</add> residents;
+               events had yet again confirmed that the ideal of German unity was alive and that the
+               aspiration of the Germans to live in freedom and democracy had not diminished;</p>
+            <p>– What had happened in the GDR posed no danger whatsoever to Europe. It also posed no
+               threat to Poland or anyone else. On the contrary, the embrace of change by the GDR
+               could enhance the continent’s security and stability. The drive for freedom and
+               democracy should not be considered as a threat, but rather as an important
+               contribution to the stability of European relations;</p>
+            <p>– No one should exploit the thrust and drama of developments in the GDR; on the
+               contrary, the GDR’s neighbours and other countries of the continent ought to show
+               responsibility and far-sightedness;</p>
+            <p/>
+            <p>In these circumstances, Chancellor Kohl’s visit to Poland was taking on a new
+               dimension, becoming a symbol of the Polish-German aspirations for freedom.</p>
+            <p>In his reply, Minister Skubiszewski thanked Minister Genscher for familiarizing the
+               Polish side with the West German position on the GDR. He added that he understood and
+               appreciated Bonn’s intentions in this matter. Minister Skubiszewski took the
+               opportunity to share his impressions following a recent visit to the GDR to mark 50
+               years since the outbreak of World War Two. He recalled the lukewarm reaction to the
+               incumbent state leadership by members of an official march, and the popularity
+               enjoyed in the GDR by Gorbachev<note xml:id="e1785">Mikhail Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary of
+                  the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman of the
+                  Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the Soviet
+                  Union 15.3.1990–25.12.1991.</note>, which was manifested by gestures and
+               spontaneous chants “Gorbi, Gorbi.”</p>
+            <p>Then, Minister Skubiszewski referred to Minister Genscher’s statement, emphasizing
+               that:</p>
+            <p>– Poland welcomed the democratization measures adopted by the new GDR leadership;</p>
+            <p>– The GDR was an important factor in European balance, Poland’s close and friendly
+               neighbour, and we took a keen interest in all developments within the GDR. In this
+               context, we were very interested in stabilizing the country for both national and
+               European reasons;</p>
+            <p>– Events in the GDR had significantly reinvigorated various tendencies related to the
+               possibility of German reunification. We were of the opinion that the changes taking
+               place in the GDR would above all reinforce its sovereignty and identity, while the
+               process set in motion would progress without interruption or difficulty. We
+               recognized the right of all nations, including the Germans, to self-determination.
+               However, one had to bear in mind that the issue of German unity depended on the
+               attitudes of victorious powers on the one hand and on Germany’s neighbours and the
+               remaining European countries on the other. In these circumstances, German
+               reunification was not a live issue; it was not on the agenda and could be considered
+               as lying in a distant future.</p>
+            <p>Adding to his previous statement and commenting on the views presented by Minister
+               Skubiszewski, Minister Genscher pointed out the following:</p>
+            <p>– The Poles and Germans both lived in Central Europe, making them a significant
+               element of the European balance. Both look back on some painful experiences, which
+               has heightened their sense of responsibility;</p>
+            <p>– The lost war and the ensuing catastrophe led to the overcoming of nationalism in
+               Germany. That was because the German nation could not overthrow dictatorship on its
+               own and had to be liberated by other countries. This was also why it wanted to
+               preserve the memory of those who had risked their lives to fight against this
+               dictatorship. For this reason, we wanted to honour the anti-Nazi Kreisau Circle<note xml:id="e1805">This reference is to a German anti-Nazi opposition group which
+                  operated in the village of Kreisau during World War Two (Kreisau Circle, Polish:
+                  Krąg z Krzyżowej, German: Kreisauer Kreis). The group’s founder and leader, count
+                  Helmuth James von Moltke, was arrested by the Gestapo. Following a death sentence,
+                  he was executed in January 1945.</note>. The Bonn offices of the Foreign Office
+               feature a plaque commemorating foreign service members who had been part of that
+               movement and were killed, demonstrating a new sensitivity to nationalism;</p>
+            <p>– Having drawn lessons from our experience, we were not going to go our own way in
+               Europe. The FRG was permanently anchored in Western European structures and intended
+               to remain in them. In this situation, the Chancellor’s visit to Warsaw took on a
+               special European meaning.</p>
+            <p>Minister Skubiszewski replied that the concept of 19<hi>th</hi>-century Central
+               Europe could not be resurrected, for back then it had served hegemonic purposes.
+               Today, it is no longer possible to mark off a third geopolitical area alongside
+               Eastern and Western Europe, as this would create an additional factor in European
+               relations. Transformation in the East meant that we were back to normal in Europe and
+               thus in international relations. It should be observed, however, that the war that
+               Germany had lost in 1945 caused fundamental territorial changes on the continent,
+               whose inviolability and stability underpinned European security.</p>
+            <p>Taking the floor, Minister Genscher drew attention to the fact that the FRG made a
+               clear distinction between “reunification” (<emph>Wiedervereinigung</emph>), which did
+               not appear in the Basic Law<note xml:id="e1817">This reference is to the constitution
+                  of the FRG of 1949.</note>, and unity, which it was obliged to seek under the
+               constitution. Under no circumstances should this be held to mean an aspiration to
+               restore the former German state. The aspiration to German unity was not of a
+               restorative nature. The only solution to the problem of German unity was a European
+               solution that would not infringe the agreements with Moscow and Warsaw. The line of
+               division running through Germany today was of a double character, for it also divided
+               Europe into two blocs. We wanted to overcome the continent’s division and realize
+               German unity by overcoming the continent’s division.</p>
+            <p>Minister Skubiszewski replied by emphasizing that the <emph>Wiedervereinigung</emph>
+               category was not appropriate, expressing as it did the desire to return to a
+               territorial order that had long been outdated. Therefore, it should not be employed.
+               At the same time, he agreed that the developments unfolding in Europe at the time of
+               Chancellor’s Kohl visit to Warsaw imparted an additional dimension and symbolism to
+               this trip.</p>
+            <p>At the end of the talks, Minister Genscher welcomed the Polish-Swedish initiative to
+               convene a conference of the Baltic States’ prime ministers with the aim of protecting
+               the Baltic Sea.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

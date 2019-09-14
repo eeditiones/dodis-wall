@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="50">No 58/2</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53322</idno>
+                    </msIdentifier>
+                    <head>No 58/2</head>
+                    <msContents>
+                        <summary>Report regarding the joint meeting held by the Mayors of East and West Berlin.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-06-13">13.6.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="tr">Turkish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57531">Mekik, Metin (1932–2013)</persName>
+                    <orgName ref="#R33493">Turkey/Embassy in East Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57531">Mekik, Metin (1932–2013)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R841">Turkey/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57539">
+                        <persName>
+                            <forename>Friedrich</forename>
+                            <surname>Ebert junior</surname>
+                        </persName>
+                        <persName>Ebert junior, Friedrich</persName>
+                        <persName>Ebert, Fritz</persName>
+                        <birth when="1894-09-12">
+                            <placeName>Bremen</placeName>
+                        </birth>
+                        <death when="1979-12-04">
+                            <placeName>East Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57539</idno>
+                    </person>
+                    <person xml:id="P57531">
+                        <persName>
+                            <forename>Metin</forename>
+                            <surname>Mekik</surname>
+                        </persName>
+                        <persName>Mekik, Metin</persName>
+                        <persName>Mekik, Mehmet Metin</persName>
+                        <birth when="1932-01-30">
+                            <placeName>Istanbul</placeName>
+                        </birth>
+                        <death when="2013-02-07"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57531</idno>
+                    </person>
+                    <person xml:id="P57440">
+                        <persName>
+                            <forename>Walter</forename>
+                            <surname>Momper</surname>
+                        </persName>
+                        <persName>Momper, Walter</persName>
+                        <birth when="1945-02-21"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57440</idno>
+                    </person>
+                    <person xml:id="P57536">
+                        <persName>
+                            <forename>Tino</forename>
+                            <surname>Schwierzina</surname>
+                        </persName>
+                        <persName>Schwierzina, Tino Antoni</persName>
+                        <persName>Schwierzina, Tino</persName>
+                        <birth when="1927-05-30">
+                            <placeName>Königshütte</placeName>
+                        </birth>
+                        <death when="2003-12-29">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57536</idno>
+                    </person>
+                    <person xml:id="P57537">
+                        <persName>
+                            <forename>Arthur</forename>
+                            <surname>Werner</surname>
+                        </persName>
+                        <persName>Werner, Arthur</persName>
+                        <birth when="1877-04-15">
+                            <placeName>Berlin</placeName>
+                        </birth>
+                        <death when="1967-07-27">
+                            <placeName>West Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57537</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R8171">
+                        <orgName>Berlin/City Council</orgName>
+                        <idno type="URI">https://dodis.ch/R8171</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R4141">
+                        <orgName>Deutschland/BRD/Sozialdemokratische Partei (1946-)</orgName>
+                        <idno type="URI">https://dodis.ch/R4141</idno>
+                    </org>
+                    <org xml:id="R32011">
+                        <orgName>Deutschland/DDR/Sozialdemokratische Partei in der DDR</orgName>
+                        <idno type="URI">https://dodis.ch/R32011</idno>
+                    </org>
+                    <org xml:id="R5600">
+                        <orgName>East Berlin/City Council</orgName>
+                        <idno type="URI">https://dodis.ch/R5600</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9417">
+                        <orgName>East Berlin/Magistrat</orgName>
+                        <idno type="URI">https://dodis.ch/R9417</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33493">
+                        <orgName>Turkey/Embassy in East Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33493</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R841">
+                        <orgName>Turkey/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R841</idno>
+                        <placeName ref="#G471">Ankara</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G471">
+                        <placeName>Ankara</placeName>
+                        <location>
+                            <geo>39.9207732.85411</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G471</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53322">dodis.ch/53322</ref>
+               <title type="main">Telegram<note xml:id="e5779">Telegram No. 58/2 (copy, translated
+                     from Turkish): <idno>Turkish Diplomatic Archive 3181295</idno>. Copy to the
+                     Turkish Embassy in Bonn. Reference: <idno>our communication dated 4 May 1990
+                        and numbered 0584/446-228</idno>.</note> from the Turkish Ambassador in East
+                  Berlin, Metin Mekik<note xml:id="e5782">Metin Mekik (1932–2013), <ref target="https://dodis.ch/P57531">dodis.ch/P57531</ref>, Turkish Ambassador
+                     in East Berlin.</note>, to the Turkish Ministry of Foreign Affairs</title>
+            </head>
+            <opener>
+               <add>Normal</add>
+               <dateline>East Berlin, 13 June 1990, 12.00</dateline>
+            </opener>
+            <p n="1">For the first time in 42 years, the mayors of East Berlin and West Berlin held
+               a joint meeting in the “Rote Rathaus (Red Municipal Building)” on Tuesday, 12
+               June.</p>
+            <p>East Berlin Mayor Tino Schwierzina<note xml:id="e5797">Tino Schwierzina (1927–2003),
+                     <ref target="https://dodis.ch/P57536">dodis.ch/P57536</ref>, Mayor of East
+                  Berlin 30.5.1990–11.1.1991.</note> (SPD) and West Berlin Mayor Walter Momper<note xml:id="e5803">Walter Momper (*1945), <ref target="https://dodis.ch/P57440">dodis.ch/P57440</ref>, Governing Mayor of West Berlin
+                  16.2.1989–24.1.1991.</note> (SPD) have underlined the historical nature of the
+               meeting and stated that they decided to meet in the same building every
+               fortnight.</p>
+            <p>The demolition of the Berlin Wall and holding the Olympic Games in Berlin in the year
+               2000 were the main topics discussed at the meetings between the two mayors.</p>
+            <p>In fact, the demolition of the Berlin Wall has begun as of today (13 June). Momper
+               announced that border controls between Berlin’s two sides will be eliminated as of 1
+               July 1990. The mayors declared that the unification of Berlin will be completed
+               following the election of the joint city council and emphasized that the unified
+               Berlin should be the capital of the new and united Germany.</p>
+            <p>As you may recall, after World War II, Berlin City Council convened for the first
+               time on 21 May 1945 and elected engineer Dr Arthur Werner<note xml:id="e5815">Arthur
+                  Werner (1877–1967), <ref target="https://dodis.ch/P57537">dodis.ch/P57537</ref>,
+                  Mayor of Berlin 17.5.1945–5.12.1946.</note>, aged 70, as mayor.</p>
+            <p>Three years later, the joint city council was included in the British Occupation
+               Region. Upon this, a separate municipality was established in East Berlin, which was
+               under the occupation of the USSR, and Friedrich Ebert<note xml:id="e5823">Friedrich
+                  Ebert Jr. (1894–1979), <ref target="https://dodis.ch/P57539">dodis.ch/P57539</ref>, Mayor of East Berlin 1948–1967.</note> was elected as the
+               first mayor on 30 November 1948.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

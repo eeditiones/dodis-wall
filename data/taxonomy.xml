@@ -15,33 +15,35 @@
       <encodingDesc>
          <classDecl>
             <taxonomy xml:id="pb-taxonomy">
-               <category xml:id="genre">
-                  <catDesc>Genre of a text</catDesc>
-                  <category xml:id="prose">
-                     <catDesc>Prose</catDesc>
-                     <category xml:id="philosophy">
-                        <catDesc>Philosophy</catDesc>
-                     </category>
-                     <category xml:id="religion">
-                        <catDesc>Religion</catDesc>
-                     </category>
-                  </category>
-                  <category xml:id="correspondence">
-                     <catDesc>Letters and Correspondence</catDesc>
-                  </category>
-                  <category xml:id="drama">
-                     <catDesc>Drama</catDesc>
-                  </category>
-               </category>
-               <category xml:id="form">
-                  <catDesc>Form</catDesc>
-                  <category xml:id="manuscript">
-                     <catDesc>Manuscript</catDesc>
-                  </category>
-                  <category xml:id="print">
-                     <catDesc>Print</catDesc>
-                  </category>
-               </category>
+               <category xml:id="document-type">
+                    <category xml:id="telegram">
+                        <catDesc>Telegram</catDesc>
+                    </category>
+                    <category xml:id="memo">
+                        <catDesc>Memo</catDesc>
+                    </category>
+                    <category xml:id="minutes">
+                        <catDesc>Minutes</catDesc>
+                    </category>
+                    <category xml:id="letter">
+                        <catDesc>Letter</catDesc>
+                    </category>
+                    <category xml:id="interview">
+                        <catDesc>Interview</catDesc>
+                    </category>
+                    <category xml:id="journal">
+                        <catDesc>Journal</catDesc>
+                    </category>
+                    <category xml:id="political_report">
+                        <catDesc>Political report</catDesc>
+                    </category>
+                    <category xml:id="report">
+                        <catDesc>Report</catDesc>
+                    </category>
+                    <category xml:id="declaration">
+                        <catDesc>Declaration</catDesc>
+                    </category>
+                </category>
             </taxonomy>
          </classDecl>
       </encodingDesc>

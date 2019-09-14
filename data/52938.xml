@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="25">No. ZQGR0559. German Reunification – The Street Speaks</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52938</idno>
+                    </msIdentifier>
+                    <head>No. ZQGR0559. German Reunification – The Street Speaks</head>
+                    <msContents>
+                        <summary>Observations on how popular support for reunification is pushing the pace faster than anyone anticipated.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-12-06">6.12.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P51338">Delworth, Thomas W. (1929–2012)</persName>
+                    <orgName ref="#R23945">Canada/Embassy in Berlin (1999-</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P51338">Delworth, Thomas W. (1929–2012)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R821">Canada/Global Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P51338">
+                        <persName>
+                            <forename>Thomas W.</forename>
+                            <surname>Delworth</surname>
+                        </persName>
+                        <persName>Delworth, Thomas W.</persName>
+                        <persName>Delworth, William Thomas</persName>
+                        <birth when="1929-02-24"/>
+                        <death when="2012-10-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P51338</idno>
+                    </person>
+                    <person xml:id="P46563">
+                        <persName>
+                            <forename>Erich</forename>
+                            <surname>Honecker</surname>
+                        </persName>
+                        <persName>Honecker, Erich</persName>
+                        <birth when="1912-08-25">
+                            <placeName>Neunkirchen</placeName>
+                        </birth>
+                        <death when="1994-05-29">
+                            <placeName>Santiago de Chile</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46563</idno>
+                    </person>
+                    <person xml:id="P54794">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Krenz</surname>
+                        </persName>
+                        <persName>Krenz, Egon</persName>
+                        <persName>Krenz, Egon Rudi Ernst</persName>
+                        <birth when="1937-03-19">
+                            <placeName>Kołobrzeg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54794</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P40816">
+                        <persName>
+                            <forename>Maximilien Marie Isidore de</forename>
+                            <surname>Robespierre</surname>
+                        </persName>
+                        <persName>Robespierre, Maximilien Marie Isidore de</persName>
+                        <birth when="1758-05-06"/>
+                        <death when="1794-07-28"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P40816</idno>
+                    </person>
+                    <person xml:id="P57431">
+                        <persName>
+                            <forename>Rudolf</forename>
+                            <surname>Seiters</surname>
+                        </persName>
+                        <persName>Seiters, Rudolf</persName>
+                        <birth when="1937-10-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57431</idno>
+                    </person>
+                    <person xml:id="P57413">
+                        <persName>
+                            <forename>Horst M.</forename>
+                            <surname>Teltschik</surname>
+                        </persName>
+                        <persName>Teltschik, Horst M.</persName>
+                        <birth when="1940-06-14">
+                            <placeName>Mähren</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57413</idno>
+                    </person>
+                    <person xml:id="P54605">
+                        <persName>
+                            <forename>Vernon A.</forename>
+                            <surname>Walters</surname>
+                        </persName>
+                        <persName>Walters, Vernon A.</persName>
+                        <birth when="1917-01-03">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <death when="2002-02-10">
+                            <placeName>West Palm Beach</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54605</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R33464">
+                        <orgName>Bild</orgName>
+                        <idno type="URI">https://dodis.ch/R33464</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R23945">
+                        <orgName>Canada/Embassy in Berlin (1999-</orgName>
+                        <idno type="URI">https://dodis.ch/R23945</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R821">
+                        <orgName>Canada/Global Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R821</idno>
+                        <placeName ref="#G169">Ottawa</placeName>
+                    </org>
+                    <org xml:id="R2345">
+                        <orgName>Deutschland/BRD/Christlich Demokratische Union Deutschlands</orgName>
+                        <idno type="URI">https://dodis.ch/R2345</idno>
+                    </org>
+                    <org xml:id="R11611">
+                        <orgName>Deutschland/BRD/Christlich-Soziale Union</orgName>
+                        <idno type="URI">https://dodis.ch/R11611</idno>
+                    </org>
+                    <org xml:id="R3943">
+                        <orgName>Deutschland/DDR/Christlich Demokratische Union</orgName>
+                        <idno type="URI">https://dodis.ch/R3943</idno>
+                    </org>
+                    <org xml:id="R22780">
+                        <orgName>Germany/GDR/Ministry for State Security</orgName>
+                        <idno type="URI">https://dodis.ch/R22780</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G553">
+                        <placeName>Bavaria</placeName>
+                        <location>
+                            <geo>48.79044711.49789</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G553</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G962">
+                        <placeName>Leipzig</placeName>
+                        <location>
+                            <geo>51.33969512.373075</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G962</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52938">dodis.ch/52938</ref>
+               <title type="main">Telegram<note xml:id="e2518">Telegram No. ZQGR0559 (incoming):
+                        <idno>Global Affairs Canada file 25-3-3-5-Germany / Confidential</idno>.
+                     Ref: <idno>Our tels AQGR0556 28 NOV and 0574 04 DEC (NOTAL)</idno>. Info to
+                     Privy Council Office, Brussels-EEC, Brussels, Brussels-NATO, London,
+                     Washington, Paris, Paris-OECD, Rome, Tokyo, Geneva, Warsaw, Budapest, Helsinki,
+                     Oslo, Stockholm, Copenhagen, Hague, Bern, Vienna, Delegation to the
+                     Organization for Securtiy and Cooperation in Europe, Madrid, Athens, Ankara,
+                     Moscow, Bucharest, Belgrade and Prague.</note> from the Canadian Ambassador in
+                  Bonn, Thomas W. Delworth<note xml:id="e2521">Thomas W. Delworth (1929–2012), <ref target="https://dodis.ch/P51338">dodis.ch/P51338</ref>, Canadian Ambassador
+                     in Bonn 1987–1992.</note> , to the Canadian Department of External
+                  Affairs</title>
+               <title type="sub">German Reunification: The Street Speaks</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 6 December 1989</dateline>
+            </opener>
+            <p>Our German (West) interlocutors, such as Teltschik<note xml:id="e2536">Horst M.
+                  Teltschik (*1940), <ref target="https://dodis.ch/P57413">dodis.ch/P57413</ref>,
+                  Foreign policy advisor to the Chancellor of the FRG.</note> in Chancellor’s
+               office, repeatedly have stressed to us that while Bonn recognizes dangers in pursuing
+               reunification too precipitously and will remain loyal to its Western allies, it is
+               the people in the streets of the GDR who will play a decisive role in this
+               debate.</p>
+            <p>2. FRG electronic and print media is absorbed totally in what is happening next door.
+               There is one dramatic event after another as the political guillotine (without a
+               Robespierre) takes its toll. Krenz<note xml:id="e2544">Egon Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>, General Secretary of
+                  the SED 18.10.1989–3.12.1989 and Chairman of the GDR State Council
+                  18.10.1989–6.12.1989.</note> is now gone. Honecker<note xml:id="e2550">Erich
+                  Honecker (1912–1994), <ref target="https://dodis.ch/P46563">dodis.ch/P46563</ref>,
+                  General Secretary of the SED and chairman of the GDR State Council
+                  29.10.1976–18.10.1989.</note> is under house arrest. GDR state security apparatus
+               is under siege and the entire SED, including Modrow<note xml:id="e2556">Hans Modrow
+                  (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of
+                  the GDR Council of Ministers 13.11.1989–12.4.1990.</note>, appears discredited.
+               Banners calling for reunification are blossoming in greater numbers. There is talk of
+               advancing elections to May from the autumn and of a referendum on reunification.</p>
+            <p>3. But it is not only in the GDR streets that events are happening. In the FRG,
+               Bild-Zeitung (FRG and Europe’s largest circulation newspaper) yesterday ran a one
+               word, three inch high headline in national red, gold, and black colours “Einheit
+               (Unity)”. USA Ambassador Walters<note xml:id="e2564">Vernon A. Walters (1917–2002),
+                     <ref target="https://dodis.ch/P54605">dodis.ch/P54605</ref>, US Ambassador in
+                  Bonn 1989–1991.</note> made a public prediction that there will be a reunified
+               Germany with Berlin as its capital within five years and has sent the Bonn coffee and
+               cake Hausfraus crowd to gossiping about the merits of selling their houses in Bonn
+               before real estate prices in Berlin become too high.</p>
+            <p>4. On 05 December it was announced by Modrow and Seiters<note xml:id="e2572">Rudolf
+                  Seiters (*1937), <ref target="https://dodis.ch/P57431">dodis.ch/P57431</ref>,
+                  Minister without portfolio in the Government of the FRG 1989–1991.</note> of
+               Chancellor’s office that an agreement had been reached on removing visas and currency
+               changing requirements for West Germans visiting the East and setting up a currency
+               conversion mechanism and fund for East Germans travelling West (details in separate
+               telegram). This will result in massive two-way flow of Germans. A huge economic
+               assistance plan is under discussion (our telegram ZQGR2473 06 DEC<note xml:id="e2578">Not located.</note>). The CDU has announced that its next party conference in
+               January will be split, with the first session in Bad Krasnall in Bavaria and the
+               second in Leipzig, where it says there are many CSU supporters.</p>
+            <p>5. How far this integrative process, led primarily from below, will go is difficult
+               to predict. It is, however, proceeding apace while statesmen talk and muse about what
+               is and what is not possible.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

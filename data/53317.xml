@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="43">Rights, Responsibilities and approaches of the USSR in German Affairs</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53317</idno>
+                    </msIdentifier>
+                    <head>Rights, Responsibilities and approaches of the USSR in German Affairs</head>
+                    <msContents>
+                        <summary>The main priorities of the USSR relating to the unification of Germany are discussed in detail with particular reference to the impermissibility of its membership in the North Atlantic Alliance.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-03-29">29.3.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="ru">Russian</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57389">Kochemasov, Vyacheslav Ivanovich (1918–1998)</persName>
+                    <orgName ref="#R18390">USSR/Embassy in Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57389">Kochemasov, Vyacheslav Ivanovich (1918–1998)</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P2008">
+                        <persName>
+                            <forename>Konrad</forename>
+                            <surname>Adenauer</surname>
+                        </persName>
+                        <persName>Adenauer, Konrad</persName>
+                        <birth when="1876-01-05">
+                            <placeName>Köln</placeName>
+                        </birth>
+                        <death when="1967-04-19">
+                            <placeName>Rhöndorf</placeName>
+                        </death>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P2008</idno>
+                    </person>
+                    <person xml:id="P12756">
+                        <persName>
+                            <forename>Lothar</forename>
+                            <surname>Bolz</surname>
+                        </persName>
+                        <persName>Bolz, Lothar</persName>
+                        <birth when="1903-09-03"/>
+                        <death when="1986-12-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P12756</idno>
+                    </person>
+                    <person xml:id="P6140">
+                        <persName>
+                            <forename>Lucius D.</forename>
+                            <surname>Clay</surname>
+                        </persName>
+                        <persName>Clay, Lucius D.</persName>
+                        <birth when="1897"/>
+                        <death when="1978"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P6140</idno>
+                    </person>
+                    <person xml:id="P364">
+                        <persName>
+                            <forename>Maurice</forename>
+                            <surname>Couve de Murville</surname>
+                        </persName>
+                        <persName>Couve de Murville, Maurice</persName>
+                        <persName>Couve de Murville</persName>
+                        <birth when="1907-01-24">
+                            <placeName>Reims</placeName>
+                        </birth>
+                        <death when="1999-12-24">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P364</idno>
+                    </person>
+                    <person xml:id="P40671">
+                        <persName>
+                            <forename>Nikolaj</forename>
+                            <surname>Fedorenko</surname>
+                        </persName>
+                        <persName>Federenko, Nikolai T.</persName>
+                        <persName>Fedorenko, Nikolaj</persName>
+                        <birth when="1912"/>
+                        <death when="2000-10-02"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P40671</idno>
+                    </person>
+                    <person xml:id="P489">
+                        <persName>
+                            <forename>Andrej Andreevič</forename>
+                            <surname>Gromyko</surname>
+                        </persName>
+                        <persName>Gromyko, Andreï Andreïevitch</persName>
+                        <persName>Gromyko, Andrej Andreevič</persName>
+                        <persName>Gromyko, Andrei Andrejewitsch</persName>
+                        <persName>Gromiko, Andrej Andrejewitsch</persName>
+                        <persName>Gromyko, Andreï </persName>
+                        <persName>Gromyko, Andrei Andreievich</persName>
+                        <persName>Gromyko, Andrei Andreevich</persName>
+                        <persName>Gromyko, Andrej Andrejewitsch</persName>
+                        <birth when="1909-07-18">
+                            <placeName>Gomel</placeName>
+                        </birth>
+                        <death when="1989-07-02">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P489</idno>
+                    </person>
+                    <person xml:id="P13899">
+                        <persName>
+                            <forename>Christian</forename>
+                            <surname>Herter</surname>
+                        </persName>
+                        <persName>Herter, Christian</persName>
+                        <persName>Herter, Christian Archibald</persName>
+                        <birth when="1895"/>
+                        <death when="1966"/>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P13899</idno>
+                    </person>
+                    <person xml:id="P535">
+                        <persName>
+                            <forename>Adolf</forename>
+                            <surname>Hitler</surname>
+                        </persName>
+                        <persName>Hitler, Adolf</persName>
+                        <birth when="1889-04-20">
+                            <placeName>Braunau am Inn</placeName>
+                        </birth>
+                        <death when="1945-04-30">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P535</idno>
+                    </person>
+                    <person xml:id="P57389">
+                        <persName>
+                            <forename>Vyacheslav Ivanovich</forename>
+                            <surname>Kochemasov</surname>
+                        </persName>
+                        <persName>Kotschemassow, Wjatscheslaw Iwanowitsch</persName>
+                        <persName>Kochemasov, Vyacheslav Ivanovich</persName>
+                        <birth when="1918-09-18"/>
+                        <death when="1998">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57389</idno>
+                    </person>
+                    <person xml:id="P621">
+                        <persName>
+                            <forename>Marie Pierre</forename>
+                            <surname>König</surname>
+                        </persName>
+                        <persName>König, Marie Pierre</persName>
+                        <persName>Koenig, Pierre Marie</persName>
+                        <persName>Koenig, Pierre</persName>
+                        <birth when="1898"/>
+                        <death when="1970"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P621</idno>
+                    </person>
+                    <person xml:id="P13952">
+                        <persName>
+                            <forename>Selwyn</forename>
+                            <surname>Lloyd</surname>
+                        </persName>
+                        <persName>Lloyd, Selwyn</persName>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P13952</idno>
+                    </person>
+                    <person xml:id="P6141">
+                        <persName>
+                            <forename>Brian Hubert</forename>
+                            <surname>Robertson</surname>
+                        </persName>
+                        <persName>Robertson, Brian Hubert</persName>
+                        <birth when="1896"/>
+                        <death when="1974"/>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P6141</idno>
+                    </person>
+                    <person xml:id="P13452">
+                        <persName>
+                            <forename>Vladimir Semenovich</forename>
+                            <surname>Semyonov</surname>
+                        </persName>
+                        <persName>Semionov</persName>
+                        <persName>Semenov, Vladimir S.</persName>
+                        <persName>Semënov, Vladimir Semënovič</persName>
+                        <persName>Semyonov, Vladimir Semenovich</persName>
+                        <persName>Semjonow, Wladimir Semjonowitsch</persName>
+                        <birth when="1911-02-11"/>
+                        <death when="1992-12-18"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13452</idno>
+                    </person>
+                    <person xml:id="P11993">
+                        <persName>
+                            <forename>Valerian Aleksandrovič</forename>
+                            <surname>Zorin</surname>
+                        </persName>
+                        <persName>Zorine, Valerian Alexandrovitch</persName>
+                        <persName>Sorin, Walerian Alexandrowitsch</persName>
+                        <persName>Sorin, Walerian A.</persName>
+                        <persName>Zorine, Valerian Alexandrov</persName>
+                        <persName>Zorin, V. A.</persName>
+                        <persName>Zorin, Valerian Aleksandrovič</persName>
+                        <birth when="1902"/>
+                        <death when="1986"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P11993</idno>
+                    </person>
+                    <person xml:id="P2155">
+                        <persName>
+                            <forename>Georgij Konstantinovič </forename>
+                            <surname>Žukov</surname>
+                        </persName>
+                        <persName>Joukov, Gueorgui</persName>
+                        <persName>Schukow, Georgi Konstantinowitsch</persName>
+                        <persName>Жуков, Георгий Константинович</persName>
+                        <persName>Žukov, Georgij Konstantinovič </persName>
+                        <persName>Zukov, J.K.</persName>
+                        <persName>Zhukov, Georgy</persName>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P2155</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R519">
+                        <orgName>Allied Control Council</orgName>
+                        <idno type="URI">https://dodis.ch/R519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R3961">
+                        <orgName>Allied Kommandatura</orgName>
+                        <idno type="URI">https://dodis.ch/R3961</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R33481">
+                        <orgName>Berlin Air Safety Center</orgName>
+                        <idno type="URI">https://dodis.ch/R33481</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9416">
+                        <orgName>Berlin West/Magistrat</orgName>
+                        <idno type="URI">https://dodis.ch/R9416</idno>
+                        <placeName ref="#G3581">West Berlin</placeName>
+                    </org>
+                    <org xml:id="R8171">
+                        <orgName>Berlin/City Council</orgName>
+                        <idno type="URI">https://dodis.ch/R8171</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R804">
+                        <orgName>British Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R804</idno>
+                    </org>
+                    <org xml:id="R1508">
+                        <orgName>British Military Government in Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R1508</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R11201">
+                        <orgName>Deutschland/BRD/Polizei</orgName>
+                        <idno type="URI">https://dodis.ch/R11201</idno>
+                    </org>
+                    <org xml:id="R4421">
+                        <orgName>Deutschland/Parlamentarischer Rat</orgName>
+                        <idno type="URI">https://dodis.ch/R4421</idno>
+                    </org>
+                    <org xml:id="R1108">
+                        <orgName>France/Army</orgName>
+                        <idno type="URI">https://dodis.ch/R1108</idno>
+                    </org>
+                    <org xml:id="R95">
+                        <orgName>France/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R95</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R1557">
+                        <orgName>France/Occupation authority in Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R1557</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R27144">
+                        <orgName>Genfer Aussenministerkonferenz (1959)</orgName>
+                        <idno type="URI">https://dodis.ch/R27144</idno>
+                        <placeName ref="#G28">Geneva</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R8864">
+                        <orgName>Germany/FRG/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R8864</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R9496">
+                        <orgName>Germany/FRG/State</orgName>
+                        <idno type="URI">https://dodis.ch/R9496</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R10937">
+                        <orgName>Germany/GDR/State</orgName>
+                        <idno type="URI">https://dodis.ch/R10937</idno>
+                    </org>
+                    <org xml:id="R33000">
+                        <orgName>Germany/GDR/State News Agency</orgName>
+                        <idno type="URI">https://dodis.ch/R33000</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/GDR/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R130">
+                        <orgName>Great Britain/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R130</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R27165">
+                        <orgName>Pariser Verträge (1954)</orgName>
+                        <idno type="URI">https://dodis.ch/R27165</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R27207">
+                        <orgName>Potsdam Agreement (1945)</orgName>
+                        <idno type="URI">https://dodis.ch/R27207</idno>
+                        <placeName ref="#G131">Potsdam</placeName>
+                    </org>
+                    <org xml:id="R27204">
+                        <orgName>Potsdam Conference (1945)</orgName>
+                        <idno type="URI">https://dodis.ch/R27204</idno>
+                        <placeName ref="#G131">Potsdam</placeName>
+                    </org>
+                    <org xml:id="R9255">
+                        <orgName>URSS/Soviet Control Commission</orgName>
+                        <idno type="URI">https://dodis.ch/R9255</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>USA/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                    <org xml:id="R118">
+                        <orgName>USA/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R118</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R803">
+                        <orgName>USA/Office of Military Government for Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R803</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R18390">
+                        <orgName>USSR/Embassy in Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R18390</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                    <org xml:id="R922">
+                        <orgName>USSR/occupation authorities in germany</orgName>
+                        <idno type="URI">https://dodis.ch/R922</idno>
+                    </org>
+                    <org xml:id="R202">
+                        <orgName>United Nations</orgName>
+                        <idno type="URI">https://dodis.ch/R202</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G75">
+                        <placeName>Belgium</placeName>
+                        <location>
+                            <geo>50.5038874.469936</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G75</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G1380">
+                        <placeName>Central Europe</placeName>
+                        <location>
+                            <geo>49.8817.3</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1380</idno>
+                    </place>
+                    <place xml:id="G29">
+                        <placeName>China</placeName>
+                        <location>
+                            <geo>35.86166104.1954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G29</idno>
+                    </place>
+                    <place xml:id="G73">
+                        <placeName>Czechoslovakia</placeName>
+                        <location>
+                            <geo>50.08333314.416667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G73</idno>
+                    </place>
+                    <place xml:id="G138">
+                        <placeName>Denmark</placeName>
+                        <location>
+                            <geo>56.263929.501785</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G138</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G28">
+                        <placeName>Geneva</placeName>
+                        <location>
+                            <geo>46.198396.142296</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G28</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G5">
+                        <placeName>German Reich</placeName>
+                        <location>
+                            <geo>51.1656910.451526</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G5</idno>
+                    </place>
+                    <place xml:id="G719">
+                        <placeName>Germany/American Zone of Occupation (1945-1946)</placeName>
+                        <idno type="URI">https://dodis.ch/G719</idno>
+                    </place>
+                    <place xml:id="G753">
+                        <placeName>Germany/British Zone of Occupation (1945-1946)</placeName>
+                        <location>
+                            <geo>52.1824847.527744</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G753</idno>
+                    </place>
+                    <place xml:id="G720">
+                        <placeName>Germany/French Zone of Occupation (1945-1948)</placeName>
+                        <location>
+                            <geo>48.3980898.503325</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G720</idno>
+                    </place>
+                    <place xml:id="G77">
+                        <placeName>Italy</placeName>
+                        <location>
+                            <geo>41.8719412.56738</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G77</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.1326335.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G194">
+                        <placeName>Norway</placeName>
+                        <location>
+                            <geo>60.4720238.468946</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G194</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G131">
+                        <placeName>Potsdam</placeName>
+                        <location>
+                            <geo>52.39056813.064473</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G131</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                    <place xml:id="G298">
+                        <placeName>Yalta</placeName>
+                        <location>
+                            <geo>44.49520534.1663</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G298</idno>
+                    </place>
+                    <place xml:id="G69">
+                        <placeName>Yugoslavia</placeName>
+                        <location>
+                            <geo>43.818.4</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G69</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53317">dodis.ch/53317</ref>
+               <title type="main">Memo<note xml:id="e4813">Memo (translated from Russian):
+                        <idno>Archive of the Foreign Ministry of the Russian Federation АВП РФ, ф.
+                        742, оп. 35, п. 147, д. 6, л. 8–30</idno>.</note> by the Ambassador of the
+                  Soviet Union in East Berlin, Vyacheslav Kochemasov<note xml:id="e4816">Vyacheslav
+                     Kochemasov (1918–1998), <ref target="https://dodis.ch/P57389">dodis.ch/P57389</ref>, Ambassador of the Soviet Union in East Berlin
+                     1983–1.6.1990.</note>
+                    </title>
+               <title type="sub">Rights, Responsibilities and Approaches of the USSR in German
+                  Affairs</title>
+            </head>
+            <opener>
+               <dateline>East Berlin, 29 March 1990</dateline>
+            </opener>
+            <p>
+               <emph>1. The Four Powers’ responsibilities relating to Germany</emph>
+            </p>
+            <p>The rights and responsibilities of the Four Powers in relation to Germany have been
+               conditioned by the defeat of the fascist Reich and its unconditional surrender, as
+               well as by the occupation of German territory by the troops of the USSR, USA, Great
+               Britain and France.</p>
+            <p>The annexation of Germany was not part of the allies’ intentions (Declaration on the
+               Defeat of Germany, 5.6.1945): the responsibility of the Four Powers means their
+               obligations as agreed in particular at the Yalta (4.12.1945) and Potsdam
+               (17.7–2.8.1945) conferences “to guarantee that Germany will no longer be able to
+               disrupt peace in the world” (Yalta) and provide it with the chance “in due time to
+               take a place among free and peaceful peoples of the world” (Potsdam).</p>
+            <p>The responsibilities of the occupation authorities meant the implementation of the
+               principles of demilitarization, denazification, decartelization and democratization
+               of Germany, so that the German people would be ready for the “reconstruction of their
+               life on a democratic and peaceful basis” (Potsdam). The Four Powers assumed the
+               obligation to establish the “borders of Germany or any part of it”, and to determine
+               the “status of Germany or any region being at that moment part of the German
+               territory” (Declaration of 5.6.1945), which clearly refers to the preparation for “a
+               peaceful settlement for Germany” as envisaged by the Allies.</p>
+            <p>This responsibility of the Allies has been completely preserved until now. It has not
+               been affected by treaties and agreements of the USSR and the Three Powers on the
+               established German states and has been regularly confirmed by statements of all Four
+               Powers. The allies’ decisions and agreements affirming this responsibility also
+               remain fully in force (Yalta, Potsdam, the Declaration of 5.6.1945 and others).</p>
+            <p/>
+            <p>
+               <emph>2. The Four Powers rights in relation to Germany</emph>
+            </p>
+            <p>The rights of the Four Powers in relation to the defeated Germany in 1945–49 were
+               almost unlimited, since the occupation authorities assumed the supreme authority in
+               the German territory and the German people were to obey them unconditionally
+               (Declaration of 5.6.1945). Following the Agreement on the Control Mechanism in
+               Germany dated 14.2.1944, the exercise of supreme Power was entrusted both to the
+               commanders-in-chief of all Four Powers (within their zones of occupation) and to the
+               Control Council in Germany, which consisted of all four commanders-in-chief (on
+               questions regarding Germany on the whole).</p>
+            <p>The Powers of other governing bodies have been of a secondary nature, stemming from
+               the supreme authorities.</p>
+            <p>Considering that special attention was paid to the provision of “peace and security
+               in the future” the Four Powers particularly underscored their right to take measures
+               on the “complete disarmament and demilitarization of Germany” and to “deploy armed
+               forces and civil structures in any part of Germany or in all parts of Germany at
+               their discretion” (Declaration of 5.6.45).</p>
+            <p>Over time, the military administrations of the occupation zones have delegated their
+               authorities, though not fully, to the German self-governing bodies. In connection
+               with the formation in 1949 of the two German states, the administrations of the
+               respective occupation zones transferred their authorities to them, albeit not
+               completely.</p>
+            <p>On this issue the Soviet Union went much further than the three western Powers in
+               relation to the FRG. According to the statement made by the Chief of the Soviet
+               Military Administration in Germany (SMAG) on 10.10.1949 on behalf of the Soviet
+               government the SMAG’s “governing functions” were transferred to the Provisional
+               Government of the GDR, and the SMAG was replaced by the Soviet Control Commission
+               (SCC). It was envisaged that SCC’s “objective would be to monitor the implementation
+               of Potsdam and other joint decisions of the Four Powers in relation to Germany” and
+               we took notice of the commitment of the GDR to these decisions. The Constitution of
+               the GDR has not been authorized by us. However, the Statement was not the act of
+               recognition of the GDR for its functions as the Powers reserved to the USSR had not
+               yet been fully defined, which left plenty of opportunities both for the restoration
+               of our rights and for the strengthening of the GDR’s self-dependence. At that point,
+               this depended upon the Soviet side which in general preferred the second op‑
+               tion.</p>
+            <p>The Western Powers settled their relations and the distribution of authorities with
+               the FRG rather scrupulously. When approving the FRG Constitution worked out by the
+               Germans they made a few reservations to retain certain important rights – the
+               approval of future changes in the FRG Constitution, boundaries of the Federal
+               provinces, control over the external contacts of the FRG, activities of the police
+               structures, taking measures on demilitarization and decartelization, and monitoring
+               the “implementation” of “the very big Powers” of the Federal state to prevent “the
+               excessive concentration of Power” (The letter of military governors of the Western
+               occupation zones of Germany to the Chairman of the Parliamentary Council of Germany
+               K. Adenauer<note xml:id="e4852">Konrad Adenauer (1876–1967), <ref target="https://dodis.ch/P2008">dodis.ch/P2008</ref>, Chancellor of the FRG,
+                  1949–1963.</note> 12.5.1949 and Occupational Statute 10.4.1949, entered in force
+               21.9.1949).</p>
+            <p>Except for these and some other limitations, the FRG had the right “to exercise… full
+               legislative, executive and judicial Power” (Occupation statute). The provisions “on
+               the protection, prestige and security” of the troops of the Three Powers and covering
+               occupational expenses were also approved.</p>
+            <p>Technically, the USA, Great Britain and France preserved the occupation regime on FRG
+               territory. The FRG authorities were regarded as self-governing bodies, and the Three
+               Powers were represented by the Supreme Allied Commission that replaced military
+               administrations, reserving the right “to exercise sovereign Power fully or partially,
+               if they find it necessary to provide security and maintain democratic order in
+               Germany or to fulfill their governments’ international obligations” (Occupation
+               Statute). Despite the abolition or mitigation of the effects of certain restrictions
+               the aforementioned legal order remained in force in the FRG until 1955.</p>
+            <p>In 1954–55 the USSR and the three Western Powers officially granted sovereignty to
+               the GDR and the FRG, respectively. In May 1953, the Soviet control bodies (SCC)
+               transferred their control functions to the USSR High Commissioner, who was instructed
+               to “represent interests of the Soviet Union in Germany and to monitor the activities
+               of the GDR government bodies in terms of their efforts to fulfill their obligations
+               stemming from the decisions taken by the Allied Powers in Potsdam” (The Order of the
+               Council of Ministers of the USSR, published 29.5.1953).</p>
+            <p>In 1954 the Soviet Government made a Statement on relations between the GDR and the
+               USSR, declaring these relations to be “the same as with other sovereign states”, and
+               granting the GDR the ability “to be free to settle all its external and internal
+               affairs, including the relations with Western Germany, at its discretion”. We
+               reserved “functions related to the provision of security, proceeding from the USSR’s
+               obligations that stemmed from the Four Powers agreements” (which also limited the
+               functions of the USSR High Commissioner in Germany). The Soviet Government “took
+               note” of the GDR statement on the observation by this Republic of “the obligations
+               imposed on the GDR considering the Potsdam agreement, on the development of Germany
+               as a democratic and peace-loving state, as well as the obligations related to the
+               temporary deployment of Soviet troops on the territory of the GDR” (The Statement was
+               published 26.3.1954).</p>
+            <p>The Treaty on the relations between the USSR and the GDR of 20.9.1955 ended the state
+               of war with Germany, with a reservation that this “would not change its international
+               obligations and would not affect rights and obligations of the Soviet Union, stemming
+               from the current obligations of the Four Powers related to Germany at large”.</p>
+            <p>The Treaty on the relations between the USSR and the GDR of 20.9.1955 reiterated that
+               these were equitable and based on the “mutual respect of sovereignty and
+               non-interference in the internal affairs” and the GDR’s right to be free to decide
+               all its political issues. Clause 4 of the Treaty fixed the temporary deployment of
+               our troops in GDR “with the consent of its Government”, particularly on the condition
+               that these troops would not interfere in the GDR’s internal affairs. According to the
+               letters exchanged between the Deputy Foreign Minister of the USSR<note xml:id="e4870">Nikolai Fedorenko (1912–2000), <ref target="https://dodis.ch/P40671">dodis.ch/P40671</ref>, Deputy Foreign Minister of the Soviet Union,
+                  1955–1958.</note> and the Foreign Minister of the GDR<note xml:id="e4876">Lothar
+                  Bolz (1903–1986), <ref target="https://dodis.ch/P12756">dodis.ch/P12756</ref>,
+                  Minister of Foreign Affairs of the GDR, 1953–1965.</note> the GDR reserved the
+               right to monitor the movement of the “military personnel and the garrison shipments”
+               of the Three Powers in West Berlin between this town and the FRG “on the base of the
+               existing quadripartite decisions”. The USSR High Commissioner and his administration
+               were transformed into the Soviet Embassy in the GDR. The operation of the 1955 Treaty
+               has been limited only by the fact of the “restoration of the unified Germany as a
+               peace-loving and democratic state” or any changes made or its termination following
+               the voluntary stipulation of the parties.</p>
+            <p>It is absolutely clear from the entire set of documents for the period 1954–1955
+               (which are still in force) that in fact recognition of the GDR sovereignty was not as
+               full and unconditional as it appeared in the text of the 20.09.1955 Treaty. The USSR
+               functions in the GDR, as defined by the 1954 Statement, allow us more space as well
+               as the reservation on the USSR’s obligations following the 1955 Decree. When signing
+               the 20.09.1955 Treaty, the GDR had to proceed from these previous documents, so
+               following the formal and judicial logic its sovereignty and our obligations not to
+               interfere in the domestic affairs of the Republic cannot be considered absolute. It
+               is not excluded that in the current situation in the GDR and in German affairs at
+               large we will have to influence the events in one form or another. Thus, already it
+               would be expedient when talking about GDR sovereignty to refer to the Soviet
+               Statement of 1955 and the Decree of 1954 to bring these documents back in political
+               circulation.</p>
+            <p>(It should be taken into account that the Agreement on the issues relating to the
+               temporary stationing of Soviet troops on GDR territory authorizes the Soviet Command
+               to take measures to address threats to our troops, after “corresponding consultations
+               with the GDR Government, considering the current situation and measures taken by the
+               GDR authorities”. Тhis provision limits the freedom of our troops to act if
+               necessary. However it could be valid only when there is a “security threat” to our
+               troops. The obligations and rights of the USSR, as stipulated in the Order of
+               25.1.1955, are much broader than those needed as a legal base of our actions).</p>
+            <p>Тhe Western Powers also agreed to abandon the occupation regime in the FRG, giving
+               Bonn practically full sovereignty. The Paris Agreements signed 23.10.1954 and
+               entering into force on 5.5.1955 envisaged that the FRG “will be empowered with the
+               complete authority of a sovereign state in domestic and foreign affairs”(article 1 of
+               the Treaty on the relations between the FRG and the Three Powers). Тhe Тhree Powers
+               reserved “the rights and responsibilities in relation of Berlin and Germany as a
+               whole which they had previously had, including the reunification of Germany and peace
+               treaty settlement” as well as the deployment of their troops and provisions for their
+               security (Article 2 of the said treaty). At the same time a wide range of issues was
+               settled relating to conflict resolution between the Western Powers and the FRG
+               according to the Тreaty, the legal status of the military personnel deployed in
+               Germany, their financing, reparations and restitution, the decartelization and
+               limitations imposed earlier on industrial production and research, as well as on the
+               FRG military forces (in the context of demilitarization), and the obligation of Bonn
+               not to produce weapons of mass destruction was reaffirmed.</p>
+            <p>Considering their responsibility for Germany the US, Great Britain and France
+               reserved the right to take the necessary measures to provide security for their
+               troops in the FRG right up to the use of weapons on instructions from the military
+               authorities of the Three Powers (stipulated in in the 1952 Treaty on the relations
+               between the FRG and Three Powers, although abolished in 1968 because of the adoption
+               in the FRG of the so-called Emergency Legislation) and to monitor Soviet flights in
+               FRG airspace, as well as providing for mandatory “consultation” with the FRG on the
+               cancellation of the Control Council laws and on any issues related to the
+               implementation by the Three Powers of their “rights concerning Germany as a whole”.
+               The most important objectives of the US, Great Britain and France have been fixed by
+               the treaties, particularly the Peaceful Settlement, “which should become the basis
+               for the sustainable peace” as well as determining the final borders of Germany.
+               Before such an objective was achieved the Three Powers decided to focus their efforts
+               on “the reunification of Germany, integrated in the European community and enjoying a
+               free and democratic constitution like that existing in the FRG.”</p>
+            <p>Since then the USSR’s rights related to the GDR, the rights of the Three Powers
+               related to the FRG and the rights of all Four Powers related to Germany as a whole
+               have remained unchanged. Though the Soviet Union stated in its official notes dated
+               27.11.1958 and addressed to the US, Great Britain, France and the GDR that the
+               Protocol of Agreement on the zones of occupation in Germany and administration of
+               Greater Berlin dated 12.9.1944, along with associated additional agreements including
+               the Agreement on the Control Mechanism in Germany dated 1.5.1945, were “considered
+               currently null and void” (note addressed to the GDR) and “were null and void” (note
+               addressed to Three Powers). These documents defined the borders of the occupational
+               zones, established the Control Council and Inter-Allied Commandant’s Office in Berlin
+               as well as military liaison missions under the Commanders-in-Chief. Besides the last
+               question and the provisions related to Berlin, the settlement of these issues became
+               meaningless after the cancellation of the occupation regime and the termination of
+               the activities of the specified allied bodies on a quadripartite basis in 1948–1949,
+               and our withdrawal from the said agreements did not affect the rights and
+               responsibilities of the Soviet Union in German affairs. However the notes dated
+               27.11.1958 gave us the chance to interpret our wording in a certain way – and that
+               was pointed out in the notes addressed to Three Powers (not GDR) – that we “only
+               observed the following situation”, which should not be considered as an act of formal
+               denunciation. The statement also incorporated in these documents says that “the
+               Soviet Union can no longer consider itself bound with that part of the alliance
+               obligations, which became unequal and is used to strengthen the occupation regime in
+               West Berlin and to interfere in the GDR internal affairs.” In regard of the present
+               situation in Berlin we might consider this statement as untrue and irrelevant. The
+               USSR’s intention mentioned in the said note to conclude a separate peace treaty with
+               the GDR has never been realized, and this fact also could be a weighty argument for
+               the legal justification of our return to the said quadripartite agreements if
+               necessary. Besides, the Three Powers have never recognized the refusal of the Soviet
+               side with regard to its rights and obligations which facilitates our task.</p>
+            <p>As for our note addressed to the GDR, despite the categorical character of most of
+               its statements, it also does not preclude us from the restoration of our rights,
+               because the issue was only our (unrealized) intention to “transfer to the GDR
+               authorities all the functions temporarily executed by the Soviet authorities on the
+               basis of the said allied agreements and following the Agreement between the USSR and
+               the GDR from 20 September 1955 giving the GDR the right to manage issues related to
+               its territory, which means exercising its sovereignty on the land, in water and in
+               airspace”. This abstract shows that the Republic did not have such sovereignty, and
+               Soviet authorities maintained their functions. Since then the situation has not
+               changed.</p>
+            <p>It is important to take into account that the transfer of rights from all Four Powers
+               to the corresponding German states took place with the GDR and the FRG designated as
+               law subjects at every stage. If one or a few new German state entities were to
+               emerge, and considering the solution of the legal succession issue, any corresponding
+               bilateral or unilateral acts either become irrelevant, thus restoring the previous
+               legal regime, or are passed to the new legal subject. In this context, formal aspects
+               of possible unification are only growing in importance.</p>
+            <p/>
+            <p>
+               <emph>3. Rights and responsibilities of Four Powers towards Berlin</emph>
+            </p>
+            <p>The USSR and the three Western Powers follow fundamentally different legal approaches
+               in Berlin affairs. This explains the difference in their understanding of the nature,
+               scope and range of allied rights and responsibilities in relation to Berlin. The
+               legal reasoning here is built on the contradictory interpretations of the respective
+               wartime agreements and arrangements of the Four Powers. Here we mean primarily the
+               Protocol of the Agreement of the USSR, the United States and the United Kingdom on
+               the zones of occupation of Germany and the administration of “Greater Berlin” from
+               12.9.1944. The Protocol, inter alia, stipulates that “Germany will be divided for the
+               purposes of occupation in three zones, … and a special area in Berlin will be
+               selected to be occupied jointly by the Three Powers”.</p>
+            <p>In the understanding of the Soviet side, this and other rulings on Berlin have given
+               the city a special status within the zone of occupation of the USSR, establishing the
+               regime of joint quadripartite administration (France subsequently acceded to the
+               Protocol) in the city solely because of the placement of the Supreme Allied
+               Authority, the Control Council, in the capital of the defeated Germany. This did not
+               mean that the city became a type of fifth occupational zone, still remaining in the
+               occupation area of the USSR, but being detached from the rest of it only in so far as
+               was required by the practical needs of the administrative functions of each of the
+               Four Powers separately (in their sectors) or jointly (in Berlin as a whole).</p>
+            <p>Having decided to split Germany, the Three Powers blocked the functioning of the
+               quadripartite control bodies, which, in connection with our withdrawal from them
+               actually ceased to exist. Thus, the further presence of the United States, Britain
+               and France in the western sectors of Berlin lost their legal basis, and Berlin as a
+               whole, being originally a part of the Soviet occupation zone, had to be re-integrated
+               into it administratively and was thus subsequently transferred to the GDR, which was
+               created in 1949. However, by that time the Three Powers were firmly established in
+               West Berlin and added the split of Berlin to the split of Germany. Therefore the
+               USSR, unwilling to engage in open conflict, “tolerates” their presence in the Western
+               sectors, as well as the implementation by the administrations of the United States,
+               Britain and France of their occupation Powers in this part of the city. We retain,
+               however, in principle, our rights to Berlin as a whole to the extent that they have
+               not been transferred by us to the GDR.</p>
+            <p>The quadripartite Agreement of 3.9.1971, which was concluded in the light of the
+               “existing situation in the respective areas”, has fixed this situation “regardless of
+               differences in legal views”. Thus it did not provide the solution of legal disputes
+               and its clause on mutual respect of “individual and joint rights and
+               responsibilities” of the Four Powers meant recognition of these rights and
+               responsibility only de facto, not de jure.</p>
+            <p>The United States, the United Kingdom and France are of the opinion that Greater
+               Berlin has never belonged to the Soviet zone of occupation. In this connection they
+               cite the provisions of the Protocol of 12.9.1944, which established when dividing the
+               occupation zones, that the Eastern zone is “occupied by the armed forces of the USSR,
+               except for the Berlin area, for which a special occupation order is envisaged”. In
+               support of the western viewpoint they refer to the maps attached to the Protocol on
+               which the borders of Berlin are marked in the same way as the boundaries of the
+               occupation zones. Thus the conclusion is drawn that the presence of the United
+               States, Britain and France in Berlin is based on the same principles as in their
+               respective zones of occupation proceeding directly from the fact of their victory in
+               the war.</p>
+            <p>The withdrawal of the Soviet Union from the quadripartite control bodies did not
+               entail their liquidation, which in the case of Berlin meant the preservation of the
+               quadripartite Inter-Allied Commandants’ Office, which only due to factual
+               circumstances is now compelled to function only on a tripartite basis, limiting the
+               territorial sphere of its Powers to the western sectors of Berlin. The steps taken by
+               the Soviet Union in no way abolish the special quadripartite status of “Greater
+               Berlin”. The city still does not belong to any of the German states, and the Soviet
+               side bears full responsibility for the Eastern sector of Berlin, including the
+               implementation of allied decisions and agreements, which are still fully in force.
+               The USSR also has the right to return any time to the inter-allied Commandant’s
+               office, restoring its appropriate functioning in relation to Berlin as a whole.</p>
+            <p>In accordance with such an understanding of the status of Berlin and the judicial
+               interpretation of the current situation, the Three Powers retain their military
+               presence and occupational regime in the western part of the city. In connection with
+               the adoption of the Constitution of West Berlin in 1950 and with the entry in force
+               of the Paris Agreements in 1955, they handed over a significant portion of their
+               Power to the German municipal authorities. The Declaration of the Inter-allied
+               Commandant’s office on Berlin dated 5.5.1955 leaves absolute supremacy over the
+               authorities to the Three Powers. This is in addition to the exclusive competence of
+               the United States, Britain and France in matters relating to the deployment of
+               troops, occupational costs, disarmament, demilitarization and external relations (as
+               far as it is not provided to the German authorities), as well as police control to
+               provide security and reserves the right to intervene in areas such as restitution,
+               reparations, decartelization, foreign property, displaced persons and refugees and
+               persons convicted by union courts (tribunals); the occupation authorities have also
+               retained the right to revoke any laws of West Berlin and to accept, “if deemed
+               necessary, such measures as may be required to fulfill its international obligations,
+               to secure order and maintain the status and security of Berlin and its economy, trade
+               and communications”.</p>
+            <p>In the case of Berlin (Eastern and Western parts) the three signatories exercise
+               those rights that have been directly introduced or were mutually recognized in
+               practice by all four parties. These include, for example, the freedom of movement of
+               military personnel, as well as officers of the administrations and military liaison
+               missions of the United States, Great Britain and France over the entire territory of
+               “Greater Berlin”, their immunity from the control of German authorities (in the GDR
+               capital as well), military patrols etc., up to the right to freely operate flights
+               within the Berlin control zone.</p>
+            <p>The quadripartite responsibility also remains, in the western sense, a common one
+               with regard to Berlin as a whole. As for its content, according to the documents of
+               the wartime and post-war periods, it was not singled out from responsibility for
+               Germany and is identical with it. The specific element was introduced only by the
+               Quadripartite agreement, which envisages the obligations of its participants to
+               contribute to the “elimination of tension and prevention of complications in the
+               relevant area”, and a renunciation of the use of force, as well as unilateral changes
+               in the prevailing situation (part I).</p>
+            <p>This joint responsibility under the 1971 agreement is also seen by us as being
+               necessary due to existing realities, which does not change, however, the legal
+               position of the USSR, on which the responsibility for Berlin as a whole should in
+               principle coincide with the responsibility for the territory of the former Soviet
+               zone of occupation of Germany.</p>
+            <p>In connection with this formulation of the question of responsibility, we have not
+               tried to work out any specific and exhaustive definition of Soviet rights in relation
+               to Berlin. If we follow the logic of our legal position, then the city as a whole
+               should theoretically belong to the GDR, while only its eastern part is actually
+               integrated into the territory of the Republic. However, we did not formally commit to
+               any actions designed to transfer to the GDR the specific sovereignty over Berlin or
+               at least its eastern sector. It was implied at the time that our rights relating to
+               the GDR and Berlin were delegated to Germans in equal measure. It was no coincidence
+               that one of the notes sent by the USSR to the Three Powers stipulated that “in
+               accordance with the Treaty dated 20 September 1955 on relations between the USSR and
+               the GDR and related agreements, the GDR enjoys full powers in the territory under its
+               sovereignty, including its capital” (note of 26.9.1960). Consequently, the issue of
+               the rights of the USSR in the whole of Berlin should be settled on the same basis as
+               for the rest of the GDR (see para. 2).</p>
+            <p/>
+            <p>On the other hand, there remains some legal uncertainty. This is related to the fact
+               that de jure, the GDR’s possession of Berlin and its Eastern part has not been
+               directly fixed de facto in any document. This circumstance allows us in principle to
+               vary our legal position. It would be acceptable, in particular, to take the view that
+               the cessation of the functioning of the principal organs and elements of the
+               quadrilateral responsibility does not “automatically” lead to the return of the city
+               as a whole to the GDR. This view is supported by real circumstances (the activities
+               of the Berlin Air Safety Centre, the preservation of the unified airspace in the
+               Berlin control zone, the interaction of representatives of the Four Powers in Berlin,
+               their competence in matters of the Allies’ immunity, freedom of movement in both
+               parts of Berlin, presence of forces from the Three Powers in West Berlin and Soviet
+               forces in East Berlin), all of which testify to the special status of Berlin,
+               including the part that is de facto linked to the GDR.</p>
+            <p>Proceeding from these formal and legal considerations, even the above-mentioned
+               passage from the note from 26.9.1960 cannot be regarded (given its approach to the
+               question) as a withdrawal of the USSR from its rights in relation to Berlin or even
+               just the Eastern part of it. First of all, it means that the GDR only “uses” the
+               highest authority, and does not in fact possess it. The term “use” does not indicate
+               any final state of affairs and implies only a temporary transfer of rights and their
+               derivative nature. The fact that the “user” has such rights depends, in principle, on
+               the decision of the party, in this case the USSR, that granted these rights to the
+               “user”. Secondly, the reference to the 1955 Treaty and the “Zorin<note xml:id="e4928">Valerian Zorin (1902–1986), <ref target="https://dodis.ch/P11993">dodis.ch/P11993</ref>, Soviet diplomat.</note>-Bolz<note xml:id="e4934">Lothar
+                  Bolz (1903–1986), <ref target="https://dodis.ch/P12756">dodis.ch/P12756</ref>,
+                  Foreign Minister of the GDR 1953–1958.</note>” exchange of letters in connection
+               with it are of great importance here. The fact is that in the text of the treaty
+               itself, Berlin is not mentioned at all (the exchange of ratification instruments is
+               not considered here). The exchange of letters only agreed that the GDR would carry
+               out “guard and control at the borders of the GDR, on the demarcation between the GDR
+               and the FRG, on the outer edge of Greater Berlin, as well as on the traffic between
+               the FRG and West Berlin on the territory of the GDR” (with the exception of the
+               already mentioned movements between the FRG and West Berlin of military personnel and
+               military cargo of the Three Powers). This covers only the functions of border guard
+               and control, as specifically recorded in a communication of the ADN agency from
+               9.12.1955, which explicitly referred to this exchange of letters as “the Agreement on
+               protection and control of borders of the GDR”. The delegation of authorities relating
+               to the guard and control at borders does not mean the transfer of “full Power”.
+               Starting from the statement by the chief of SMAG from 10.10.1949 and up to the Treaty
+               of 20.9.1955, there are no agreements or unilateral acts of the USSR that directly
+               recognize that East Berlin belongs to the GDR, nor on the rights of the Republic in
+               this city. It is known that in the note from 27.11.1958, in which the USSR proposed
+               to give Berlin the status of “the demilitarized Free City”, we underscored when
+               outlining our position that “the most correct and natural solution of the question
+               would be that which would let the western part of Berlin be reunited with the eastern
+               part, making Berlin a consolidated city within the boundaries of the state on whose
+               land it is located”. At the moment, however, the Soviet side is consistently
+               referring to “East Berlin and the GDR”, which indicates that the status of these
+               territories is not defined by us as identical. This is also confirmed by some facts –
+               the preservation until the 1970s of the guard service on the outer edge of Berlin
+               (including the Eastern part), the special order of dispatch for the representatives
+               of the capital of the GDR to enter the People’s Chamber of the Republic and, until
+               1962, the existence of the Commandant’s Office in the Soviet garrison in Berlin and
+               the special status of the capital of the GDR under national military law. It is
+               interesting to note that at the Geneva meeting of the Foreign Ministers of the Four
+               Powers in1959, attended by both the GDR and FRG, the delegation from the GDR took
+               advantage of this formula, in accordance with which East Berlin only “performs the
+               functions of the GDR capital”, although it objected to the proposal of the Western
+               representatives to extend international control over this part of the city, pointing
+               out that it was inadmissible for the GDR “to make its sovereignty a subject of
+               discussion and, especially, of violations” (Statement by L. Bolz from 16.7.1959). It
+               would be advantageous for us, under the present circumstances, to devote some effort
+               to ensuring a special status for Berlin, especially its Eastern part, in light of the
+               “claims” of the GDR. With a view to the forthcoming unification of Germany, we could
+               also significantly strengthen our positions on German affairs in the talks on its
+               settlement. Such a view of the city’s legal position would also bring a rapprochement
+               with the Western Powers, which they would welcome. Objections can in principle only
+               be expected from the GDR and these would entail a number of practical issues related
+               to the “restoration” of the special status of its capital (direct elections to
+               Parliament, the status of the Deputies from East Berlin, the dissemination of laws
+               and Government decisions, etc., roughly the same as in the relations between West
+               Berlin and the FRG).</p>
+            <p>In this regard, it is important to determine the conditions under which such an
+               interpretation would be appropriate and necessary for the protection of our interests
+               in Berlin and in German affairs in the light of this perspective of the unification
+               of the GDR and the FRG, as well as of Berlin itself.</p>
+            <p>And this concerns, obviously, the case of accession of the GDR to the FRG under
+               article 23 of the Bonn Basic Law. The fact is that such an act of the GDR would
+               extend, in its understanding, not only to the eastern part of the city, but
+               theoretically also to Berlin as a whole, which would then automatically be considered
+               by the Germans as an integral part of Germany. If we do not accept the above
+               interpretation, we would have to accept the validity of such an act in relation to
+               East Berlin, although not to the western sectors for which this accession is
+               expressly prohibited by the Quadripartite Agreement. The legal separation of Berlin
+               from the GDR would allow us, perhaps, to discipline the Germans without resorting to
+               extreme measures (for example, to the full or partial restoration of the rights of
+               the USSR in the GDR) and not to the practical elimination of our positions in the GDR
+               and Berlin in the event of such an accession of the GDR to the FRG.</p>
+            <p>A similar need for the isolation of Berlin may arise at the unification of the two
+               German states due to some other act that could invoke a similar need for the
+               elaboration of the special status of Berlin if this happens before the development of
+               a multilateral settlement, bringing into question the Soviet presence and the rights
+               of the USSR in relation to Germany or in some other way violating our interests.</p>
+            <p/>
+            <p>An important argument in favor of such an interpretation is the fact that the legal
+               position of the Soviet troops deployed in the eastern part of the city would acquire
+               a special character, different from the Western Group of Troops (WGT). The questions
+               such as their continued stay in Berlin, their reduction etc. would have to be
+               resolved in this case on a separate basis, and solutions connected with the WGT would
+               not apply to our Berlin contingent. Thus we would have the opportunities to preserve
+               the material rights of the USSR related to Berlin and connected with our military
+               presence and in general provide us with a real force that is able to carry out, if
+               necessary, the previously mentioned extreme measures to protect Soviet interests.</p>
+            <p>The most expedient option for us would be to accept as a basis of our behavior in
+               Berlin affairs the legal reasoning of the Western Powers, following which this city
+               enjoys a special status different from those of either German state. Its position is
+               so dependent upon the Four Powers (the 1955 Declaration on Berlin), that it excludes
+               any independent steps by Berlin in connection with the unification of Germany. The
+               open transition to the positions of the United States, Great Britain and France
+               should, however, be accompanied by the restoration of the rights of the USSR in East
+               Berlin, or at least by our return to the Inter-allied Commandant’s Office, which
+               would once again acquire the authority relating to the eastern Sector within the
+               decision-making on Berlin as a whole. We should avoid the impression of revival in
+               any form of the occupation regime or its separate elements. For this reason, it would
+               be sufficient to limit this, where appropriate, to the confirmation of common
+               quadripartite responsibility in regard to Berlin as a whole and as a practical step
+               to resume our participation in some minor joint actions of the victorious Powers (for
+               example, in ceremonies for the reception of consular executives). If possible, it
+               would be better to avoid the restoration of a Soviet presence in the Inter-allied
+               Commandant’s Office, instead proposing to the Three Powers to exercise such joint
+               responsibility at the political level within the framework of the interaction between
+               their administrations and our embassy in the GDR. This does not, of course, exclude
+               the development of contacts on the military side, but without formalizing them as
+               part of the quadripartite structure.</p>
+            <p>The transition in such a way to the legal position of the Three Powers will greatly
+               facilitate mutual understanding during the negotiations on German unification, not
+               only in the case of Berlin, but also for the whole complex of issues arising in
+               relation to Germany. Following the logic of our current position, we will also escape
+               the need to declare our own rights with regard to Berlin or its Eastern part, which
+               would block the achievement of consensus in the negotiation process as such. It would
+               be advisable to take this step in the near future, because, for example, given the
+               attempts of the Federal Republic of Germany to bring about direct elections in West
+               Berlin for the Bonn Bundestag, there is a need to prevent violations of the
+               quadripartite agreement of 3.9.1971, and first of all its provision specifying the
+               non-affiliation of West Berlin with the FRG. This ruling is, in principle, the last
+               but at the same time the most clear legal statement that prevents the “Anschluss” of
+               Berlin with the FRG, even if the GDR should accede under article 23 of the Basic Law.
+               Having joined the legal stand of the Three Powers, it is important for us to put them
+               in a position where the possible claims of the GDR to East Berlin and its involvement
+               in the process of German unification without proper settlement become issues for all
+               four allies, not just the USSR. This will make Berlin a sort of a regulator of the
+               process of the merger of the GDR and the FRG, which should be exclusively in the
+               hands of the Four Powers and would act to stabilize and safeguard the interests of
+               all the parties concerned.</p>
+            <p/>
+            <p>
+               <emph>4. The mechanism for resolving the German issue</emph>
+            </p>
+            <p>The postwar quadripartite agreements which are still in force provide a very clear
+               procedure for the final resolution of all issues related to the defeat of Germany in
+               the Second World War. At the conference in Potsdam, the USSR, the United States and
+               the United Kingdom agreed that this should happen within the framework of a peaceful
+               settlement (a peace treaty was implied) for Germany. Preparation of “the relevant
+               document” was assigned to the Council of Foreign Ministers (CFM) consisting of the
+               “members representing the States which signed the conditions of surrender, dictated
+               to the Enemy state and concerned with that task”. Concerning Germany, such states are
+               the Four Powers that signed the Act of surrender of the German armed forces and
+               subsequently adopted the Declaration on the Defeat of Germany, having thus assumed
+               supreme power over Germany. It should, however, be taken into account that the Three
+               Allied Powers invited not only France, but also China to sign the text of the Potsdam
+               Agreement and the establishment of the CFM, and this issue may in principle arise
+               later on if the German settlement is to be conducted on the formal basis of the
+               Potsdam decisions.</p>
+            <p>It is essential to keep in mind that by the time of the military surrender of Germany
+               they were at war with more than 50 states in the anti-Hitler<note xml:id="e4962">Adolf Hitler (1889–1945), <ref target="https://dodis.ch/P535">dodis.ch/P535</ref>, Führer of the German Third Reich 1933–1945.</note>
+               coalition. So it cannot be ruled out that they take an interest in participating in a
+               peaceful settlement and will make their own respective demands. The Potsdam
+               agreements, however, do not envisage the mandatory bringing of these countries to the
+               conclusion of a peace treaty, leaving room for other forms of considering their
+               interests. The conference, for example, has obliged the CFM “when examining an issue
+               which is a matter of interest for a State” that is not represented in the Council, to
+               invite such a State, but only “to take part in the discussion and study of the said
+               issue”. In addition, the CFM may convene an “official conference of states most
+               interested in solving any given problem”, which apparently is not part of its duties.
+               Thus, the involvement of other states in a peaceful settlement is either left to the
+               discretion of the Four Powers, or is limited to a preliminary examination of the
+               relevant specific individual issues. It is important for us to note therefore that
+               the Four Powers have the right to solve the problems of peaceful settlement by
+               themselves “in the final analysis”, if they do not find it necessary to convene the
+               above mentioned “official conference”, the composition of which they will be free to
+               decide.</p>
+            <p>As for Germany, it should accept, according to the Potsdam agreement, a peace treaty
+               prepared by the USSR, USA, Great Britain and France. This function was assigned to
+               the “German government suitable for this purpose”. Thus, it was implied that the
+               suitability of such a government should be recognized by the victorious powers, which
+               would decide the issue at their own discretion (by prior agreement with each other),
+               or should be recognized by the “official conference” of the broader composition.</p>
+            <p>The formula used in Potsdam on the “suitable … Government of Germany”, clearly
+               implies that there should be an overall German Government by the time of the adoption
+               of the Peace Treaty. What was quite natural at the conference of the USSR, the United
+               States and Great Britain, now, given the the conditions of existence of two sovereign
+               German states, raises a question about the correlation of terms of unification of the
+               GDR and the FRG and of the time frame of the German settlement, as well as the
+               recognition of both their governments’ authority to adopt a peace treaty.</p>
+            <p>The position of the Western Powers, formulated as early as the 1950s, has been the
+               need for a preliminary unification of Germany (under the control of the Four Allies),
+               the government of which should comply with the provisions of the Peace Treaty
+               envisaged in Potsdam. The Soviet Union believed, on the contrary, that it would be
+               necessary to reach a peaceful settlement even before the unification of the two
+               German states, either by signing a relevant document with both Governments, or two
+               separate treaties with each (because the FRG claims to be the sole representative of
+               all Germans). The Four Powers, however, have agreed to engage the GDR and the FRG in
+               the solution to the German problem at the preparatory stage, which was confirmed by
+               the participation of the GDR and the FRG representatives in the Geneva Foreign
+               Ministers meeting of the USSR, the United States, Britain and France in 1959,
+               although the Western Powers considered these representatives to be present only as
+               “advisers”. Now it appears easier to resolve the issue of a peaceful settlement,
+               since previously the main obstacle was the refusal of the Western Powers to recognize
+               the GDR as a sovereign state. The United States, Britain and France are unlikely to
+               postpone a peaceful settlement after the unification of the two German states.</p>
+            <p>However it cannot be excluded that in the West the preference would be given to some
+               other options that do not involve the signing of a formal peace treaty with Germany
+               stemming, for example, from the fact that the state of war with Germany has already
+               been terminated by unilateral statements made by all the members of the anti-Hitler
+               conflict in the early 1950s. From a legal point of view, such “Ersatz” that in any
+               way differ from a peaceful settlement could not be the final solution to the whole
+               complex of problems associated with Germany’s defeat in the Second World War.
+               According to the current Allied agreements, many questions have expressis verbis been
+               left specifically for the peace treaty. The final and legally indisputable solution
+               of the German problem can be reached only in this form, on which we should insist and
+               which, in all likelihood, would be in the interests of the majority of the European
+               countries.</p>
+            <p>The Ottawa document agreed by the Four Powers and the two German states does not
+               contradict the decisions of the Potsdam Conference. The new model envisages
+               “meetings” at the level of the Foreign Ministers of the said six countries “to
+               discuss the external aspects of the structure of German unity, including the issue of
+               the security of neighboring states”. Such “meetings for discussions”, however, cannot
+               be tantamount to negotiations on a peaceful settlement, and therefore fit well into
+               the Potsdam framework. On the basis of the 1945 decisions we could also take a rather
+               advantageous and attractive position in the political sense by advocating the
+               inclusion in the model envisaged by Potsdam of such countries as Poland,
+               Czechoslovakia, Denmark, the Netherlands, Belgium and others in the further
+               discussions (planned after those in Ottawa).</p>
+            <p>In the light of the Potsdam Conference and the Ottawa decisions, the process of
+               preparing and concluding a German peace settlement could be divided into several
+               stages. The first of these would be the preliminary consultations of experts and the
+               meeting of the USSR, the USA, Great Britain and France, with the GDR and the FRG
+               representatives at the Foreign minister level as agreed in Ottawa. This would
+               contribute to the initial elaboration of a certain range of issues, after which it
+               would be possible to convene – again in accordance with the Potsdam decisions – the
+               “official conference” of the most interested States, including the GDR, the FRG and
+               the neighboring countries. This conference would be empowered to conclude the peace
+               treaty in its final form. The final stage would be to endorse this document at the
+               meeting of the CSCE with states participating at the highest level, which would,
+               without any detailed reconsideration of the Treaty, recognize and confirm the
+               conclusion of the German peace settlement by issuing a special act or a declaration.
+               Then all these documents could be registered at the UN. Within the framework of the
+               proposed procedure we would obviously seek to strengthen the interaction of the Four
+               Powers, which would serve as a kind of “rod” supporting the entire negotiating
+               mechanism. It is possible to encourage and invite the Three Powers to such
+               cooperation from the Soviet side, as the Potsdam decisions envisage preliminary
+               discussions among the members of the Council of Ministers of Foreign Affairs “before
+               the involvement of other interested States”, although this is not necessary.
+               Depending on the position of the future GDR government, it would be advisable for us
+               to come to a preliminary agreement with it on the relevant issues.</p>
+            <p>It appears that we do not seem to be able to avoid widening the circle of
+               participants in the talks on the German peace settlement, although this could hinder
+               quick and effective negotiations. It is known that a number of States have already
+               expressed their interest in participating (Poland, Italy, Yugoslavia, Norway). The
+               Four Powers, according to the Potsdam agreements, will not be able to shy away, at
+               least formally, from the participation of such countries in the consideration of
+               certain specific issues. It cannot, however, be ruled out that some countries may
+               insist on equal access to the negotiation process as a whole. Their exclusion from
+               the settlement of the German problem could cause serious problems afterwards, if some
+               of Parties question its legality precisely because of the refusal to invite them to
+               the settlement of issues of the unification of Germans together with the most
+               interested States.</p>
+            <p>There is a serious chance that the process of rapprochement between the two German
+               states will proceed at a very rapid pace, leading to their unification even before or
+               during the formal negotiations on a peaceful settlement. The creation of a united
+               Germany in such a case will put before the Four Powers the question of their rights
+               in it (responsibility persists) and, therefore, how it should be treated as the
+               process of achieving a peaceful settlement evolves. The range of solutions to this
+               problem extends theoretically from the full restoration of allied rights, which
+               consequently would mean the perception of such a unified state as the object of the
+               negotiations before the recognition of its sovereignty, as is already the case of the
+               FRG and the GDR, to its consideration as an equal party to the negotiations, i.e.
+               their subject. The choice of any of the options will obviously depend on the specific
+               circumstances of the unification of the two German states, and for the time being it
+               is practically impossible to predict the character of such circumstances in their
+               entirety. At the same time, the Four Powers are entitled, by virtue of their
+               responsibilities for Germany, to define for themselves their approach towards the
+               emerging unified state. However, it is impossible to exclude that in the case of the
+               unification of the GDR and the FRG, the USSR, the United States, Great Britain and
+               France will not be able to avoid the involvement of other participants in the
+               consideration of the question of the identity of the new German state and its
+               recognition as an equal party to the settlement. Some sort of guarantee to prevent
+               the emergence of this complex of problems could be provided by the obligation
+               undertaken by the participants in the talks even before the negotiation process
+               starts not to change the existing situation and not to contribute to its change.</p>
+            <p/>
+            <p>
+               <emph>5. The subject and form of a peaceful settlement</emph>
+            </p>
+            <p>The range of issues to be included in a peaceful settlement is predetermined by the
+               Allied decisions in their most general form. The declaration of the defeat of Germany
+               envisages the establishment of the borders and the statute of Germany or any part of
+               it. The Potsdam Accords directly stipulated the inclusion of the two border issues on
+               the agenda for a peaceful settlement – the western border of Poland and the border of
+               the Königsberg district.</p>
+            <p>As for the “statute” of Germany, the list of related problems is obviously
+               conditioned by the responsibility of the Four Powers for German affairs, primarily
+               their responsibility for the provision of a democratic system and ensuring the
+               peace-loving nature of the German State. This should take into account the basic
+               principles of the Potsdam demilitarization, denazification, decartelization and
+               democratization of Germany, as well as the implementation, or conditions of
+               implementation that would necessarily be embodied in the peace settlement.</p>
+            <p>The situation which emerged in Germany and around Germany in the post-war period will
+               inevitably require amendments to this settlement. The education and long-term
+               development of the two independent German states on different tracks, with various
+               international ties and commitments, raises rather important questions of succession,
+               belonging to different alliances (blocks) and international organizations.</p>
+            <p>In view of the existence of special Allied rulings on Berlin, this issue is also
+               subject to a special dispute resolution within the framework of a peaceful
+               settlement. A necessary element of a peaceful settlement, in the final analysis, must
+               be to ensure the absolutely equal status of Germany in the international community.
+               In this regard, the peaceful settlement must repeal the rights and responsibilities
+               of the Four Powers relating to Germany, as well as confirming the cessation of the
+               state of war with Germany and of the occupational regime there.</p>
+            <p/>
+            <p>A necessary element of a peaceful settlement should be the establishment of a
+               mechanism to monitor and verify the implementation of the relevant agreements. It
+               would be expedient to also include in the settlement some decisions regarding the
+               basis of the further development of relations between its participants.</p>
+            <p>In the event that the unification of the two German states does not take place prior
+               to reaching a peace settlement, it would be necessary to introduce into this
+               settlement provisions affirming the right of the German people to self-determination
+               and the establishment of a unified state. Here, it is necessary to specify that after
+               their unification the GDR and the FRG will ensure the legal continuity of a German
+               state in terms of a peaceful settlement.</p>
+            <p>The form of a peaceful settlement has not been clearly determined by Allied
+               decisions, although one may find references to the peace treaty in some documents
+               (the Potsdam agreements in particular). This issue may be resolved depending upon its
+               mechanism, its content and its specific circumstances at the discretion of the
+               parties to the settlement. It would probably be technically difficult to accept a
+               single “all-inclusive document”. For that reason this could be a question of drafting
+               a number of documents whose legal status may coincide or differ. In such cases they
+               should be combined in decisions ensuring the integrity of the whole complex of
+               settlements and the mutual coherence of respective documents.</p>
+            <p>Considering that at the present time, when almost 45 years have passed since the end
+               of the Second World War, the formalization of a settlement in connection with the
+               unification of Germany as a “peace” settlement could be perceived (primarily by
+               Germans) as an anachronism, the solution of the whole set of issues should be given a
+               different image (leaving intact the subject of the settlement). It is expedient to
+               resort in this case to more general designations of the settlement itself (Act,
+               Charter, Code, etc.) and its territorial coverage (Central Europe, Europe).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

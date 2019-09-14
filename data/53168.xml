@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="1">Memorandum Concerning the Citizens of the German Democratic Republic who Remain at the Embassy of the Federal Republic of Germany in Warsaw</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>53168</idno>
+                    </msIdentifier>
+                    <head>Memorandum Concerning the Citizens of the German Democratic Republic who Remain at the Embassy of the Federal Republic of Germany in Warsaw</head>
+                    <msContents>
+                        <summary>Information concerning Polish-West German talks about over 50 East German citizens staying at the West German Embassy in Warsaw. How possible solutions could impact Poland’s relations with the GDR and the FRG are discussed.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-09-14">14.9.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P53484">Fekecz, Janusz (1930–)</persName>
+                    <orgName ref="#R8541">Poland/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P53484">Fekecz, Janusz (1930–)</persName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P44031">
+                        <persName>
+                            <forename>Józef</forename>
+                            <surname>Czyrek</surname>
+                        </persName>
+                        <persName>Czyrek, Józef</persName>
+                        <persName>Czyrek, Josef</persName>
+                        <birth when="1928-07-20">
+                            <placeName>Białobrzegi</placeName>
+                        </birth>
+                        <death when="2013-06-03">
+                            <placeName>Łańcut</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P44031</idno>
+                    </person>
+                    <person xml:id="P53484">
+                        <persName>
+                            <forename>Janusz</forename>
+                            <surname>Fekecz</surname>
+                        </persName>
+                        <persName>Fekecz, Janusz</persName>
+                        <birth when="1930"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P53484</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P57383">
+                        <persName>
+                            <forename>Dieter</forename>
+                            <surname>Kastrup</surname>
+                        </persName>
+                        <persName>Kastrup, Dieter</persName>
+                        <birth when="1937-03-11">
+                            <placeName>Bielefeld</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57383</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P50550">
+                        <persName>
+                            <forename>Bolesław</forename>
+                            <surname>Kulski</surname>
+                        </persName>
+                        <persName>Kulski, Bolesław</persName>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P50550</idno>
+                    </person>
+                    <person xml:id="P50485">
+                        <persName>
+                            <forename>Jerzy</forename>
+                            <surname>Mąkosa</surname>
+                        </persName>
+                        <persName>Mąkosa, Jerzy</persName>
+                        <persName>Makosa, Jerzy</persName>
+                        <sex>unspecified</sex>
+                        <idno type="URI">https://dodis.ch/P50485</idno>
+                    </person>
+                    <person xml:id="P57583">
+                        <persName>
+                            <forename>Franz Joachim</forename>
+                            <surname>Schoeller</surname>
+                        </persName>
+                        <persName>Schoeller, Franz Jochen</persName>
+                        <persName>Schoeller, Franz Joachim</persName>
+                        <birth when="1926-06-24"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57583</idno>
+                    </person>
+                    <person xml:id="P57377">
+                        <persName>
+                            <forename>Krysztof</forename>
+                            <surname>Skubiszweski</surname>
+                        </persName>
+                        <persName>Skubiszewski, Krzysztof Jan</persName>
+                        <persName>Skubiszweski, Krysztof</persName>
+                        <birth when="1926-10-08">
+                            <placeName>Poznan</placeName>
+                        </birth>
+                        <death when="2010-02-08">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57377</idno>
+                    </person>
+                    <person xml:id="P57584">
+                        <persName>
+                            <forename>Jerzy</forename>
+                            <surname>Sułek</surname>
+                        </persName>
+                        <persName>Sułek, Jerzy</persName>
+                        <persName>Sulek, Jerzy</persName>
+                        <birth when="1939"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57584</idno>
+                    </person>
+                    <person xml:id="P57585">
+                        <persName>
+                            <forename>Lech</forename>
+                            <surname>Wałęsa</surname>
+                        </persName>
+                        <persName>Walesa, Lech</persName>
+                        <persName>Wałęsa, Lech</persName>
+                        <birth when="1943-09-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57585</idno>
+                    </person>
+                    <person xml:id="P57587">
+                        <persName>
+                            <forename>Jürgen van</forename>
+                            <surname>Zwoll</surname>
+                        </persName>
+                        <persName>Zwoll, Jürgen van</persName>
+                        <birth when="1939"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57587</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R33508">
+                        <orgName>Germany/FRG/Embassy in Budapest</orgName>
+                        <idno type="URI">https://dodis.ch/R33508</idno>
+                        <placeName ref="#G8">Budapest</placeName>
+                    </org>
+                    <org xml:id="R31919">
+                        <orgName>Germany/FRG/Embassy in Prague</orgName>
+                        <idno type="URI">https://dodis.ch/R31919</idno>
+                        <placeName ref="#G71">Prague</placeName>
+                    </org>
+                    <org xml:id="R22209">
+                        <orgName>Germany/FRG/Embassy in Warsaw</orgName>
+                        <idno type="URI">https://dodis.ch/R22209</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R32124">
+                        <orgName>Germany/FRG/Permanent Representation in East Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R32124</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25466">
+                        <orgName>Germany/FRG/Red Cross</orgName>
+                        <idno type="URI">https://dodis.ch/R25466</idno>
+                    </org>
+                    <org xml:id="R9496">
+                        <orgName>Germany/FRG/State</orgName>
+                        <idno type="URI">https://dodis.ch/R9496</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R10937">
+                        <orgName>Germany/GDR/State</orgName>
+                        <idno type="URI">https://dodis.ch/R10937</idno>
+                    </org>
+                    <org xml:id="R8">
+                        <orgName>Hungary/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R8</idno>
+                        <placeName ref="#G8">Budapest</placeName>
+                    </org>
+                    <org xml:id="R182">
+                        <orgName>Hungary/State</orgName>
+                        <idno type="URI">https://dodis.ch/R182</idno>
+                        <placeName ref="#G8">Budapest</placeName>
+                    </org>
+                    <org xml:id="R69">
+                        <orgName>International Committee of the Red Cross</orgName>
+                        <idno type="URI">https://dodis.ch/R69</idno>
+                        <placeName ref="#G28">Geneva</placeName>
+                    </org>
+                    <org xml:id="R8541">
+                        <orgName>Poland/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R8541</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R8109">
+                        <orgName>Poland/Red Cross</orgName>
+                        <idno type="URI">https://dodis.ch/R8109</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R884">
+                        <orgName>Polen/Staat</orgName>
+                        <idno type="URI">https://dodis.ch/R884</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G8">
+                        <placeName>Budapest</placeName>
+                        <location>
+                            <geo>47.49791319.040236</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G8</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G28">
+                        <placeName>Geneva</placeName>
+                        <location>
+                            <geo>46.198396.142296</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G28</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G71">
+                        <placeName>Prague</placeName>
+                        <location>
+                            <geo>50.0755414.4378</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G71</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/53168">dodis.ch/53168</ref>
+               <title type="main">Draft memo<note xml:id="e47">Draft memo (translated from Polish):
+                        <idno>Archives of the Polish Ministry of Foreign Affairs AMSZ, Dep. IV
+                        31/92, w. 3.</idno>
+                        </note> by the Director of the 4<hi>th</hi> Department of
+                  the Polish Ministry of Foreign Affairs, Janusz Fekecz<note xml:id="e53">Janusz
+                     Fekecz (*1930), <ref target="https://dodis.ch/P53484">dodis.ch/P57377</ref>,
+                     Polish Minister of Foreign Affairs 12.9.1989–26.10.1993.</note>
+                    </title>
+               <title type="sub">Memorandum Concerning the Citizens of the German Democratic
+                  Republic who Remain at the Embassy of the Federal Republic of Germany in
+                  Warsaw</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Warsaw, 14 September 1989</dateline>
+            </opener>
+            <p n="1">I. On 13 September, Minister K. Skubiszewski<note xml:id="e67">Friedrich Bauer
+                  (*1930), <ref target="https://dodis.ch/P51060">dodis.ch/P51060</ref>, Austrian
+                  Ambassador in Bonn 1986–1990.</note> received the Director of the MFA’s Political
+               Department Kastrup<note xml:id="e73">Dieter Kastrup (*1937), <ref target="https://dodis.ch/P57383">dodis.ch/P57383</ref>, Political Director in
+                  the FRG Foreign Ministry, 1988–1991 and head of delegation to the 2+4
+                  conference.</note>, who arrived in Poland as Minister Genscher’s<note xml:id="e79">Hans-Dietrich Genscher (1927–2016), <ref target="https://dodis.ch/P15414">dodis.ch/P15414</ref>, Vice-Chancellor and Minister for Foreign Affairs of the
+                  FRG 1.10.1982–17.5.1992.</note> special envoy to discuss the group of GDR citizens
+               remaining at the FRG Embassy in Warsaw. The talks were also attended by Ambassador
+                  Schoeller<note xml:id="e85">Franz Jochen Schoeller (*1926), <ref target="https://dodis.ch/P57583">dodis.ch/P57583</ref>, Ambassador of the FRG
+                  in Warsaw 1987–1989.</note> and Deputy Director of the MFA’s 4<hi>th</hi>
+               Department Sułek<note xml:id="e94">Jerzy Sułek (*1939), <ref target="https://dodis.ch/P57584">dodis.ch/P57584</ref>, Deputy Director of the
+                     4<hi>th</hi> Department in the Ministry of Foreign Affairs and from May 1990
+                  Director of the Polish MFA’s Europe Department.</note>.</p>
+            <p>Director Kastrup explained that the aim of his trip to Poland was to hold talks with
+               over 50 GDR citizens who are currently at the FRG Embassy in Warsaw and seeking to
+               leave for the FRG for a permanent stay, and to present the official position of the
+               West German side to the Polish authorities.</p>
+            <p>He referred to a conversation between Minister Genscher and L. Wałęsa<note xml:id="e107">Lech Wałęsa (*1943), <ref target="https://dodis.ch/P57585">dodis.ch/P57585</ref>, Chairman of the Independent Self-Governing Trade Union
+                  “Solidarity” and President of Poland 22.12.1990–22.12.1995.</note> held in Bonn on
+               8 September, during which the West German foreign minister praised the Hungarian
+               authorities for their approach to the departure of GDR citizens from the FRG Embassy
+               in Budapest and the Hungarian territory for the FRG via Austria, and requested L.
+               Wałęsa, as a representative of the new Poland, to apply “the Hungarian solution” to
+               the group of GDR citizens remaining at the FRG Embassy in Warsaw. At the same time,
+               Minister Genscher emphasized the historic importance of this issue for the West-East
+               relationship in Europe, and to human rights in general. According to Kastrup, L.
+               Wałęsa promised Genscher that the “Hungarian model” would be followed in Poland.</p>
+            <p>Director Kastrup made it clear that the FRG would not set out German legal positions
+               in the case at hand (“it would be irrelevant which travel documents entitled the GDR
+               citizens to leave Poland”). The FRG would prefer a pragmatic solution that took
+               account of humanitarian considerations. To that end, they would be ready to get the
+               Polish Red Cross, the German Red Cross and possibly also the International Committee
+               of the Red Cross in Geneva on board. Both Kastrup and Ambassador Schoeller expressed
+               their hope that the Polish authorities would show understanding and support for West
+               German efforts to arrange the departure of GDR citizens for the FRG. They emphasized
+               that the focus of attention of the West German public and media was on the GDR
+               citizens at the FRG Embassy in Warsaw, just as it was for those at the FRG Embassy in
+               Prague. In reply to Minister Skubiszewski’s question, Director Kastrup described the
+               Hungarian authorities’ decision to allow GDR citizens to leave for the FRG en masse
+               as a “humanitarian gesture in a European spirit”. In this context, he recalled
+               Genscher’s words to the Hungarian authorities: “We will never forget what you
+               did.”</p>
+            <p>Minister Skubiszewski observed that the Polish side was also in favour of a pragmatic
+               and humanitarian solution to the issue of the GDR citizens remaining at the FRG
+               Embassy in Warsaw. From our standpoint, the best option would be an amicable
+               settlement reached by the East and West German authorities, one that would respect
+               the interests of both governments as well as the people concerned. Poland advocated
+               the observance of human rights, including the principle of free flow of people. In
+               the case at hand, however, we had to bear in mind the good of Poland’s relations with
+               West and East Germany. He explained that he had not had the opportunity to
+               familiarize himself with the content of Minister Genscher’s conversation with L.
+               Wałęsa. The stance of the Polish authorities would be determined by arrangements to
+               be made directly by the governments of the two German states with respect to the GDR
+               citizens remaining at the FRG Embassy in Warsaw.</p>
+            <p>Director Kastrup recalled that the FRG had held talks with the GDR about the East
+               German citizens staying at the FRG Permanent Representation in Berlin and at FRG
+               diplomatic missions accredited in socialist countries. In contrast to the
+               arrangements that had regulated similar cases in the past, this time the GDR
+               authorities were reluctant to issue a “silent guarantee” allowing such people to
+               leave for the FRG (the GDR’s policy at the time had been to “consider favourably”
+               applications for an exit permit). This time round, the GDR would only be willing to
+               guarantee its citizens staying at the Embassies in Prague and Warsaw (until recently
+               also Budapest) that after their return to the GDR, they would avoid punishment or
+               consequences at their workplace, and would be granted representation by a lawyer when
+               they appeared before East German administrative authorities. What the GDR authorities
+               would not accept was that such citizens should be able to leave a third state
+               directly for the FRG, as had been happening under “the Hungarian solution”.
+               Consequently, people who were staying at the FRG Embassy in Warsaw could only have “a
+               very vague hope” of leaving for West Germany. In Kastrup’s view, the GDR authorities
+               were unlikely to change their position at that stage, which was why talks between
+               both German states had stalled.</p>
+            <p>Minister Skubiszewski concluded the meeting by reiterating that we appreciated the
+               importance of the humanitarian aspect involved in the issue of GDR citizens remaining
+               at the FRG Embassy in Warsaw, and were aware of the possible ramifications for our
+               relations with West and East Germany. He promised to look into the matter and give a
+               concrete reply setting out the Polish position.</p>
+            <p/>
+            <p n="1">II. On 13 September, Director Kastrup and Ambassador Schoeller were also
+               received by J. Czyrek<note xml:id="e125">Józef Czyrek (1928–2013), <ref target="https://dodis.ch/P44031">dodis.ch/P44031</ref>, member of the Political
+                  Bureau and Secretary of the Central Committee of the Polish United Workers’ Party
+                  and Minister of State in the Office of the Polish President 1989–1991.</note>, the
+               Minister of State at the President’s Office. One of the topics discussed was the
+               problem of over 50 GDR citizens staying at the FRG Embassy in Warsaw and wanting to
+               leave for West Germany.</p>
+            <p>Director Kastrup emphasized that he was aware of the fundamental differences on legal
+               matters between the People’s Republic of Poland and the Federal Republic of Germany.
+               Even so, the West German side sought a pragmatic solution with humanitarian
+               dimensions. Minister Czyrek asked for an explanation of the political context of the
+               problem, given recent declarations by the Federal Republic of Germany that it was not
+               interested in destabilizing the GDR, and was keen to ensure the appropriate standards
+               in that country in order to stem emigration. Did the current situation point to a
+               shift in West German policy? (The FRG was creating many incentives to encourage
+               immigration). K<add type="edition">[astrup]</add> emphasized that “human matters”
+               could not be separated from politics. Young East Germans saw no opportunities for
+               themselves (this went beyond mere economic motivation); they had been following news
+               about the progress of reforms in the USSR, Poland and Hungary. Meanwhile, the current
+               East German leadership was unable to solve these problems. “Mass fleeing” had its
+               roots solely in the GDR, so a policy change in the FRG was not a factor here. K<add type="edition">[astrup]</add> underscored that he was requesting “humanitarian
+               assistance in solving this problem, while taking account of human rights”. Minister
+               Czyrek replied that he appreciated the humanitarian dimension of the issue. We would
+               not try to “turn it into a problem”. From the logical and substantive points of view,
+               this was primarily a matter to be settled between East and West Germany, however, and
+               as such should be resolved by way of an understanding between the two countries. Such
+               an understanding would be decisive for Poland, as we could be loyal both to the FRG
+               and GDR. Minister Czyrek referred to Minister Skubiszewski’s decision as presented
+               during the talks with K<add type="edition">[astrup]</add> , whereby a working group
+               would be set up as a matter of urgency to draft proposals for a Polish position.</p>
+            <p>Minister Czyrek went on to underline that the matter was very difficult for Poland,
+               as we viewed our friendly relations with the GDR as a serious issue and, unlike
+               Hungary, we have no direct border with any Western states.</p>
+            <p/>
+            <p n="1">III. Conclusions</p>
+            <p>a) The issue of GDR citizens remaining at the FRG Embassy in Warsaw could have
+               negative repercussions for either of the two German states, depending on which
+               solution we support. If we side with the GDR, we risk negative effects in the context
+               of Kohl’s<note xml:id="e150">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+                  1.10.1982–27.10.1998.</note> visit to Poland<note xml:id="e156">Helmut Kohl
+                  visited Poland on 9–10 and 12–14 November 1989 (following the fall of the Berlin
+                  Wall, Chancellor Kohl interrupted his visit to go back to the FRG).</note>; if we
+               go along with West German proposals, the political fallout could affect our
+               relationship with the GDR.</p>
+            <p>b) From our point of view, the best way out would be if the two German states
+               achieved an amicable settlement between themselves. At this stage, however, such a
+               solution is unlikely and we are under permanent pressure from representatives of both
+               countries (see J. Mąkosa’s<note xml:id="e161">Jerzy Mąkosa, <ref target="https://dodis.ch/P50485">dodis.ch/P50485</ref>, Director of the
+                     1<hi>st</hi> Department at the Polish Ministry of Foreign Affairs
+                  1989–1990.</note> memo of 12 September on the conversation with GDR Ambassador J.
+               van Zwoll<note xml:id="e170">Jürgen van Zwoll (*1939), <ref target="https://dodis.ch/P57587">dodis.ch/P57587</ref>, Ambassador of the GDR
+                  in Warsaw 1988–1990.</note>).</p>
+            <p>c) In these circumstances, the MFA has set up a working group headed by B.
+                  Kulski<note xml:id="e178">Bolesław Kulski, <ref target="https://dodis.ch/P50550">dodis.ch/P50550</ref>, Polish Deputy Minister of Foreign Affairs
+                  1988–1990.</note> to come up with possible solutions. What could prove helpful for
+               us would be a solution to be adopted in the next few days in the similar case in
+               Prague.</p>
+            <p>d) One should bear in mind that the problem will continue to grow (the number of GDR
+               citizens at the FRG Embassy in Warsaw increased to 50 in the course of two
+               weeks).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

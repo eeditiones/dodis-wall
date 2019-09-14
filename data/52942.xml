@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="3"/>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52942</idno>
+                    </msIdentifier>
+                    <head/>
+                    <msContents>
+                        <summary>Report on a discussion with Wolfgang Mischnick of the FDP on his impressions of a visit to East Berlin; Israel's concerns are voiced.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-10-27">27.10.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="iw">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57507">Navon, Benjamin (1933–)</persName>
+                    <orgName ref="#R26238">Israel/Embassy in Bonn</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57507">Navon, Benjamin (1933–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R4531">Israel/Foreign Ministry</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P54794">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Krenz</surname>
+                        </persName>
+                        <persName>Krenz, Egon</persName>
+                        <persName>Krenz, Egon Rudi Ernst</persName>
+                        <birth when="1937-03-19">
+                            <placeName>Kołobrzeg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54794</idno>
+                    </person>
+                    <person xml:id="P57508">
+                        <persName>
+                            <forename>Wolfgang</forename>
+                            <surname>Mischnick</surname>
+                        </persName>
+                        <persName>Mischnick, Friedrich Adolf Wolfgang</persName>
+                        <persName>Mischnick, Wolfgang</persName>
+                        <birth when="1921-09-21">
+                            <placeName>Dresden</placeName>
+                        </birth>
+                        <death when="2002-10-06"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57508</idno>
+                    </person>
+                    <person xml:id="P57507">
+                        <persName>
+                            <forename>Benjamin</forename>
+                            <surname>Navon</surname>
+                        </persName>
+                        <persName>Navon, Benjamin</persName>
+                        <birth when="1933-07-23">
+                            <placeName>Czernowitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57507</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R8058">
+                        <orgName>Deutschland/BRD/Freie Demokratische Partei</orgName>
+                        <idno type="URI">https://dodis.ch/R8058</idno>
+                    </org>
+                    <org xml:id="R8864">
+                        <orgName>Germany/FRG/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R8864</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R33484">
+                        <orgName>Germany/FRG/Parliament/FDP faction</orgName>
+                        <idno type="URI">https://dodis.ch/R33484</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R26238">
+                        <orgName>Israel/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R26238</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4531">
+                        <orgName>Israel/Foreign Ministry</orgName>
+                        <idno type="URI">https://dodis.ch/R4531</idno>
+                    </org>
+                    <org xml:id="R33482">
+                        <orgName>USSR/CPSU Party Academy </orgName>
+                        <idno type="URI">https://dodis.ch/R33482</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G1761">
+                        <placeName>Israel</placeName>
+                        <location>
+                            <geo>31.04605134.851612</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1761</idno>
+                    </place>
+                    <place xml:id="G324">
+                        <placeName>Jerusalem</placeName>
+                        <location>
+                            <geo>31.76831835.21371</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G324</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52942">dodis.ch/52942</ref>
+               <title type="main">Telegram<note xml:id="e341">Coded telegram (incoming, translated
+                     from Hebrew): <idno>Israel State Archives MFA9537/11</idno>. Delivered by:
+                        <orig>28 October 1989.</orig> Addressed to Europe divisions 1 and 3.</note>
+                  from the Israeli Ambassador in Bonn, Benjamin Navon<note xml:id="e344">Benjamin
+                     Navon (*1933), <ref target="https://dodis.ch/P57507">dodis.ch/P57507</ref>,
+                     Israeli Ambassador in Bonn, 1989–1993.</note>, to the Israeli Foreign
+                  Ministry</title>
+            </head>
+            <opener>
+               <add>Secret/Usual <add type="edition">[priority]</add>
+                    </add>
+               <dateline>Bonn, 27 October 1989</dateline>
+            </opener>
+            <p>Today I had a long talk with Wolfgang Mischnick<note xml:id="e359">Wolfgang Mischnick
+                  (1921–2002), <ref target="https://dodis.ch/P57508">dodis.ch/P57508</ref>, Chairman
+                  of the FDP faction in the Bundestag of the FRG 1968–1991.</note>, the chairman of
+               the FDP faction. Mischnick returned 48 hours ago from a visit to East Berlin and was
+               in fact the first Western politician to meet with Egon Krenz<note xml:id="e365">Egon
+                  Krenz (*1937), <ref target="https://dodis.ch/P54794">dodis.ch/P54794</ref>,
+                  General Secretary of the SED 18.10.1989–3.12.1989 and Chairman of the GDR State
+                  Council 18.10.1989–6.12.1989.</note> and the East German leadership.</p>
+            <p>In interviews with the media he spoke of his optimistic impressions with regard to
+               expected developments in East Germany.</p>
+            <p>When talking to me, he admitted that he had taken this line not so much because he
+               believes it is actually correct, but because he tends to believe that in this case
+               impressions and public reports about them can influence the process. His impression
+               is that there is indeed an atmosphere of change and a strong expectation <add type="edition">[of it]</add> among the public, but in private he would not dare to
+               predict that this atmosphere of change will become reality.</p>
+            <p>He mentioned that Krenz and Gorbachev<note xml:id="e380">Mikhail Gorbachev (*1931),
+                     <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>, General Secretary
+                  of the Communist Party of the Soviet Union 11.3.1985–24.8.1991, Chairman of the
+                  Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and President of the Soviet
+                  Union 15.3.1990–25.12.1991.</note> had studied at around the same time at the
+               senior Party college in Moscow, and it is not impossible that this will influence
+               Krenz. He emphasized repeatedly that in the USSR change is coming from the top down,
+               whereas in East Germany it is coming from below. It is being adopted – even if only
+               partially – by the local functionaries who are trying to pass it up the line, but it
+               is not certain to what extent this will go through. In his opinion a process like
+               that taking place in Hungary or Poland is not to be expected, due to the significant
+               difference caused by the German aspect.</p>
+            <p>First, <add type="edition">[concerning]</add> the justification for the existence of
+               a second German state if it is not socialist and second – the question of a possible
+               reunification.</p>
+            <p>I told him about the Israeli-Jewiss dilemma with regard to East Germany, especially
+               that country’s unwillingness to relate to its past. I also described the traditional
+               hostility of East Germany towards Israel and its unsuccessful efforts to gain support
+               in the U.S. by displaying a seemingly positive attitude to the restoration of a
+               cemetery and a synagogue and the employment of a rabbi for the tiny Jewish community
+               in East Berlin. He told me that at the end of January 1990 he would visit East
+               Germany at the head of an FDP party delegation and we agreed that we would discuss
+               the latter subject before he leaves.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

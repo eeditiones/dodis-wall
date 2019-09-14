@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="7">No. 77. GDR: Travel to FRG and West Berlin</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52922</idno>
+                    </msIdentifier>
+                    <head>No. 77. GDR: Travel to FRG and West Berlin</head>
+                    <msContents>
+                        <summary>Description of a “historic night” of free travel between East and West Berlin.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-10">10.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57445">Corbett, Robert (1940–)</persName>
+                    <orgName ref="#R1508">British Military Government in Germany</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57445">Corbett, Robert (1940–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57401">Hurd, Douglas R. (1930–)</persName>
+                    <orgName ref="#R223">GB/Foreign Office</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57445">
+                        <persName>
+                            <forename>Robert</forename>
+                            <surname>Corbett</surname>
+                        </persName>
+                        <persName>Corbett, Robert</persName>
+                        <persName>Corbett, Robert John Swan</persName>
+                        <persName>Corbett, Robert J. S.</persName>
+                        <birth when="1940-05-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57445</idno>
+                    </person>
+                    <person xml:id="P57478">
+                        <persName>
+                            <forename>Eberhard</forename>
+                            <surname>Diepgen</surname>
+                        </persName>
+                        <persName>Diepgen, Eberhard</persName>
+                        <birth when="1941-11-13">
+                            <placeName>Berlin</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57478</idno>
+                    </person>
+                    <person xml:id="P57401">
+                        <persName>
+                            <forename>Douglas R.</forename>
+                            <surname>Hurd</surname>
+                        </persName>
+                        <persName>Hurd, Douglas R.</persName>
+                        <birth when="1930-03-08">
+                            <placeName>Marlborough</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57401</idno>
+                    </person>
+                    <person xml:id="P57479">
+                        <persName>
+                            <forename>Donald</forename>
+                            <surname>Lamont</surname>
+                        </persName>
+                        <persName>Lamont, Donald</persName>
+                        <birth when="1947-01-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57479</idno>
+                    </person>
+                    <person xml:id="P57440">
+                        <persName>
+                            <forename>Walter</forename>
+                            <surname>Momper</surname>
+                        </persName>
+                        <persName>Momper, Walter</persName>
+                        <birth when="1945-02-21"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57440</idno>
+                    </person>
+                    <person xml:id="P57481">
+                        <persName>
+                            <forename>Geoffrey van</forename>
+                            <surname>Orden</surname>
+                        </persName>
+                        <persName>Orden, Geoffrey van</persName>
+                        <birth when="1945-04-10"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57481</idno>
+                    </person>
+                    <person xml:id="P56902">
+                        <persName>
+                            <forename>Günter</forename>
+                            <surname>Schabowski</surname>
+                        </persName>
+                        <persName>Schabowski, Günter</persName>
+                        <persName>Schabovsky, Günther</persName>
+                        <birth when="1929-01-04"/>
+                        <death when="2015-11-01">
+                            <placeName>Berlin</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56902</idno>
+                    </person>
+                    <person xml:id="P57480">
+                        <persName>
+                            <forename>Dieter</forename>
+                            <surname>Schröder</surname>
+                        </persName>
+                        <persName>Schröder, Dieter</persName>
+                        <birth when="1935-11-21">
+                            <placeName>Lübeck</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57480</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R3961">
+                        <orgName>Allied Kommandatura</orgName>
+                        <idno type="URI">https://dodis.ch/R3961</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R33475">
+                        <orgName>Berlin/Senate Chancellery</orgName>
+                        <idno type="URI">https://dodis.ch/R33475</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R804">
+                        <orgName>British Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R804</idno>
+                    </org>
+                    <org xml:id="R1508">
+                        <orgName>British Military Government in Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R1508</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R223">
+                        <orgName>GB/Foreign Office</orgName>
+                        <idno type="URI">https://dodis.ch/R223</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R8696">
+                        <orgName>Germany/GDR/National People's Army</orgName>
+                        <idno type="URI">https://dodis.ch/R8696</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R803">
+                        <orgName>USA/Office of Military Government for Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R803</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R11612">
+                        <orgName>West Berlin/Police</orgName>
+                        <idno type="URI">https://dodis.ch/R11612</idno>
+                        <placeName ref="#G3581">West Berlin</placeName>
+                    </org>
+                    <org xml:id="R9436">
+                        <orgName>West Berlin/Senate</orgName>
+                        <idno type="URI">https://dodis.ch/R9436</idno>
+                        <placeName ref="#G3581">West Berlin</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.48494613.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52922">dodis.ch/52922</ref>
+               <title type="main">Telegram<note xml:id="e768">Telegram No. 77 (incoming): <idno>UK
+                        National Archives FCO 33/10154</idno>. Repeated Flash to the British Embassy
+                     in Bonn; Information Immediate to the British Embassies in East Berlin,
+                     Washington and Paris, Commanders-in-Chief Committee (Germany); Information
+                     Priority to the UK Repesentation in NATO, the British Embassies in Warsaw and
+                     Prague and UK Representation in Brussels. Ref. <idno>East Berlin Telegram No.
+                        369</idno>.</note> from the British Commandant in Berlin, Robert
+                     Corbett<note xml:id="e771">Robert Corbett (*1940), <ref target="https://dodis.ch/P57445">dodis.ch/P57445</ref>, General Officer
+                     Commanding, Berlin (British sector) and British Commandant, Berlin
+                     1989–1990.</note>, to the British Secretary of State for Foreign and
+                  Commonwealth Affairs, Douglas Hurd<note xml:id="e777">Douglas Hurd (*1930), <ref target="https://dodis.ch/P57401">dodis.ch/P57401</ref>, British Secretary of
+                     State for Foreign and Commonwealth Affairs 26.10.1989–5.7.1995.</note>
+                    </title>
+               <title type="sub">GDR: Travel to FRG and West Berlin</title>
+            </head>
+            <opener>
+               <add>Unclassified, Flash</add>
+               <dateline>West Berlin, 10 November 1989, 9.15 a.m.</dateline>
+            </opener>
+            <p>
+               <emph>Summary</emph>
+            </p>
+            <p>1. West Berliners initially incredulous. Emotional scenes at the Wall. Constant flow
+               of East Berliners through the night. Most were testing the system and have returned
+               home. Next four days could be testing.</p>
+            <p/>
+            <p>
+               <emph>Detail</emph>
+            </p>
+            <p>2. At a reception at the Aspen Institute at 5.30 p.m. local yesterday, a young
+               colleague of the governing mayor confided in Head of Chancery<note xml:id="e799">Donald Lamont (*1947), <ref target="https://dodis.ch/P57479">dodis.ch/P57479</ref>, Head of Chancery, British Military Government, Berlin
+                  1988–1990.</note> that a year ago, he took the view that the Wall would remain
+               beyond the year 2000. Now it could be down in as little as five years, he thought. A
+               few minutes later, the former Governing Mayor, Diepgen<note xml:id="e805">Eberhard
+                  Diepgen (*1941), <ref target="https://dodis.ch/P57478">dodis.ch/P57478</ref>,
+                  Mayor of West Berlin, 1984–16.3.1989.</note>, commented in a speech that what had
+               been inconceivable a few weeks ago, might well be conceivable tomorrow.</p>
+            <p>3. Neither had any inkling that as little as two hours later, the city would begin to
+               buzz with rumours that travel from East to West was now unrestricted.</p>
+            <p>4. Within hours of Schabowski’s<note xml:id="e815">Günter Schabowski (1929–2015),
+                     <ref target="https://dodis.ch/P56902">dodis.ch/P56902</ref>, member of the SED
+                  Politburo and spokesman of the GDR government 1989.</note> comments, broadcast on
+               television, hundreds of East Berliners were queuing at the sector crossing points.
+               After some initial uncertainty, the GDR border guards began to let them through. No
+               special documentation was being required. The guards seemed content to put a stamp in
+               an ordinary identity card.</p>
+            <p>5. Later, crowds began to gather on the Western side. There seemed a possibility of
+               trouble breaking out. And the Governing Mayor<note xml:id="e823">Walter Momper
+                  (*1945), <ref target="https://dodis.ch/P57440">dodis.ch/P57440</ref>, Governing
+                  Mayor of West Berlin 16.2.1989–24.1.1991.</note> who was at a crossing point in
+               the British sector telephoned the minister in some concern. Head of Chancery, with my
+               chief of staff<note xml:id="e829">Geoffrey van Orden (*1945), <ref target="https://dodis.ch/P57481">dodis.ch/P57481</ref>, Chief of Staff of the
+                  British Sector in Berlin 1988–1990.</note> and two members of BMG<note xml:id="e835">British Military Government.</note> public safety branch therefore
+               made a tour of some of the key points in the early morning.</p>
+            <p>6. At 2 a.m. they found the Governing Mayor mingling with the crowds at the
+               Invalidenstrasse crossing point. The Head of the Senat Chancellery<note xml:id="e840">Dieter Schröder (*1935), <ref target="https://dodis.ch/P57480">dodis.ch/P57480</ref>, Head of Chancellery of the Senate of Berlin
+                  1989–1991.</note> was euphoric and incredulous. “A wonderful morning” he
+               proclaimed. And he spoke emotionally of seeing two GDR guards, two West Berlin police
+               and two members of the Royal Military Police talking together and cooperating in
+               controlling the large crowds. A constant flow of East German Trabant cars was passing
+               into the west of the city. They were warmly greeted by West Berlin spectators, many
+               of whom spilled eastwards across the sector boundary without any reaction from the
+               GDR borders guards. Indeed the guards here were beaming, visibly enjoying their new
+               role of shepherding happy East Berliners in both directions across the crossing
+               point. Several of the East Berliners waved palm leaves from the windows of the
+               cars.</p>
+            <p>7. A little distance away, groups of two or three GDR soldiers could be seen by the
+               wire. They were no doubt wondering what function they were now expected to
+               perform.</p>
+            <p>8. I spoke to the Governing Mayor at this point and found him much more relaxed and
+               confident that matters were under control. He was in jubilant mood.</p>
+            <p>9. The Brandenburg Gate at 3 a.m. presented an amazing scene. Some hours before, some
+               young West Berliners had climbed on to the Wall, which is broad and flat-topped at
+               this point. The GDR guards had turned a water jet on them. But the intervention of
+               some people in civilian dress on the Eastern side put a stop to this. And eventually
+               as many as 600 young people were on top of the Wall, bathed in television lights,
+               mostly quietly enjoying the unique occasion, and occasionally shouting “the Wall must
+               go”. Some were chipping at the Wall with hammer and chisel and distributing pieces to
+               the crowd.</p>
+            <p>10. At Checkpoint Charlie at 4 a.m., several bare-headed GDR guards faced a friendly,
+               jostling crowd. The ground was littered with the glass from broken bottles, and the
+               guards sensibly closed the gates until the area could be cleared. They moved the
+               crowd of West Berliners back to the sector boundary in a calm, gentle and skilful
+               way.</p>
+            <p>11. Television interviews with East Berliners testified to the fact that most were
+               spontaneously testing whether the restrictions had indeed been lifted. A common goal
+               was the “Ku’damm”, West Berlin’s main shopping avenue. At 4.30 a.m., it was lined
+               with East German registered Trabants. And on the pavements, throngs of East and West
+               Berliners mixed and greeted each other with obvious emotion.</p>
+            <p>12. Though some of last night’s visitors had proceeded to Marienfelde refugee camp,
+               most seem to have gone back. The Senat met in an emergency session last night and the
+               Governing Mayor appeared on television to urge East Berliners not (not) to visit West
+               Berlin immediately, but to spread their visits over the next few days. Allied
+               ministers will meet with the head of the Senat Chancellery at 11.30 a.m. (local) and
+               will have to consider requests for help. The Allied <emph>kommandatura</emph>
+                    <note xml:id="e858">The governing body for the city of Berlin following Germany’s defeat
+                  in the Second World War, comprising representatives of the USA, USSR, UK and
+                  France.</note> will convene this afternoon.</p>
+            <p>13. We stimulated the Americans (who are in the chair) into producing an Allied
+               statement welcoming this historical step. Text will follow.</p>
+            <p>14. This morning at 8.30 local an estimated 3000 East Berliners were waiting at the
+               Invalidenstrasse crossing point. The GDR authorities have made clear that proper
+               documentation will be required. We have seen no sign of any difficulties at the
+               crossing points so far. The atmosphere on both sides remains friendly and
+               cooperative.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,51 +1,545 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>dodis.ch/52917</title>
-            <author>
-               <orgName>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
-                  Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
-                  Dodis</orgName>
-            </author>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Diplomatische Dokumente der Schweiz | Documents Diplomatiques Suisses |
-               Documenti Diplomatici Svizzeri | Diplomatic Documents of Switzerland |
-               Dodis</publisher>
-            <date when="2019-01-01">2019</date>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Cf. note 1</p>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>
-               <ref target="https://www.dodis.ch/en/profile">Dodis Website</ref>
-            </p>
-         </projectDesc>
-         <editorialDecl>
-            <p/>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="38">Preparing for the Six Power German Peance Conference</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52917</idno>
+                    </msIdentifier>
+                    <head>Preparing for the Six Power German Peance Conference</head>
+                    <msContents>
+                        <summary>Discussion of the U.S. position in the upcoming Two-Plus-Four Talks on German reunification, particularly in light of Soviet concerns</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-19">19.2.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57408">Scowcroft, Brent (1925–)</persName>
+                    <orgName ref="#R11894">USA/White House</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P47406">Bush, George Herbert Walker (1924–2018)</persName>
+                    <orgName ref="#R11894">USA/White House</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P57391">
+                        <persName>
+                            <forename>Dick</forename>
+                            <surname>Cheney</surname>
+                        </persName>
+                        <persName>Cheney, Dick</persName>
+                        <persName>Cheney, Richard Bruce</persName>
+                        <birth when="1941-01-30"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57391</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57414">
+                        <persName>
+                            <forename>Yegor</forename>
+                            <surname>Ligachev</surname>
+                        </persName>
+                        <persName>Ligachev, Yegor</persName>
+                        <persName>Ligatschow, Jegor Kusmitsch</persName>
+                        <persName>Лигачёв, Его́р Кузьми́ч </persName>
+                        <persName>Ligatchev, Egor Kouzmitch</persName>
+                        <persName>Ligachyov, Yegor Kuzmich</persName>
+                        <birth when="1920-11-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57414</idno>
+                    </person>
+                    <person xml:id="P57378">
+                        <persName>
+                            <forename>Tadeusz</forename>
+                            <surname>Mazowiecki</surname>
+                        </persName>
+                        <persName>Mazowiecki, Tadeusz</persName>
+                        <birth when="1927-04-18">
+                            <placeName>Plock</placeName>
+                        </birth>
+                        <death when="2013-10-28">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57378</idno>
+                    </person>
+                    <person xml:id="P57415">
+                        <persName>
+                            <forename>Gianni De</forename>
+                            <surname>Michelis</surname>
+                        </persName>
+                        <persName>Michelis, Gianni De</persName>
+                        <birth when="1940-11-26">
+                            <placeName>Venice</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57415</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57416">
+                        <persName>
+                            <forename>Colin L.</forename>
+                            <surname>Powell</surname>
+                        </persName>
+                        <persName>Powell, Colin L.</persName>
+                        <birth when="1937-04-05">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57416</idno>
+                    </person>
+                    <person xml:id="P57408">
+                        <persName>
+                            <forename>Brent</forename>
+                            <surname>Scowcroft</surname>
+                        </persName>
+                        <persName>Scowcroft, Brent</persName>
+                        <birth when="1925-03-19">
+                            <placeName>Ogden</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57408</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                    <person xml:id="P57417">
+                        <persName>
+                            <forename>Manfred Hermann</forename>
+                            <surname>Wörner</surname>
+                        </persName>
+                        <persName>Woerner, Manfred H.</persName>
+                        <persName>Wörner, Manfred Hermann</persName>
+                        <birth when="1934-09-24">
+                            <placeName>Stuttgart</placeName>
+                        </birth>
+                        <death when="1994-08-12">
+                            <placeName>Brussels</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57417</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R519">
+                        <orgName>Allied Control Council</orgName>
+                        <idno type="URI">https://dodis.ch/R519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9485">
+                        <orgName>Bundeswehr</orgName>
+                        <idno type="URI">https://dodis.ch/R9485</idno>
+                    </org>
+                    <org xml:id="R4141">
+                        <orgName>Deutschland/BRD/Sozialdemokratische Partei (1946-)</orgName>
+                        <idno type="URI">https://dodis.ch/R4141</idno>
+                    </org>
+                    <org xml:id="R32011">
+                        <orgName>Deutschland/DDR/Sozialdemokratische Partei in der DDR</orgName>
+                        <idno type="URI">https://dodis.ch/R32011</idno>
+                    </org>
+                    <org xml:id="R95">
+                        <orgName>France/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R95</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R31271">
+                        <orgName>G7 (2014 - )</orgName>
+                        <idno type="URI">https://dodis.ch/R31271</idno>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R31997">
+                        <orgName>Germany/FRG/The Greens</orgName>
+                        <idno type="URI">https://dodis.ch/R31997</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R130">
+                        <orgName>Great Britain/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R130</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R24597">
+                        <orgName>NATO/Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R24597</idno>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R33456">
+                        <orgName>Treaty on Conventional Armed Forces in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R33456</idno>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>USA/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                    <org xml:id="R569">
+                        <orgName>USA/Congress</orgName>
+                        <idno type="URI">https://dodis.ch/R569</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R11894">
+                        <orgName>USA/White House</orgName>
+                        <idno type="URI">https://dodis.ch/R11894</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G10281">
+                        <placeName>Camp David</placeName>
+                        <location>
+                            <geo>39.647537-77.4659</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G10281</idno>
+                    </place>
+                    <place xml:id="G73">
+                        <placeName>Czechoslovakia</placeName>
+                        <location>
+                            <geo>50.08333314.416667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G73</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G11236">
+                        <placeName>Houston</placeName>
+                        <location>
+                            <geo>29.762778-95.383056</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11236</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G77">
+                        <placeName>Italy</placeName>
+                        <location>
+                            <geo>41.8719412.56738</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G77</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.1326335.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
          <change when="2019-06-01"/>
       </revisionDesc>
-   </teiHeader>
+    </teiHeader>
    <text>
       <body>
          <div type="doc">
             <head>
                <ref target="https://dodis.ch/52917">dodis.ch/52917</ref>
                <title type="main">Memorandum<note xml:id="e4080">Memorandum: Bush Presidential
-                     Library CF-00182.20. Written by Brent Scowcroft, <ref
-                        target="https://dodis.ch/P57408">dodis.ch/P57408</ref>.</note> for the
+                     Library CF-00182.20. Written by Brent Scowcroft, <ref target="https://dodis.ch/P57408">dodis.ch/P57408</ref>.</note> for the
                   President of the United States, George H. W. Bush<note xml:id="e4086">George
-                     Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406"
-                        >dodis.ch/P47406</ref>, President of the United States,
-                     20.1.1989–20.1.1993.</note></title>
+                     Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United States,
+                     20.1.1989–20.1.1993.</note>
+                    </title>
                <title type="sub">Preparing for the Six Power German Peace Conference</title>
             </head>
             <opener>
@@ -60,8 +554,7 @@
                membership for a united Germany in NATO; provides for the continuation of a
                significant American military presence on German soil; and maintains nuclear
                deterrence as a pillar of NATO’s defense.</p>
-            <p>Kohl’s<note xml:id="e4102">Helmut Kohl (1930–2017), <ref
-                     target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
+            <p>Kohl’s<note xml:id="e4102">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG
                   1.10.1982–27.10.1998.</note> meeting with Gorbachev<note xml:id="e4108">Mikhail
                   Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
                   General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
@@ -75,11 +568,9 @@
                removal of Soviet forces. Germany is, in that sense, the final East-West battleground
                and has – with its still deep emotional import in the Soviet Union – become a crucial
                domestic issue for Gorbachev.</p>
-            <p>When Yegor Ligachev<note xml:id="e4116">Yegor Ligachev (*1920), <ref
-                     target="https://dodis.ch/P57414">dodis.ch/P57414</ref>, Second Secretary of
+            <p>When Yegor Ligachev<note xml:id="e4116">Yegor Ligachev (*1920), <ref target="https://dodis.ch/P57414">dodis.ch/P57414</ref>, Second Secretary of
                   Communist Party of the Soviet Union 10.3.1985–14.7.1990.</note> attacked
-                  Shevardnadze<note xml:id="e4122">Eduard Shevardnadze (1928–2014), <ref
-                     target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign
+                  Shevardnadze<note xml:id="e4122">Eduard Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign
                   Affairs of the Soviet Union 2.7.1985–26.12.1990.</note> and Gorbachev for a
                foreign policy that has allowed the emergence of a united Germany “which looms
                militarily and economically powerful”, he sounded a chord that resonates in the
@@ -165,15 +656,13 @@
                and full NATO membership, and simultaneously to avert a crisis with Gorbachev over
                the future of Germany.</p>
             <p>Management of relations with the British and French will not be easy either. Mrs.
-                  Thatcher<note xml:id="e4161">Margaret Thatcher (1925–2013), <ref
-                     target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
+                  Thatcher<note xml:id="e4161">Margaret Thatcher (1925–2013), <ref target="https://dodis.ch/P32055">dodis.ch/P32055</ref>, Prime Minister of the
                   United Kingdom 4.5.1979–28.11.1990.</note> will undoubtedly support our position
                regarding Germany’s full membership in NATO but she may try to use the Six Power
                forum to slow down German unification. And, in any case, Mrs. Thatcher’s strongly
                pro-NATO position will fall on deaf ears in the Federal Republic.</p>
             <p>The French will have mixed objectives. Mitterrand<note xml:id="e4169">François
-                  Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775"
-                     >dodis.ch/P13775</ref>, President of France 21.5.1981–17.5.1995.</note> may for
+                  Mitterrand (1916–1996), <ref target="https://dodis.ch/P13775">dodis.ch/P13775</ref>, President of France 21.5.1981–17.5.1995.</note> may for
                the present support NATO membership for Germany because the French are concerned both
                to keep the Bundeswehr constrained within the integrated military command and to
                legitimize the continuation of nuclear deterrence. But France’s voice is weaker
@@ -205,8 +694,7 @@
             <p>All the Allies need a part in this process. In Ottawa several Allied ministers,
                notably the Italians and Dutch, protested their exclusion from the Six Power forum
                that would affect their security interests as Germany’s neighbors. After the Italian
-               Foreign Minister<note xml:id="e4185">Gianni De Michelis (*1940), <ref
-                     target="https://dodis.ch/P57415">dodis.ch/P57415</ref>, Italian Foreign
+               Foreign Minister<note xml:id="e4185">Gianni De Michelis (*1940), <ref target="https://dodis.ch/P57415">dodis.ch/P57415</ref>, Italian Foreign
                   Minister 22.07.1989–28.06.1992.</note> made one such plea for involvement,
                Genscher turned to him and said, brutally, “You’re not in the game.” Genscher is
                wrong.</p>
@@ -216,7 +704,8 @@
                future goals and strategy of NATO in light of the political transformation of Europe.
                Then you could host a Summit meeting of NATO leaders, perhaps in Washington in July
                immediately after the G-7 meeting in Houston<note xml:id="e4193">Handwritten note:
-                     <orig>interesting idea??</orig></note>, to endorse this new concept for the
+                     <orig>interesting idea??</orig>
+                    </note>, to endorse this new concept for the
                Alliance – and Germany’s role in it. With this added reinforcement, Kohl would find
                it easier to resist Soviet and domestic pressures.</p>
             <p>In a larger sense, a delay in these Six Power discussions is favorable for us because
@@ -227,8 +716,8 @@
                Moscow, to move German unity along while holding fast to his promise to keep the
                reunified Germany in NATO. Kohl does not himself seem to be pushing for early Six
                Power discussions – in your recent telephone conversation he appeared to foresee the
-               first Six Power Ministerial meeting taking place sometime this summer<note
-                  xml:id="e4198">Handwritten note: <orig>Don’t recall this.</orig></note>.</p>
+               first Six Power Ministerial meeting taking place sometime this summer<note xml:id="e4198">Handwritten note: <orig>Don’t recall this.</orig>
+                    </note>.</p>
             <p>Ideally, no meetings of any kind would take place within the Six Power framework
                until after the elections in the GDR on March 18<note xml:id="e4203">Handwritten
                   note: <orig>Correct according to JRB</orig>.</note>. We would simply say that the
@@ -236,8 +725,7 @@
                there, and that we are preparing a united Western position for the talks. Indeed, we
                should try to delay any real discussion of security arrangements in this forum until
                the GDR is so weak that the Six, in fact, dissolves into Five as Germany unites.</p>
-            <p>At the present time, the Modrow<note xml:id="e4208">Hans Modrow (*1928), <ref
-                     target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
+            <p>At the present time, the Modrow<note xml:id="e4208">Hans Modrow (*1928), <ref target="https://dodis.ch/P54796">dodis.ch/P54796</ref>, Chairman of the GDR
                   Council of Ministers 13.11.1989–12.4.1990.</note> government is nothing but a
                second voice for Moscow. And after the East German elections, should the SPD win as
                expected, the new GDR government will argue for German neutrality. But with the
@@ -246,16 +734,14 @@
                arrangements for all of Germany which is, of course, our best bet.</p>
             <p>Finally, the Administration needs a breathing spell to formulate a position for what
                could be the most important set of discussions of European security in the postwar
-               period. It is critical that Dick Cheney<note xml:id="e4216">Dick Cheney (*1941), <ref
-                     target="https://dodis.ch/P57391">dodis.ch/P57391</ref>, United States Secretary
+               period. It is critical that Dick Cheney<note xml:id="e4216">Dick Cheney (*1941), <ref target="https://dodis.ch/P57391">dodis.ch/P57391</ref>, United States Secretary
                   of Defense 21.3.1989–28.6.1992.</note> and Colin Powell<note xml:id="e4222">Colin
                   L. Powell (*1937), <ref target="https://dodis.ch/P57416">dodis.ch/P57416</ref>,
                   Chairman of the United States Joint Chiefs of Staff 1.10.1989–30.9.1992.</note> be
                involved because Six (or Five) Power negotiations on Germany’s external security
                arrangements will cut to the heart of NATO and ultimately American defense
                strategy.</p>
-            <p>As Manfred Woerner<note xml:id="e4230">Manfred Wörner (1934–1994), <ref
-                     target="https://dodis.ch/P57417">dodis.ch/P57417</ref>, Secretary General of
+            <p>As Manfred Woerner<note xml:id="e4230">Manfred Wörner (1934–1994), <ref target="https://dodis.ch/P57417">dodis.ch/P57417</ref>, Secretary General of
                   NATO 1.7.1988–12.8.1994.</note> said to you at Camp David, we are entering the
                end-game of the Cold War and your own role will be decisive. The United States and
                the West must be impeccably prepared so that when the end-game is over, the North

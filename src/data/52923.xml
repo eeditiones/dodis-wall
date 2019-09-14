@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0 ../xsd/tei_dodis.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Diplomatische Dokumente der Schweiz, Band 27</title>
+                <author>Diplomatische Dokumente der Schweiz</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="doc">
+                <head>
+                    <ref target="http://dodis.ch/XXXXX">dodis.ch/XXXXX</ref>
+                    <title type="main">Redaktioneller Titel</title>
+                    <note xml:id="e404">Dokumententyp: <idno type="CH-BAR">CH-BAR#.</idno> Text
+                            <orig>Quellenzitat.</orig> Text.</note>
+                    <title type="sub">Dokumententitel</title>
+                </head>
+                <opener>
+                    <add>Klassifikationsvermerk </add>
+                    <dateline>
+                        <placeName>Ort, </placeName>
+                        <date when="1900-01-01">Datum</date>
+                    </dateline>
+                </opener>
+                <p>
+                    <title type="doc">Überschrift</title>
+                </p>
+                <p>Text</p>
+                <p>Text</p>
+                <list>
+                    <item>Liste Liste Liste</item>
+                    <item>Liste Liste Liste</item>
+                </list>
+                <p/>
+                <p>Text</p>
+            </div>
+        </body>
+    </text>
+</TEI>

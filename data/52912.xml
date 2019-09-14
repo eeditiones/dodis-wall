@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="">The Soviets and the German Question</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52912</idno>
+                    </msIdentifier>
+                    <head>The Soviets and the German Question</head>
+                    <msContents>
+                        <summary>In response to the President’s request, an analysis of how recent events in Eastern Europe would impact Soviet policy in Germany.
+
+Included: Memorandum for Brent Scowcroft/Robert Gates, 29.11.1989.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-29">29.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Memo</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57408">Scowcroft, Brent (1925–)</persName>
+                    <orgName ref="#R11894">USA/White House</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P47406">Bush, George Herbert Walker (1924–2018)</persName>
+                    <orgName ref="#R11894">USA/White House</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57409">
+                        <persName>
+                            <forename>Robert D.</forename>
+                            <surname>Blackwill</surname>
+                        </persName>
+                        <persName>Blackwill, Robert D.</persName>
+                        <persName>Blackwill, Bob</persName>
+                        <birth when="1939-08-08"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57409</idno>
+                    </person>
+                    <person xml:id="P15543">
+                        <persName>
+                            <forename>Leonid Il'ič</forename>
+                            <surname>Brežnev</surname>
+                        </persName>
+                        <persName>Brezhnev, Leonid Ilyich</persName>
+                        <persName>Брежнев, Леонид Ильич</persName>
+                        <persName>Brejnev, Léonide</persName>
+                        <persName>Breschnjew, Leonid</persName>
+                        <persName>Brejnev, Leonid Ilitch</persName>
+                        <persName>Brezniew, Leonid Iliitsch</persName>
+                        <persName>Brezhnew, Leonid Iljitsch</persName>
+                        <persName>Breschnew, Leonid Iljitsch</persName>
+                        <persName>Breshnew, Leonid</persName>
+                        <persName>Brežnev, Leonid Il'ič</persName>
+                        <birth when="1906-12-19">
+                            <placeName>Kamjanske</placeName>
+                        </birth>
+                        <death when="1982-11-10">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15543</idno>
+                    </person>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P57410">
+                        <persName>
+                            <forename>Rice</forename>
+                            <surname>Condoleezza</surname>
+                        </persName>
+                        <persName>Condoleezza, Rice</persName>
+                        <birth when="1954-11-14"/>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P57410</idno>
+                    </person>
+                    <person xml:id="P57404">
+                        <persName>
+                            <forename>Robert M.</forename>
+                            <surname>Gates</surname>
+                        </persName>
+                        <persName>Gates, Robert M.</persName>
+                        <persName>Gates, Bob</persName>
+                        <birth when="1943-09-25">
+                            <placeName>Wichita</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57404</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P57408">
+                        <persName>
+                            <forename>Brent</forename>
+                            <surname>Scowcroft</surname>
+                        </persName>
+                        <persName>Scowcroft, Brent</persName>
+                        <birth when="1925-03-19">
+                            <placeName>Ogden</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57408</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R11549">
+                        <orgName>Council for Mutual Economic Cooperation</orgName>
+                        <idno type="URI">https://dodis.ch/R11549</idno>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R33456">
+                        <orgName>Treaty on Conventional Armed Forces in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R33456</idno>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>USA/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                    <org xml:id="R10001">
+                        <orgName>USA/National Security Council</orgName>
+                        <idno type="URI">https://dodis.ch/R10001</idno>
+                    </org>
+                    <org xml:id="R11894">
+                        <orgName>USA/White House</orgName>
+                        <idno type="URI">https://dodis.ch/R11894</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G4826">
+                        <placeName>Malta</placeName>
+                        <location>
+                            <geo>35.93749614.375416</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G4826</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G967">
+                        <placeName>Ukraine</placeName>
+                        <location>
+                            <geo>48.37943331.16558</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G967</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.22967521.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895-77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52912">dodis.ch/52912</ref>
+               <title type="main">Memorandum<note xml:id="e2279">Memorandum: <idno>Bush Presidential
+                        Library 91116-001</idno>. Signed by Brent Scowcroft, <ref target="https://dodis.ch/P57408">dodis.ch/P57408</ref>.</note> for the
+                  President of the United States, George H. W. Bush<note xml:id="e2285">George
+                     Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United States,
+                     20.1.1989–20.1.1993.</note>
+                    </title>
+               <title type="sub">The Soviets and the German Question</title>
+            </head>
+            <opener>
+               <add>Secret</add>
+               <dateline>Washington, D.C., 29 November 1989</dateline>
+            </opener>
+            <p>This paper responds to your request for further analysis of the Soviet Union’s policy
+               toward Germany in light of changes in the GDR and Eastern Europe.</p>
+            <p>Soviet policy toward Germany is – like everything else – in a state of flux. The
+               Soviets have lost control of their policy toward Eastern Europe and are largely
+               reacting to events on a day to day basis. Gorbachev<note xml:id="e2301">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> foresaw neither the
+               pace nor the direction of change there and is increasingly powerless to do anything
+               about it. The threat of the use of Soviet military power to reverse events
+               increasingly lacks credibility and no one knows where Moscow’s tolerance will
+               end.</p>
+            <p>The Soviet reaction to events in the GDR is the clearest indication to date that
+               Moscow has come to believe that peaceful economic and political change is the only
+               alternative to a popular explosion. Earlier Gorbachev probably hoped that reform in
+               these countries would take place within the boundaries of a single party system – a
+               kind of mirror of Soviet perestroika. But he was mistaken.</p>
+            <p>The GDR is not Poland or Hungary and the likelihood of a noncommunist East Germany
+               has reopened the long dormant core issue of Soviet security – the German question. If
+               the communists lose power in the GDR, the rationale for a divided Germany goes away.
+               Yet the reunification of Germany would rip the heart out of the Soviet security
+               system since East Germany and the 390,000 Soviet forces based on its territory
+               constitute the fulcrum of the Warsaw Pact.</p>
+            <p>Gorbachev’s communication to you on the issue of German reunification was unequivocal
+               – he emphasized the “political realities of the postwar era, namely the existence of
+               two German states.”</p>
+            <p>The reunification of Germany conjures up deeply held memories and residual fears of
+               repeated German invasions of Russia and the Soviet Union. The Soviet Union’s worst
+               nightmare is a reunified Germany allied with NATO or, alternatively, nominally allied
+               with the West and heavily militarized. The Warsaw Pact, having lost its East German
+               anchor, would quickly disintegrate and the Soviet line of defense would begin at the
+               Ukrainian border. A companion fear is that this reunified Germany would be able to
+               dominate East-Central Europe economically, including a weak Soviet Union.</p>
+            <p>No Soviet leader can allow German reunification on these terms: The gains of World
+               War II, achieved at the cost of 20 million lives, would be gone.</p>
+            <p>The best outcome for Moscow would be the continued existence of two viable German
+               states. The GDR would reform politically and economically, maintain its identity and
+               develop closer economic and political ties with FRG. The continued existence of two
+               German states would allow the GDR to anchor the Warsaw Pact, keeping the Soviet
+               security system nominally intact. At the same time, Moscow would enjoy not only the
+               benefits of direct economic cooperation with the FRG but the contribution of an
+               improved East German economy to COME‑ CON.</p>
+            <p>The problem for Moscow now is to design a new policy to promote a favorable outcome
+               when Soviet control over events in Eastern Europe is weak. The Soviets can still use
+               force to stop unwelcomed events. Were there instability and violence in the GDR, the
+               Soviets would most certainly act to protect the 390,000 Soviet troops stationed
+               there. But short of that, it is hard to imagine a pretext for the use of Soviet force
+               which would not discredit perestroika. Even a Soviet response to instability in the
+               GDR carries risks for Gorbachev since the use of force, whatever its rationale, would
+               destroy the chances for full Soviet economic and political rapprochement with the
+               FRG.</p>
+            <p>Moscow’s most likely diplomatic approach is to try and blunt the impact of change in
+               the GDR by solidifying international support for two German states. Betting that
+               there is little true enthusiasm for German reunification in the West – particularly
+               in France and Britain – the Soviets would take every opportunity to stabilize the
+               existing system of alliances while holding out the “common Eu‑ ropean home” as the
+               promised end-point. While Soviet rhetoric might continue to call for the dissolution
+               of blocs, we could expect a constant stream of new proposals for alliance to alliance
+               talks and negotiations. Gorbachev might even use the CFE process, with its timetable
+               for partial withdrawal of U.S. and Soviet forces, to give the Soviet presence a
+               longer life in Europe than it might have if pressures for Soviet withdrawal grow from
+               the populations of Eastern Europe. Finally, we could expect Soviet efforts to
+               strengthen the CSCE’s role in inter-German affairs and European security in order to
+               draw upon the angst of smaller European states about a stronger Germany. But like
+               Gorbachev’s earlier tactics toward Eastern Europe, this policy is likely to fail
+               too.</p>
+            <p>There is currently no evidence of panic in Moscow on the German issue but if the
+               Soviets begin to see their influence over European affairs deteriorating more
+               rapidly, Gorbachev could revert to Soviet calls from the 1950s for a general treaty
+               on collective security in Europe or a German peace treaty. The goal would be to
+               regain control of the pace and form of German reunification. The Soviets might count
+               on the British and French as natural allies in delaying German reunification or
+               pushing it toward confederation.</p>
+            <p>Gorbachev will come to Malta with these issues uppermost in his mind. There is, to
+               date, no evidence that the Soviets have worked out a new policy toward Eastern Europe
+               or Germany. As one Soviet commentator recently remarked, the Soviets have decided
+               that their security interests are not served by the Brezhnev<note xml:id="e2327">Leonid Brezhnev (1906–1982), <ref target="https://dodis.ch/P15543">dodis.ch/P15543</ref>, General Secretary of the Communist Party of the Soviet
+                  Union 14.10.1964–10.11.1982, Chairman of the Supreme Soviet of the Soviet Union
+                  16.6.1977–10.11.1982.</note> doctrine’s emphasis on preservation of the leading
+               role of the Party in Eastern Europe. They have not, however, defined a new set of
+               limits. Reformers in Eastern Europe seem to believe that membership in the Warsaw
+               Pact is Moscow’s last line in the sand. But reform in the GDR and the attendant
+               specter of German reunification call even that requirement into question. That is why
+               the German question is – in a way that it has not been for many years – high on the
+               Soviet security agenda and they are clearly uncertain about how best to protect their
+               interests over the long-term.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

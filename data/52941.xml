@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="58">No. ZQGR1429. Germany: The Summer of 1990</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52941</idno>
+                    </msIdentifier>
+                    <head>No. ZQGR1429. Germany: The Summer of 1990</head>
+                    <msContents>
+                        <summary>Speculative reflections on the fall of the Berlin Wall, the reunification of Germany, and what it means for Europe and the world.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-07-23">23.7.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P51338">Delworth, Thomas W. (1929–2012)</persName>
+                    <orgName ref="#R23945">Canada/Embassy in Berlin (1999-</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R821">Canada/Global Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P15543">
+                        <persName>
+                            <forename>Leonid Il'ič</forename>
+                            <surname>Brežnev</surname>
+                        </persName>
+                        <persName>Brezhnev, Leonid Ilyich</persName>
+                        <persName>Брежнев, Леонид Ильич</persName>
+                        <persName>Brejnev, Léonide</persName>
+                        <persName>Breschnjew, Leonid</persName>
+                        <persName>Brejnev, Leonid Ilitch</persName>
+                        <persName>Brezniew, Leonid Iliitsch</persName>
+                        <persName>Brezhnew, Leonid Iljitsch</persName>
+                        <persName>Breschnew, Leonid Iljitsch</persName>
+                        <persName>Breshnew, Leonid</persName>
+                        <persName>Brežnev, Leonid Il'ič</persName>
+                        <birth when="1906-12-19">
+                            <placeName>Kamjanske</placeName>
+                        </birth>
+                        <death when="1982-11-10">
+                            <placeName>Moscow</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15543</idno>
+                    </person>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P51338">
+                        <persName>
+                            <forename>Thomas W.</forename>
+                            <surname>Delworth</surname>
+                        </persName>
+                        <persName>Delworth, Thomas W.</persName>
+                        <persName>Delworth, William Thomas</persName>
+                        <birth when="1929-02-24"/>
+                        <death when="2012-10-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P51338</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P46563">
+                        <persName>
+                            <forename>Erich</forename>
+                            <surname>Honecker</surname>
+                        </persName>
+                        <persName>Honecker, Erich</persName>
+                        <birth when="1912-08-25">
+                            <placeName>Neunkirchen</placeName>
+                        </birth>
+                        <death when="1994-05-29">
+                            <placeName>Santiago de Chile</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46563</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P54809">
+                        <persName>
+                            <forename>Lothar de</forename>
+                            <surname>Maizière</surname>
+                        </persName>
+                        <persName>Maizière, Lothar de</persName>
+                        <birth when="1940-03-02">
+                            <placeName>Nordhausen </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54809</idno>
+                    </person>
+                    <person xml:id="P12354">
+                        <persName>
+                            <forename> Zédōng</forename>
+                            <surname>Máo</surname>
+                        </persName>
+                        <persName>Mao-Tse toung</persName>
+                        <persName>Mao</persName>
+                        <persName>Mao Tse Tung</persName>
+                        <persName>毛, 泽东</persName>
+                        <persName>Mao-Tse-Tung</persName>
+                        <persName>Máo , Zédōng</persName>
+                        <persName>Mao, Tsetoung</persName>
+                        <persName>Mao Tse Toung</persName>
+                        <persName>毛, 澤東</persName>
+                        <persName>Máo,  Zédōng</persName>
+                        <persName>Mao Tsé Tung</persName>
+                        <birth when="1893-12-26">
+                            <placeName>Shaoshan </placeName>
+                        </birth>
+                        <death when="1976-09-09">
+                            <placeName>Peking</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P12354</idno>
+                    </person>
+                    <person xml:id="P57476">
+                        <persName>
+                            <forename>Otto</forename>
+                            <surname>Reinhold</surname>
+                        </persName>
+                        <persName>Reinhold, Otto</persName>
+                        <birth when="1925-12-08"/>
+                        <death when="2016-04-27"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57476</idno>
+                    </person>
+                    <person xml:id="P48293">
+                        <persName>
+                            <forename>Nicholas</forename>
+                            <surname>Ridley</surname>
+                        </persName>
+                        <persName>Ridley, Nicholas</persName>
+                        <persName>Baron Ridley of Liddesdale</persName>
+                        <birth when="1929-02-17"/>
+                        <death when="1993-03-04"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P48293</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P5944">
+                        <persName>
+                            <forename>Richard von</forename>
+                            <surname>Weizsäcker</surname>
+                        </persName>
+                        <persName>Weizsäcker, Richard von</persName>
+                        <birth when="1920-04-15"/>
+                        <death when="2015-01-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P5944</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R519">
+                        <orgName>Allied Control Council</orgName>
+                        <idno type="URI">https://dodis.ch/R519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9485">
+                        <orgName>Bundeswehr</orgName>
+                        <idno type="URI">https://dodis.ch/R9485</idno>
+                    </org>
+                    <org xml:id="R23945">
+                        <orgName>Canada/Embassy in Berlin (1999-</orgName>
+                        <idno type="URI">https://dodis.ch/R23945</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R821">
+                        <orgName>Canada/Global Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R821</idno>
+                        <placeName ref="#G169">Ottawa</placeName>
+                    </org>
+                    <org xml:id="R8">
+                        <orgName>Hungary/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R8</idno>
+                        <placeName ref="#G8">Budapest</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (NATO)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33456">
+                        <orgName>Treaty on Conventional Armed Forces in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R33456</idno>
+                    </org>
+                    <org xml:id="R118">
+                        <orgName>USA/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R118</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R2434">
+                        <orgName>USSR/Communist Party</orgName>
+                        <idno type="URI">https://dodis.ch/R2434</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>USSR/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G31">
+                        <placeName>Austria</placeName>
+                        <location>
+                            <geo>47.5162314.550072</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G31</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.52000813.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G230">
+                        <placeName>Canada</placeName>
+                        <location>
+                            <geo>56.130367-106.34677</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G230</idno>
+                    </place>
+                    <place xml:id="G1380">
+                        <placeName>Central Europe</placeName>
+                        <location>
+                            <geo>49.8817.3</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1380</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.15209631.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G995">
+                        <placeName>Elbe (river)</placeName>
+                        <location>
+                            <geo>53.8933338.705556</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G995</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.52596315.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.227642.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G11236">
+                        <placeName>Houston</placeName>
+                        <location>
+                            <geo>29.762778-95.383056</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11236</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.16249519.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735-0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528-75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.8566132.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.91943719.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G131">
+                        <placeName>Potsdam</placeName>
+                        <location>
+                            <geo>52.39056813.064473</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G131</idno>
+                    </place>
+                    <place xml:id="G961">
+                        <placeName>Rhine</placeName>
+                        <location>
+                            <geo>51.9816674.080556</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G961</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116-85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805-3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024-95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52941">dodis.ch/52941</ref>
+               <title type="main">Telegram<note xml:id="e6402">Telegram No. ZQGR1429 (incoming):
+                        <idno>Global Affairs Canada file 25-3-3-5-Germany / Confidential</idno>.
+                     Ref: <idno>Tel. ZQGR1224 16 Jul 90.</idno> Info to Moscow, Washington, London,
+                     Paris, Paris-OECD, Copenhagen, Stockholm, Rome, Hague, Oslo, Brussels-EEC,
+                     Brussels-NATO, Military Representation to NATO, Vienna, Delegation to the
+                     Organization for Securtiy and Cooperation in Europe, Warsaw, Belgrade,
+                     Bucharest, Budapest, Permanent Mission New York, Geneva, Prague, Privy Council
+                     Office, Office of the Prime Minister, Department of Finance, National Defence
+                     Headquarters.</note> from the Canadian Ambassador in Bonn, Thomas W.
+                     Delworth<note xml:id="e6405">Thomas W. Delworth (1929–2012), <ref target="https://dodis.ch/P51338">dodis.ch/P51338</ref>, Canadian Ambassador
+                     in Bonn 1987–1992.</note> , to the Canadian Department of External
+                  Affairs</title>
+               <title type="sub">Germany: The Summer of 1990</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 23 July 1990 </dateline>
+            </opener>
+            <p>Summary: an unbelievable summer continues to contribute to an improbable year. Last
+               week’s Soviet concession that united German membership in NATO was now acceptable and
+               the Two-Plus-Four agreement in Paris on Polish western borders have effectively
+               removed the final international barriers to German reunification. The devil, to adapt
+               an old German adage, may reside in the remaining details, but at the moment at least
+               there is confidence on all sides that they will be overcome, and on schedule. It is,
+               however, already clear that the impact on Europe of its reunited centre will be
+               profound. Still to be gauged is the precise nature of this impact. The presence of a
+               united Germany – and the momentous change that gave rise to it – will affect
+               virtually all aspects of the way in which Canada and Canadians have thought not only
+               about Europe but also about the transatlantic relationship. A reunited Germany could
+               well necessitate the readjustment of some of the fundamental assumptions in Canadian
+               foreign policy, including our views of the role of the alliance, and our place in
+               East/West relations.</p>
+            <p>2. Report: in retrospect it is clear that Soviet intentions behind the chain of
+               events that led to the breach of the Wall on 9 November 1989 were foreshadowed in the
+               joint Soviet/FRG declaration of 13 June of that year. In it, Gorbachev endorsed the
+               principle of national self-determination, thus effectively burying the Brezhnev
+               doctrine of limited sovereignty and of the irreversibility of Communism. At the time,
+               German officials who had worked on the declaration were jubilant, but few others took
+               its implications to heart. By November, the SED ideologist, Otto Reinhold<note xml:id="e6422">Otto Reinhold (1925–2016), <ref target="https://dodis.ch/P57476">dodis.ch/P57476</ref>, Member and ideologist of the SED.</note>, was saying on
+               West German television that a GDR without socialism would lose its legitimacy. The
+               end of Honecker<note xml:id="e6428">Erich Honecker (1912–1994), <ref target="https://dodis.ch/P46563">dodis.ch/P46563</ref>, General Secretary of
+                  the SED and chairman of the GDR State Council 29.10.1976–18.10.1989.</note> by the
+               turn of the year, and the reduction of the SED in the spring elections to a splinter
+               party proved his point: the GDR had voted to abolish itself. What happened between
+               then and now looks like the working out of some sort of inexorable logic of history,
+               but there was also virtually unbelievable German good luck, combined with political
+               courage and determination not only on Gorbachev’s<note xml:id="e6434">Mikhail
+                  Gorbachev (*1931), <ref target="https://dodis.ch/P31707">dodis.ch/P31707</ref>,
+                  General Secretary of the Communist Party of the Soviet Union 11.3.1985–24.8.1991,
+                  Chairman of the Supreme Soviet of the Soviet Union 25.5.1989–15.3.1990 and
+                  President of the Soviet Union 15.3.1990–25.12.1991.</note> part but also by East
+               Europeans. Among the latter were members of the then Hungarian government who in the
+               autumn of 1989 took the brave decision to break their treaty commitments with their
+               East German partners by permitting GDR refugees in Hungary to flow west, knowing full
+               well that such a decision was crossing a Communist Rubicon, and would create a crisis
+               within the Eastern Bloc from which recovery was unlikely.</p>
+            <p>3. So greatly have times changed at this point that Chancellor Kohl<note xml:id="e6442">Helmut Kohl (1930–2017), <ref target="https://dodis.ch/P31852">dodis.ch/P31852</ref>, Chancellor of the FRG 1.10.1982–27.10.1998.</note> went
+               to Moscow last week, returning with Soviet agreement on a united Germany in NATO.
+               This agreement is more striking because it was reached independent of any visible,
+               direct relationship to the Two-Plus-Four process, and removed in detail from anything
+               but the broadest NATO imprimatur (so far as we know there was no prior NATO
+               consultation on the reduction of German troop levels offered by Kohl, or on the
+               agreement that the 380,000 Soviet troops leave Germany no later than 1994). A strong
+               USA profile in this deal was, moreover, noticeable by its absence: the Bush<note xml:id="e6448">George Herbert Walker Bush (1924–2018), <ref target="https://dodis.ch/P47406">dodis.ch/P47406</ref>, President of the United
+                  States, 20.1.1989–20.1.1993.</note> administration had already accepted that
+               Germany would go its own way on economic support to the East, whatever decisions were
+               or were not taken at the Houston Summit. This laissez-faire approach on the mechanics
+               of German unification seems generally shared by other allies, the Ridley<note xml:id="e6454">Nicholas Ridley (1929–1993), <ref target="https://dodis.ch/P48293">dodis.ch/P48293</ref>, British Minister of Trade and Industry
+                  24.7.1989–13.7.1990.</note> affair notwithstanding.</p>
+            <p>4. This is a great Western victory: removing the Iron Curtain from Central Europe and
+               opening the way to the final achievement of the goals we set for ourselves at the
+               beginning of the CSCE process in the 1970s, this is the much-to-be-welcomed
+               culmination of a remarkable team effort, despite occasional doubts, hiccups and false
+               starts. According to Foreign Minister Shevardnadze<note xml:id="e6462">Eduard
+                  Shevardnadze (1928–2014), <ref target="https://dodis.ch/P54603">dodis.ch/P54603</ref>, Minister of Foreign Affairs of the Soviet Union
+                  2.7.1985–26.12.1990.</note>, the London NATO Summit, in transforming the purpose
+               of the alliance, prepared the way for Soviet agreement on a united Germany in NATO.
+               On 19 November, everything will culminate at the Paris CSCE meeting when German union
+               will be recognized (presumably in a declaration) by all participating states and
+               where new security structures under CSCE auspices will be established at the same
+               time as CFE I concludes and the final agreement on the elimination of Four Power
+               rights in Germany is reached. A breathtaking agenda for a single relatively brief
+               meeting.</p>
+            <p>5. The original deal at Potsdam looking to a democratic Europe is thus being
+               implemented after a delay of some 40 years. German reunification and its concomitant
+               twin, the revolution in Eastern Europe, have drastically changed what the Russians
+               used to call the correlation of forces in Central Europe. With German union, the
+               Western European political and economic equilibrium at least symbolically shifts its
+               centre of gravity away from the Rhine towards the Elbe. Despite various studies that
+               we and our allies have undertaken, the shape of such a transformed Europe is barely
+               visible; many studies have focussed on the processes of German union, implications
+               for NATO etc., but few on the facts, as rearranged, following union. These latter are
+               virtually upon us. First among them is that the West German identity assumed by the
+               FRG which virtually everyone has taken as a given, will perforce begin its
+               disappearance the day a united Germany is proclaimed. A reunited Germany will be much
+               greater than the sum of its parts, the FRG plus the GDR plus Berlin. But what in fact
+               will it be?</p>
+            <p>6. The Federal German Republic had already emerged as the Western European primus
+               inter pares, and with de facto Soviet withdrawal in the East, a united Germany will
+               become the predominant power in an area which Germans (and their Austrian cousins)
+               have historically contested with the Russians. Here, the paradox is that as the FRG
+               emerged as the dominant economic power in Europe it remained only a quasi-sovereign
+               country, militarily limited in many respects by the terms of various NATO agreements,
+               and by a kind of political self-censorship in its dealings with both East and West,
+               particularly on security issues. With the imminent emergence of a fully sovereign,
+               united Germany (with of course, one or two transitional arrangements) this era is
+               virtually at an end.</p>
+            <p>7. Obviously, the effects of German union on the allied military presence in the FRG
+               will be direct and immediate, with long-term implications for force levels and
+               structures. As Soviet withdrawals in the East continue, a vacuum could well be
+               created, generating a host of other security problems which CSCE mechanisms now under
+               negotiation are designed to address: in theory, the old East/West security structures
+               will be replaced by an institutional role for the CSCE, inter- and intra-alliance
+               cooperation and non-aggression treaties with the USSR and Poland. This may well be a
+               promising beginning but it is unlikely to be the end of the story. Whatever role CSCE
+               mechanisms may eventually play, the reassertion of German economic power and
+               political influence in Eastern Europe is a process already begun. Unification will
+               intensify this process as Germany becomes primus inter pares in Central Europe as
+               well. The Maoist dictum that political power grows out of the barrel of a gun has
+               been disproved by German bankers, and mere possession of nuclear weapons by the UK
+               and France as a means for wielding political influence has proven no match for the
+               Deutsche Mark.</p>
+            <p>8. Chancellor Kohl has sought to play down the significance of the profound changes
+               now underway, speaking of a united Germany as the “rational centre of Europe” and of
+               the German ability to act as a clearing house of ideas between Western and Eastern
+               Europe. For some time yet, a united Germany will indeed be preoccupied with internal
+               matters. There are dislocations in the GDR created by the onset of capitalism – its
+               aggressive West German variety has so far been underplayed by the FRG coalition, but
+               already the effects on GDR agriculture and industry have been profound. The
+               complexity of the issues involved in the new Germany’s European vocation are
+               miniaturized in the debate over whether the capital of a united Germany should be
+               Berlin. De Maiziere<note xml:id="e6476">Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809">dodis.ch/P54809</ref>, GDR Prime Minister
+                  12.4–2.10.1990.</note> has unwisely made this a pre-condition for union, and
+               President von Weizsäcker<note xml:id="e6482">Richard von Weizsäcker (1920–2015), <ref target="https://dodis.ch/P5944">dodis.ch/P5944</ref>, President of the FRG
+                  1.7.1984–30.6.1994.</note> (for unknown reasons) has also entered an intensely
+               political debate on the side of Berlin. There is thus revealed a second debate about
+               whether Germany should now turn to the East as much as it had turned to the West.
+               With big metropolitan Berlin – a major European city by any standards – the vision of
+               an Eastern empire comes virtually to mind. For many Germans, to opt for Berlin is to
+               opt for an eastern “empire”, an eastern economic hinterland. This is feared as much
+               by many Germans as it is by others.</p>
+            <p>9. In the rush of events over German unification and the transformation of Eastern
+               Europe, one overarching fact is occasionally missed. The strongest military power in
+               Europe remains the Soviet Union, and in many respects, and in ways still difficult to
+               measure, the Soviet Union retains its full potential as arbiter of events in Central
+               Europe, perhaps now less in conjunction with its transatlantic superpower partner and
+               more with the new Germany: the determination of events in Europe is now more firmly
+               in the hands of Europeans in ways not thought possible only a few months ago.</p>
+            <p>10. Even as German preoccupations over completing the integration of its eastern with
+               its western parts will continue, post-unification, it is certain that German
+               reticence internationally will disappear. Of necessity and inevitability, there will
+               be pressure for the building of a truly global German foreign policy beyond the range
+               of relatively narrowly-focused matters as now practised by the FRG. The effects of
+               the emergence of this Central European superpower on our present transatlantic
+               relationship with the FRG is as yet discernable in only the vaguest outline. As
+               Germany unites, grows together and begins to flex its new muscles many of the
+               assumptions Canada has so long held vis-à-vis the FRG will need the closest
+               re-examination if we are to maximize the strengths we can draw from relationships
+               with a transformed Europe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

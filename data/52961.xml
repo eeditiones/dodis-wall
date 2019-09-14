@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="54">GDR in Final Phase</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52961</idno>
+                    </msIdentifier>
+                    <head>GDR in Final Phase</head>
+                    <msContents>
+                        <summary>Report on the state of affairs in the GDR, where people appear pleased with the prospect of reunification and see no reason to stretch out the country’s existence. These mental changes have had a profound impact on the internal political situation in the GDR.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-07-04">4.7.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="nl">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Telegram</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57545">Jacobs, Egbert (1945–)</persName>
+                    <orgName ref="#R33496">Netherlands/Embassy in Berlin</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57545">Jacobs, Egbert (1945–)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57462">van den Broek, Hans (1936–)</persName>
+                    <orgName ref="#R6991">Netherlands/Ministry of Foreign Affairs</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P57574">
+                        <persName>
+                            <forename>Peter-Michael</forename>
+                            <surname>Diestel</surname>
+                        </persName>
+                        <persName>Diestel, Peter-Michael</persName>
+                        <birth when="1952-02-14"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57574</idno>
+                    </person>
+                    <person xml:id="P57573">
+                        <persName>
+                            <forename>Hans-Wilhelm</forename>
+                            <surname>Ebeling</surname>
+                        </persName>
+                        <persName>Ebeling, Hans-Wilhelm</persName>
+                        <birth when="1934-01-15"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57573</idno>
+                    </person>
+                    <person xml:id="P57572">
+                        <persName>
+                            <forename>Rainer</forename>
+                            <surname>Eppelmann</surname>
+                        </persName>
+                        <persName>Eppelmann, Rainer</persName>
+                        <birth when="1943-02-12"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57572</idno>
+                    </person>
+                    <person xml:id="P57545">
+                        <persName>
+                            <forename>Egbert</forename>
+                            <surname>Jacobs</surname>
+                        </persName>
+                        <persName>Jacobs, Egbert</persName>
+                        <persName>Jacobs, Egbert Frederik</persName>
+                        <birth when="1945"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57545</idno>
+                    </person>
+                    <person xml:id="P54809">
+                        <persName>
+                            <forename>Lothar de</forename>
+                            <surname>Maizière</surname>
+                        </persName>
+                        <persName>Maizière, Lothar de</persName>
+                        <birth when="1940-03-02">
+                            <placeName>Nordhausen </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54809</idno>
+                    </person>
+                    <person xml:id="P57575">
+                        <persName>
+                            <forename>Kurt</forename>
+                            <surname>Wünsche</surname>
+                        </persName>
+                        <persName>Wünsche, Kurt</persName>
+                        <birth when="1929-12-14"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57575</idno>
+                    </person>
+                    <person xml:id="P57462">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>van den Broek</surname>
+                        </persName>
+                        <persName>van den Broek, Henri</persName>
+                        <persName>van den Broek, Hans</persName>
+                        <birth when="1936-12-11"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57462</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R2345">
+                        <orgName>Deutschland/BRD/Christlich Demokratische Union Deutschlands</orgName>
+                        <idno type="URI">https://dodis.ch/R2345</idno>
+                    </org>
+                    <org xml:id="R33498">
+                        <orgName>Deutschland/DDR/Innenministerium</orgName>
+                        <idno type="URI">https://dodis.ch/R33498</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R3944">
+                        <orgName>Deutschland/DDR/Liberal-Demokratische Partei Deutschlands (Ost) (1949-1990)</orgName>
+                        <idno type="URI">https://dodis.ch/R3944</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/FRG/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R33484">
+                        <orgName>Germany/FRG/Parliament/FDP faction</orgName>
+                        <idno type="URI">https://dodis.ch/R33484</idno>
+                    </org>
+                    <org xml:id="R32007">
+                        <orgName>Germany/GDR/Democratic Awakening</orgName>
+                        <idno type="URI">https://dodis.ch/R32007</idno>
+                    </org>
+                    <org xml:id="R32023">
+                        <orgName>Germany/GDR/Democratic Farmers' Party of Germany</orgName>
+                        <idno type="URI">https://dodis.ch/R32023</idno>
+                    </org>
+                    <org xml:id="R31996">
+                        <orgName>Germany/GDR/German Social Union</orgName>
+                        <idno type="URI">https://dodis.ch/R31996</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/GDR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R22780">
+                        <orgName>Germany/GDR/Ministry for State Security</orgName>
+                        <idno type="URI">https://dodis.ch/R22780</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33502">
+                        <orgName>Germany/GDR/Ministry of Economic Cooperation</orgName>
+                        <idno type="URI">https://dodis.ch/R33502</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R10937">
+                        <orgName>Germany/GDR/State</orgName>
+                        <idno type="URI">https://dodis.ch/R10937</idno>
+                    </org>
+                    <org xml:id="R33496">
+                        <orgName>Netherlands/Embassy in Berlin</orgName>
+                        <idno type="URI">https://dodis.ch/R33496</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R6991">
+                        <orgName>Netherlands/Ministry of Foreign Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R6991</idno>
+                        <placeName ref="#G88">The Hague</placeName>
+                    </org>
+                    <org xml:id="R3942">
+                        <orgName>SED</orgName>
+                        <idno type="URI">https://dodis.ch/R3942</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>USSR/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.68.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.737437.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.57838713.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.05212.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.7537.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G862">
+                        <placeName>Munich</placeName>
+                        <location>
+                            <geo>48.13512411.581981</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G862</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.722583.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G88">
+                        <placeName>The Hague</placeName>
+                        <location>
+                            <geo>52.07054.3007</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G88</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+         <change when="2019-06-01"/>
+      </revisionDesc>
+    </teiHeader>
+   <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52961">dodis.ch/52961</ref>
+               <title type="main">Telegram<note xml:id="e5970">Telegram No. 145 (incoming translated
+                     from Dutch): <idno>Netherlands Ministry of Foreign Affairs BuZa 1985–1990, blok
+                        Z-299, </idno>
+                            <add type="edition">
+                                <idno>[NA 2.05.392]</idno>
+                            </add>
+                            <idno>
+                        inv.nr. 4601 </idno>
+                            <add type="edition">
+                                <idno>[2129]</idno>
+                            </add>
+                     .<idno/>
+                        </note> from the Dutch Ambassador in East Berlin, Egbert Jacobs<note xml:id="e5979">Egbert Jacobs (*1945), <ref target="https://dodis.ch/P57545">dodis.ch/P57545</ref>, Dutch Ambassador in East Berlin 1989–1990.</note>,
+                  to the Dutch Minister of Foreign Affairs, Hans van den Broek<note xml:id="e5985">Hans van den Broek (*1936), <ref target="https://dodis.ch/P57462">dodis.ch/P57462</ref>, Dutch Minister of Foreign Affairs
+                     4.11.1982–3.1.1993.</note>
+                    </title>
+               <title type="sub">GDR in Final Phase</title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>East Berlin, 4 July 1990</dateline>
+            </opener>
+            <p>If one could still think initially that a breather would be inserted after 1 July to
+               recover, it has now become clear that the GDR population sees no reason to prolong
+               the continued existence of this state. The successful course of the introduction of
+               the D-mark has brought more confidence in the future. Rarely is anything heard any
+               more about the “insertion of own values/achievements” or about “proceeding on an
+               equal footing together”. Protests about “selling out to the FRG” have fallen
+               silent.</p>
+            <p>In this mood it has become impossible to pursue non party politics and GDR parties,
+               with the exception of the PDS, have become reconciled to their insignificance. Hence
+               the ever-advancing dates on which they will “join” the FRG parties. Of course parties
+               without an equivalent in the FRG naturally feel threatened as regards their continued
+               existence. Meanwhile, the farmer’s party DBP, having emerged as a relative winner in
+               the municipal elections of 6 May, has affiliated itself with the CDU. The original
+               “Aufbruch” party DA of Minister Eppelmann<note xml:id="e6001">Rainer Eppelmann
+                  (*1943), <ref target="https://dodis.ch/P57572">dodis.ch/P57572</ref>, Member of
+                  the People’s Chamber of the GDR and Minister for National Defense
+                  12.4.1990–3.10.1990.</note> is expected to follow this example soon. The DSU is
+               unable to merge with the CSU for political reasons emanating from Bonn and Munich and
+               will go under due to internal division, fueled by reproaches about the cooperation of
+               its recent leadership with FRG representatives. Right-wing Germany is clearly
+               gathering in the DSU, and because both DSU Ministers (Ebeling<note xml:id="e6007">Hans-Wilhelm Ebeling (*1934), <ref target="https://dodis.ch/P57573">dodis.ch/P57573</ref>, Minister for Economic Cooperation of the GDR
+                  12.4.1990–3.10.1990.</note>/Development Cooperation and Diestel<note xml:id="e6013">Peter-Michael Diestel (*1952), <ref target="https://dodis.ch/P57574">dodis.ch/P57574</ref>, Interior Minister of
+                  the GDR 12.4.1990–3.10.1990.</note>/Internal Affairs) have left their party
+               without returning their portfolio, the DSU is no longer represented in the
+               government.</p>
+            <p>Today the Minister of Justice has also left his (liberal) party “because of excessive
+               influence of West German FDP”. Read: because of too much criticism from the West
+               German liberal side on the past of Minister Wünsche<note xml:id="e6021">Kurt Wünsche
+                  (*1929), <ref target="https://dodis.ch/P57575">dodis.ch/P57575</ref>, Justice
+                  Minister of the GDR 11.1.1990–16.8.1990.</note>. That Prime Minister De
+                  Maiziere<note xml:id="e6027">Lothar de Maizière (*1940), <ref target="https://dodis.ch/P54809">dodis.ch/P54809</ref>, GDR Prime Minister
+                  12.4–2.10.1990.</note> keeps these three – now non-aligned – gentlemen indicates,
+               in my opinion, that he has faith in Diestel and Wünsche as competent administrators
+               who are to remain until December. Both in legislative adjustment and in dismantling
+               the STASI, party-political fiddling is inconvenient. Nonetheless the term “government
+               crisis” has already been used, but has not led to visible political excitement, a
+               sign of waning interest in the ups and downs of the government that is already seen
+               as an extension of Bonn.</p>
+            <p>Of the 3 conditions for joint elections at the beginning of December that have been
+               brought forward by the GDR coalition – the “Unification Treaty”<note xml:id="e6035">Quoted in German: <orig>Einigungsvertrag</orig>.</note>, the establishment of
+               “Länder”, and the termination of the 2 + 4 consultations<note xml:id="e6038">Series
+                  of meetings of the four Allied Powers (USA, Britain, France, USSR) and FRG plus
+                  GDR.</note> – only the latter appears to constitute a potential problem. However,
+               the GDR (population) has little to do with this: in this country the issue arouses
+               hardly any interest and every result appears acceptable as long as it does not delay
+               unification and, secondly, brings an end to foreign patronage. If the USSR continues
+               to make trouble, this will certainly work against Moscow. The special GDR-USSR
+               connection has long been chopped off mentally by the population. Which does not mean
+               that “die Wirtschaft”<note xml:id="e6041">The economy, here West-German
+                  entrepreneurship.</note> has lost its interest in the markets in the east. On the
+               contrary, but almost exclusively as a sales market.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

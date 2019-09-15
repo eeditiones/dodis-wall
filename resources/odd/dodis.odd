@@ -28,6 +28,11 @@
                 <p>born digital</p>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition source="dodis.css"/>
+            </tagsDecl>
+        </encodingDesc>
         <revisionDesc>
             <change when="2018-01-08+01:00">Initial version</change>
         </revisionDesc>
@@ -49,10 +54,12 @@
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: center;
 font-size: 1em;
+            
             
             
             
@@ -67,10 +74,12 @@ font-size: 1em;
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: center;
 font-size: 1em;
+            
             
             
             
@@ -86,11 +95,13 @@ font-size: 1em;
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: left;
 font-size: 0.7em;
 margin-left: 20px;
+            
             
             
             
@@ -141,9 +152,11 @@ margin-left: 20px;
             
             
             
+            
             text-align: center;
 text-transform: uppercase;
 font-style: italic;
+            
             
             
             
@@ -160,10 +173,12 @@ font-style: italic;
             
             
             
+            
             text-align: center;
 text-transform: none;
 font-style: italic;
 display: inline-block;
+            
             
             
             
@@ -180,11 +195,13 @@ display: inline-block;
             
             
             
+            
             font-style: italic;
 margin-bottom: -20px;
 text-indent: 20px;
 display: block;
 margin-top: 10px;
+            
             
             
             
@@ -258,8 +275,10 @@ margin-top: 10px;
             <outputRendition xml:space="preserve">
             
             
+            
             padding-left: 0px;
 text-indent: 20px;
+            
             
             
             </outputRendition>
@@ -279,8 +298,10 @@ text-indent: 20px;
             
             </outputRendition>
             <outputRendition xml:space="preserve">
+            
             text-align: justify; text-indent: 20px; margin-bottom: 0px;
 margin-top:0px;
+            
             </outputRendition>
         </model>
                 </elementSpec>
@@ -329,9 +350,11 @@ margin-top:0px;
             
             
             
+            
             margin-top: 10px; 
 width: 80%;
 margin-left: 20px;
+            
             
             
             
@@ -351,9 +374,11 @@ margin-left: 20px;
             
             
             
+            
             text-align: left;
 vertical-align: top;
 width: min-content;
+            
             
             
             
@@ -412,8 +437,10 @@ width: min-content;
             
             
             
+            
             margin: 6pt; border: solid red 1pt; 
 color: red;
+            
             
             
             
@@ -454,8 +481,8 @@ color: red;
                     <model output="web" behaviour="block"/>
                 </elementSpec>
                 <elementSpec ident="TEI" mode="change">
-                    <model predicate="$parameters?view=&#34;metadata&#34;" behaviour="block">
-            <param name="content" value="teiHeader/profileDesc/particDesc"/>
+                    <model predicate="$parameters?view=&#34;metadata&#34;" behaviour="block" cssClass="metadata">
+            <param name="content" value="(teiHeader/profileDesc/particDesc, teiHeader/profileDesc/settingDesc)"/>
         </model>
                     <model behaviour="document"/>
                 </elementSpec>
@@ -464,18 +491,24 @@ color: red;
                     <model predicate="parent::birth or parent::death" behaviour="inline">
             <param name="content" value="(' in ', .)"/>
         </model>
+                    <model predicate="parent::place" behaviour="link">
+            <param name="uri" value="../idno"/>
+            <param name="target" value="'_blank'"/>
+        </model>
                 </elementSpec>
                 <elementSpec ident="listPlace" mode="add">
                     <modelSequence>
             <model behaviour="heading">
-                <param name="content" value="'Related Places'"/>
+                <param name="content" value="'Places'"/>
                 <param name="level" value="3"/>
             </model>
             <model behaviour="list"/>
         </modelSequence>
                 </elementSpec>
                 <elementSpec ident="place" mode="add">
-                    <model behaviour="listItem"/>
+                    <model behaviour="listItem">
+            <param name="content" value="placeName"/>
+        </model>
                 </elementSpec>
             <elementSpec ident="facsimile" mode="add">
                     <model behaviour="block"/>
@@ -518,7 +551,14 @@ color: red;
             <model behaviour="heading">
                 <param name="content" value="'Persons'"/>
             </model>
-            <model behaviour="list"/>
+            <model behaviour="list">
+                <outputRendition xml:space="preserve">
+                
+                list-style: var(--meta-list-style);
+padding: var(--meta-list-padding);
+                
+                </outputRendition>
+            </model>
         </modelSequence>
                 </elementSpec>
                 <elementSpec ident="person" mode="add">
@@ -530,6 +570,7 @@ color: red;
                     <model behaviour="link">
             <param name="content" value="string-join((forename, surname), ' ')"/>
             <param name="uri" value="../idno"/>
+            <param name="target" value="'_blank'"/>
         </model>
                 </elementSpec>
                 <elementSpec ident="birth" mode="add">
@@ -558,8 +599,10 @@ color: red;
                 <elementSpec ident="orgName" mode="add">
                     <model behaviour="link">
             <param name="uri" value="../idno"/>
+            <param name="target" value="'_blank'"/>
         </model>
                 </elementSpec>
+            <elementSpec ident="settingDesc" mode="add"/>
             </schemaSpec>
             <elementSpec ident="body" mode="change">
                 <modelSequence>

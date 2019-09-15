@@ -52,6 +52,40 @@
                     /* --pb-panel-max-height: var(--pb-view-height); */
                 }
 
+                .logo {
+                    height: auto;
+                    width: auto;
+                }
+
+                app-header {
+                    background-image: url('resources/images/bg-header.jpg');
+                }
+
+                .menubar {
+                    background-color: rgb(0, 0, 0, 0.4);
+                }
+
+                .toolbar {
+                    background-color: rgb(20, 20, 20, 0.7);
+                }
+
+                app-toolbar {
+                    color: white;
+                }
+
+                app-toolbar pb-search {
+                    padding-left: 20px;
+                    --pb-search-input: white;
+                    --pb-search-label: white;
+                }
+
+                .menubar .logo {
+                    font-family: "Oswald",Verdana,"Helvetica",sans-serif;
+                    font-weight: 400 !important;
+                    font-size: 32px;
+                    text-shadow: 3px -4px 5px black;
+                }
+
                 pb-facsimile {
                     min-width: 480px;
                 }
@@ -70,6 +104,8 @@
                     grid-template-columns: auto 1fr auto;
                     grid-column-gap: 20px;
                     padding: 0 20px;
+                    --meta-list-style: none;
+                    --meta-list-padding: 0;
                 }
 
                 .transcription {

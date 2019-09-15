@@ -16,11 +16,11 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
             case "title" return
                 $header//tei:msDesc/tei:head
             case "author-person" return
-                let $ref := $header//tei:correspAction[@type="sent"]/tei:persName/@ref
+                for $ref in $header//tei:correspAction[@type="sent"]/tei:persName/@ref
                 return
                     id(substring-after($ref, '#'), root($root))//tei:persName[@type='full']
             case "author-org" return
-                let $ref := $header//tei:correspAction[@type="sent"]/tei:orgName/@ref
+                for $ref in $header//tei:correspAction[@type="sent"]/tei:orgName/@ref
                 return
                     id(substring-after($ref, '#'), root($root))//tei:orgName
             case "language" return
@@ -35,6 +35,8 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                 $header//tei:listPlaces/tei:place/tei:placeName
             case "organizations-mentioned" return
                 $header//tei:listOrg/tei:org/tei:orgName
+            case "number-in-volume" return
+                $header//tei:titleStmt/tei:title/@n/number()
             default return
                 ()
 };

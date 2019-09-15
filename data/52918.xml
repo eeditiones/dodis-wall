@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
                 <title n="20">Conclusions of a Meeting of the Cabinet held at 10 Downing Street on 15.11.1989 at 9.30</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="14"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -815,11 +818,24 @@
                 </listPlace>
             </settingDesc>
         </profileDesc>
-        <revisionDesc>
-         <change when="2019-06-01"/>
-      </revisionDesc>
     </teiHeader>
-   <text>
+    <facsimile>
+        <graphic url="52918-0.png"/>
+        <graphic url="52918-1.png"/>
+        <graphic url="52918-2.png"/>
+        <graphic url="52918-3.png"/>
+        <graphic url="52918-4.png"/>
+        <graphic url="52918-5.png"/>
+        <graphic url="52918-6.png"/>
+        <graphic url="52918-7.png"/>
+        <graphic url="52918-8.png"/>
+        <graphic url="52918-9.png"/>
+        <graphic url="52918-10.png"/>
+        <graphic url="52918-11.png"/>
+        <graphic url="52918-12.png"/>
+        <graphic url="52918-13.png"/>
+    </facsimile>
+    <text>
       <body>
          <div type="doc">
             <head>

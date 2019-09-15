@@ -7,6 +7,9 @@
                 <title n="36">Nr. 12, Telegramm Nr. 38. ​Die Wiedervereinigung und die Blockzugehörigkeit​</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="2"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -312,6 +315,10 @@
             </settingDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="52281-0.png"/>
+        <graphic url="52281-1.png"/>
+    </facsimile>
     <text>
         <body>
             <div type="doc">

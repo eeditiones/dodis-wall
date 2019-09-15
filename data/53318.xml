@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
                 <title n="47">The answers of E. A. Shevardnadze to the Questions of the Irish Newspaper “Irish Times”</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="9"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -353,11 +356,19 @@
                 </listPlace>
             </settingDesc>
         </profileDesc>
-        <revisionDesc>
-         <change when="2019-06-01"/>
-      </revisionDesc>
     </teiHeader>
-   <text>
+    <facsimile>
+        <graphic url="53318-0.png"/>
+        <graphic url="53318-1.png"/>
+        <graphic url="53318-2.png"/>
+        <graphic url="53318-3.png"/>
+        <graphic url="53318-4.png"/>
+        <graphic url="53318-5.png"/>
+        <graphic url="53318-6.png"/>
+        <graphic url="53318-7.png"/>
+        <graphic url="53318-8.png"/>
+    </facsimile>
+    <text>
       <body>
          <div type="doc">
             <head>

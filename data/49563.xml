@@ -7,6 +7,9 @@
                 <title n="16">RDA: Conférence de presse</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="4"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -280,6 +283,12 @@
             </settingDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="49563-0.png"/>
+        <graphic url="49563-1.png"/>
+        <graphic url="49563-2.png"/>
+        <graphic url="49563-3.png"/>
+    </facsimile>
     <text>
         <body>
             <div type="doc">

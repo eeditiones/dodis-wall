@@ -7,6 +7,9 @@
                 <title n="13">No 381. Future Developments in the GDR</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="3"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -275,6 +278,11 @@
             </settingDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="52923-0.png"/>
+        <graphic url="52923-1.png"/>
+        <graphic url="52923-2.png"/>
+    </facsimile>
     <text>
         <body>
             <div type="doc">

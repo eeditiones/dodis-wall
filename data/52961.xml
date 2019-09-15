@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
                 <title n="54">GDR in Final Phase</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="2"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -277,11 +280,12 @@
                 </listPlace>
             </settingDesc>
         </profileDesc>
-        <revisionDesc>
-         <change when="2019-06-01"/>
-      </revisionDesc>
     </teiHeader>
-   <text>
+    <facsimile>
+        <graphic url="52961-0.png"/>
+        <graphic url="52961-1.png"/>
+    </facsimile>
+    <text>
       <body>
          <div type="doc">
             <head>

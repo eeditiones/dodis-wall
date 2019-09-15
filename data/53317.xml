@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
+    <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
                 <title n="43">Rights, Responsibilities and approaches of the USSR in German Affairs</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="23"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -639,11 +642,33 @@
                 </listPlace>
             </settingDesc>
         </profileDesc>
-        <revisionDesc>
-         <change when="2019-06-01"/>
-      </revisionDesc>
     </teiHeader>
-   <text>
+    <facsimile>
+        <graphic url="53317-0.png"/>
+        <graphic url="53317-1.png"/>
+        <graphic url="53317-2.png"/>
+        <graphic url="53317-3.png"/>
+        <graphic url="53317-4.png"/>
+        <graphic url="53317-5.png"/>
+        <graphic url="53317-6.png"/>
+        <graphic url="53317-7.png"/>
+        <graphic url="53317-8.png"/>
+        <graphic url="53317-9.png"/>
+        <graphic url="53317-10.png"/>
+        <graphic url="53317-11.png"/>
+        <graphic url="53317-12.png"/>
+        <graphic url="53317-13.png"/>
+        <graphic url="53317-14.png"/>
+        <graphic url="53317-15.png"/>
+        <graphic url="53317-16.png"/>
+        <graphic url="53317-17.png"/>
+        <graphic url="53317-18.png"/>
+        <graphic url="53317-19.png"/>
+        <graphic url="53317-20.png"/>
+        <graphic url="53317-21.png"/>
+        <graphic url="53317-22.png"/>
+    </facsimile>
+    <text>
       <body>
          <div type="doc">
             <head>

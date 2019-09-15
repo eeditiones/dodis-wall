@@ -7,6 +7,9 @@
                 <title n="62">Nr. 16. Adieu, DDR!</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="7"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -622,6 +625,15 @@
             </settingDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="49561-0.png"/>
+        <graphic url="49561-1.png"/>
+        <graphic url="49561-2.png"/>
+        <graphic url="49561-3.png"/>
+        <graphic url="49561-4.png"/>
+        <graphic url="49561-5.png"/>
+        <graphic url="49561-6.png"/>
+    </facsimile>
     <text>
         <body>
             <div type="doc">

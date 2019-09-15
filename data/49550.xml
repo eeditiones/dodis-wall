@@ -7,6 +7,9 @@
                 <title n="46">DDR - Neue Regierung und Politik</title>
                 <author>Marc Dierikx, Sacha Zala</author>
             </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="3"/>
+            </extent>
             <publicationStmt>
                 <publisher>Diplomatische Dokumente der Schweiz</publisher>
                 <date>2019</date>
@@ -329,6 +332,11 @@ Darin: Gemeinsame Erklärung aller Fraktionen der Volkskammer vom 12.4.1990</sum
             </settingDesc>
         </profileDesc>
     </teiHeader>
+    <facsimile>
+        <graphic url="49550-0.png"/>
+        <graphic url="49550-1.png"/>
+        <graphic url="49550-2.png"/>
+    </facsimile>
     <text>
         <body>
             <div type="doc">

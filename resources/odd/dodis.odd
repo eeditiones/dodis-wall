@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pb="http://teipublisher.com/1.0" xml:lang="en">change<teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,14 +36,15 @@
             <schemaSpec start="TEI teiCorpus" ident="Dodis" source="teipublisher.odd">
                 <elementSpec ident="dateline" mode="change">
                     <model behaviour="block" cssClass="tei-dateline">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             text-align: right;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="ref" mode="change">
                     <model output="fo" predicate="parent::head" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -53,10 +55,12 @@ font-size: 1em;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                     <model output="fo" predicate="parent::head" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -67,12 +71,13 @@ font-size: 1em;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="parent::head" behaviour="link" cssClass="tei-head-nr">
-                        <param name="link"
-                            value="if (starts-with(@target, '#')) then '?odd=' || request:get-parameter('odd', ()) || '&amp;amp;view=' || request:get-parameter('view', ()) || '&amp;amp;id=' || substring-after(@target, '#') else @target"/>
-                        <outputRendition xml:space="preserve">
+            <param name="link" value="if (starts-with(@target, '#')) then '?odd=' || request:get-parameter('odd', ()) || '&amp;amp;view=' || request:get-parameter('view', ()) || '&amp;amp;id=' || substring-after(@target, '#') else @target"/>
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -84,32 +89,32 @@ margin-left: 20px;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                     <model output="fo" predicate="parent::note" behaviour="inline">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: normal;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="not(@target)" behaviour="inline" cssClass="tei-ref1">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             
             </outputRendition>
-                    </model>
+        </model>
                     <model output="web" predicate="not(text())" behaviour="link" cssClass="tei-ref2">
-                        <param name="content" value="@target"/>
-                        <param name="link" value="@target"/>
-                        <outputRendition xml:space="preserve">
+            <param name="content" value="@target"/>
+            <param name="link" value="@target"/>
+            <outputRendition xml:space="preserve">
             
             </outputRendition>
-                    </model>
+        </model>
                     <model output="web" behaviour="link" cssClass="tei-link">
-                        <param name="link"
-                            value="if (starts-with(@target, '#')) then '?odd=' || request:get-parameter('odd', ()) || '&amp;amp;view=' || request:get-parameter('view', ()) || '&amp;amp;id=' || substring-after(@target, '#') else @target"/>
-                        <outputRendition xml:space="preserve">
+            <param name="link" value="if (starts-with(@target, '#')) then '?odd=' || request:get-parameter('odd', ()) || '&amp;amp;view=' || request:get-parameter('view', ()) || '&amp;amp;id=' || substring-after(@target, '#') else @target"/>
+            <outputRendition xml:space="preserve">
             font-style: normal;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
 
 
@@ -123,7 +128,8 @@ margin-left: 20px;
 
                 <elementSpec ident="title" mode="change">
                     <model output="fo" predicate="@type='sub'" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -135,10 +141,12 @@ font-style: italic;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                     <model output="fo" predicate="@type='main'" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -151,10 +159,12 @@ display: inline-block;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="@type='doc'" behaviour="block" cssClass="tei-title-doc">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -168,144 +178,144 @@ margin-top: 10px;
             
             
             
+            
             </outputRendition>
-                    </model>
-                    <model output="web" predicate="@type='main'" behaviour="heading"
-                        cssClass="tei-title-sub">
-                        <outputRendition xml:space="preserve">
+        </model>
+                    <model output="web" predicate="@type='main'" behaviour="heading" cssClass="tei-title-sub">
+            <outputRendition xml:space="preserve">
             font-variant: small-caps; font-style: normal; margin-top: 15px; text-align: center;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="@type='main'" behaviour="inline" cssClass="tei-title-main">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic; text-align: center;
             </outputRendition>
-                    </model>
-                    <model output="web"
-                        predicate="(@type='alt' or @type='doc') and preceding-sibling::list"
-                        behaviour="inline" cssClass="tei-title-list">
-                        <outputRendition xml:space="preserve">
+        </model>
+                    <model output="web" predicate="(@type='alt' or @type='doc') and preceding-sibling::list" behaviour="inline" cssClass="tei-title-list">
+            <outputRendition xml:space="preserve">
             font-style: italic; margin-left: 20px; margin-top: 10px;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
 
                 <elementSpec ident="note" mode="change">
                     <model output="web" predicate="$parameters?header='short'" behaviour="omit"/>
-                    <model output="web" predicate="@type=&#34;merged&#34;" behaviour="section"
-                        cssClass="tei-note-merged"/>
+                    <model output="web" predicate="@type=&#34;merged&#34;" behaviour="section" cssClass="tei-note-merged"/>
                     <model behaviour="note" cssClass="tei-note">
-                        <param name="label" value="@n"/>
-                        <outputRendition xml:space="preserve">
+            <param name="label" value="@n"/>
+            <outputRendition xml:space="preserve">
             display: inline !important; vertical-align:super;cursor:pointer;margin-left:.25em
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="head" mode="change">
                     <model predicate="$parameters?view='header'" behaviour="heading">
-                        <param name="level" value="3"/>
-                    </model>
+            <param name="level" value="3"/>
+        </model>
                     <model predicate="$parameters?header='short'" behaviour="inline">
-                        <param name="content"
-                            value="replace(string-join(.//text()[not(parent::ref)]), '^(.*?)[^\w]*$', '$1')"
-                        />
-                    </model>
+            <param name="content" value="replace(string-join(.//text()[not(parent::ref)]), '^(.*?)[^\w]*$', '$1')"/>
+        </model>
                     <model predicate="parent::figure" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="parent::table" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="parent::lg" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="parent::list" behaviour="block">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-weight: bold;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="parent::div" behaviour="heading" cssClass="tei-head-div">
-                        <param name="level" value="count(ancestor::div)"/>
-                        <outputRendition xml:space="preserve">
+            <param name="level" value="count(ancestor::div)"/>
+            <outputRendition xml:space="preserve">
             text-align: center;
             </outputRendition>
-                    </model>
+        </model>
                     <model behaviour="block"/>
                 </elementSpec>
                 <elementSpec ident="list" mode="change">
                     <model output="print" behaviour="block" cssClass="asBlock"/>
                     <model output="web" behaviour="list" cssClass="tei-list">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             padding-left: 0px;
 text-indent: 20px;
+            
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="item" mode="change">
                     <model output="print" behaviour="block" cssClass="tei-listAsP"/>
                     <model behaviour="listItem" cssClass="tei-item">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             list-style-type: none;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="p" mode="change">
                     <model predicate="$parameters?view='header'" behaviour="paragraph"/>
                     <model behaviour="paragraph" cssClass="tei-p">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             
             </outputRendition>
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             text-align: justify; text-indent: 20px; margin-bottom: 0px;
 margin-top:0px;
+            
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="add" mode="change">
                     <model predicate="@type='edition'" behaviour="inline" cssClass="tei-add-edition">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-                    </model>
+        </model>
                     <model predicate="parent::opener" behaviour="inline" cssClass="tei-add-opener"/>
                 </elementSpec>
                 <elementSpec ident="idno" mode="add">
                     <model behaviour="inline" cssClass="tei-idno">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: normal;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="span" mode="add">
                     <model behaviour="inline" cssClass="tei-span">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="opener" mode="change">
                     <model behaviour="block" cssClass="tei-opener">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             margin-top: 10px; margin-bottom: 10px;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="emph" mode="add">
                     <model behaviour="inline" cssClass="tei-emph">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: italic;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="table" mode="change">
                     <model behaviour="table" cssClass="tei-table">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -317,12 +327,14 @@ margin-left: 20px;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="cell" mode="change">
                     <model behaviour="cell" cssClass="tei-cell">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -336,35 +348,34 @@ width: min-content;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="castList" mode="change">
-                    <model predicate="child::*" behaviour="list" cssClass="tei-cast"
-                        useSourceRendition="true">
-                        <param name="content" value="castItem"/>
-                        <outputRendition xml:space="preserve">
+                    <model predicate="child::*" behaviour="list" cssClass="tei-cast" useSourceRendition="true">
+            <param name="content" value="castItem"/>
+            <outputRendition xml:space="preserve">
             list-style: ordered;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="hi" mode="change">
                     <model predicate="not(@rendition)" behaviour="inline" cssClass="tei-hi1">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             vertical-align: super; line-height: 0; margin-left: 1px;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="date" mode="change">
                     <model output="print" predicate="text()" behaviour="inline"/>
                     <model output="print" predicate="@when and not(text())" behaviour="inline">
-                        <param name="content" value="@when"/>
-                    </model>
-                    <model output="web" predicate="@when" behaviour="alternate"
-                        cssClass="tei-date-when">
-                        <param name="default" value="."/>
-                        <param name="alternate" value="@when"/>
-                    </model>
+            <param name="content" value="@when"/>
+        </model>
+                    <model output="web" predicate="@when" behaviour="alternate" cssClass="tei-date-when">
+            <param name="default" value="."/>
+            <param name="alternate" value="@when"/>
+        </model>
                     <model predicate="text()" behaviour="inline" cssClass="tei-date"/>
                 </elementSpec>
                 <elementSpec ident="row" mode="change">
@@ -372,17 +383,18 @@ width: min-content;
                 </elementSpec>
                 <elementSpec ident="orig" mode="change">
                     <model behaviour="inline" cssClass="tei-orig">
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
             font-style: normal;
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="floatingText" mode="change">
                     <model behaviour="inline" cssClass="tei-float">
-                        <outputRendition xml:space="preserve" scope="before">
+            <outputRendition xml:space="preserve" scope="before">
             content: "@@@ ";
             </outputRendition>
-                        <outputRendition xml:space="preserve">
+            <outputRendition xml:space="preserve">
+            
             
             
             
@@ -393,24 +405,24 @@ color: red;
             
             
             
+            
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="pb" mode="change">
                     <model behaviour="break" useSourceRendition="true">
-                        <param name="type" value="'page'"/>
-                        <param name="label"
-                            value="(concat(if(@n) then concat(@n,' ') else '',if(@facs) then                   concat('@',@facs) else ''))"/>
-                        <outputRendition xml:space="preserve">
+            <param name="type" value="'page'"/>
+            <param name="label" value="(concat(if(@n) then concat(@n,' ') else '',if(@facs) then                   concat('@',@facs) else ''))"/>
+            <outputRendition xml:space="preserve">
             display: block; margin-left: 4pt; color: grey; float: right;
             </outputRendition>
-                        <outputRendition xml:space="preserve" scope="before">
+            <outputRendition xml:space="preserve" scope="before">
             content: '[Page ';
             </outputRendition>
-                        <outputRendition xml:space="preserve" scope="after">
+            <outputRendition xml:space="preserve" scope="after">
             content: ']';
             </outputRendition>
-                    </model>
+        </model>
                 </elementSpec>
                 <elementSpec ident="div" mode="change">
                     <model behaviour="block" cssClass="tei-div"/>
@@ -418,59 +430,69 @@ color: red;
 
                 <elementSpec ident="titleStmt" mode="change">
                     <model output="latex" behaviour="meta">
-                        <param name="content" value="."/>
-                    </model>
+            <param name="content" value="."/>
+        </model>
                     <model output="fo" behaviour="heading"/>
                     <model predicate="$parameters?mode='title'" behaviour="heading">
-                        <param name="content" value="title[not(@type)]"/>
-                        <param name="level" value="5"/>
-                    </model>
+            <param name="content" value="title[not(@type)]"/>
+            <param name="level" value="5"/>
+        </model>
                     <modelSequence output="web" predicate="$parameters?header='short'">
-                        <model behaviour="link">
-                            <param name="content"
-                                value="root(.)//div[@type='doc']/head/title[@type='main']"/>
-                            <param name="uri" value="$parameters?doc"/>
-                        </model>
-                        <model behaviour="block">
-                            <param name="content" value="root(.)//dateline/string()"/>
-                        </model>
-                        <model behaviour="block">
-                            <param name="content" value="title"/>
-                        </model>
-                        <model behaviour="block">
-                            <param name="content" value="author"/>
-                        </model>
-                    </modelSequence>
+            <model behaviour="link">
+                <param name="content" value="root(.)//div[@type='doc']/head/title[@type='main']"/>
+                <param name="uri" value="$parameters?doc"/>
+            </model>
+            <model behaviour="block">
+                <param name="content" value="root(.)//dateline/string()"/>
+            </model>
+            <model behaviour="block">
+                <param name="content" value="title"/>
+            </model>
+            <model behaviour="block">
+                <param name="content" value="author"/>
+            </model>
+        </modelSequence>
                     <model output="web" behaviour="block"/>
                 </elementSpec>
                 <elementSpec ident="TEI" mode="change">
                     <model predicate="$parameters?view=&#34;header&#34;" behaviour="block">
-                        <param name="content" value="$config?metadataXML"/>
-                    </model>
+            <param name="content" value="$config?metadataXML"/>
+        </model>
                     <model behaviour="document"/>
                 </elementSpec>
                 <elementSpec ident="placeName" mode="add"/>
                 <elementSpec ident="listPlace" mode="add">
                     <modelSequence>
-                        <model behaviour="heading">
-                            <param name="content" value="'Related Places'"/>
-                            <param name="level" value="3"/>
-                        </model>
-                        <model behaviour="list"/>
-                    </modelSequence>
+            <model behaviour="heading">
+                <param name="content" value="'Related Places'"/>
+                <param name="level" value="3"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
                 </elementSpec>
                 <elementSpec ident="place" mode="add">
                     <model behaviour="listItem"/>
                 </elementSpec>
+            <elementSpec ident="facsimile" mode="add">
+                    <model behaviour="block"/>
+                </elementSpec>
+                <elementSpec ident="graphic" mode="change">
+                    <model behaviour="webcomponent">
+            <param name="name" value="'pb-facs-link'"/>
+            <param name="facs" value="@url"/>
+        </model>
+                </elementSpec>
             </schemaSpec>
             <elementSpec ident="body" mode="change">
                 <modelSequence>
-                    <model behaviour="inline"/>
-                    <model behaviour="index">
-                        <param name="type" value="'toc'"/>
-                    </model>
-                    <model behaviour="facsimile-links"/>
-                </modelSequence>
+            <model behaviour="inline">
+                <param name="content" value="root(.)//facsimile/graphic"/>
+            </model>
+            <model behaviour="inline"/>
+            <model behaviour="index">
+                <param name="type" value="'toc'"/>
+            </model>
+        </modelSequence>
             </elementSpec>
         </body>
     </text>

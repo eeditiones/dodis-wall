@@ -74,7 +74,7 @@
                         </persName>
                         <persName type="full">Gorkom, Berend van (1942–)</persName>
                         <persName>Gorkom, Berend van</persName>
-                        <birth when="1942"/>
+                        <birth when="1942-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57576</idno>
                     </person>

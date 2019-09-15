@@ -186,7 +186,7 @@
                         </persName>
                         <persName type="full">Gow, David (1945–)</persName>
                         <persName>Gow, David</persName>
-                        <birth when="1945"/>
+                        <birth when="1945-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57471</idno>
                     </person>

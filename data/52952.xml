@@ -156,7 +156,7 @@
                         </persName>
                         <persName type="full">Richter, Heimo (1940–)</persName>
                         <persName>Richter, Heimo</persName>
-                        <birth when="1940"/>
+                        <birth when="1940-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57438</idno>
                     </person>

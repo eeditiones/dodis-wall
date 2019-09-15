@@ -76,7 +76,7 @@
                         </persName>
                         <persName type="full">Fekecz, Janusz (1930–)</persName>
                         <persName>Fekecz, Janusz</persName>
-                        <birth when="1930"/>
+                        <birth when="1930-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P53484</idno>
                     </person>
@@ -177,7 +177,7 @@
                         <persName type="full">Sułek, Jerzy (1939–)</persName>
                         <persName>Sułek, Jerzy</persName>
                         <persName>Sulek, Jerzy</persName>
-                        <birth when="1939"/>
+                        <birth when="1939-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57584</idno>
                     </person>
@@ -200,7 +200,7 @@
                         </persName>
                         <persName type="full">Zwoll, Jürgen van (1939–)</persName>
                         <persName>Zwoll, Jürgen van</persName>
-                        <birth when="1939"/>
+                        <birth when="1939-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57587</idno>
                     </person>

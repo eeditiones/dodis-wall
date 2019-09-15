@@ -63,7 +63,7 @@
                         <persName type="full">Bauer, Fritz (1930–)</persName>
                         <persName>Bauer, Fritz</persName>
                         <persName>Bauer, Friedrich</persName>
-                        <birth when="1930">
+                        <birth when="1930-01-01">
                             <placeName>Vienna</placeName>
                         </birth>
                         <sex>male</sex>

@@ -102,10 +102,10 @@
                         </persName>
                         <persName type="full">Erhard, Ludwig (1897–1977)</persName>
                         <persName>Erhard, Ludwig</persName>
-                        <birth when="1897">
+                        <birth when="1897-01-01">
                             <placeName>Fürth</placeName>
                         </birth>
-                        <death when="1977">
+                        <death when="1977-01-01">
                             <placeName>Bonn</placeName>
                         </death>
                         <sex>male</sex>

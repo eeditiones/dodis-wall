@@ -167,7 +167,7 @@
                         </persName>
                         <persName type="full">Plattner, Johann (1932–)</persName>
                         <persName>Plattner, Johann</persName>
-                        <birth when="1932"/>
+                        <birth when="1932-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57520</idno>
                     </person>

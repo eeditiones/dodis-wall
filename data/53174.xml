@@ -147,7 +147,7 @@
                         <persName type="full">Sułek, Jerzy (1939–)</persName>
                         <persName>Sułek, Jerzy</persName>
                         <persName>Sulek, Jerzy</persName>
-                        <birth when="1939"/>
+                        <birth when="1939-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57584</idno>
                     </person>

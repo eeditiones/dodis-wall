@@ -133,7 +133,7 @@
                         <persName type="full">Levin, Arye (1930–)</persName>
                         <persName>Levin, Aryeh</persName>
                         <persName>Levin, Arye</persName>
-                        <birth when="1930">
+                        <birth when="1930-01-01">
                             <placeName>Tehran</placeName>
                         </birth>
                         <sex>male</sex>
@@ -245,7 +245,7 @@
                         </persName>
                         <persName type="full">Shiloh, Michael (1934–)</persName>
                         <persName>Shiloh, Michael</persName>
-                        <birth when="1934">
+                        <birth when="1934-01-01">
                             <placeName>The Hague</placeName>
                         </birth>
                         <sex>male</sex>

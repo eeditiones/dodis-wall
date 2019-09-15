@@ -64,8 +64,8 @@
                         </persName>
                         <persName type="full">Andreotti, Giulio (1919–2013)</persName>
                         <persName>Andreotti, Giulio</persName>
-                        <birth when="1919"/>
-                        <death when="2013"/>
+                        <birth when="1919-01-01"/>
+                        <death when="2013-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P13865</idno>
                     </person>
@@ -157,7 +157,7 @@
                         </persName>
                         <persName type="full">Hofstetter, Rolf (1935–)</persName>
                         <persName>Hofstetter, Rolf</persName>
-                        <birth when="1935"/>
+                        <birth when="1935-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57420</idno>
                     </person>

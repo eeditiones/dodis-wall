@@ -275,9 +275,16 @@ declare function cv:people($metadata as map(*)) {
 
 declare function cv:date($date as xs:string) {
     let $split := tokenize($date, '\.')
+    let $components :=
+        if (count($split) = 1) then
+            ("01", "01", $split)
+        else if (count($split) = 2) then
+            ("01", $split)
+        else
+            $split
     return
         string-join(
-            for $token in reverse($split)
+            for $token in reverse($components)
             return
                 format-number($token, "00"),
             "-"

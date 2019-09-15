@@ -87,8 +87,8 @@
                         </persName>
                         <persName type="full">Clay, Lucius D. (1897–1978)</persName>
                         <persName>Clay, Lucius D.</persName>
-                        <birth when="1897"/>
-                        <death when="1978"/>
+                        <birth when="1897-01-01"/>
+                        <death when="1978-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P6140</idno>
                     </person>
@@ -117,7 +117,7 @@
                         <persName type="full">Fedorenko, Nikolaj (1912–2000)</persName>
                         <persName>Federenko, Nikolai T.</persName>
                         <persName>Fedorenko, Nikolaj</persName>
-                        <birth when="1912"/>
+                        <birth when="1912-01-01"/>
                         <death when="2000-10-02"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P40671</idno>
@@ -153,8 +153,8 @@
                         <persName type="full">Herter, Christian (1895–1966)</persName>
                         <persName>Herter, Christian</persName>
                         <persName>Herter, Christian Archibald</persName>
-                        <birth when="1895"/>
-                        <death when="1966"/>
+                        <birth when="1895-01-01"/>
+                        <death when="1966-01-01"/>
                         <sex>unspecified</sex>
                         <idno type="URI">https://dodis.ch/P13899</idno>
                     </person>
@@ -183,7 +183,7 @@
                         <persName>Kotschemassow, Wjatscheslaw Iwanowitsch</persName>
                         <persName>Kochemasov, Vyacheslav Ivanovich</persName>
                         <birth when="1918-09-18"/>
-                        <death when="1998">
+                        <death when="1998-01-01">
                             <placeName>Moscow</placeName>
                         </death>
                         <sex>male</sex>
@@ -198,8 +198,8 @@
                         <persName>König, Marie Pierre</persName>
                         <persName>Koenig, Pierre Marie</persName>
                         <persName>Koenig, Pierre</persName>
-                        <birth when="1898"/>
-                        <death when="1970"/>
+                        <birth when="1898-01-01"/>
+                        <death when="1970-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P621</idno>
                     </person>
@@ -220,8 +220,8 @@
                         </persName>
                         <persName type="full">Robertson, Brian Hubert (1896–1974)</persName>
                         <persName>Robertson, Brian Hubert</persName>
-                        <birth when="1896"/>
-                        <death when="1974"/>
+                        <birth when="1896-01-01"/>
+                        <death when="1974-01-01"/>
                         <sex>unspecified</sex>
                         <idno type="URI">https://dodis.ch/P6141</idno>
                     </person>
@@ -253,8 +253,8 @@
                         <persName>Zorine, Valerian Alexandrov</persName>
                         <persName>Zorin, V. A.</persName>
                         <persName>Zorin, Valerian Aleksandrovič</persName>
-                        <birth when="1902"/>
-                        <death when="1986"/>
+                        <birth when="1902-01-01"/>
+                        <death when="1986-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P11993</idno>
                     </person>

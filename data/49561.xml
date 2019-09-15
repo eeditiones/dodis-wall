@@ -73,7 +73,7 @@
                         <persName>A</persName>
                         <persName>AR</persName>
                         <persName>Arioli, Silvio</persName>
-                        <birth when="1938"/>
+                        <birth when="1938-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P24523</idno>
                     </person>

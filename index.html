@@ -66,6 +66,11 @@
                     text-shadow: 3px -4px 5px black;
                 }
 
+                .menubar .logo img {
+                    width: auto;
+                    height: auto;
+                }
+
                 .tp-title {
                     font-family: "Oswald",Verdana,"Helvetica",sans-serif;
                     font-size: 36px;
@@ -182,6 +187,9 @@
                     border:none;
                 }
 
+                .document-info h1 {
+                    margin-top: 0;
+                }
 
                 .documents .document-select {
                     flex: 0 0;
@@ -262,7 +270,7 @@
                     <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall" data-template="browse:fix-links">
                         <app-toolbar class="menubar">
                             <a href="$app/index.html" class="logo">
-                                When the wall Came Down
+                                <img src="resources/images/logo.png"/>
                             </a>
                             <pb-media-query query="(min-width: 1024px)">
                                 <a href="$app/index.html">Start</a>
@@ -309,7 +317,7 @@
 
                     <main>
                         <section>
-                            <h1 class="tp-title" data-template="config:app-title"/>
+                            <p>A demo based on documents published in: Marc Dierikx und Sacha Zala (Hg.): When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990. Quaderni di Dodis | 12</p>
                         </section>
                         <section class="panels">
                             <paper-card class="doclist" heading="i18n(documents)">

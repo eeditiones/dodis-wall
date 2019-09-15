@@ -34,8 +34,6 @@
 
                     --pb-alternate-inline: var(--paper-blue-800);
 
-                    --pb-view-height: calc(100vh - 192px);
-
                     --pb-footnote-ref: {
                         font-size: .85em;
                         background-color: #C0C0C0;
@@ -47,7 +45,7 @@
                         font-size: .75em;
                     };
 
-                    --pb-facsimile-height: calc(var(--pb-view-height) - 89px);
+                    --pb-facsimile-height: calc(var(--pb-view-height) - 20px);
 
                     /* --pb-panel-max-height: var(--pb-view-height); */
                 }
@@ -86,10 +84,10 @@
                     text-shadow: 3px -4px 5px black;
                 }
 
-                pb-facsimile {
-                    min-width: 480px;
+                .menubar .logo img {
+                    width: auto;
+                    height: auto;
                 }
-
                 .facscaption {
                     font-size: 75%;
                     text-align: right;
@@ -97,6 +95,8 @@
 
                 .metadata {
                     max-width: 20vw;
+                    overflow: auto;
+                    height: calc(100vh - 128px);
                 }
 
                 main {
@@ -104,17 +104,18 @@
                     grid-template-columns: auto 1fr auto;
                     grid-column-gap: 20px;
                     padding: 0 20px;
-                    --meta-list-style: none;
-                    --meta-list-padding: 0;
                 }
 
                 .transcription {
                     align-self: center;
+                    overflow: auto;
+                    height: calc(100vh - 128px);
                 }
 
                 pb-facsimile {
                     padding-top: 20px;
                     min-width: 640px;
+                    height: calc(100vh - 148px);
                 }
 
                 .toc-toggle {
@@ -144,7 +145,7 @@
                         <pb-view src="document1" view="single" class="metadata" subscribe="transcription">
                             <pb-param name="view" value="metadata"/>
                         </pb-view>
-                        <pb-view src="document1" class=".transcription" subscribe="transcription" emit="transcription">
+                        <pb-view src="document1" class="transcription" subscribe="transcription" emit="transcription">
                         </pb-view>
                         <pb-facsimile subscribe="transcription" base-uri="https://apps.existsolutions.com/cantaloupe/iiif/2/"
                             default-zoom-level="0">

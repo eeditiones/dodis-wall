@@ -97,7 +97,7 @@
                         <persName type="full">Jacobs, Egbert (1945–)</persName>
                         <persName>Jacobs, Egbert</persName>
                         <persName>Jacobs, Egbert Frederik</persName>
-                        <birth when="1945"/>
+                        <birth when="1945-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57545</idno>
                     </person>

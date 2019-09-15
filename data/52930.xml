@@ -64,7 +64,7 @@
                         </persName>
                         <persName type="full">Calligaris, Marius (1944–)</persName>
                         <persName>Calligaris, Marius</persName>
-                        <birth when="1944"/>
+                        <birth when="1944-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57521</idno>
                     </person>
@@ -150,7 +150,7 @@
                         </persName>
                         <persName type="full">Plattner, Johann (1932–)</persName>
                         <persName>Plattner, Johann</persName>
-                        <birth when="1932"/>
+                        <birth when="1932-01-01"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P57520</idno>
                     </person>

@@ -321,7 +321,7 @@
                         <persName>Kotschemassow, Wjatscheslaw Iwanowitsch</persName>
                         <persName>Kochemasov, Vyacheslav Ivanovich</persName>
                         <birth when="1918-09-18"/>
-                        <death when="1998">
+                        <death when="1998-01-01">
                             <placeName>Moscow</placeName>
                         </death>
                         <sex>male</sex>
@@ -360,7 +360,7 @@
                         </persName>
                         <persName type="full">Lambach, Frank (1937–)</persName>
                         <persName>Lambach, Frank</persName>
-                        <birth when="1937">
+                        <birth when="1937-01-01">
                             <placeName>Berlin</placeName>
                         </birth>
                         <sex>male</sex>

@@ -48,10 +48,12 @@
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: center;
 font-size: 1em;
+            
             
             
             
@@ -64,10 +66,12 @@ font-size: 1em;
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: center;
 font-size: 1em;
+            
             
             
             
@@ -81,11 +85,13 @@ font-size: 1em;
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: left;
 font-size: 0.7em;
 margin-left: 20px;
+            
             
             
             
@@ -134,9 +140,11 @@ margin-left: 20px;
             
             
             
+            
             text-align: center;
 text-transform: uppercase;
 font-style: italic;
+            
             
             
             
@@ -151,10 +159,12 @@ font-style: italic;
             
             
             
+            
             text-align: center;
 text-transform: none;
 font-style: italic;
 display: inline-block;
+            
             
             
             
@@ -169,11 +179,13 @@ display: inline-block;
             
             
             
+            
             font-style: italic;
 margin-bottom: -20px;
 text-indent: 20px;
 display: block;
 margin-top: 10px;
+            
             
             
             
@@ -209,11 +221,8 @@ margin-top: 10px;
         </model>
                 </elementSpec>
                 <elementSpec ident="head" mode="change">
-                    <model predicate="$parameters?view='header'" behaviour="heading">
+                    <model predicate="$parameters?view='header' or $parameters?header='short'" behaviour="heading">
             <param name="level" value="3"/>
-        </model>
-                    <model predicate="$parameters?header='short'" behaviour="inline">
-            <param name="content" value="replace(string-join(.//text()[not(parent::ref)]), '^(.*?)[^\w]*$', '$1')"/>
         </model>
                     <model predicate="parent::figure" behaviour="block">
             <outputRendition xml:space="preserve">
@@ -248,8 +257,10 @@ margin-top: 10px;
                     <model output="web" behaviour="list" cssClass="tei-list">
             <outputRendition xml:space="preserve">
             
+            
             padding-left: 0px;
 text-indent: 20px;
+            
             
             </outputRendition>
         </model>
@@ -263,16 +274,13 @@ text-indent: 20px;
         </model>
                 </elementSpec>
                 <elementSpec ident="p" mode="change">
-                    <model predicate="$parameters?view='header'" behaviour="paragraph"/>
                     <model behaviour="paragraph" cssClass="tei-p">
             <outputRendition xml:space="preserve">
             
             </outputRendition>
             <outputRendition xml:space="preserve">
-            
             text-align: justify; text-indent: 20px; margin-bottom: 0px;
 margin-top:0px;
-            
             </outputRendition>
         </model>
                 </elementSpec>
@@ -320,9 +328,11 @@ margin-top:0px;
             
             
             
+            
             margin-top: 10px; 
 width: 80%;
 margin-left: 20px;
+            
             
             
             
@@ -340,9 +350,11 @@ margin-left: 20px;
             
             
             
+            
             text-align: left;
 vertical-align: top;
 width: min-content;
+            
             
             
             
@@ -399,8 +411,10 @@ width: min-content;
             
             
             
+            
             margin: 6pt; border: solid red 1pt; 
 color: red;
+            
             
             
             
@@ -437,30 +451,20 @@ color: red;
             <param name="content" value="title[not(@type)]"/>
             <param name="level" value="5"/>
         </model>
-                    <modelSequence output="web" predicate="$parameters?header='short'">
-            <model behaviour="link">
-                <param name="content" value="root(.)//div[@type='doc']/head/title[@type='main']"/>
-                <param name="uri" value="$parameters?doc"/>
-            </model>
-            <model behaviour="block">
-                <param name="content" value="root(.)//dateline/string()"/>
-            </model>
-            <model behaviour="block">
-                <param name="content" value="title"/>
-            </model>
-            <model behaviour="block">
-                <param name="content" value="author"/>
-            </model>
-        </modelSequence>
                     <model output="web" behaviour="block"/>
                 </elementSpec>
                 <elementSpec ident="TEI" mode="change">
-                    <model predicate="$parameters?view=&#34;header&#34;" behaviour="block">
-            <param name="content" value="$config?metadataXML"/>
+                    <model predicate="$parameters?view=&#34;metadata&#34;" behaviour="block">
+            <param name="content" value="teiHeader/profileDesc/particDesc"/>
         </model>
                     <model behaviour="document"/>
                 </elementSpec>
-                <elementSpec ident="placeName" mode="add"/>
+                <elementSpec ident="placeName" mode="add">
+                    <model predicate="parent::org" behaviour="inline"/>
+                    <model predicate="parent::birth or parent::death" behaviour="inline">
+            <param name="content" value="(' in ', .)"/>
+        </model>
+                </elementSpec>
                 <elementSpec ident="listPlace" mode="add">
                     <modelSequence>
             <model behaviour="heading">
@@ -480,6 +484,80 @@ color: red;
                     <model behaviour="webcomponent">
             <param name="name" value="'pb-facs-link'"/>
             <param name="facs" value="@url"/>
+        </model>
+                </elementSpec>
+            <elementSpec ident="fileDesc" mode="change">
+                    <modelSequence predicate="$parameters?header='short'">
+            <model behaviour="block" cssClass="header-short">
+                <param name="content" value="sourceDesc/msDesc"/>
+            </model>
+        </modelSequence>
+                    <model behaviour="title">
+            <param name="content" value="titleStmt"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="msDesc" mode="add">
+                    <modelSequence>
+            <model behaviour="link">
+                <param name="content" value="head"/>
+                <param name="uri" value="$parameters?doc"/>
+            </model>
+            <model behaviour="heading">
+                <param name="content" value="root(.)//div[@type='doc']/head/title[@type='main']"/>
+            </model>
+            <model behaviour="block">
+                <param name="content" value="format-date(history/origin/@when, '[FNn], [D1o] [MNn], [Y]')"/>
+            </model>
+        </modelSequence>
+                </elementSpec>
+                <elementSpec ident="particDesc" mode="add">
+                    <model behaviour="block"/>
+                </elementSpec>
+                <elementSpec ident="listPerson" mode="add">
+                    <modelSequence>
+            <model behaviour="heading">
+                <param name="content" value="'Persons'"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
+                </elementSpec>
+                <elementSpec ident="person" mode="add">
+                    <model behaviour="listItem">
+            <param name="content" value="(persName[surname], ' (', birth, death, ')')"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="persName" mode="add">
+                    <model behaviour="link">
+            <param name="content" value="string-join((forename, surname), ' ')"/>
+            <param name="uri" value="../idno"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="birth" mode="add">
+                    <model behaviour="inline">
+            <param name="content" value="('* ', format-date(@when, '[D1o] [MNn] [Y]'), placeName)"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="death" mode="add">
+                    <model behaviour="inline">
+            <param name="content" value="(' ,✝︎ ', format-date(@when, '[D1o] [MNn] [Y]'), placeName)"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="listOrg" mode="add">
+                    <modelSequence>
+            <model behaviour="heading">
+                <param name="content" value="'Organizations'"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
+                </elementSpec>
+                <elementSpec ident="org" mode="add">
+                    <model behaviour="listItem">
+            <param name="content" value="(orgName, ', ', placeName)"/>
+        </model>
+                </elementSpec>
+                <elementSpec ident="orgName" mode="add">
+                    <model behaviour="link">
+            <param name="uri" value="../idno"/>
         </model>
                 </elementSpec>
             </schemaSpec>

@@ -87,6 +87,11 @@ declare function nav:sort($sortBy as xs:string, $items as element()*) {
     switch ($sortBy)
         case "date" return
             sort($items, (), ft:field(?, "date", "xs:date"))
+        case "number-in-volume" return
+            for $item in $items
+            order by ft:field($item, "number-in-volume", "xs:integer")
+            return
+                $item
         default return
             sort($items, (), ft:field(?, $sortBy))
 };

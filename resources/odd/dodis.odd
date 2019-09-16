@@ -239,7 +239,7 @@ margin-top: 10px;
                 </elementSpec>
                 <elementSpec ident="head" mode="change">
                     <model predicate="$parameters?view='header' or $parameters?header='short'" behaviour="heading">
-            <param name="level" value="1"/>
+            <param name="level" value="3"/>
         </model>
                     <model predicate="parent::figure" behaviour="block">
             <outputRendition xml:space="preserve">
@@ -531,12 +531,11 @@ color: red;
                 <elementSpec ident="msDesc" mode="add">
                     <modelSequence>
             <model behaviour="link">
-                <param name="content" value="head"/>
+                <param name="content" value="root(.)//div[@type='doc']/head/title[@type='main']"/>
                 <param name="uri" value="$parameters?doc"/>
             </model>
-            <model behaviour="heading">
-                <param name="content" value="root(.)//div[@type='doc']/head/title[@type='main']/node()"/>
-                <param name="level" value="3"/>
+            <model behaviour="block">
+                <param name="content" value="head"/>
             </model>
             <model behaviour="block">
                 <param name="content" value="format-date(history/origin/@when, '[FNn], [D1o] [MNn], [Y]')"/>

@@ -71,6 +71,20 @@
                     height: auto;
                 }
 
+                .toolbar {
+                    background-color: rgb(20, 20, 20, 0.7);
+                }
+
+                .toolbar a {
+                    color: white;
+                    text-decoration: none;
+                    font-style: italic;
+                }
+
+                app-toolbar {
+                    color: white;
+                }
+
                 .tp-title {
                     font-family: "Oswald",Verdana,"Helvetica",sans-serif;
                     font-size: 36px;
@@ -91,9 +105,6 @@
                 }
 
                 @media (min-width: 1024px) {
-                    .toolbar {
-                        display: none;
-                    }
                     .panels {
                         display: flex;
                         flex-direction: row;
@@ -107,21 +118,10 @@
 
                 .panels {
                     margin-bottom: 40px;
+                    margin-top: 20px;
                 }
 
                 .panels .doclist {
-                    --paper-card-header: {
-                        background-color: #d0d0d0;
-                    };
-
-                    --paper-card-header-text: {
-                        font-family: "Oswald",Verdana,"Helvetica",sans-serif;
-                        font-size: 16px;
-                        font-weight: 400;
-                    };
-                }
-
-                .panels .doclist .card-content {
                     display: flex;
                     flex-direction: row;
                     justify-content: space-between;
@@ -306,28 +306,23 @@
                             </pb-login>
                             <pb-progress indeterminate="indeterminate" bottom-item="bottom-item"/>
                         </app-toolbar>
-                        <pb-media-query query="(max-width: 1023px)">
-                            <app-toolbar class="toolbar" sticky="sticky">
-                                <!-- Search input -->
-                                <pb-search action="${app}/search.html" data-template="pages:parse-params" value="${query}" place-holder="i18n(search-query-attr)" redirect="redirect"/>
-                                <paper-icon-button icon="icons:menu" drawer-toggle="drawer-toggle"/>
-                            </app-toolbar>
-                        </pb-media-query>
+                        <app-toolbar class="toolbar" sticky="sticky">
+                            <div class="main-title">
+                                Demo based on data published in: <a href="https://www.dodis.ch/q12">Marc Dierikx und Sacha Zala (Hg.):
+                                When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents
+                                1989–1990. Quaderni di Dodis | 12</a>
+                            </div>
+                        </app-toolbar>
                     </app-header>
 
                     <main>
-                        <section>
-                            <p>A demo based on documents published in: Marc Dierikx und Sacha Zala (Hg.): When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990. Quaderni di Dodis | 12</p>
-                        </section>
                         <section class="panels">
-                            <paper-card class="doclist" heading="i18n(documents)">
-                                <div class="card-content">
-                                    <pb-custom-form id="facets" url="modules/facets.xql" event="pb-results-received" subscribe="docs" emit="docs"/>
-                                    <pb-browse-docs id="document-list" url="templates/documents.html" sort-label="i18n(sort-by)" sort-options='[{"label":"Number in volume","value":"number-in-volume"},{"label": "Title", "value": "title"},{"label": "Date", "value": "date"}]' sort-by="number-in-volume" filter-options="[{&#34;label&#34;: &#34;Title&#34;, &#34;value&#34;: &#34;title&#34;},{&#34;label&#34;: &#34;Author&#34;, &#34;value&#34;: &#34;author&#34;},{&#34;label&#34;: &#34;File name&#34;, &#34;value&#34;: &#34;file&#34;}]" filter-by="title" auto="auto" history="history" login="login" emit="docs" subscribe="docs">
-                                        <pb-paginate slot="toolbar" id="paginate" per-page="10" range="5" found-label="i18n(browsing)" emit="docs" subscribe="docs"/>
-                                    </pb-browse-docs>
-                                </div>
-                            </paper-card>
+                            <div class="doclist">
+                            <pb-custom-form id="facets" url="modules/facets.xql" event="pb-results-received" subscribe="docs" emit="docs"/>
+                            <pb-browse-docs id="document-list" url="templates/documents.html" sort-label="i18n(sort-by)" sort-options='[{"label":"Number in volume","value":"number-in-volume"},{"label": "Title", "value": "title"},{"label": "Date", "value": "date"}]' sort-by="number-in-volume" filter-options="[{&#34;label&#34;: &#34;Title&#34;, &#34;value&#34;: &#34;title&#34;},{&#34;label&#34;: &#34;Author&#34;, &#34;value&#34;: &#34;author&#34;},{&#34;label&#34;: &#34;File name&#34;, &#34;value&#34;: &#34;file&#34;}]" filter-by="title" auto="auto" history="history" login="login" emit="docs" subscribe="docs">
+                                <pb-paginate slot="toolbar" id="paginate" per-page="10" range="5" found-label="i18n(browsing)" emit="docs" subscribe="docs"/>
+                            </pb-browse-docs>
+                            </div>
                             <aside>
                                 <pb-restricted login="login">
                                     <paper-card class="upload" heading="i18n(upload)">

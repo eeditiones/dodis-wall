@@ -11,13 +11,13 @@
 
 * open 49550: DDR - Neue Regierung und Politik
 * move dateline to right
-* exercise: make <emph> display in italic
+* exercise: make `emph` display in italic
 * parameters: format date in dateline: format-date(@when, '[FNn], [D1o] [MNn], [Y]')
 
 ## Creating an HTML template
 
 * save view.html as dodis.html
-* explain webcomponents
+* explain webcomponents, including shadow DOM
 * change config.xqm template setting
 * upload background image and logo via eXide to resources/images/
 * open templates/menu.html and change logo -> image appears distorted
@@ -52,10 +52,14 @@ to make background visible, we need to overwrite background-color as well:
 }
 ```
 
+Exercise: copy and paste changes to index.html as well.
+
+## Explain how to download .xar
+
 ## Integrate facsimile
 
 * Demonstrate webcomponent docs
-* Add pb-facsimile to dodis.html
+* Add pb-facsimile to dodis.html (don't forget @subscribe="transcription", explain channels and events)
 * Output pb-facs-link elements from ODD:
     * change config:default-view := "body" in config.xqm
     * add rule for body in ODD to output facsimile list from root(.)//facsimile
@@ -76,4 +80,19 @@ pb-facsimile {
     height: calc(100vh - 148px);
     min-width: 640px;
 }
+```
+
+## Facets
+
+* open collection.xconf and explain
+* the two facets for genre and language are wrong, so fix them
+    * open index.xql
+    * change language case to just read `$header/tei:langUsage/tei:language`
+    * change genre case to `$header//tei:textClass/tei:keywords/tei:term`
+    * in collection.xconf remove hierarchical="yes" from genre field
+    * open config.xqm and also remove hierarchical option from $config:facets
+* add another facet for date:
+
+```
+tokenize($header//tei:msDesc/tei:history/tei:origin/@when, '-')
 ```

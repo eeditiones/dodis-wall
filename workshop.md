@@ -78,7 +78,18 @@ Exercise: copy and paste changes to index.html as well.
 
 pb-facsimile {
     height: calc(100vh - 148px);
-    min-width: 640px;
+    flex: 1;
+}
+```
+
+(flex numbers mean relative importance in relation to other components with flex value; thus adding it here we need to bump up the number on other components, e.g. #view1, cf. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ vs https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+* let's also add some padding around the edges modifying the .content-body css
+
+```css
+.content-body {
+  ...
+  padding: 0 20px;
 }
 ```
 
@@ -96,3 +107,87 @@ pb-facsimile {
 ```
 tokenize($header//tei:msDesc/tei:history/tei:origin/@when, '-')
 ```
+
+## Add side panel for people and places
+
+* add another pb-view component to dodis.html template
+
+```xml
+<pb-view view='single' source='document1' subscribe='transcription' id='metadata'>
+  <pb-param name='view' value='metadata'/>
+</pb-view>
+```
+
+* to display it properly we need to style it
+
+```CSS
+ #metadata {
+   flex: 1;
+ }
+```
+
+* this outputs the transcription twice, so we need to make a distinction in the odd
+* add another rule for TEI to pull only content from listPlace and listPerson for metadata view
+  we also assign a metadata class so we have a hook to plug customized styling for this panel
+
+```xml
+<model predicate='$parameters?view='metadata' behaviour='block' cssClass='metadata'>
+  <param name='content' value='teiHeader//listPerson | teiHeader//listPlace'/>
+</model>
+```
+
+
+* then add ODD entry for listPerson
+
+```xml
+<modelSequence>
+  <model behaviour="heading">
+    <param name="content" value="'Persons'"/>
+  </model>
+  <model behaviour="list"/>
+</modelSequence>
+```
+* and entry for the person element which now needs to be treated as a listItem
+
+```xml
+<model behaviour="listItem">
+  <param name="content" value="persName[@type='full']"/>
+</model>
+```
+
+* persName can be linked by adding link behaviour to persName
+
+```xml
+<model behaviour="link">
+ <param name="uri" value="../idno"/>
+ <param name="target" value="'_blank'"/>
+</model>
+ ```
+
+The default list looks ugly so we need to:
+  * change the css in `dodis.css`. This file
+is already linked in ODD but doesn't exist so needs to be created in `resources/odd`.
+NB this requires regenerating the ODD to have effect!
+  * let's remove default underline for links as we're at it
+
+ ```css
+ .metadata ul {
+  list-style: none;
+  padding: 0;
+
+ }
+
+ .metadata a {
+  text-decoration: none;
+ }
+ ```
+
+
+* the content can be made prettier by adjusting to
+
+`<param name="content" value="(persName[surname], ' (', birth, death, ')')"/>`
+
+but that requires adding models for birth and death as well
+
+
+Exercise: add places / organizations to the sidebar in a similar manner

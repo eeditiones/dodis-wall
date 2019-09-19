@@ -37,8 +37,14 @@
                 <language ident="iw">Hebrew</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Telegram</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Israel (Politics)</term>
+                    <term>Germany – FRG (Politics)</term>
+                    <term>Germany – GDR (Politics)</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -242,70 +248,70 @@
                     <place xml:id="G806">
                         <placeName> Federal Republic of Germany (1949-1990)</placeName>
                         <location>
-                            <geo>50.68.06</geo>
+                            <geo>50.6 8.06</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G806</idno>
                     </place>
                     <place xml:id="G2101">
                         <placeName>Bonn</placeName>
                         <location>
-                            <geo>50.737437.098207</geo>
+                            <geo>50.73743 7.098207</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G2101</idno>
                     </place>
                     <place xml:id="G215">
                         <placeName>Copenhagen</placeName>
                         <location>
-                            <geo>55.67609812.568337</geo>
+                            <geo>55.676098 12.568337</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G215</idno>
                     </place>
                     <place xml:id="G3061">
                         <placeName>East Berlin</placeName>
                         <location>
-                            <geo>52.57838713.405563</geo>
+                            <geo>52.578387 13.405563</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G3061</idno>
                     </place>
                     <place xml:id="G12">
                         <placeName>Europe</placeName>
                         <location>
-                            <geo>54.52596315.255118</geo>
+                            <geo>54.525963 15.255118</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G12</idno>
                     </place>
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G1761">
                         <placeName>Israel</placeName>
                         <location>
-                            <geo>31.04605134.851612</geo>
+                            <geo>31.046051 34.851612</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1761</idno>
                     </place>
                     <place xml:id="G324">
                         <placeName>Jerusalem</placeName>
                         <location>
-                            <geo>31.76831835.21371</geo>
+                            <geo>31.768318 35.21371</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G324</idno>
                     </place>
                     <place xml:id="G68">
                         <placeName>Poland</placeName>
                         <location>
-                            <geo>51.91943719.145136</geo>
+                            <geo>51.919437 19.145136</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G68</idno>
                     </place>
                     <place xml:id="G30">
                         <placeName>Russia</placeName>
                         <location>
-                            <geo>63.722583.577778</geo>
+                            <geo>63.7225 83.577778</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G30</idno>
                     </place>

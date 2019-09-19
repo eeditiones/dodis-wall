@@ -37,8 +37,12 @@
                 <language ident="de">German</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Telegram</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Germany – FRG (Politics)</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -261,63 +265,63 @@
                     <place xml:id="G806">
                         <placeName> Federal Republic of Germany (1949-1990)</placeName>
                         <location>
-                            <geo>50.68.06</geo>
+                            <geo>50.6 8.06</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G806</idno>
                     </place>
                     <place xml:id="G381">
                         <placeName>Auschwitz</placeName>
                         <location>
-                            <geo>50.03439719.209778</geo>
+                            <geo>50.034397 19.209778</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G381</idno>
                     </place>
                     <place xml:id="G2101">
                         <placeName>Bonn</placeName>
                         <location>
-                            <geo>50.737437.098207</geo>
+                            <geo>50.73743 7.098207</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G2101</idno>
                     </place>
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G5">
                         <placeName>German Reich</placeName>
                         <location>
-                            <geo>51.1656910.451526</geo>
+                            <geo>51.16569 10.451526</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G5</idno>
                     </place>
                     <place xml:id="G1761">
                         <placeName>Israel</placeName>
                         <location>
-                            <geo>31.04605134.851612</geo>
+                            <geo>31.046051 34.851612</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1761</idno>
                     </place>
                     <place xml:id="G854">
                         <placeName>Middle East</placeName>
                         <location>
-                            <geo>32.135.6</geo>
+                            <geo>32.1 35.6</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G854</idno>
                     </place>
                     <place xml:id="G1766">
                         <placeName>Tel-Aviv</placeName>
                         <location>
-                            <geo>32.085334.78177</geo>
+                            <geo>32.0853 34.78177</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1766</idno>
                     </place>
                     <place xml:id="G16">
                         <placeName>Washington DC</placeName>
                         <location>
-                            <geo>38.895-77.036667</geo>
+                            <geo>38.895 -77.036667</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G16</idno>
                     </place>

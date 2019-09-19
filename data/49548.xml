@@ -37,8 +37,13 @@
                 <language ident="de">German</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Memo</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Germany – FRG (Politics)</term>
+                    <term>Germany – GDR (Politics)</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -183,14 +188,14 @@
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G3581">
                         <placeName>West Berlin</placeName>
                         <location>
-                            <geo>52.48494613.343708</geo>
+                            <geo>52.484946 13.343708</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G3581</idno>
                     </place>

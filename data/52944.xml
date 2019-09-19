@@ -37,8 +37,14 @@
                 <language ident="iw">Hebrew</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Letter</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Israel (Politics)</term>
+                    <term>Germany – FRG (Politics)</term>
+                    <term>Germany – GDR (Politics)</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -174,42 +180,42 @@
                     <place xml:id="G233">
                         <placeName>Bucharest</placeName>
                         <location>
-                            <geo>44.432526.10389</geo>
+                            <geo>44.4325 26.10389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G233</idno>
                     </place>
                     <place xml:id="G311">
                         <placeName>Eastern Europe</placeName>
                         <location>
-                            <geo>52.15209631.669155</geo>
+                            <geo>52.152096 31.669155</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G311</idno>
                     </place>
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G1761">
                         <placeName>Israel</placeName>
                         <location>
-                            <geo>31.04605134.851612</geo>
+                            <geo>31.046051 34.851612</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1761</idno>
                     </place>
                     <place xml:id="G324">
                         <placeName>Jerusalem</placeName>
                         <location>
-                            <geo>31.76831835.21371</geo>
+                            <geo>31.768318 35.21371</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G324</idno>
                     </place>
                     <place xml:id="G1858">
                         <placeName>The West</placeName>
                         <location>
-                            <geo>39.69116-85.4783</geo>
+                            <geo>39.69116 -85.4783</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1858</idno>
                     </place>

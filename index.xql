@@ -28,7 +28,9 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
             case "date" return
                 tokenize($header//tei:msDesc/tei:history/tei:origin/@when, '-')
             case "genre" return
-                $header//tei:textClass/tei:keywords/tei:term
+                $header//tei:textClass/tei:keywords[@scheme='#type']/tei:term
+            case "keyword" return
+                $header//tei:textClass/tei:keywords[@scheme='#related']/tei:term
             case "persons-mentioned" return
                 $header//tei:listPerson/tei:person/tei:persName[@type="full"]
             case "places-mentioned" return

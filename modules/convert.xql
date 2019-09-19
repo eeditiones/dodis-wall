@@ -76,8 +76,15 @@ declare function cv:profileDesc($metadata as map(*)) {
             <language ident="{$metadata?data?langCode}">{$metadata?data?language}</language>
         </langUsage>
         <textClass>
-            <keywords>
+            <keywords scheme="#type">
                 <term>{$metadata?data?documentTypeText}</term>
+            </keywords>
+            <keywords scheme="#related">
+                {
+                    for $related in $metadata?data?relatedTags?*
+                    return
+                        <term>{$related?name}</term>
+                }
             </keywords>
         </textClass>
         <correspDesc>
@@ -177,7 +184,7 @@ declare function cv:places($metadata as map(*)) {
                     {
                         if ($place?latitude) then
                             <location>
-                                <geo>{$place?latitude} {$place?longitude}</geo>
+                                <geo>{$place?latitude, $place?longitude}</geo>
                             </location>
                         else
                             ()

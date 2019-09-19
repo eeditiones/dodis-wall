@@ -77,6 +77,12 @@ declare variable $config:facets := [
         "hierarchical": true()
     },
     map {
+        "dimension": "keyword",
+        "heading": "Tags",
+        "max": 20,
+        "hierarchical": false()
+    },
+    map {
         "dimension": "language",
         "heading": "Language",
         "max": 5,

@@ -14,6 +14,7 @@
                 <field name="number-in-volume" expression="nav:get-metadata(ancestor::tei:TEI, 'number-in-volume')" type="xs:integer"/>
                 <facet dimension="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')" hierarchical="yes"/>
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')"/>
+                <facet dimension="keyword" expression="nav:get-metadata(ancestor::tei:TEI, 'keyword')"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
                 <facet dimension="author-person" expression="nav:get-metadata(ancestor::tei:TEI, 'author-person')"/>
                 <facet dimension="author-org" expression="nav:get-metadata(ancestor::tei:TEI, 'author-org')"/>
@@ -23,7 +24,7 @@
             </text>
             <text qname="tei:div">
                 <ignore qname="tei:div"/>
-                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')" hierarchical="yes"/>
+                <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
             </text>
             <text qname="tei:head"/>

@@ -37,8 +37,11 @@
                 <language ident="de">German</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Telegram</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -305,147 +308,147 @@
                     <place xml:id="G806">
                         <placeName> Federal Republic of Germany (1949-1990)</placeName>
                         <location>
-                            <geo>50.68.06</geo>
+                            <geo>50.6 8.06</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G806</idno>
                     </place>
                     <place xml:id="G457">
                         <placeName>Albania</placeName>
                         <location>
-                            <geo>41.1533320.168331</geo>
+                            <geo>41.15333 20.168331</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G457</idno>
                     </place>
                     <place xml:id="G47">
                         <placeName>Asia</placeName>
                         <location>
-                            <geo>34.047863100.61965</geo>
+                            <geo>34.047863 100.61965</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G47</idno>
                     </place>
                     <place xml:id="G560">
                         <placeName>Balkans</placeName>
                         <location>
-                            <geo>43.221.6</geo>
+                            <geo>43.2 21.6</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G560</idno>
                     </place>
                     <place xml:id="G2101">
                         <placeName>Bonn</placeName>
                         <location>
-                            <geo>50.737437.098207</geo>
+                            <geo>50.73743 7.098207</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G2101</idno>
                     </place>
                     <place xml:id="G284">
                         <placeName>Bulgaria</placeName>
                         <location>
-                            <geo>42.73388325.48583</geo>
+                            <geo>42.733883 25.48583</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G284</idno>
                     </place>
                     <place xml:id="G12">
                         <placeName>Europe</placeName>
                         <location>
-                            <geo>54.52596315.255118</geo>
+                            <geo>54.525963 15.255118</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G12</idno>
                     </place>
                     <place xml:id="G13">
                         <placeName>France</placeName>
                         <location>
-                            <geo>46.227642.213749</geo>
+                            <geo>46.22764 2.213749</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G13</idno>
                     </place>
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G12980">
                         <placeName>Hesse</placeName>
                         <location>
-                            <geo>49.8666678.651</geo>
+                            <geo>49.866667 8.651</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G12980</idno>
                     </place>
                     <place xml:id="G4965">
                         <placeName>Kosovo</placeName>
                         <location>
-                            <geo>42.5813720.889336</geo>
+                            <geo>42.58137 20.889336</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G4965</idno>
                     </place>
                     <place xml:id="G18">
                         <placeName>Paris</placeName>
                         <location>
-                            <geo>48.8566132.352222</geo>
+                            <geo>48.856613 2.352222</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G18</idno>
                     </place>
                     <place xml:id="G131">
                         <placeName>Potsdam</placeName>
                         <location>
-                            <geo>52.39056813.064473</geo>
+                            <geo>52.390568 13.064473</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G131</idno>
                     </place>
                     <place xml:id="G1379">
                         <placeName>Prussia</placeName>
                         <location>
-                            <geo>5213.4</geo>
+                            <geo>52 13.4</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1379</idno>
                     </place>
                     <place xml:id="G4481">
                         <placeName>Rhineland-Palatinate</placeName>
                         <location>
-                            <geo>50.1183477.308953</geo>
+                            <geo>50.118347 7.308953</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G4481</idno>
                     </place>
                     <place xml:id="G234">
                         <placeName>Romania</placeName>
                         <location>
-                            <geo>45.9431624.96676</geo>
+                            <geo>45.94316 24.96676</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G234</idno>
                     </place>
                     <place xml:id="G30">
                         <placeName>Russia</placeName>
                         <location>
-                            <geo>63.722583.577778</geo>
+                            <geo>63.7225 83.577778</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G30</idno>
                     </place>
                     <place xml:id="G4894">
                         <placeName>Saarland</placeName>
                         <location>
-                            <geo>49.40476.9608</geo>
+                            <geo>49.4047 6.9608</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G4894</idno>
                     </place>
                     <place xml:id="G4544">
                         <placeName>Verdun</placeName>
                         <location>
-                            <geo>49.158945.386757</geo>
+                            <geo>49.15894 5.386757</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G4544</idno>
                     </place>
                     <place xml:id="G835">
                         <placeName>Versailles</placeName>
                         <location>
-                            <geo>48.8014072.130122</geo>
+                            <geo>48.801407 2.130122</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G835</idno>
                     </place>
                     <place xml:id="G298">
                         <placeName>Yalta</placeName>
                         <location>
-                            <geo>44.49520534.1663</geo>
+                            <geo>44.495205 34.1663</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G298</idno>
                     </place>

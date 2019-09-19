@@ -37,8 +37,11 @@
                 <language ident="fr">French</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Memo</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -219,63 +222,63 @@
                     <place xml:id="G806">
                         <placeName> Federal Republic of Germany (1949-1990)</placeName>
                         <location>
-                            <geo>50.68.06</geo>
+                            <geo>50.6 8.06</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G806</idno>
                     </place>
                     <place xml:id="G25">
                         <placeName>Berlin</placeName>
                         <location>
-                            <geo>52.52000813.404954</geo>
+                            <geo>52.520008 13.404954</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G25</idno>
                     </place>
                     <place xml:id="G284">
                         <placeName>Bulgaria</placeName>
                         <location>
-                            <geo>42.73388325.48583</geo>
+                            <geo>42.733883 25.48583</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G284</idno>
                     </place>
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G20">
                         <placeName>Hungary</placeName>
                         <location>
-                            <geo>47.16249519.503304</geo>
+                            <geo>47.162495 19.503304</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G20</idno>
                     </place>
                     <place xml:id="G68">
                         <placeName>Poland</placeName>
                         <location>
-                            <geo>51.91943719.145136</geo>
+                            <geo>51.919437 19.145136</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G68</idno>
                     </place>
                     <place xml:id="G30">
                         <placeName>Russia</placeName>
                         <location>
-                            <geo>63.722583.577778</geo>
+                            <geo>63.7225 83.577778</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G30</idno>
                     </place>
                     <place xml:id="G11">
                         <placeName>United States of America (1776-)</placeName>
                         <location>
-                            <geo>37.09024-95.71289</geo>
+                            <geo>37.09024 -95.71289</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G11</idno>
                     </place>
                     <place xml:id="G347">
                         <placeName>Western Europe</placeName>
                         <location>
-                            <geo>45.6284240.612311</geo>
+                            <geo>45.628424 0.612311</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G347</idno>
                     </place>

@@ -39,8 +39,13 @@ Darin: Gemeinsame Erklärung aller Fraktionen der Volkskammer vom 12.4.1990</sum
                 <language ident="de">German</language>
             </langUsage>
             <textClass>
-                <keywords>
+                <keywords scheme="#type">
                     <term>Memo</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Germany – FRG (Politics)</term>
+                    <term>Germany – GDR (Politics)</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -268,63 +273,63 @@ Darin: Gemeinsame Erklärung aller Fraktionen der Volkskammer vom 12.4.1990</sum
                     <place xml:id="G31">
                         <placeName>Austria</placeName>
                         <location>
-                            <geo>47.5162314.550072</geo>
+                            <geo>47.51623 14.550072</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G31</idno>
                     </place>
                     <place xml:id="G25">
                         <placeName>Berlin</placeName>
                         <location>
-                            <geo>52.52000813.404954</geo>
+                            <geo>52.520008 13.404954</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G25</idno>
                     </place>
                     <place xml:id="G73">
                         <placeName>Czechoslovakia</placeName>
                         <location>
-                            <geo>50.08333314.416667</geo>
+                            <geo>50.083333 14.416667</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G73</idno>
                     </place>
                     <place xml:id="G283">
                         <placeName>German Democratic Republic (1949-1990)</placeName>
                         <location>
-                            <geo>52.05212.389</geo>
+                            <geo>52.052 12.389</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G283</idno>
                     </place>
                     <place xml:id="G1761">
                         <placeName>Israel</placeName>
                         <location>
-                            <geo>31.04605134.851612</geo>
+                            <geo>31.046051 34.851612</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G1761</idno>
                     </place>
                     <place xml:id="G4452">
                         <placeName>Oder–Neisse line</placeName>
                         <location>
-                            <geo>51.6965414.715844</geo>
+                            <geo>51.69654 14.715844</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G4452</idno>
                     </place>
                     <place xml:id="G71">
                         <placeName>Prague</placeName>
                         <location>
-                            <geo>50.0755414.4378</geo>
+                            <geo>50.07554 14.4378</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G71</idno>
                     </place>
                     <place xml:id="G30">
                         <placeName>Russia</placeName>
                         <location>
-                            <geo>63.722583.577778</geo>
+                            <geo>63.7225 83.577778</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G30</idno>
                     </place>
                     <place xml:id="G3581">
                         <placeName>West Berlin</placeName>
                         <location>
-                            <geo>52.48494613.343708</geo>
+                            <geo>52.484946 13.343708</geo>
                         </location>
                         <idno type="URI">https://dodis.ch/G3581</idno>
                     </place>

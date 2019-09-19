@@ -55,10 +55,12 @@
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: center;
 font-size: 1em;
+            
             
             
             
@@ -75,10 +77,12 @@ font-size: 1em;
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: center;
 font-size: 1em;
+            
             
             
             
@@ -96,11 +100,13 @@ font-size: 1em;
             
             
             
+            
             display: block;
 margin-bottom: 30px;
 text-align: left;
 font-size: 0.7em;
 margin-left: 20px;
+            
             
             
             
@@ -146,68 +152,26 @@ margin-left: 20px;
                 <elementSpec ident="title" mode="change">
                     <model output="fo" predicate="@type='sub'" behaviour="block">
             <outputRendition xml:space="preserve">
-            
-            
-            
-            
-            
-            
-            
             text-align: center;
 text-transform: uppercase;
 font-style: italic;
-            
-            
-            
-            
-            
-            
-            
             </outputRendition>
         </model>
                     <model output="fo" predicate="@type='main'" behaviour="block">
             <outputRendition xml:space="preserve">
-            
-            
-            
-            
-            
-            
-            
             text-align: center;
 text-transform: none;
 font-style: italic;
 display: inline-block;
-            
-            
-            
-            
-            
-            
-            
             </outputRendition>
         </model>
                     <model predicate="@type='doc'" behaviour="block" cssClass="tei-title-doc">
             <outputRendition xml:space="preserve">
-            
-            
-            
-            
-            
-            
-            
             font-style: italic;
 margin-bottom: -20px;
 text-indent: 20px;
 display: block;
 margin-top: 10px;
-            
-            
-            
-            
-            
-            
-            
             </outputRendition>
         </model>
                     <model output="web" predicate="@type='main'" behaviour="heading" cssClass="tei-title-sub">
@@ -219,6 +183,9 @@ margin-top: 10px;
             <outputRendition xml:space="preserve">
             font-style: italic; text-align: center;
             </outputRendition>
+        </model>
+                    <model predicate="@type='sub'" behaviour="heading">
+            <param name="level" value="2"/>
         </model>
                     <model output="web" predicate="(@type='alt' or @type='doc') and preceding-sibling::list" behaviour="inline" cssClass="tei-title-list">
             <outputRendition xml:space="preserve">
@@ -276,8 +243,10 @@ margin-top: 10px;
             
             
             
+            
             padding-left: 0px;
 text-indent: 20px;
+            
             
             
             
@@ -299,8 +268,10 @@ text-indent: 20px;
             </outputRendition>
             <outputRendition xml:space="preserve">
             
+            
             text-align: justify; text-indent: 20px; margin-bottom: 0px;
 margin-top:0px;
+            
             
             </outputRendition>
         </model>
@@ -351,9 +322,11 @@ margin-top:0px;
             
             
             
+            
             margin-top: 10px; 
 width: 80%;
 margin-left: 20px;
+            
             
             
             
@@ -375,9 +348,11 @@ margin-left: 20px;
             
             
             
+            
             text-align: left;
 vertical-align: top;
 width: min-content;
+            
             
             
             
@@ -438,8 +413,10 @@ width: min-content;
             
             
             
+            
             margin: 6pt; border: solid red 1pt; 
 color: red;
+            
             
             
             
@@ -482,7 +459,7 @@ color: red;
                 </elementSpec>
                 <elementSpec ident="TEI" mode="change">
                     <model predicate="$parameters?view=&#34;metadata&#34;" behaviour="block" cssClass="metadata">
-            <param name="content" value="(teiHeader/profileDesc/particDesc, teiHeader/profileDesc/settingDesc)"/>
+            <param name="content" value="( teiHeader//msDesc//summary, teiHeader//correspDesc,  teiHeader/profileDesc/particDesc, teiHeader/profileDesc/settingDesc )"/>
         </model>
                     <model behaviour="document"/>
                 </elementSpec>
@@ -552,10 +529,8 @@ color: red;
             </model>
             <model behaviour="list">
                 <outputRendition xml:space="preserve">
-                
                 list-style: var(--meta-list-style);
 padding: var(--meta-list-padding);
-                
                 </outputRendition>
             </model>
         </modelSequence>
@@ -566,6 +541,9 @@ padding: var(--meta-list-padding);
         </model>
                 </elementSpec>
                 <elementSpec ident="persName" mode="add">
+                    <model predicate="@ref" behaviour="listItem">
+            <param name="content" value="id(substring-after(@ref, '#'), $parameters?root)"/>
+        </model>
                     <model behaviour="link">
             <param name="content" value="string-join((forename, surname), ' ')"/>
             <param name="uri" value="../idno"/>
@@ -596,12 +574,54 @@ padding: var(--meta-list-padding);
         </model>
                 </elementSpec>
                 <elementSpec ident="orgName" mode="add">
+                    <model predicate="@ref" behaviour="listItem">
+            <param name="content" value="id(substring-after(@ref, '#'), $parameters?root)"/>
+        </model>
                     <model behaviour="link">
             <param name="uri" value="../idno"/>
             <param name="target" value="'_blank'"/>
         </model>
                 </elementSpec>
             <elementSpec ident="settingDesc" mode="add"/>
+            <elementSpec ident="summary" mode="add">
+                    <modelSequence>
+            <model behaviour="heading">
+                <param name="content" value="'Summary'"/>
+            </model>
+            <model behaviour="paragraph" cssClass="summary"/>
+        </modelSequence>
+                </elementSpec>
+                <elementSpec ident="correspAction" mode="add">
+                    <modelSequence predicate="@type='sent'">
+            <model behaviour="heading">
+                <param name="content" value="'Author'"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
+                    <modelSequence predicate="@type='signatory'">
+            <model behaviour="heading">
+                <param name="content" value="'Signatory'"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
+                    <modelSequence predicate="@type='received'">
+            <model behaviour="heading">
+                <param name="content" value="'Receiver'"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
+                    <modelSequence predicate="@type='received-copy'">
+            <model behaviour="heading">
+                <param name="content" value="'Receiver of Copy'"/>
+            </model>
+            <model behaviour="list"/>
+        </modelSequence>
+                </elementSpec>
+                <elementSpec ident="correspDesc" mode="add">
+                    <model behaviour="block">
+            <param name="content" value="( correspAction[@type=&#34;sent&#34;], correspAction[@type=&#34;signatory&#34;], correspAction[@type=&#34;received&#34;], correspAction[@type=&#34;received-copy&#34;] )"/>
+        </model>
+                </elementSpec>
             </schemaSpec>
             <elementSpec ident="body" mode="change">
                 <modelSequence>

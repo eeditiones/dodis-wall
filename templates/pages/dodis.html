@@ -35,7 +35,7 @@
                     --pb-alternate-inline: var(--paper-blue-800);
 
                     --pb-footnote-ref: {
-                        font-size: .85em;
+                        font-size: 13px;
                         background-color: #C0C0C0;
                         text-decoration: none;
                         text-indent: 0;
@@ -48,11 +48,6 @@
                     --pb-facsimile-height: calc(var(--pb-view-height) - 20px);
 
                     /* --pb-panel-max-height: var(--pb-view-height); */
-                }
-
-                .logo {
-                    height: auto;
-                    width: auto;
                 }
 
                 app-header {
@@ -96,7 +91,7 @@
                 .metadata {
                     max-width: 20vw;
                     overflow: auto;
-                    height: calc(100vh - 128px);
+                    height: calc(100vh - 192px);
                 }
 
                 main {
@@ -109,13 +104,13 @@
                 .transcription {
                     align-self: center;
                     overflow: auto;
-                    height: calc(100vh - 128px);
+                    height: calc(100vh - 192px);
                 }
 
                 pb-facsimile {
                     padding-top: 20px;
                     min-width: 640px;
-                    height: calc(100vh - 148px);
+                    height: calc(100vh - 212px);
                 }
 
                 .toc-toggle {
@@ -124,6 +119,29 @@
 
                 .breadcrumbs {
                     text-align: right;
+                }
+
+                pb-navigation {
+                    display: none;
+                }
+
+                footer {
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    height: 68px;
+                    background-image: url('resources/images/bg-header.jpg');
+                }
+
+                footer div {
+                    color: white;
+                    padding: 12px 20px;
+                    background: rgba(80, 80, 80, 0.6);
+                }
+
+                footer div a {
+                    color: white;
                 }
             </style>
         </custom-style>
@@ -151,6 +169,14 @@
                             default-zoom-level="0">
                         </pb-facsimile>
                     </main>
+                    <footer>
+                        <div>A demo for <a href="https://teipublisher.com">TEI Publisher</a> based on data kindly provided
+                        by <a href="https://dodis.ch">Dodis</a> under a
+                        <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY-NC-SA 4.0</a> license.
+                        For the complete, original version, which we encourage you to visit, see <a href="https://www.dodis.ch/q12">Marc Dierikx und Sacha Zala (Hg.):
+                        When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents
+                        1989–1990. Quaderni di Dodis | 12</a>. </div>
+                    </footer>
                 </app-header-layout>
             </app-drawer-layout>
         </pb-page>

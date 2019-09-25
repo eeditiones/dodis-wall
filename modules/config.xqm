@@ -73,13 +73,13 @@ declare variable $config:facets := [
     map {
         "dimension": "genre",
         "heading": "Genre",
-        "max": 20,
+        "max": 5,
         "hierarchical": true()
     },
     map {
         "dimension": "keyword",
         "heading": "Tags",
-        "max": 20,
+        "max": 5,
         "hierarchical": false()
     },
     map {

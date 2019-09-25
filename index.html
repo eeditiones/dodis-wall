@@ -85,6 +85,10 @@
                     color: white;
                 }
 
+                .main-title a {
+                    text-decoration: underline;
+                }
+
                 .tp-title {
                     font-family: "Oswald",Verdana,"Helvetica",sans-serif;
                     font-size: 36px;
@@ -117,7 +121,7 @@
                 }
 
                 .panels {
-                    margin-bottom: 40px;
+                    margin-bottom: 90px;
                     margin-top: 20px;
                 }
 
@@ -210,8 +214,8 @@
                     flex: 0;
                     min-width: 220px;
                     margin-right: 20px;
-                    background-color: #F0F0F0;
-                    padding: 0 10px;
+                    border-right: 2px solid #a0a0a0;
+                    padding: 0 20px 0 10px;
                 }
 
                 #facets h3 {
@@ -243,6 +247,25 @@
                     text-align: right;
                     padding-left: 1em;
                     vertical-align: middle;
+                }
+
+                footer {
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    height: 68px;
+                    background-image: url('resources/images/bg-header.jpg');
+                }
+
+                footer div {
+                    color: white;
+                    padding: 12px 20px;
+                    background: rgba(80, 80, 80, 0.6);
+                }
+
+                footer div a {
+                    color: white;
                 }
             </style>
         </custom-style>
@@ -306,13 +329,6 @@
                             </pb-login>
                             <pb-progress indeterminate="indeterminate" bottom-item="bottom-item"/>
                         </app-toolbar>
-                        <app-toolbar class="toolbar" sticky="sticky">
-                            <div class="main-title">
-                                Demo based on data published in: <a href="https://www.dodis.ch/q12">Marc Dierikx und Sacha Zala (Hg.):
-                                When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents
-                                1989–1990. Quaderni di Dodis | 12</a>
-                            </div>
-                        </app-toolbar>
                     </app-header>
 
                     <main>
@@ -334,7 +350,14 @@
                             </aside>
                         </section>
                     </main>
-
+                    <footer>
+                        <div>A demo for <a href="https://teipublisher.com">TEI Publisher</a> based on data kindly provided
+                        by <a href="https://dodis.ch">Dodis</a> under a
+                        <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY-NC-SA 4.0</a> license.
+                        For the complete, original version, which we encourage you to visit, see <a href="https://www.dodis.ch/q12">Marc Dierikx und Sacha Zala (Hg.):
+                        When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents
+                        1989–1990. Quaderni di Dodis | 12</a>. </div>
+                    </footer>
                 </app-header-layout>
             </app-drawer-layout>
             <paper-dialog id="downloadDialog">

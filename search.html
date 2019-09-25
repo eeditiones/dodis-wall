@@ -30,6 +30,45 @@
                     --pb-results-body-font: 112% "Junicode",Georgia,"Times New Roman",serif;
                 }
 
+                .logo img {
+                    height: auto;
+                    width: auto;
+                }
+
+                app-header {
+                    background-image: url('resources/images/bg-header.jpg');
+                }
+
+                .menubar {
+                    background-color: rgb(0, 0, 0, 0.4);
+                }
+
+                .toolbar {
+                    background-color: rgb(20, 20, 20, 0.7);
+                }
+
+                app-toolbar {
+                    color: white;
+                }
+
+                app-toolbar pb-search {
+                    padding-left: 20px;
+                    --pb-search-input: white;
+                    --pb-search-label: white;
+                }
+
+                .menubar .logo {
+                    font-family: "Oswald",Verdana,"Helvetica",sans-serif;
+                    font-weight: 400 !important;
+                    font-size: 32px;
+                    text-shadow: 3px -4px 5px black;
+                }
+
+                .menubar .logo img {
+                    width: auto;
+                    height: auto;
+                }
+
                 main {
                     display: flex;
                     flex-direction: row;
@@ -108,7 +147,7 @@
                 .hi {
                     display: block;
                 }
-                
+
                 #facets h3 {
                     display: flex;
                     flex-direction: row;
@@ -136,7 +175,7 @@
                 <app-header slot="header" reveals="reveals" fixed="fixed" effects="waterfall" data-template="browse:fix-links">
                     <app-toolbar class="menubar">
                         <a href="$app/index.html" class="logo">
-                            <img src="resources/images/tei-publisher-logo-contrast-color.svg"/>
+                            <img src="resources/images/logo.png"/>
                         </a>
                         <a href="$app/index.html">Start</a>
 
@@ -156,7 +195,7 @@
                             <iron-icon slot="icon" icon="account-circle"/>
                         </pb-login>
                     </app-toolbar>
-                    <app-toolbar>
+                    <app-toolbar class="toolbar">
                         <pb-paginate per-page="10" range="5" found-label="i18n(found)" subscribe="results"/>
                         <pb-progress indeterminate="indeterminate" bottom-item="bottom-item"/>
                     </app-toolbar>

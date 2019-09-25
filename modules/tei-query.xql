@@ -48,7 +48,6 @@ declare function teis:query-default($fields as xs:string+, $query as xs:string, 
                             $config:data-root ! doc(. || "/" || $text)//tei:div[ft:query(., $query, teis:options())] |
                             $config:data-root ! doc(. || "/" || $text)//tei:text[ft:query(., $query, teis:options())]
                     else
-                        collection($config:data-root)//tei:div[ft:query(., $query, teis:options())] |
                         collection($config:data-root)//tei:text[ft:query(., $query, teis:options())]
     else ()
 };
@@ -158,7 +157,7 @@ declare function teis:get-breadcrumbs($config as map(*), $hit as element(), $par
  : Expand the given element and highlight query matches by re-running the query
  : on it.
  :)
-declare function teis:expand($data as element()) {
+declare function teis:expand($data as node()) {
     let $query := session:get-attribute("apps.simple.query")
     let $field := session:get-attribute("apps.simple.field")
     let $div :=
@@ -187,14 +186,13 @@ declare function teis:expand($data as element()) {
 };
 
 
-declare %private function teis:query-default-view($context as element()*, $query as xs:string, $fields as xs:string+) {
+declare %private function teis:query-default-view($context as node()*, $query as xs:string, $fields as xs:string+) {
     for $field in $fields
     return
         switch ($field)
             case "head" return
                 $context[./descendant-or-self::tei:head[ft:query(., $query, $teis:QUERY_OPTIONS)]]
             default return
-                $context[./descendant-or-self::tei:div[ft:query(., $query, $teis:QUERY_OPTIONS)]] |
                 $context[./descendant-or-self::tei:text[ft:query(., $query, $teis:QUERY_OPTIONS)]]
 };
 

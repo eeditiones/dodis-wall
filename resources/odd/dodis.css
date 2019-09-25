@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+.metadata h4 {
+    margin-bottom: 0;
+}
+
+.metadata ul {
+    margin-top: .5em;
+}
+
+.content {
+    line-height: 1.5;
+}
+
 a {
-    color: #1a1612;
+    color: #1a1612
 }

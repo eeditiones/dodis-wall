@@ -57,7 +57,7 @@ declare function query:get-breadcrumbs($config as map(*), $hit as element(), $pa
     query:dispatch($config, "get-breadcrumbs", [$config, $hit, $parent-id])
 };
 
-declare function query:expand($config as map(*), $data as element()) {
+declare function query:expand($config as map(*), $data as node()) {
     query:dispatch($config, "expand", [$data])
 };
 

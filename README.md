@@ -12,6 +12,6 @@ was a subject of a recent TEI Publisher workshop during the 2019 TEI Conference 
 we managed to get a draft version in just one day and only 
 [165 lines of custom code](https://gitlab.existsolutions.com/tei-publisher/wall/commit/7e21a455dd1d406803922a9f611b82d888e167d5?w=1). 
 
-To see the detailed transcript of the workshop activities visit its dedicated GitLab [repository](). Start with the 
+To see the detailed transcript of the workshop activities visit its dedicated GitLab [repository](https://gitlab.existsolutions.com/tei-publisher/wall). Start with the 
 [README](https://gitlab.existsolutions.com/tei-publisher/wall/blob/master/README.md) to set up and move on to 
 [Issue 1](https://gitlab.existsolutions.com/tei-publisher/wall/issues/1) for illustrated transcript of the workshop tasks.

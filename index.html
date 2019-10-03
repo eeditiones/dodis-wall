@@ -71,6 +71,18 @@
                     height: auto;
                 }
 
+                .menubar .git {
+                    margin-left: 10px;
+                    margin-right: 10px;
+                    display: flex;
+                    align-items: center;
+                }
+
+                .menubar .git img {
+                    background-size: 100% 100%;
+                    height: 50px;
+                }
+
                 .toolbar {
                     background-color: rgb(20, 20, 20, 0.7);
                 }
@@ -314,6 +326,9 @@
                                 <!-- Search input -->
                                 <pb-search action="${app}/search.html" data-template="pages:parse-params" value="${query}" place-holder="i18n(search-query-attr)" redirect="redirect"/>
 
+                                <a href="http://gitlab.existsolutions.com/tei-publisher/dodis-facets" title="View code on Gitlab" class="git" target="_blank">
+                                    <img src="resources/images/wm_no_bg.svg"/> GitLab
+                                </a>
                                 <!-- language selector -->
                                 <pb-lang name="lang" label="Language" data-template="pages:current-language">
                                     <paper-item>en</paper-item>

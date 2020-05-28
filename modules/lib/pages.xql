@@ -32,9 +32,6 @@ import module namespace templates="http://exist-db.org/xquery/templates";
 import module namespace config="http://www.tei-c.org/tei-simple/config" at "../config.xqm";
 import module namespace pm-config="http://www.tei-c.org/tei-simple/pm-config" at "../pm-config.xql";
 import module namespace tpu="http://www.tei-c.org/tei-publisher/util" at "lib/util.xql";
-import module namespace search="http://www.tei-c.org/tei-simple/search" at "search.xql";
-
-declare variable $pages:app-root := request:get-context-path() || substring-after($config:app-root, "/db");
 
 declare variable $pages:EXIDE :=
     let $pkg := collection(repo:get-root())//expath:package[@name = "http://exist-db.org/apps/eXide"]
@@ -70,6 +67,14 @@ declare function pages:pb-document($node as node(), $model as map(*), $doc as xs
         </pb-document>
 };
 
+declare
+    %templates:wrap
+function pages:pb-markdown($node as node(), $model as map(*), $doc as xs:string) {
+    attribute url  {
+        "raw/" || $doc
+    }
+};
+
 declare function pages:pb-view($node as node(), $model as map(*), $root as xs:string?, $id as xs:string?,
     $action as xs:string?) {
     element { node-name($node) } {
@@ -87,15 +92,29 @@ declare function pages:pb-view($node as node(), $model as map(*), $root as xs:st
     }
 };
 
+(:~~
+ : Generate the actual script tag to import pb-components.
+ :)
+declare function pages:load-components($node as node(), $model as map(*)) {
+    if (not($node/preceding::script[@data-template="pages:load-components"])) then (
+        <script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"></script>,
+        <script src="https://unpkg.com/web-animations-js@2.3.2/web-animations-next-lite.min.js"></script>
+    ) else
+        (),
+    switch ($config:webcomponents)
+        case "local" return
+            <script type="module" src="resources/scripts/{$node/@src}"></script>
+        default return
+            <script type="module" 
+                src="{$config:webcomponents-cdn}@{$config:webcomponents}/dist/{$node/@src}"></script>
+};
 
 declare function pages:current-language($node as node(), $model as map(*), $lang as xs:string?) {
-    let $selected := count($node/*[. = $lang]/preceding-sibling::*)
-    return
-        element { node-name($node) } {
-            $node/@*,
-            attribute selected { $selected },
-            $node/*
-        }
+    element { node-name($node) } {
+        $node/@*,
+        attribute selected { $lang },
+        $node/*
+    }
 };
 
 declare
@@ -199,7 +218,7 @@ declare function pages:get-document($idOrName as xs:string) {
 declare function pages:back-link($node as node(), $model as map(*)) {
     element { node-name($node) } {
         attribute href {
-            $pages:app-root || "/"
+            $config:context-path || "/"
         },
         $node/@*,
         $node/node()
@@ -258,7 +277,7 @@ declare
 function pages:view($node as node(), $model as map(*), $action as xs:string) {
     let $view := pages:determine-view($model?config?view, $model?data)
     let $data :=
-        if ($action = "search" and exists(session:get-attribute("apps.simple.query"))) then
+        if ($action = "search" and exists(session:get-attribute($config:session-prefix || ".query"))) then
             query:expand($model?config, $model?data)
         else
             $model?data
@@ -319,27 +338,22 @@ declare function pages:clean-footnotes($nodes as node()*) {
 
 declare
     %templates:wrap
-function pages:table-of-contents($node as node(), $model as map(*), $target as xs:string*) {
-    let $current :=
-        if ($model?config?view = "page") then
-            ($model?data/ancestor-or-self::tei:div[1], $model?data/following::tei:div[1])[1]
-        else
-            $model?data
-    return
-        pages:toc-div(root($model?data), $model, $current, $target)
+function pages:table-of-contents($node as node(), $model as map(*), $target as xs:string*, $icons as xs:boolean?) {
+    pages:toc-div(root($model?data), $model, $target, $icons)
 };
 
-declare %private function pages:toc-div($node, $model as map(*), $current as element(), $target as xs:string?) {
+declare %private function pages:toc-div($node, $model as map(*), $target as xs:string?,
+    $icons as xs:boolean?) {
     let $view := $model?config?view
     let $divs := nav:get-subsections($model?config, $node)
     return
         <ul>
         {
             for $div in $divs
-            let $headings := nav:get-section-heading($model?config, $div)
+            let $headings := nav:get-section-heading($model?config, $div)/node()
             let $html :=
                 if ($headings/*) then
-                    $pm-config:web-transform($headings, map { "header": "short", "root": $div }, $model?config?odd)
+                    $pm-config:web-transform($headings, map { "mode": "toc", "root": $div }, $model?config?odd)
                 else
                     $headings/string()
             let $root := (
@@ -349,27 +363,33 @@ declare %private function pages:toc-div($node, $model as map(*), $current as ele
                     (),
                 $div
             )[1]
-            let $id := "T" ||util:uuid()
+            let $parent := if ($view = "div") then $div/ancestor::tei:div[1] else ()
+            let $inParent := $parent and nav:filler($model?config, $parent) is $div
             let $hasDivs := exists(nav:get-subsections($model?config, $div))
-            let $isIn := if ($div/descendant::*[. is $current]) then "in" else ()
-            let $isCurrent := if ($div is $current) then "active" else ()
-            let $icon := if ($isIn) then "expand_less" else "expand_more"
+            let $nodeId :=  if ($inParent) then util:node-id($parent) else util:node-id($root)
+            let $subsect := if ($inParent) then attribute hash { util:node-id($root) } else ()
             return
-                <li>
-                {
-                    if ($hasDivs) then
-                        <pb-collapse>
-                            <span slot="collapse-trigger">
-                                <pb-link node-id="{util:node-id($root)}" emit="{$target}">{$html}</pb-link>
-                            </span>
-                            <span slot="collapse-content">
-                            { pages:toc-div($div, $model, $current, $target) }
-                            </span>
-                        </pb-collapse>
-                    else
-                        <pb-link node-id="{util:node-id($root)}" emit="{$target}">{$html}</pb-link>
-                }
-                </li>
+                    <li>
+                    {
+                        if ($hasDivs) then
+                            <pb-collapse>
+                                {
+                                    if (not($icons)) then
+                                        attribute no-icons { "no-icons" }
+                                    else
+                                        ()
+                                }
+                                <span slot="collapse-trigger">
+                                    <pb-link node-id="{$nodeId}" emit="{$target}" subscribe="{$target}">{$subsect, $html}</pb-link>
+                                </span>
+                                <span slot="collapse-content">
+                                { pages:toc-div($div, $model, $target, $icons) }
+                                </span>
+                            </pb-collapse>
+                        else
+                            <pb-link node-id="{$nodeId}" emit="{$target}" subscribe="{$target}">{$subsect, $html}</pb-link>
+                    }
+                    </li>
         }
         </ul>
 };
@@ -380,7 +400,7 @@ function pages:styles($node as node(), $model as map(*)) {
     attribute href {
         let $name := replace($config:odd, "^([^/\.]+).*$", "$1")
         return
-            $pages:app-root || "/" || $config:output || "/" || $name || ".css"
+            $config:context-path || "/" || $config:output || "/" || $name || ".css"
     }
 };
 
@@ -446,13 +466,13 @@ declare function pages:pb-page($node as node(), $model as map(*), $template as x
     let $model := map:merge(
         (
             $model,
-            map { "app": request:get-context-path() || substring-after($config:app-root, "/db") }
+            map { "app": $config:context-path }
         )
     )
     return
         element { node-name($node) } {
             $node/@*,
-            attribute app-root { request:get-context-path() || substring-after($config:app-root, "/db") },
+            attribute app-root { $config:context-path },
             attribute template { $template },
             templates:process($node/*, $model)
         }
@@ -523,12 +543,12 @@ declare function pages:parse-params($node as node(), $model as map(*)) {
                             typeswitch($token)
                                 case element(fn:non-match) return $token/string()
                                 case element(fn:match) return
-                                    let $paramName := $token/fn:group[1]
-                                    let $default := $token/fn:group[2]
+                                    let $paramName := $token/fn:group[1]/string()
+                                    let $default := $token/fn:group[2]/string()
                                     let $found := [
                                         request:get-parameter($paramName, $default),
                                         $model($paramName),
-                                        session:get-attribute("apps.simple." || $paramName)
+                                        session:get-attribute($config:session-prefix || "." || $paramName)
                                     ]
                                     return
                                         array:fold-right($found, (), function($in, $value) {
@@ -541,4 +561,14 @@ declare function pages:parse-params($node as node(), $model as map(*)) {
                 $attr,
         templates:process($node/node(), $model)
     }
+};
+
+declare 
+    %templates:wrap
+function pages:languages($node as node(), $model as map(*)) {
+    let $json := json-doc($config:app-root || "/resources/i18n/languages.json")
+    return
+        map:for-each($json, function($key, $value) {
+            <paper-item value="{$key}">{$value}</paper-item>
+        })
 };

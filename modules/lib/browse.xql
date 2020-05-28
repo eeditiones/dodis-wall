@@ -55,8 +55,8 @@ declare
     %templates:wrap
 function app:sort($items as element()*, $sortBy as xs:string?) {
     let $items :=
-        if (count($config:data-exclude) = 1) then
-            $items[not(matches(document-uri(root(.)), $config:data-exclude))]
+        if (exists($config:data-exclude)) then
+            $items except $config:data-exclude
         else
             $items
     return
@@ -66,6 +66,21 @@ function app:sort($items as element()*, $sortBy as xs:string?) {
             $items
 };
 
+declare function app:is-writeable($node as node(), $model as map(*), $root as xs:string) {
+    let $path := $config:data-root || "/" || $root
+    let $writable := sm:has-access(xs:anyURI($path), "rw-")
+    return
+        element { node-name($node) } {
+            $node/@* except $node/@class,
+            attribute class {
+                string-join(($node/@class, if ($writable) then "writable" else ()), " ")
+            },
+            attribute data-root {
+                $root
+            },
+            templates:process($node/node(), $model)
+        }
+};
 
 (:~
  : List documents in data collection
@@ -75,27 +90,27 @@ declare
     %templates:default("sort", "title")
 function app:list-works($node as node(), $model as map(*), $filter as xs:string?, $root as xs:string,
     $browse as xs:string?, $odd as xs:string?, $sort as xs:string) {
-    let $odd := ($odd, session:get-attribute("teipublisher.odd"))[1]
+    let $params := app:params2map()
+    let $odd := ($odd, session:get-attribute($config:session-prefix || ".odd"))[1]
     let $oddAvailable := $odd and doc-available($config:odd-root || "/" || $odd)
     let $odd := if ($oddAvailable) then $odd else $config:default-odd
-    let $cached := session:get-attribute("teipublisher.works")
+    let $cached := session:get-attribute($config:session-prefix || ".works")
     let $filtered :=
-        if (exists($filter)) then
-            query:query-metadata($browse, $filter, $sort)
-        else if (exists($cached) and $filter = session:get-attribute("teipublisher.filter")) then
+        if (app:use-cache($params, $cached)) then
             $cached
+        else if (exists($filter)) then
+            query:query-metadata($browse, $filter, $sort)
         else
-            let $options := app:options($sort)
+            let $options := query:options($sort)
             return
                 nav:get-root($root, $options)
     let $sorted := app:sort($filtered, $sort)
     return (
-        session:set-attribute('apps.simple', $filtered),
-        session:set-attribute('teipublisher.docs', $filtered),
-        session:set-attribute("teipublisher.works", $sorted),
-        session:set-attribute("teipublisher.browse", $browse),
-        session:set-attribute("teipublisher.filter", $filter),
-        session:set-attribute("teipublisher.odd", $odd),
+        session:set-attribute($config:session-prefix || ".timestamp", current-dateTime()),
+        session:set-attribute($config:session-prefix || '.hits', $filtered),
+        session:set-attribute($config:session-prefix || '.params', $params),
+        session:set-attribute($config:session-prefix || ".works", $sorted),
+        session:set-attribute($config:session-prefix || ".odd", $odd),
         map {
             "all" : $sorted,
             "mode": "browse"
@@ -103,21 +118,42 @@ function app:list-works($node as node(), $model as map(*), $filter as xs:string?
     )
 };
 
-declare function app:options($sortBy as xs:string) {
-    map {
-        "facets":
-            map:merge((
-                for $param in request:get-parameter-names()[starts-with(., 'facet-')]
-                let $dimension := substring-after($param, 'facet-')
-                return
-                    map {
-                        $dimension: request:get-parameter($param, ())
-                    }
-            )),
-        "fields": $sortBy,
-        "leading-wildcard": "yes",
-        "filter-rewrite": "yes"
-    }
+declare %private function app:params2map() {
+    map:merge(
+        for $param in request:get-parameter-names()[not(. = ("start", "per-page"))]
+        return
+            map:entry($param, request:get-parameter($param, ()))
+    )
+};
+
+declare 
+    %templates:wrap
+function app:clear-facets($node as node(), $model as map(*)) {
+    session:set-attribute($config:session-prefix || ".hits", ()),
+    map {}
+};
+
+declare function app:use-cache($params as map(*), $cached) {
+    let $cachedParams := session:get-attribute($config:session-prefix || ".params")
+    let $timestamp := session:get-attribute($config:session-prefix || ".timestamp")
+    return
+        if (exists($cached) and exists($cachedParams) and deep-equal($params, $cachedParams) and exists($timestamp)) then
+            empty(xmldb:find-last-modified-since(collection($config:data-root), $timestamp))
+        else
+            false()
+};
+
+declare function app:parent-collection($node as node(), $model as map(*), $root as xs:string) {
+    if (not($root) or $root = "") then
+        ()
+    else
+        let $parts := tokenize($root, "/")
+        return
+            element { node-name($node) } {
+                $node/@*,
+                attribute data-collection { string-join(subsequence($parts, 1, count($parts) - 1)) },
+                templates:process($node/node(), $model)
+            }
 };
 
 declare
@@ -381,18 +417,22 @@ declare function app:dispatch-action($node as node(), $model as map(*), $action 
     switch ($action)
         case "delete" return
             let $docs := request:get-parameter("docs[]", ())
+            let $result :=
+                for $path in $docs
+                let $doc := pages:get-document(xmldb:decode($path))
+                return
+                    if ($doc) then
+                        try {
+                            xmldb:remove(util:collection-name($doc), util:document-name($doc))
+                        } catch * {
+                            <p class="error">Failed to remove document {$path} (insufficient permissions?)</p>
+                        }
+                    else
+                        <p>Document not found: {$path}</p>
             return
                 <div id="action-alert" class="alert alert-success">
-                    <p>Removed {count($docs)} documents.</p>
-                    {
-                        for $path in $docs
-                        let $doc := pages:get-document(xmldb:decode($path))
-                        return
-                            if ($doc) then
-                                xmldb:remove(util:collection-name($doc), util:document-name($doc))
-                            else
-                                <p>Failed to remove document {$path}</p>
-                    }
+                    <p>Removed {count($docs) - count($result)} documents.</p>
+                    { $result }
                 </div>
         case "delete-odd" return
             let $docs := request:get-parameter("docs[]", ())

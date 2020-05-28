@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<html xmlns:i18n="http://exist-db.org/xquery/i18n">
+<html>
     <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"/>
@@ -10,92 +10,16 @@
         <link rel="shortcut icon" type="image/png" href="resources/images/favicon-64.png" sizes="64x64"/>
 
         <title data-template="config:app-title"/>
-        <meta name="description" content="Diplomatische Dokumente der SchweizVan Gogh Letter"/>
+        <meta name="description" content="Diplomatische Dokumente der Schweiz"/>
         <meta name="pb-template" content="dodis.html"/>
 
         <link rel="stylesheet" type="text/css" href="resources/fonts/font.css"/>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald"/>
-        <script src="components/bower_components/webcomponentsjs/webcomponents-loader.js"/>
-        <link rel="import" href="components/dependencies-dev.html"/>
+        <link rel="stylesheet" href="resources/css/theme.css"/>
+        <link rel="stylesheet" href="resources/css/dodis-theme.css"/>
+        <script type="module" src="pb-components-bundle.js" data-template="pages:load-components"></script>
 
-        <style>
-            [unresolved] {
-                display:none;
-            }
-        </style>
-        <custom-style>
-            <style include="pb-common-styles">
-                body {
-                    --pb-link-theme: {
-                        font-family: "Junicode",Georgia,"Times New Roman",serif;
-                        text-decoration: none;
-                        color: black;
-                    };
-
-                    --pb-alternate-inline: var(--paper-blue-800);
-
-                    --pb-footnote-ref: {
-                        font-size: 13px;
-                        background-color: #C0C0C0;
-                        text-decoration: none;
-                        text-indent: 0;
-                    };
-
-                    --pb-footnote-number: {
-                        font-size: .75em;
-                    };
-
-                    --pb-facsimile-height: calc(var(--pb-view-height) - 20px);
-
-                    /* --pb-panel-max-height: var(--pb-view-height); */
-                }
-
-                app-header {
-                    background-image: url('resources/images/bg-header.jpg');
-                }
-
-                .menubar {
-                    background-color: rgb(0, 0, 0, 0.4);
-                }
-
-                .toolbar {
-                    background-color: rgb(20, 20, 20, 0.7);
-                }
-
-                app-toolbar {
-                    color: white;
-                }
-
-                app-toolbar pb-search {
-                    padding-left: 20px;
-                    --pb-search-input: white;
-                    --pb-search-label: white;
-                }
-
-                .menubar .logo {
-                    font-family: "Oswald",Verdana,"Helvetica",sans-serif;
-                    font-weight: 400 !important;
-                    font-size: 32px;
-                    text-shadow: 3px -4px 5px black;
-                }
-
-                .menubar .logo img {
-                    width: auto;
-                    height: auto;
-                }
-
-                .menubar .git {
-                    margin-left: 10px;
-                    margin-right: 10px;
-                    display: flex;
-                    align-items: center;
-                }
-
-                .menubar .git img {
-                    background-size: 100% 100%;
-                    height: 50px;
-                }
-                
+            <style>
                 .facscaption {
                     font-size: 75%;
                     text-align: right;
@@ -122,7 +46,7 @@
 
                 pb-facsimile {
                     padding-top: 20px;
-                    min-width: 640px;
+                    min-width: 512px;
                     height: calc(100vh - 212px);
                 }
 
@@ -130,38 +54,14 @@
                     display: none;
                 }
 
-                .breadcrumbs {
-                    text-align: right;
-                }
-
                 pb-navigation {
                     display: none;
                 }
-
-                footer {
-                    position: fixed;
-                    bottom: 0;
-                    left: 0;
-                    right: 0;
-                    height: 68px;
-                    background-image: url('resources/images/bg-header.jpg');
-                }
-
-                footer div {
-                    color: white;
-                    padding: 12px 20px;
-                    background: rgba(80, 80, 80, 0.6);
-                }
-
-                footer div a {
-                    color: white;
-                }
             </style>
-        </custom-style>
     </head>
 
-    <body unresolved="unresolved" data-template="i18n:translate" data-template-catalogues="resources/i18n">
-        <pb-page data-template="pages:pb-page">
+    <body>
+        <pb-page data-template="pages:pb-page" unresolved="unresolved">
             <pb-document id="document1" data-template="pages:pb-document"/>
             <app-drawer-layout force-narrow="force-narrow">
                 <app-drawer data-template="templates:include" data-template-path="templates/drawer.html"/>
@@ -193,5 +93,6 @@
                 </app-header-layout>
             </app-drawer-layout>
         </pb-page>
+        <div class="splash"/>
     </body>
 </html>

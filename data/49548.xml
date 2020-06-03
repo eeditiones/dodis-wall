@@ -112,6 +112,7 @@
                         <persName type="full">Tschirlich, Arnold</persName>
                         <persName>Tschirlich, Arnold</persName>
                         <persName>Tschierlich, Arnold</persName>
+                        <note>Botschaftsrat an der Botschaft der DDR in Bern 27.6.1986–1990</note>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P54816</idno>
                     </person>
@@ -214,8 +215,7 @@
                     <ref target="http://dodis.ch/49548">dodis.ch/49548</ref>
                     <title type="main">Interne Notiz<note xml:id="e735">Notiz: <idno type="CH-BAR">
                                 CH-BAR#E2010A#1999/250#7145*(B.73.0).</idno> Verfasst und
-                            unterzeichnet von Daniel Woker, <ref target="dodis.ch/P27996">dodis.ch/P27996</ref>. Kopie an: Silvio Arioli, <ref target="http://dodis.ch/P24523">dodis.ch/P24523</ref>, Klaus Jacobi,
-                                <ref target="http://dodis.ch/P19511">dodis.ch/P19511</ref>, die
+                        unterzeichnet von <persName ref="#P27996">Daniel Woker</persName>. Kopie an: <persName ref="#P24523">Silvio Arioli</persName>, <persName ref="#P19511">Klaus Jacobi</persName>, die
                             Sektion Mittel- und Osteuropäische Länder, das Sekratariat des
                             Departementschefs, das Politisches Sekretariat, die Direktion für
                             Verwaltungsangelegenheiten und Aussendienst sowie der Presse- und
@@ -232,8 +232,7 @@
                     </dateline>
                 </opener>
                 <p>Am Freitag, 10.11.1989, empfängt der Unterzeichnete den DDR-Botschaftsrat
-                        Tschierlich<note xml:id="e633">Arnold Tschirlich, <ref target="http://dodis.ch/P54816">dodis.ch/P54816</ref>, Botschaftsrat an
-                        der Botschaft der DDR in Bern 27.6.1986–1990.</note>, auf dessen dringendes
+                    <persName ref="#P54816">Tschirlich</persName>, auf dessen dringendes
                     Ersuchen und, in T<add type="edition">[schierlich]</add>’s Worten, als
                     offizielle Vorstellung der DDR gegenüber den schweizerischen Behörden mit Blick
                     auf das heutige historische Ereignis.</p>

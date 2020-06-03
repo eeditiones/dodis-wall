@@ -95,6 +95,7 @@
                         </birth>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P16179</idno>
+                        <note>Schweizerischer Botschafter in Ost-Berlin 1.10.1987–18.12.1990</note>
                     </person>
                     <person xml:id="P22246">
                         <persName>
@@ -128,6 +129,7 @@
                         </death>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P54831</idno>
+                        <note>Filmregisseur in der DDR</note>
                     </person>
                     <person xml:id="P22386">
                         <persName>
@@ -141,6 +143,7 @@
                         </birth>
                         <sex>unspecified</sex>
                         <idno type="URI">https://dodis.ch/P22386</idno>
+                        <note>Schweizer Historiker</note>
                     </person>
                     <person xml:id="P31707">
                         <persName>
@@ -166,6 +169,10 @@
                         </birth>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P31707</idno>
+                        <note>Generalsekretär der kommunistischen Partei der Sowjetunion
+                            11.3.1985–24.8.1991, Vorsitzender des obersten Sowjets der Sovjetunion
+                            25.5.1989–15.3.1990 und Staatspräsident der Sowjetunion
+                            15.3.1990–25.12.1991</note>
                     </person>
                     <person xml:id="P54811">
                         <persName>
@@ -180,6 +187,7 @@
                         </birth>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P54811</idno>
+                        <note>Jurist in der DDR und Vorsitzender der PDS 1989–1993</note>
                     </person>
                     <person xml:id="P46563">
                         <persName>
@@ -196,6 +204,7 @@
                         </death>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P46563</idno>
+                        <note>Generalsekretär der SED und Vorsitzender des Staatsrats der DDR 29.10.1976–18.10.1989</note>
                     </person>
                     <person xml:id="P19511">
                         <persName>
@@ -231,6 +240,7 @@
                         <death when="2017-06-16"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P31852</idno>
+                        <note>Bundeskanzler der BRD 1.10.1982–27.10.1998</note>
                     </person>
                     <person xml:id="P54809">
                         <persName>
@@ -244,6 +254,7 @@
                         </birth>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P54809</idno>
+                        <note>Premierminister der DDR 12.4.–2.10.1990</note>
                     </person>
                     <person xml:id="P54832">
                         <persName>
@@ -271,6 +282,7 @@
                         <birth when="1937-11-26"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P54833</idno>
+                        <note>Verfassungsrechtler in der BRD</note>
                     </person>
                     <person xml:id="P15220">
                         <persName>
@@ -287,6 +299,7 @@
                         </death>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P15220</idno>
+                        <note>Vorsitzender des Ministerrats der DDR 21.9.1964–3.10.1973 und 29.10.1976–13.11.1989</note>
                     </person>
                     <person xml:id="P5944">
                         <persName>
@@ -299,6 +312,7 @@
                         <death when="2015-01-31"/>
                         <sex>male</sex>
                         <idno type="URI">https://dodis.ch/P5944</idno>
+                        <note>Bundespräsident der BRD 1.7.1984–30.6.1994</note>
                     </person>
                 </listPerson>
                 <listOrg>
@@ -644,18 +658,14 @@
                     <ref target="http://dodis.ch/49561">dodis.ch/49561</ref>
                     <title type="main">Politischer Bericht<note xml:id="e864">Politscher Bericht:
                                 <idno type="CH-BAR"> CH-BAR#E2010-02A#1996/400#16* (A.21.31).
-                            </idno>Kopie für Klaus Jacobi,<ref target="http://dodis.ch/P19511">dodis.ch/P19511</ref>, Franz Blankart, <ref target="http://dodis.ch/P22246">dodis.ch/P22246</ref>, und Silvio
-                            Arioli, <ref target="http://dodis.ch/P24523">dodis.ch/P24523</ref>.
+                                </idno>Kopie für <persName ref="#P19511">Klaus Jacobi</persName>, <persName ref="#P22246">Franz Blankart</persName>, und <persName ref="#P24523">Silvio Arioli</persName>.
                             Kopie direkt an die schweizerische Botschaft in Bonn und das
                             schweizerische Generalkonsulat in West-Berlin; ebenfalls publiziert in:
                                 <orig>Die DDR aus Sicht schweizerischer Diplomaten. Politische
                                 Berichte aus Ost-Berlin 1982–1990, hrsg. von Bernd Haunfelder,
                                 Münster 2017, Dok. 93.</orig>
                         </note> des schweizerischen
-                        Botschafters in Ost-Berlin, Franz Birrer<note xml:id="e1129">Franz Birrer
-                            (*1933), <ref target="http://dodis.ch/P16179">dodis.ch/P16179</ref>,
-                            schweizerischer Botschafter in Ost-Berlin
-                        1.10.1987–18.12.1990.</note>
+                        Botschafters in Ost-Berlin, <persName ref="#P16179">Franz Birrer</persName>
                     </title>
                     <title type="sub">Nr. 16. Adieu, DDR!</title>
                 </head>
@@ -671,10 +681,8 @@
                     verschwinden.</p>
                 <p>Als ich vor drei Jahren nach Berlin kam, liess nichts darauf schliessen, dass
                     dieser «erste Arbeiter- und Bauernstaat auf deutschem Boden» so rasch und so
-                    vollständig untergehen würde. Honecker<note xml:id="e1135">Erich Honecker
-                        (1912–1994), <ref source="http://dodis.ch/P46563">dodis.ch/P46563</ref>,
-                        Generalsekretär der SED und Vorsitzender des Staatsrats der DDR
-                        29.10.1976–18.10.1989.</note> war gerade von einem grossen Staatsbesuch in
+                    vollständig untergehen würde. <persName ref="#P46563">Honecker</persName>
+                    war gerade von einem grossen Staatsbesuch in
                     Bonn zurückgekehrt. Ende der achtziger Jahre besuchte er auch fast alle andern
                     westlichen Kapitalen und empfing von dort Staats- und Regierungsgäste am
                     laufenden Band. Wirtschaftlich und sozial gab es für die DDR-Bevölkerung keine
@@ -693,8 +701,7 @@
                     Ländern (Polen ausgenommen). Eine gewisse Glasnost war vor allem in der
                     Literatur, in Theater und Cabaret sowie beim Film festzustellen; einzelne Filme,
                     die vor zwanzig und mehr Jahren verboten worden waren – wie z.B. «Die Russen
-                    kommen» von Carow<note xml:id="e1146">Heiner Carow (1929–1997), <ref source="http://dodis.ch/P54831">dodis.ch/P54831</ref>, Filmregisseur in
-                        der DDR.</note> – konnten nun aufgeführt werden. Reisebewilligungen in den
+                    kommen» von <persName ref="#P54831">Carow</persName> – konnten nun aufgeführt werden. Reisebewilligungen in den
                     Westen stiegen sprunghaft an und erreichten 1988 über 3 Mio Reisen in die BRD,
                     wovon 1,3 Mio Personen unterhalb des Rentenalters. Auch die legalen
                     Übersiedlungen in die BRD erreichten 1988/89 einen Jahresrythmus von rund
@@ -703,7 +710,7 @@
                 <p>Dennoch, <emph>stalinistische</emph> Strukturen und Verhaltungsweisen bildeten
                     noch immer das Grundmuster der DDR. Kernstück des Stalinismus war und blieb der
                     Vorrang der SED bzw. der Parteiführung, personifiziert durch den
-                        Generalsekretär<note xml:id="e1156">Erich Honecker.</note> und einzelne, für
+                        <persName ref="#P46563">Generalsekretär</persName> und einzelne, für
                     Staatssicherheit, Wirtschaft und Massenmedien zuständige Mitglieder des
                     Politbüros. Die in der Nationalen Front zusammengefassten und gleichgeschalteten
                     andern Parteien sowie die Massenorganisationen hatten hauptsächlich
@@ -748,13 +755,8 @@
                     Westsektoren Berlins eine Währungsreform durchführten und die Bundesrepublik
                     Deutschland gründeten, schuf die Sowjetunion ihrerseits die DDR und hielt sie
                     lange Zeit an der kurzen Leine. Dies war vorerst auch noch unter
-                        <emph>Gorbatschow</emph>
-                    <note xml:id="e1162">Michail Gorbatschow (*1931),
-                            <ref target="http://dodis.ch/P31707">dodis.ch/P31707</ref>,
-                        Generalsekretär der kommunistischen Partei der Sowjetunion
-                        11.3.1985–24.8.1991, Vorsitzender des obersten Sowjets der Sovjetunion
-                        25.5.1989–15.3.1990 und Staatspräsident der Sowjetunion
-                        15.3.1990–25.12.1991.</note> der Fall. Als Honecker am 5. Mai 1985 zum
+                    <emph><persName ref="#P31707">Michail Gorbatschow</persName></emph>
+                    der Fall. Als Honecker am 5. Mai 1985 zum
                     ersten Mal mit dem neuen Kreml-Chef zusammentraf, musste er ein gemeinsames
                     Communiqué unterzeichnen, das den militärischen Sieg der Sowjetunion über das
                     Deutsche Reich und die Entstehung der DDR in einen direkten Zusammenhang
@@ -806,24 +808,16 @@
                     Fall.</p>
                 <p>Wie es am 9. November zur <emph>Öffnung der Berliner Mauer</emph> und der
                     innerdeutschen Grenze gekommen ist, ist heute noch nicht geklärt. Die bereits
-                    zurückgetretene Regierung Stoph<note xml:id="e1424">Willi Stopf (1914–1990),
-                            <ref target="http://dodis.ch/15222">dodis.ch/P15222</ref>, Vorsitzender
-                        des Ministerrats der DDR 21.9.1964–3.10.1973 und
-                        29.10.1976–13.11.1989.</note> hatte einen liberalen Reisegesetzentwurf zur
+                    zurückgetretene Regierung <persName ref="#P15220">Stoph</persName> hatte einen liberalen Reisegesetzentwurf zur
                     Diskussion gestellt, der aber als noch allzu restriktiv kritisiert wurde
-                    (namentlich von Rechtsanwälten, wie Gregor Gysi<note xml:id="e1437">Gregor Gysi
-                        (*1948), <ref target="http://dodis.ch/P54811">dodis.ch/P54811</ref>, Jurist
-                        in der DDR und Vorsitzender der PDS 1989–1993.</note>); statt aber den
+                    (namentlich von Rechtsanwälten, wie <persName ref="#P54811">Gregor Gysi</persName>); statt aber den
                     Entwurf zu überarbeiten, liess sie die Schleusen kurzerhand öffnen. Was immer
                     auch hinter diesem Entscheid gestanden hat, die Öffnung war der Anfang vom Ende
                     der DDR.</p>
                 <p>Seither hat sich die Entwicklung mehrfach beschleunigt, wobei die Beschleunigung
                     meist dem Druck des Volkes bzw. dem Druck der Strasse zugeschrieben wurde.
                     Entscheidend aber war in diesem Prozess doch wohl das Agieren von
-                        <emph>Bundeskanzler Kohl</emph>
-                    <note xml:id="e1449">Helmut Kohl (1930-2017),
-                            <ref target="http://dodis.ch/P31852">dodis.ch/P31852</ref>,
-                        Bundeskanzler der BRD 1.10.1982–27.10.1998.</note>, der die wichtigsten
+                    <emph>Bundeskanzler <persName ref="#P31852">Kohl</persName></emph>, der die wichtigsten
                     Pflöcke im Alleingang setzte und, wie seine Kritiker spitz formulierten, die
                     Deutsche Einheit als seine Privatsache betrachtete. Erinnert sei an Kohls</p>
                 <p>– Weigerung, die Privilegierung der <emph>Übersiedler</emph> nach Öffnung der
@@ -851,13 +845,10 @@
                 <p>Bundeskanzler Kohl war somit nicht Promotor, sondern eigentlicher Motor der
                     deutschen Einheit. Er glaubte die DDR-Bevölkerung, die in erster Linie nach der
                     DM und nach westlichem Wohlstand strebte, mit seinen Vorschlägen hinter sich zu
-                    wissen. Bundespräsident von Weizsäcker<note xml:id="e1465">Richard von
-                        Weizsäcker (1920–2015), <ref target="http://dodis.ch/P5944">dodis.ch/P5944</ref>, Bundespräsident der BRD
-                        1.7.1984–30.6.1994.</note> etwa gab zu bedenken, dass die beiden Teile
+                    wissen. Bundespräsident <persName ref="#P5944">von Weizsäcker</persName> etwa gab zu bedenken, dass die beiden Teile
                     Deutschlands nicht zusammenwuchern dürften, sondern zusammenwachsen müssten. Und
-                    auch Ministerpräsident de Maizière<note xml:id="e1475">Lothar de Maizière
-                        (*1940), <ref target="http://dodis.ch/P54809">dodis.ch/P54809</ref>,
-                        Premierminister der DDR 12.4.–2.10.1990.</note> plädierte noch im Juni
+                    auch Ministerpräsident <persName ref="#P54809">de Maizière</persName>
+                    plädierte noch im Juni
                     dieses Jahres für angemessene Zeiträume und erklärte, der weitere Verlauf des
                     deutschen Einigungsprozesses dürfe nicht von einem Bonner Eilzugstempo bestimmt
                     werden. Kohl jedoch liess solche und ähnliche Einwände unbeachtet, und auf eine
@@ -930,8 +921,7 @@
                     teilhaben. Die Folge ist, dass der Fonds «Deutsche Einheit», der ursprünglich
                     als Investitionsförderung gedacht war, nun zur Stopfung der Finanzlöcher der
                     neuen Bundesländer herhalten muss und von diesen indirekt mitfinanziert wird.
-                    Der Hannoveraner Verfassungsrechtler Schneider<note xml:id="e1485">Hans-Peter
-                        Schneider (*1937), <ref target="http://dodis.ch/P54833">dodis.ch/P54833</ref>, Verfassungsrechtler in der BRD.</note> bemerkt
+                    Der Hannoveraner Verfassungsrechtler <persName ref="#P54833">Schneider</persName> bemerkt
                     hiezu: «Die DDR-Länder werden auf Jahre hinaus im Einheitsfonds gefesselt sein,
                     vom Bund nicht nur finanziell, sondern auch politisch abhängig und
                     bevormundet.</p>
@@ -948,9 +938,8 @@
                     Vereinigung, sondern eine Einvernahme der DDR durch die BRD, was u.a. daran zu
                     erkennen ist, dass ab morgen westdeutsche Beamte, Richter, Wirtschaftsführer
                     etc. in dieses Land «einmarschieren» und die DDR-Leute verdrängen werden. «Der
-                    Preis der Einheit ist eine neue Fremdherrschaft» betitelte der Historiker Jörg
-                        Fisch<note xml:id="e1495">Jörg Fisch (*1947), <ref target="http://dodis.ch/P22386">dodis.ch/P22386</ref>, Schweizer
-                        Historiker.</note> zurecht seinen sehr lesenswerten Artikel in der Weltwoche
+                    Preis der Einheit ist eine neue Fremdherrschaft» betitelte der Historiker <persName ref="#P22386">Jörg
+                        Fisch</persName> zurecht seinen sehr lesenswerten Artikel in der Weltwoche
                     vom 20. September 1990.</p>
                 <p>Wird der neue Staat Heimat, ja ein Zuhause für alle Deutschen werden können?
                     Werden sich die Ostdeutschen mit ihm identifizieren können, oder werden sie sich

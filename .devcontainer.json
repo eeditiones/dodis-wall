@@ -1,0 +1,9 @@
+{
+    "name": "TEI Publisher Development Container",
+    "build": {
+        "dockerfile": "Dockerfile.dev"
+    },
+    "forwardPorts": [ 8080 ],
+    "extensions": [ "exist-db.existdb-vscode" ],
+    "overrideCommand": false
+}

@@ -26,7 +26,7 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
  : If a version is given, the components will be loaded from a public CDN.
  : This is recommended unless you develop your own components.
  :)
-declare variable $config:webcomponents := "1.0.2";
+declare variable $config:webcomponents := "1.4.0";
 
 (:~
  : CDN URL to use for loading webcomponents. Could be changed if you created your
@@ -325,7 +325,20 @@ declare variable $config:data-default := $config:data-root;
 
 declare variable $config:default-odd :="dodis.odd";
 
+(:~
+ : Complete list of ODD files used by the app. If you add another ODD to this list,
+ : make sure to run modules/generate-pm-config.xql to update the main configuration
+ : module for transformations (modules/pm-config.xql).
+ :)
+declare variable $config:odd-available := ( $config:default-odd );
+
 declare variable $config:odd := $config:default-odd;
+
+(:~
+ : List of ODD files which are used internally only, i.e. not for displaying information
+ : to the user.
+ :)
+declare variable $config:odd-internal := "docx.odd";
 
 declare variable $config:odd-root := $config:app-root || "/resources/odd";
 
@@ -340,6 +353,25 @@ declare variable $config:repo-descriptor := doc(concat($config:app-root, "/repo.
 declare variable $config:expath-descriptor := doc(concat($config:app-root, "/expath-pkg.xml"))/expath:package;
 
 declare variable $config:session-prefix := $config:expath-descriptor/@abbrev/string();
+
+declare function config:document-type($div as element()) {
+    switch (namespace-uri($div))
+        case "http://www.tei-c.org/ns/1.0" return
+            "tei"
+        case "http://docbook.org/ns/docbook" return
+            "docbook"
+        default return
+            "jats"
+};
+
+declare function config:get-document($idOrName as xs:string) {
+    if ($config:address-by-id) then
+        root(collection($config:data-root)/id($idOrName))
+    else if (starts-with($idOrName, '/')) then
+        doc(xmldb:encode-uri($idOrName))
+    else
+        doc(xmldb:encode-uri($config:data-root || "/" || $idOrName))
+};
 
 (:~
  : Return an ID which may be used to look up a document. Change this if the xml:id

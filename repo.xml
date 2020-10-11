@@ -6,7 +6,7 @@
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <!--<prepare>pre-install.xql</prepare>-->
+    <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
     <target>dodis-facets</target>
     <permissions user="tei" group="tei" mode="rw-rw-r--"/>

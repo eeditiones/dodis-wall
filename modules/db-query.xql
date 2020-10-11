@@ -54,16 +54,6 @@ declare function dbs:autocomplete($doc as xs:string?, $fields as xs:string+, $q 
     for $field in $fields
     return
         switch ($field)
-            case "author" return
-                collection($config:data-root)/ft:index-keys-for-field("author", $q,
-                    function($key, $count) {
-                        $key
-                    }, 30)
-            case "file" return
-                collection($config:data-root)/ft:index-keys-for-field("file", $q,
-                    function($key, $count) {
-                        $key
-                    }, 30)
             case "text" return
                 if ($doc) then (
                     doc($config:data-root || "/" || $doc)/util:index-keys-by-qname(xs:QName("db:section"), $q,
@@ -95,15 +85,28 @@ declare function dbs:autocomplete($doc as xs:string?, $fields as xs:string+, $q 
                         function($key, $count) {
                             $key
                         }, 30, "lucene-index")
+            case "author" return
+                collection($config:data-root)/ft:index-keys-for-field("db-author", $q,
+                    function($key, $count) {
+                        $key
+                    }, 30)
+            case "file" return
+                collection($config:data-root)/ft:index-keys-for-field("db-file", $q,
+                    function($key, $count) {
+                        $key
+                    }, 30)
             default return
-                collection($config:data-root)/ft:index-keys-for-field("title", $q,
+                collection($config:data-root)/ft:index-keys-for-field("db-title", $q,
                     function($key, $count) {
                         $key
                     }, 30)
 };
 
 declare function dbs:query-metadata($field as xs:string, $query as xs:string, $sort as xs:string) {
-    for $doc in collection($config:data-root)//db:section[ft:query(., $field || ":" || $query, map { "fields": $sort
+    (: map default publisher field names to db- prefixed which are defined for dbk :)
+    let $field := if ($field = ('author', 'title', 'file')) then 'db-' || $field else $field
+
+    for $doc in collection($config:data-root)//db:article[ft:query(., $field || ":" || $query, map { "fields": $sort
 })]     return
         root($doc)/*
 };
@@ -153,10 +156,10 @@ declare %private function dbs:query-default-view($context as element()*, $query 
     return
         switch ($field)
             case "head" return
-                $context[./descendant-or-self::db:title[ft:query(., $query, $dbs:QUERY_OPTIONS)]]
+                $context[./descendant-or-self::db:title[ft:query(., $query, $query:QUERY_OPTIONS)]]
             default return
-                $context[./descendant-or-self::db:section[ft:query(., $query, $dbs:QUERY_OPTIONS)]] |
-                $context[./descendant-or-self::db:article[ft:query(., $query, $dbs:QUERY_OPTIONS)]]
+                $context[./descendant-or-self::db:section[ft:query(., $query, $query:QUERY_OPTIONS)]] |
+                $context[./descendant-or-self::db:article[ft:query(., $query, $query:QUERY_OPTIONS)]]
 };
 
 declare function dbs:get-current($config as map(*), $div as element()?) {

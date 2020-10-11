@@ -1,6 +1,6 @@
 body {
-    --pb-splash-image: url(../images/icon.png);
-    --pb-splash-image-size: 260px;
+    --pb-splash-image: url(../images/tei-publisher-logo-color.svg);
+    --pb-splash-image-size: 360px auto;
     --pb-base-font-family: 'Roboto', 'Noto', sans-serif;
     --pb-base-font-size: 16px;
     --pb-base-line-height: 1.42857143;
@@ -8,7 +8,7 @@ body {
     --pb-base-font: var(--pb-base-font-weight) var(--pb-base-font-size)/var(--pb-base-line-height) var(--pb-base-font-family);
     --pb-serif-font-family: "Junicode", Georgia, "Times New Roman", serif;
     --pb-content-font-family: var(--pb-serif-font-family);
-    --pb-content-font-size: 19px;
+    --pb-content-font-size: 20px;
     --pb-heading-font-family: "Oswald", Verdana, "Helvetica", sans-serif;
     --pb-heading-font-weight: 400 !important;
     --pb-heading-line-height: 1.2;
@@ -31,10 +31,12 @@ body {
     --pb-footnote-font-weight: var(--pb-content-font-weight);
     --pb-footnote-color: #303030;
     --pb-footnote-padding: 0 0 0 .25em;
-    --pb-popover-theme: "material";
+    --pb-popover-theme: "light-border";
     --pb-popover-max-width: 480px;
     --pb-popover-font-size: 16px;
     --pb-popover-line-height: 1.2;
+    --pb-popover-placement: "bottom";
+    --pb-popover-fallback-placement: "top right left";
     --pb-lang-input-color: var(--pb-color-inverse);
     --pb-lang-label-color: var(--pb-color-inverse);
     --pb-link-color: black;
@@ -62,7 +64,7 @@ body {
     background-image: var(--pb-splash-image);
     background-color: #ffffff;
     background-position: center center;
-    background-size: var(--pb-splash-image-size) auto;
+    background-size: var(--pb-splash-image-size);
     background-repeat: no-repeat;
     transition: visibility 0s linear 300ms, opacity 300ms;
 }
@@ -86,6 +88,10 @@ app-toolbar pb-search {
     --pb-search-input-color: var(--pb-color-inverse);
     --pb-search-focus-color: var(--paper-orange-500);
     padding-left: 20px;
+}
+
+app-toolbar .menuitem {
+    display: inherit;
 }
 
 app-drawer {
@@ -177,8 +183,7 @@ app-drawer-layout:not([narrow]) [drawer-toggle] {
 }
 
 .menubar .gitlab img {
-    background-size: 100% 100%;
-    height: 40px;
+    height: 32px;
 }
 
 .menubar pb-login {}
@@ -233,11 +238,13 @@ pb-view {
     font-family: var(--pb-content-font-family);
     font-size: var(--pb-content-font-size);
     margin: 0 16px;
+    position:relative;
 }
 
 .breadcrumbs pb-view {
     font-weight: 400;
     font-size: var(--pb-breadcrumbs-font-size);
+    max-width: none;
 }
 
 @media (min-width: 769px) {
@@ -305,4 +312,15 @@ pb-drawer {
 
 .toc [slot=collapse-trigger] pb-link {
     margin-left: 0px;
+}
+
+.version {
+    text-align: right;
+    font-size: 0.85em;
+    padding: 1em;
+    color: var(--pb-color-lighter);
+}
+
+.version span {
+    font-weight: bold;
 }

@@ -6,5 +6,9 @@
     "forwardPorts": [ 8080 ],
     "extensions": [ "exist-db.existdb-vscode" ],
     "overrideCommand": false,
-    "postCreateCommand": "ant"
+    "postCreateCommand": [
+        "ant",
+        "curl --upload-file build/dodis-facets-0.9.xar -u 'admin:' http://localhost:8080/exist/rest/db/system/repo/dodis.xar",
+        "curl -u 'admin:' 'http://localhost:8080/exist/rest/db?_xpath=repo:install-and-deploy-from-db(%22/db/system/repo/dodis.xar%22)'"
+    ]
 }

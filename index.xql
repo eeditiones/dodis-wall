@@ -15,9 +15,18 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
         switch ($field)
             case "title" return
                 $header//tei:msDesc/tei:head
+            case "author" return
+                (
+                    for $ref in $header//tei:correspAction[@type="sent"]/tei:persName/@ref
+                        return 
+                            id(substring-after($ref, '#'), root($root))//tei:persName[@type='full'],
+                    for $ref in $header//tei:correspAction[@type="sent"]/tei:orgName/@ref
+                        return
+                            id(substring-after($ref, '#'), root($root))//tei:orgName
+                )
             case "author-person" return
                 for $ref in $header//tei:correspAction[@type="sent"]/tei:persName/@ref
-                return
+                return 
                     id(substring-after($ref, '#'), root($root))//tei:persName[@type='full']
             case "author-org" return
                 for $ref in $header//tei:correspAction[@type="sent"]/tei:orgName/@ref

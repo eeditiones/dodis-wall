@@ -194,3 +194,61 @@ declare function teis:get-current($config as map(*), $div as element()?) {
         else
             (nav:filler($config, $div), $div)[1]
 };
+
+
+declare function teis:query-options($sort) {
+     map:merge((
+        $query:QUERY_OPTIONS,
+        map { "fields": $sort}
+    ))
+};
+
+declare function teis:query-document($request as map(*)) {
+
+    let $text-query := xmldb:decode($request?parameters?query)
+
+    let $fields := ("author", "title", "language")
+
+    let $constraints := 
+        (
+            if ($text-query) then $text-query else ()
+            ,
+            for $f in $fields
+                let $q := 
+                    for $p in $request?parameters($f) 
+                        let $query := xmldb:decode($p)
+                        return if ($query) then $query else ()
+
+                return
+                     if (count($q)) then $f || ':(' || string-join($q, teis:conjunction($request?parameters($f || '-operator'))) || ')' else ()
+        )
+
+    let $query := string-join($constraints, ' AND ')
+
+    return 
+
+        (map { "query": $query},
+        for $rootCol in $config:data-root
+        for $doc in collection($rootCol)//tei:text[ft:query(., $query, teis:query-options($fields))]
+
+        let $flds :=  
+            for $f in $fields return
+                map:entry($f, ft:field($doc, $f)) 
+        return
+        
+            map:merge((
+                map { "filename": util:document-name($doc)},
+                $flds         
+            ))
+        
+        )
+
+};
+
+declare function teis:conjunction($operator) {
+    switch ($operator) 
+        case "and"
+            return ' AND '
+        default
+            return ' OR '
+};

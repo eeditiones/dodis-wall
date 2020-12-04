@@ -226,8 +226,7 @@ declare function teis:query-document($request as map(*)) {
     let $query := string-join($constraints, ' AND ')
 
     return 
-
-        (map { "query": $query},
+   
         for $rootCol in $config:data-root
         for $doc in collection($rootCol)//tei:text[ft:query(., $query, teis:query-options($fields))]
 
@@ -240,8 +239,6 @@ declare function teis:query-document($request as map(*)) {
                 map { "filename": util:document-name($doc)},
                 $flds         
             ))
-        
-        )
 
 };
 

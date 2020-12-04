@@ -236,7 +236,8 @@ declare function teis:query-document($request as map(*)) {
         return
         
             map:merge((
-                map { "filename": util:document-name($doc)},
+                map { "filename": util:document-name($doc),
+                       "app": "dodis-facets" },
                 $flds         
             ))
 

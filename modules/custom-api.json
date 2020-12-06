@@ -75,7 +75,6 @@
                                 "default": "or"
                             }
                     },
-
                     {
                         "name": "title",
                             "in": "query",
@@ -116,6 +115,28 @@
                             "schema": {
                                 "type": "string",
                                 "default": "or"
+                            }
+                    },
+                    {
+                        "name": "facet-language",
+                            "in": "query",
+                            "description": "Language facet",
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
+                            }
+                    },
+                    {
+                        "name": "facet-genre",
+                            "in": "query",
+                            "description": "Genre facet",
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string"
+                                }
                             }
                     }
                 ],

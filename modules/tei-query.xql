@@ -196,9 +196,12 @@ declare function teis:get-current($config as map(*), $div as element()?) {
 };
 
 
-declare function teis:query-options($sort) {
+declare function teis:query-options($sort, $facets) {
      map:merge((
         $query:QUERY_OPTIONS,
+        map {
+            "facets": $facets
+        },
         map { "fields": $sort}
     ))
 };
@@ -212,6 +215,15 @@ declare function teis:query-document($request as map(*)) {
     let $text-query := xmldb:decode($request?parameters?query)
 
     let $fields := ("author", "title", "language")
+    let $dimensions := ("language", "genre")
+
+    let $facet-query:= map:merge((
+        for $dimension in $dimensions
+            return
+                map {
+                    $dimension: $request?parameters('facet-'||$dimension)
+                }
+        ))
 
     let $constraints := 
         (
@@ -232,23 +244,14 @@ declare function teis:query-document($request as map(*)) {
     (: Find matches :)
     let $hits :=
         for $rootCol in $config:data-root
-        return collection($rootCol)//tei:text[ft:query(., $query, teis:query-options($fields))]
+        return collection($rootCol)//tei:text[ft:query(., $query, teis:query-options($fields, $facet-query))]
     
-    (: Store results in the session, so the facets etc can be retrieved :)
-    let $store := (
-            session:set-attribute($config:session-prefix || ".hits", $hits),
-            session:set-attribute($config:session-prefix || ".hitCount", count($hits)),
-            session:set-attribute($config:session-prefix || ".query", $request?parameters?query),
-            session:set-attribute($config:session-prefix || ".title", $request?parameters?title),
-            session:set-attribute($config:session-prefix || ".author", $request?parameters?author),
-            session:set-attribute($config:session-prefix || ".language", $request?parameters?language)
+    let $facets:= 
+        map:merge(
+            for $d in $dimensions
+            return
+                map {$d: ft:facets($hits, $d, 50)}
         )
-
-    let $facets:=  [
-        for $d in $dimensions
-        return
-            map {$d: ft:facets($hits, $d, 50)}
-    ]
 
     let $data := 
         for $doc in $hits

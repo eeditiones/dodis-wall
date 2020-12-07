@@ -7,7 +7,9 @@
             <text match="/tei:TEI/tei:text">
                 <field name="title" expression="nav:get-metadata(ancestor::tei:TEI, 'title')"/>
                 <field name="author" expression="nav:get-metadata(ancestor::tei:TEI, 'author')"/>
+                <field name="language-id" expression="nav:get-metadata(ancestor::tei:TEI, 'language-id')"/>
                 <field name="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
+
                 <field name="date" expression="nav:get-metadata(ancestor::tei:TEI, 'date')" type="xs:date"/>
                 <field name="file" expression="util:document-name(.)"/>
                 <field name="number-in-volume" expression="nav:get-metadata(ancestor::tei:TEI, 'number-in-volume')" type="xs:integer"/>
@@ -15,6 +17,9 @@
                 <facet dimension="genre" expression="nav:get-metadata(ancestor::tei:TEI, 'genre')"/>
                 <facet dimension="keyword" expression="nav:get-metadata(ancestor::tei:TEI, 'keyword')"/>
                 <facet dimension="language" expression="nav:get-metadata(ancestor::tei:TEI, 'language')"/>
+                <facet dimension="language-id" expression="nav:get-metadata(ancestor::tei:TEI, 'language-id')"/>
+                <facet dimension="corpus" expression="'Dodis'"/>
+
                 <facet dimension="author-person" expression="nav:get-metadata(ancestor::tei:TEI, 'author-person')"/>
                 <facet dimension="author-org" expression="nav:get-metadata(ancestor::tei:TEI, 'author-org')"/>
                 <facet dimension="persons-mentioned" expression="nav:get-metadata(ancestor::tei:TEI, 'persons-mentioned')"/>

@@ -32,6 +32,8 @@ declare function idx:get-metadata($root as element(), $field as xs:string) {
                 for $ref in $header//tei:correspAction[@type="sent"]/tei:orgName/@ref
                 return
                     id(substring-after($ref, '#'), root($root))//tei:orgName
+            case "language-id" return
+                $header//tei:langUsage/tei:language/@ident
             case "language" return
                 $header//tei:langUsage/tei:language
             case "date" return

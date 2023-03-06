@@ -2,8 +2,8 @@ xquery version "3.1";
 
 module namespace dapi="http://teipublisher.com/api/documents";
 
-import module namespace router="http://exist-db.org/xquery/router";
-import module namespace errors = "http://exist-db.org/xquery/router/errors";
+import module namespace router="http://e-editiones.org/roaster";
+import module namespace errors = "http://e-editiones.org/roaster/errors";
 import module namespace config="http://www.tei-c.org/tei-simple/config" at "../../config.xqm";
 import module namespace pages="http://www.tei-c.org/tei-simple/pages" at "../pages.xql";
 import module namespace pm-config="http://www.tei-c.org/tei-simple/pm-config" at "../../pm-config.xql";
@@ -16,12 +16,31 @@ import module namespace process="http://exist-db.org/xquery/process" at "java:or
 import module namespace xslfo="http://exist-db.org/xquery/xslfo" at "java:org.exist.xquery.modules.xslfo.XSLFOModule";
 import module namespace epub="http://exist-db.org/xquery/epub" at "../epub.xql";
 import module namespace docx="http://existsolutions.com/teipublisher/docx";
+import module namespace cutil="http://teipublisher.com/api/cache" at "caching.xql";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 declare variable $dapi:CACHE := true();
 
 declare variable $dapi:CACHE_COLLECTION := $config:app-root || "/cache";
+
+declare function dapi:metadata($request as map(*)) {
+    let $doc := xmldb:decode($request?parameters?id)
+    let $xml := config:get-document($doc)
+    return
+        if (exists($xml)) then
+            let $config := tpu:parse-pi(root($xml), ())
+            return map {
+                "title": nav:get-document-title($config, root($xml)/*) => normalize-space(),
+                "view": $config?view,
+                "odd": $config?odd,
+                "template": $config?template,
+                "collection": substring-after(util:collection-name($xml), $config:data-root || "/"),
+                "lastModified": xmldb:last-modified(util:collection-name($xml), util:document-name($xml))
+            }
+        else
+            error($errors:NOT_FOUND, "Document " || $doc || " not found")
+};
 
 declare function dapi:delete($request as map(*)) {
     let $id := xmldb:decode($request?parameters?id)
@@ -35,53 +54,162 @@ declare function dapi:delete($request as map(*)) {
             error($errors:NOT_FOUND, "Document " || $id || " not found")
 };
 
-declare function dapi:html($request as map(*)) {
+declare function dapi:source($request as map(*)) {
     let $doc := xmldb:decode($request?parameters?id)
-    let $odd := head(($request?parameters?odd, $config:odd))
     return
         if ($doc) then
-            let $xml := config:get-document($doc)/*
+            let $path := xmldb:encode-uri($config:data-root || "/" || $doc)
+            let $filename := replace($doc, "^.*/([^/]+)$", "$1")
+            let $mime := ($request?parameters?type, xmldb:get-mime-type($path))[1]
             return
-                if (exists($xml)) then
-                    let $config := tpu:parse-pi(root($xml), ())
-                    let $out := $pm-config:web-transform($xml, map { "root": $xml }, $config?odd)
-                    let $styles := if (count($out) > 1) then $out[1] else ()
-                    return
-                        dapi:postprocess(($out[2], $out[1])[1], $styles, $odd)
+                if (util:binary-doc-available($path)) then
+                    response:stream-binary(util:binary-doc($path), $mime, $filename)
+                else if (doc-available($path)) then
+                    router:response(200, $mime, doc($path))
                 else
                     error($errors:NOT_FOUND, "Document " || $doc || " not found")
         else
             error($errors:BAD_REQUEST, "No document specified")
 };
 
-declare %private function dapi:postprocess($nodes as node()*, $styles as element()?, $odd as xs:string) {
-    let $oddName := replace($odd, "^.*/([^/\.]+)\.?.*$", "$1")
+declare function dapi:html($request as map(*)) {
+    dapi:generate-html($request, "web")
+};
+
+declare function dapi:print($request as map(*)) {
+    dapi:generate-html($request, "print")
+};
+
+declare %private function dapi:generate-html($request as map(*), $outputMode as xs:string) {
+    let $doc := xmldb:decode($request?parameters?id)
+    let $addStyles :=
+        for $href in $request?parameters?style
+        return
+            <link rel="Stylesheet" href="{$href}"/>
+    let $addScripts :=
+        for $src in $request?parameters?script
+        return
+            <script src="{$src}"></script>
+    return
+        if ($doc) then
+            let $xml := config:get-document($doc)
+            return
+                if (exists($xml)) then
+                    let $config := tpu:parse-pi(root($xml), ())
+                    let $out := 
+                        if ($outputMode = 'print') then
+                            $pm-config:print-transform($xml, map { "root": $xml, "webcomponents": 7 }, $config?odd)
+                        else
+                            $pm-config:web-transform($xml, map { "root": $xml, "webcomponents": 7 }, $config?odd)
+                    let $styles := (
+                        $addStyles,
+                        if (count($out) > 1) then $out[1] else (),
+                        <link rel="stylesheet" type="text/css" href="transform/{replace($config?odd, "^.*?/?([^/]+)\.odd$", "$1")}.css"/>
+                    )
+                    return
+                        dapi:postprocess(($out[2], $out[1])[1], $styles, $addScripts, $request?parameters?base, $request?parameters?wc)
+                else
+                    error($errors:NOT_FOUND, "Document " || $doc || " not found")
+        else
+            error($errors:BAD_REQUEST, "No document specified")
+};
+
+declare function dapi:postprocess($nodes as node()*, $styles as element()*, $scripts as element()*,
+    $base as xs:string?, $components as xs:string?) {
     for $node in $nodes
     return
         typeswitch($node)
+            case element(html) return
+                element { node-name($node) } {
+                    $node/@*,
+                    if (empty($node/head)) then
+                        <head>
+                            {
+                                if ($base) then
+                                    <base href="{$base}"/>
+                                else
+                                    ()
+                            }
+                            <meta charset="utf-8"/>
+                            { $styles }
+                            { $scripts }
+                            { dapi:webcomponents($components) }
+                        </head>
+                    else
+                        (),
+                    dapi:postprocess($node/node(), $styles, $scripts, $base, $components)
+                }
             case element(head) return
-                element { node-name($node) } {
-                    $node/@*,
-                    $node/node(),
-                    <link rel="stylesheet" type="text/css" href="../transform/{replace($oddName, "^(.*)\.odd$", "$1")}-print.css" media="print"/>,
-                    $styles
-                }
+                    element { node-name($node) } {
+                        $node/@*,
+                        if ($base) then
+                            <base href="{$base}"/>
+                        else
+                            (),
+                        <meta charset="utf-8"/>,
+                        $node/node(),
+                        $styles,
+                        $scripts,
+                        dapi:webcomponents($components)
+                    }
             case element(body) return
-                element { node-name($node) } {
-                    $node/@*,
-                    dapi:postprocess($node/node(), $styles, $odd),
-                    nav:output-footnotes(root($node)//*[@class = "footnote"])
-                }
+                let $content := (
+                    dapi:postprocess($node/node(), $styles, $scripts, $base, $components),
+                    let $footnotes := 
+                        for $fn in root($node)//*[@class = "footnote"]
+                        return
+                            element { node-name($fn) } {
+                                $fn/@*,
+                                dapi:postprocess($fn/node(), $styles, $scripts, $base, $components)
+                            }
+                    return
+                        nav:output-footnotes($footnotes)
+                )
+                return
+                    element { node-name($node) } {
+                        $node/@*,
+                        if ($components = 'full' and not($node//pb-page)) then
+                            <pb-page endpoint="{$base}">{$content}</pb-page>
+                        else
+                            $content
+                    }
             case element() return
                 if ($node/@class = "footnote") then
                     ()
                 else
                     element { node-name($node) } {
                         $node/@*,
-                        dapi:postprocess($node/node(), $styles, $odd)
+                        dapi:postprocess($node/node(), $styles, $scripts, $base, $components)
                     }
             default return
                 $node
+};
+
+declare %private function dapi:webcomponents($components as xs:string?) {
+    if ($components) then (
+        <style rel="stylesheet" type="text/css">
+        a[rel=footnote] {{
+            font-size: var(--pb-footnote-font-size, var(--pb-content-font-size, 75%));
+            font-family: var(--pb-footnote-font-family, --pb-content-font-family);
+            vertical-align: super;
+            text-decoration: none;
+            padding: var(--pb-footnote-padding, 0 0 0 .25em);
+        }}
+        .footnote .fn-number {{
+            float: left;
+            font-size: var(--pb-footnote-font-size, var(--pb-content-font-size, 75%));
+        }}
+        </style>,
+        <script defer="defer" src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"></script>,
+        switch ($config:webcomponents)
+            case "dev" return
+                <script type="module" src="{$config:webcomponents-cdn}/src/pb-components-bundle.js"></script>
+            case "local" return
+                <script type="module" src="resources/scripts/pb-components-bundle.js"></script>
+            default return
+                <script type="module" src="{$config:webcomponents-cdn}@{$config:webcomponents}/dist/pb-components-bundle.js"></script>
+    ) else
+        ()
 };
 
 declare function dapi:latex($request as map(*)) {
@@ -116,24 +244,41 @@ declare function dapi:latex($request as map(*)) {
                                 <option>
                                     <workingDir>{$config:tex-temp-dir}</workingDir>
                                 </option>
-                            let $output :=
-                                for $i in 1 to 3
-                                return
-                                    process:execute(
-                                        ( $config:tex-command($file) ), $options
-                                    )
+                            let $outputPath := $config:tex-temp-dir || "/" || $file || ".pdf"
+                            let $cleanup := if (file:exists($outputPath)) then file:delete($outputPath) else ()
+                            let $output0 :=
+                                process:execute(
+                                    ( $config:tex-command($file) ), $options
+                                )
                             return
-                                if ($output[last()]/@exitCode < 2) then
-                                    let $pdf := file:read-binary($config:tex-temp-dir || "/" || $file || ".pdf")
-                                    return
-                                        response:stream-binary($pdf, "media-type=application/pdf", $file || ".pdf")
+                                if (not(file:exists($outputPath))) then
+                                    error($errors:BAD_REQUEST, "LaTeX reported errors", dapi:latex-error($output0))
                                 else
-                                    $output
+                                    let $output :=
+                                        for $i in 1 to 2
+                                        return
+                                            process:execute(
+                                                ( $config:tex-command($file) ), $options
+                                            )
+                                    return
+                                        let $pdf := file:read-binary($config:tex-temp-dir || "/" || $file || ".pdf")
+                                        return
+                                            response:stream-binary($pdf, "media-type=application/pdf", $file || ".pdf")
                 else
                     error($errors:NOT_FOUND, "Document " || $id || " not found")
         else
             error($errors:BAD_REQUEST, "No document specified")
     )
+};
+
+declare function dapi:latex-error($output as element()) {
+    "exit code: " || $output/@exitCode/string() || "&#10;&#10;" ||
+    string-join(
+        for $line in $output//line
+        return
+            $line || "&#10;"
+    )
+
 };
 
 declare function dapi:cache($id as xs:string, $output as xs:base64Binary) {
@@ -179,7 +324,7 @@ declare function dapi:pdf($request as map(*)) {
                     response:stream-binary($cached, "media-type=application/pdf", $id || ".pdf")
                 ) else
                     let $start := util:system-time()
-                    let $fo := $pm-config:print-transform($doc, map { "root": $doc }, $config?odd)
+                    let $fo := $pm-config:fo-transform($doc, map { "root": $doc }, $config?odd)
                     return (
                         if ($request?parameters?source) then
                             router:response(200, "application/xml", $fo)
@@ -207,7 +352,7 @@ declare function dapi:epub($request as map(*)) {
     let $work := config:get-document($id)
     return
         if (exists($work)) then
-            let $entries := dapi:work2epub($id, $work, $request?parameters?lang)
+            let $entries := dapi:work2epub($request, $id, $work, $request?parameters?lang)
             return
                 (
                     if ($request?parameters?token) then
@@ -225,9 +370,10 @@ declare function dapi:epub($request as map(*)) {
             error($errors:NOT_FOUND, "Document " || $id || " not found")
 };
 
-declare %private function dapi:work2epub($id as xs:string, $work as document-node(), $lang as xs:string?) {
+declare %private function dapi:work2epub($request as map(*), $id as xs:string, $work as document-node(), $lang as xs:string?) {
     let $config := $config:epub-config($work, $lang)
-    let $oddName := replace($config:odd, "^([^/\.]+).*$", "$1")
+    let $odd := head(($request?parameters?odd, $config:default-odd))
+    let $oddName := replace($odd, "^([^/\.]+).*$", "$1")
     let $cssDefault := util:binary-to-string(util:binary-doc($config:output-root || "/" || $oddName || ".css"))
     let $cssEpub := util:binary-to-string(util:binary-doc($config:app-root || "/resources/css/epub.css"))
     let $css := $cssDefault || 
@@ -238,23 +384,34 @@ declare %private function dapi:work2epub($id as xs:string, $work as document-nod
 };
 
 declare function dapi:get-fragment($request as map(*)) {
-    let $doc := xmldb:decode-uri($request?parameters?doc)
+    let $path := xmldb:decode-uri($request?parameters?doc)
+    let $docs := config:get-document($path)
+    return
+        if($docs) 
+        then (
+            cutil:check-last-modified($request, $docs, dapi:get-fragment(?, ?, $path))
+        ) else (
+            router:response(404, "text/text", $path)    
+        )
+};
+
+declare function dapi:get-fragment($request as map(*), $docs as node()*, $path as xs:string) {
     let $view := head(($request?parameters?view, $config:default-view))
     let $xml :=
         if ($request?parameters?xpath) then
-            for $document in config:get-document($doc)
-            let $namespace := namespace-uri-from-QName(node-name($document/*))
+            for $document in $docs
+            let $namespace := namespace-uri-from-QName(node-name(root($document)/*))
             let $xquery := "declare default element namespace '" || $namespace || "'; $document" || $request?parameters?xpath
             let $data := util:eval($xquery)
             return
                 if ($data) then
-                    pages:load-xml($data, $view, $request?parameters?root, $doc)
+                    pages:load-xml($data, $view, $request?parameters?root, $path)
                 else
                     ()
 
-        else if (exists($request?parameters?id)) then (
-            for $document in config:get-document($doc)
-            let $config := tpu:parse-pi($document, $view)
+        else if (exists($request?parameters?id) and $request?parameters?view != 'single') then (
+            for $document in $docs
+            let $config := tpu:parse-pi(root($document), $view)
             let $data :=
                 if (count($request?parameters?id) = 1) then
                     nav:get-section-for-node($config, $document/id($request?parameters?id))
@@ -274,7 +431,7 @@ declare function dapi:get-fragment($request as map(*)) {
                     "data": $data
                 }
         ) else
-            pages:load-xml($view, $request?parameters?root, $doc)
+            pages:load-xml($docs, $view, $request?parameters?root, $path)
     return
         if ($xml?data) then
             let $userParams :=
@@ -308,62 +465,81 @@ declare function dapi:get-fragment($request as map(*)) {
                     default return
                         $content
             let $transformed := dapi:extract-footnotes($html[1])
-            let $doc := replace($doc, "^.*/([^/]+)$", "$1")
+            let $path := replace($path, "^.*/([^/]+)$", "$1")
             return
                 if ($request?parameters?format = "html") then
                     router:response(200, "text/html", $transformed?content)
                 else
-                    router:response(200, "application/json",
-                        map {
-                            "format": $request?parameters?format,
-                            "view": $view,
-                            "doc": $doc,
-                            "root": $request?parameters?root,
-                            "odd": $xml?config?odd,
-                            "next":
-                                if ($view != "single") then
-                                    let $next := $config:next-page($xml?config, $xml?data, $view)
-                                    return
-                                        if ($next) then
-                                            util:node-id($next)
-                                        else ()
-                                else
-                                    (),
-                            "previous":
-                                if ($view != "single") then
-                                    let $prev := $config:previous-page($xml?config, $xml?data, $view)
-                                    return
-                                        if ($prev) then
-                                            util:node-id($prev)
-                                        else
-                                            ()
-                                else
-                                    (),
-                            "switchView":
-                                if ($view != "single") then
-                                    let $node := pages:switch-view-id($xml?data, $view)
-                                    return
-                                        if ($node) then
-                                            util:node-id($node)
-                                        else
-                                            ()
-                                else
-                                    (),
-                            "content": serialize($transformed?content,
-                                <output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
-                                <output:indent>no</output:indent>
-                                <output:method>html5</output:method>
-                                    </output:serialization-parameters>),
-                            "footnotes": $transformed?footnotes,
-                            "userParams": $userParams
-                        }
-                    )
+                    let $next := if ($view = "single") then () else $config:next-page($xml?config, $xml?data, $view)
+                    let $prev := if ($view = "single") then () else $config:previous-page($xml?config, $xml?data, $view)
+                    return
+                        router:response(200, "application/json",
+                            map {
+                                "format": $request?parameters?format,
+                                "view": $view,
+                                "doc": $path,
+                                "root": $request?parameters?root,
+                                "rootNode": util:node-id($xml?data[1]),
+                                "id": $content/@xml:id/string(),
+                                "odd": $xml?config?odd,
+                                "next":
+                                    if ($next) then
+                                        util:node-id($next)
+                                    else (),
+                                "previous":
+                                    if ($prev) then
+                                        util:node-id($prev)
+                                    else
+                                        (),
+                                "nextId": 
+                                    if ($next) then
+                                        $next/@xml:id/string()
+                                    else (),
+                                "previousId":
+                                    if ($prev) then
+                                        $prev/@xml:id/string()
+                                    else
+                                        (),
+                                "switchView":
+                                    if ($view != "single") then
+                                        let $node := pages:switch-view-id($xml?data, $view)
+                                        return
+                                            if ($node) then
+                                                util:node-id($node)
+                                            else
+                                                ()
+                                    else
+                                        (),
+                                "content": serialize($transformed?content,
+                                    <output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
+                                    <output:indent>no</output:indent>
+                                    <output:method>html5</output:method>
+                                        </output:serialization-parameters>),
+                                "footnotes": serialize($transformed?footnotes,
+                                    <output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
+                                        <output:indent>no</output:indent>
+                                        <output:method>html5</output:method>
+                                    </output:serialization-parameters>
+                                ),
+                                "userParams": $userParams,
+                                "collection": dapi:get-collection($xml?data[1])
+                            }
+                        )
         else
-            error($errors:NOT_FOUND, "Document " || $doc || " not found")
+            error($errors:NOT_FOUND, "Document " || $path || " not found")
+};
+
+declare function dapi:get-collection($data) {
+    let $collection := util:collection-name($data)
+    return
+        if ($collection) then
+            substring-after($collection, $config:data-root || "/")
+        else
+            ()
 };
 
 declare %private function dapi:extract-footnotes($html as element()*) {
-    map {
+        map {
         "footnotes": $html/div[@class="footnotes"],
         "content":
             element { node-name($html) } {
@@ -375,20 +551,29 @@ declare %private function dapi:extract-footnotes($html as element()*) {
 
 declare function dapi:table-of-contents($request as map(*)) {
     let $doc := xmldb:decode-uri($request?parameters?id)
-    let $view := head(($request?parameters?view, $config:default-view))
-    let $xml := pages:load-xml($view, (), $doc)
+    let $documents := config:get-document($doc)
     return
-        if (exists($xml)) then
-            pages:toc-div(root($xml?data), $xml, $request?parameters?target, $request?parameters?icons)
-        else
-            error($errors:NOT_FOUND, "Document " || $doc || " not found")
+        if($documents)
+        then (
+            cutil:check-last-modified($request, $documents, function($request as map(*), $documents as node()*) {
+                let $xml := pages:load-xml($documents, $request?parameters?view, (), $doc)
+                return
+                if (exists($xml)) then
+                    pages:toc-div(root($xml?data), $xml, $request?parameters?target, $request?parameters?icons)
+                else
+                    error($errors:NOT_FOUND, "Document " || $doc || " not found")
+                })
+        ) else (
+            router:response(404, "text/text", $doc)        
+        )
 };
 
 declare function dapi:preview($request as map(*)) {
     let $config := tpu:parse-pi($request?body, (), $request?parameters?odd)
     let $html := $pm-config:web-transform($request?body, map { "root": $request?body, "webcomponents": 7 }, $config?odd)
+    let $styles := <link rel="stylesheet" type="text/css" href="transform/{replace($config?odd, "^.*?/?([^/]+)\.odd$", "$1")}.css"/>
     return
-        dapi:postprocess($html, (), $config?odd)
+        dapi:postprocess($html, $styles, (), $request?parameters?base, $request?parameters?wc)
 };
 
 declare function dapi:convert-docx($request as map(*)) {

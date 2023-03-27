@@ -450,6 +450,7 @@ color: red;
                 <elementSpec ident="graphic" mode="change">
                     <model behaviour="webcomponent">
             <param name="name" value="'pb-facs-link'"/>
+            <param name="emit" value="'transcription'"/>
             <param name="facs" value="@url"/>
         </model>
                 </elementSpec>

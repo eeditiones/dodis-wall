@@ -1,6 +1,32 @@
+@import url("../fonts/font.css");
+
+/* Due to a safari issue, relative paths to background images won't work as variables, so we list them here */
+
+.logo {
+    background-image: url("../images/tei-publisher-logo-contrast-color.svg");
+}
+
+.splash {
+    background-image: url("../images/tei-publisher-logo-color.svg");
+}
+
+.menubar {
+    background-image: none;
+}
+
+.toolbar {
+    background-image: none;
+}
+
+app-header {
+    background-image: none;
+}
+
 body {
-    --pb-splash-image: url(../images/tei-publisher-logo-color.svg);
     --pb-splash-image-size: 360px auto;
+    --pb-splash-background-color: var(--pb-color-inverse);
+    --pb-logo-image-width: 140px;
+    --pb-logo-image-height: 60px;
     --pb-base-font-family: 'Roboto', 'Noto', sans-serif;
     --pb-base-font-size: 16px;
     --pb-base-line-height: 1.42857143;
@@ -8,6 +34,7 @@ body {
     --pb-base-font: var(--pb-base-font-weight) var(--pb-base-font-size)/var(--pb-base-line-height) var(--pb-base-font-family);
     --pb-serif-font-family: "Junicode", Georgia, "Times New Roman", serif;
     --pb-content-font-family: var(--pb-serif-font-family);
+    --pb-content-font-weight:300;
     --pb-content-font-size: 20px;
     --pb-heading-font-family: "Oswald", Verdana, "Helvetica", sans-serif;
     --pb-heading-font-weight: 400 !important;
@@ -17,13 +44,12 @@ body {
     --pb-color-inverse: #F0F0F0;
     --pb-color-lighter: #35424b;
     --pb-color-focus: #f6a623;
-    --pb-header-background-image: none;
+    --pb-annotation-stripes-light: #e0e0ef;
+    --pb-annotation-stripes-dark: #50505f;
     --pb-drawer-background-color: var(--pb-color-inverse);
     --pb-menubar-background-color: #35424b;
-    --pb-menubar-background-image: none;
     --pb-menubar-color: var(--pb-color-inverse);
     --pb-toolbar-background-color: #d1dae0;
-    --pb-toolbar-background-image: none;
     --pb-toolbar-color: var(--pb-color-primary);
     --paper-tooltip-delay-in: 200;
     --pb-footnote-font-size: 13px;
@@ -49,6 +75,10 @@ body {
     margin: 0;
 }
 
+html {
+    font-size: var(--pb-base-font-size);
+}
+
 *:focus {
     outline: none;
 }
@@ -61,7 +91,6 @@ body {
     right: 0;
     visibility: hidden;
     opacity: 0;
-    background-image: var(--pb-splash-image);
     background-color: #ffffff;
     background-position: center center;
     background-size: var(--pb-splash-image-size);
@@ -75,18 +104,14 @@ pb-page[unresolved]~.splash {
     transition: visibility 0s linear 0s, opacity 300ms;
 }
 
-app-header {
-    background-image: var(--pb-header-background-image);
-}
-
 app-toolbar {
     --app-toolbar-font-size: 16px;
 }
 
 app-toolbar pb-search {
-    --pb-search-label-color: var(--pb-color-inverse);
-    --pb-search-input-color: var(--pb-color-inverse);
-    --pb-search-focus-color: var(--paper-orange-500);
+    --pb-search-label-color: var(--pb-menubar-color);
+    --pb-search-input-color: var(--pb-menubar-color);
+    --pb-search-focus-color: var(--pb-color-focus);
     padding-left: 20px;
 }
 
@@ -95,8 +120,8 @@ app-toolbar .menuitem {
 }
 
 app-drawer {
-    --pb-lang-item-color: black;
-    --pb-lang-input-color: black;
+    --pb-lang-item-color: var(--pb-color-primary);
+    --pb-lang-input-color: var(--pb-color-primary);
     --pb-lang-label-color: var(--paper-grey-600);
 }
 
@@ -144,9 +169,13 @@ app-drawer-layout:not([narrow]) [drawer-toggle] {
 
 .toolbar {
     justify-content: space-between;
-    background-image: var(--pb-toolbar-background-image);
     background-color: var(--pb-toolbar-background-color);
     color: var(--pb-toolbar-color);
+}
+
+.toolbar a {
+    color: inherit;
+    text-decoration: none;
 }
 
 [drawer-toggle] {
@@ -155,11 +184,10 @@ app-drawer-layout:not([narrow]) [drawer-toggle] {
 
 .menubar {
     justify-content: space-between;
-    background-image: var(--pb-menubar-background-image);
     background-color: var(--pb-menubar-background-color);
     color: var(--pb-menubar-color);
-    --pb-search-suggestions-color: var(--pb-color-primary);
-    --pb-search-suggestions-background: white;
+    --pb-search-suggestions-color: var(--pb-menubar-color);
+    --pb-search-suggestions-background: var(--pb-menubar-background-color);
 }
 
 .menubar pb-media-query {
@@ -169,7 +197,7 @@ app-drawer-layout:not([narrow]) [drawer-toggle] {
 .menubar a, .menubar paper-menu-button {
     margin: auto 8px;
     display: block;
-    color: white;
+    color: var(--pb-menubar-color);
     text-decoration: none;
 }
 
@@ -191,11 +219,11 @@ app-drawer-layout:not([narrow]) [drawer-toggle] {
 .menubar pb-lang {
     text-align: right;
     flex: 1 0;
-    --pb-lang-item-color: white;
+    --pb-lang-item-color: var(--pb-menubar-color);
 }
 
 .menubar paper-item a {
-    color: black;
+    color: var(--pb-color-primary);
     margin: 0;
 }
 
@@ -203,10 +231,12 @@ app-drawer-layout:not([narrow]) [drawer-toggle] {
     display: inline-block;
 }
 
-.logo img {
-    width: 140px;
-    height: 60px;
-    background-size: 100% 100%;
+.logo {
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    background-position: left center;
+    width: var(--pb-logo-image-width);
+    height: var(--pb-logo-image-height);
     cursor: pointer;
 }
 
@@ -230,15 +260,15 @@ pb-view-type {
     }
 }
 
-.breadcrumbs {
+/* .breadcrumbs {
     margin: 10px 0 0 20px;
-}
+} */
 
-pb-view {
+pb-view, pb-view-annotate {
     font-family: var(--pb-content-font-family);
     font-size: var(--pb-content-font-size);
     margin: 0 16px;
-    position:relative;
+    position: relative;
 }
 
 .breadcrumbs pb-view {
@@ -248,7 +278,7 @@ pb-view {
 }
 
 @media (min-width: 769px) {
-    pb-view {
+    pb-view, pb-view-annotate {
         max-width: var(--pb-view-max-width);
     }
 }
@@ -323,4 +353,69 @@ pb-drawer {
 
 .version span {
     font-weight: bold;
+}
+
+/* Display KWIC search results */
+.matches {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: var(--pb-content-font-family);
+}
+
+.matches .hi {
+    color: var(--pb-color-focus);
+}
+
+.matches .count {
+    margin-top: 1em;
+}
+
+.matches .count::before {
+    content: '[';
+}
+
+.matches .count::after {
+    content: ']';
+}
+
+.facets {
+    flex: 0;
+    min-width: 220px;
+}
+
+.facets h3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.facets h3 paper-checkbox {
+    margin-left: 16px;
+    font-size: 11px;
+}
+
+.facets table {
+    font-size: 14px;
+    width:100%;
+}
+
+.facets table table {
+    padding-left: 16px;
+    width: 100%;
+}
+
+.facets table td {
+    padding: 4px 0;
+}
+
+.facets table td:nth-child(2) {
+    color: #808080;
+    text-align: right;
+    padding-left: 1em;
+    vertical-align: middle;
+}
+
+.gitlab img {
+    max-height: var(--pb-logo-image-height);
 }

@@ -16,9 +16,20 @@ body {
     --pb-view-max-width: auto;
 }
 
+body app-header {
+    background-image: var(--pb-header-background-image);
+}
+.menubar .logo {
+    background-image: none;        
+    width: 32rem;
+    display:block;
+    cursor: pointer;
+}    
+
 .menubar .logo img {
     width: auto;
     height: auto;
+    padding-top: 0.5rem;
 }
 
 footer {

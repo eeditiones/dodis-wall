@@ -3,6 +3,6 @@
     "version" : "1.0.0",
     "description" : "When the Wall Came Down",
     "dependencies" : {
-      "@teipublisher/pb-components" : "1.43.1"
+      "@teipublisher/pb-components" : "2.4.4"
     }
   }

@@ -14,7 +14,15 @@
             ".existdb.json",
             ".git/**",
             "node_modules/**",
-            "bower_components/**"
+            "build/**",
+            "builds/**",
+            "bower_components/**",
+            ".idea",
+            ".vscode",
+            ".DS_Store", 
+            "cypress/videos/**",
+            "cypress/screenshots/**",
+            ".devcontainer/**"
         ]
     }
 }

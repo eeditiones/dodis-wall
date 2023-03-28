@@ -9,7 +9,8 @@ xquery version "3.1";
 module namespace api="http://teipublisher.com/api/custom";
 
 (: Add your own module imports here :)
-import module namespace rutil="http://exist-db.org/xquery/router/util";
+import module namespace errors = "http://e-editiones.org/roaster/errors";
+import module namespace rutil="http://e-editiones.org/roaster/util";
 import module namespace app="teipublisher.com/app" at "app.xql";
 import module namespace qapi="http://www.tei-c.org/tei-simple/query/tei" at "query-tei.xql";
 

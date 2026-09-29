@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="landing">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>When the Wall Came Down – Landing Page</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Diplomatische Dokumente der Schweiz (Dodis), Bern 2019. DOI 10.5907/Q12</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Texts for the landing page of the edition.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="about" xml:lang="en" n="About" rend="two-column">
+                <head>How the world watched the Wall come down</head>
+                <p>The documents were written between 14 September 1989 and 11 November 1990, from the refugee crisis
+                    before the Wall opened to the weeks after German unity. They come from embassies in Bonn and East Berlin, from other missions in Berlin, from posts
+                    further afield — among them Warsaw, Paris and Tel Aviv — and from ministries and other offices
+                    in the capitals. Telegrams, memos, minutes and letters show how events
+                    were perceived at the time, often before anyone knew how the story would end.</p>
+                <p>This digital edition presents documents from the volume <hi rend="italic">When the Wall Came
+                    Down. The Perception of German Reunification in International Diplomatic Documents
+                    1989–1990</hi> (Quaderni di Dodis 12), edited by Marc Dierikx and Sacha Zala and published by
+                    Diplomatic Documents of Switzerland (Dodis), Bern, and the Leibniz Institute for Contemporary
+                    History, Munich–Berlin, 2019.</p>
+                <p>The edition comprises 63 documents from eleven countries — Austria, Canada, Germany, Israel,
+                    the Netherlands, Poland, Russia, Switzerland, Turkey, the United Kingdom and the United States —
+                    written in eight languages. German, English and French documents appear in the original, all others
+                    in English translation.</p>
+                <p>The volume was released under a CC BY licence and is reproduced here for demonstration purposes.
+                    The <ref target="https://www.dodis.ch/en/q12">original publication</ref> is on Dodis.</p>
+            </div>
+            <div type="about" xml:lang="de" n="Über" rend="two-column">
+                <head>Wie die Welt den Mauerfall erlebte</head>
+                <p>Die Dokumente entstanden zwischen dem 14. September 1989 und dem 11. November 1990, von der
+                    Flüchtlingskrise vor der Maueröffnung bis in die Wochen nach der Deutschen Einheit. Sie stammen
+                    aus den Botschaften in Bonn und Ostberlin, aus weiteren Vertretungen in Berlin, aus entfernteren
+                    Dienstorten – darunter Warschau, Paris und Tel Aviv – sowie aus Ministerien und anderen
+                    Dienststellen in den Hauptstädten.
+                    Telegramme, Aufzeichnungen, Protokolle und Briefe zeigen, wie die Ereignisse damals wahrgenommen
+                    wurden, oft noch bevor jemand wusste, wie die Geschichte ausgehen würde.</p>
+                <p>Diese digitale Edition präsentiert Dokumente aus dem Band <hi rend="italic">When the Wall Came
+                    Down. The Perception of German Reunification in International Diplomatic Documents
+                    1989–1990</hi> (Quaderni di Dodis 12), herausgegeben von Marc Dierikx und Sacha Zala,
+                    erschienen bei den Diplomatischen Dokumenten der Schweiz (Dodis), Bern, und dem Institut für
+                    Zeitgeschichte, München–Berlin, 2019.</p>
+                <p>Die Edition umfasst 63 Dokumente aus elf Ländern – Österreich, Kanada, Deutschland, Israel,
+                    die Niederlande, Polen, Russland, die Schweiz, die Türkei, das Vereinigte Königreich und die
+                    Vereinigten Staaten –, verfasst in acht Sprachen. Deutsche, englische und französische Dokumente
+                    erscheinen im Original, alle übrigen in englischer Übersetzung.</p>
+                <p>Der Band wurde unter einer CC-BY-Lizenz veröffentlicht und wird hier zu Demonstrationszwecken
+                    wiedergegeben. Die <ref target="https://www.dodis.ch/en/q12">Originalpublikation</ref> steht bei Dodis zur Verfügung.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "chronicle": "Chronicle",
+    "about": "About the edition"
+  },
+  "facets": {
+    "place": "Places"
+  },
+  "wall": {
+    "role": {
+      "sent": "Sender",
+      "received": "Recipient",
+      "received-copy": "Copy",
+      "signatory": "Signatory"
+    },
+    "affiliation": "Affiliation (document header)",
+    "external-links": "External links",
+    "external-links-source": "Further references via Metagrid and Wikidata"
+  }
+}

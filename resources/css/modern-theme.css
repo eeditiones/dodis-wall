@@ -1,0 +1,499 @@
+/* ===========================================================================
+   Modern theme — token overrides + flat rectangular chrome.
+   Central hooks are defined in theme-base10 (jinks-variables.css); set values
+   here or in config.json to customize without forking the base theme.
+   Fonts: resources/fonts/font.css (via jinks-theme.css).
+   Edition-specific parchment toolbar / breadcrumbs live in consuming
+   blueprints (e.g. serafin/resources/css/serafin.css).
+   =========================================================================== */
+
+:root {
+    --jinks-form-border-radius: 2px;
+    /* Labeled buttons in theme-base10 use the *-full token (pill). Keep them
+       rectangular so annotate / jinntap / download actions match the theme. */
+    --jinks-form-border-radius-full: 0;
+    --jinks-highlight-accent-percent: 38%;
+    --jinks-page-header-border-bottom: 1px solid var(--jinks-colors-accent);
+
+    --jinks-toolbar-segment-height: 2.25rem;
+    --jinks-toolbar-segment-cell-width: 2.5rem;
+    --jinks-toolbar-segment-gap: 0.625rem;
+    --jinks-toolbar-segment-icon-size: 1.15rem;
+    --jinks-toolbar-segment-radius: 0;
+    --jinks-toolbar-segment-bg: var(--jinks-colors-100);
+    --jinks-toolbar-segment-hover-bg: #8a0000;
+
+    --jinks-document-card-radius: 0;
+    --jinks-document-card-shadow: none;
+    --jinks-document-card-border-color: var(--jinks-colors-400);
+
+    --jinks-aside-after-bg: var(--jinks-colors-100);
+    --jinks-aside-after-border-color: var(--jinks-colors-400);
+    --jinks-aside-after-padding: 1.5rem 1.25rem;
+
+    --jinks-columns-gap: 2rem;
+    --jinks-columns-gap-md: 1.5rem;
+}
+
+.fixed-layout > main {
+    width: 100%;
+    max-width: none;
+    margin-inline: 0;
+}
+
+/* Menubar search on the dark bar */
+.page-header,
+.mobile.menubar {
+    --jinks-menubar-search-border-color: rgba(252, 252, 248, 0.35);
+    --jinks-search-border-color: rgba(252, 252, 248, 0.35);
+    --jinks-search-bg-color: var(--jinks-menubar-button-color);
+}
+
+/* Align toolbar controls with the menubar login */
+.fixed-layout.after-fixed:not(.before-fixed) > header.content-top {
+    grid-column: content-top / -1;
+}
+
+.toolbar {
+    padding-inline-end: var(--jinks-chrome-inset-inline);
+}
+
+.toolbar > ul.hidden-mobile {
+    padding-inline-end: 0;
+    padding-right: 0;
+}
+
+/* Flat segmented toolbar controls.
+   Annotate / zoom / nav wrap controls in [role="group"] (often without .light);
+   treat those the same as explicit .light segments. */
+.toolbar ul.hidden-mobile {
+    align-items: center;
+    gap: var(--jinks-toolbar-segment-gap);
+}
+
+.toolbar ul.hidden-mobile > li {
+    display: flex;
+    align-items: center;
+}
+
+.toolbar [role="group"],
+.toolbar .correspContext.light,
+.toolbar button.light,
+.toolbar pb-link .btn.light a,
+/* Standalone labeled action buttons (jinntap, …) — same flat chrome. */
+.toolbar ul.hidden-mobile > li > a > button,
+.toolbar ul.hidden-mobile > li > button {
+    height: var(--jinks-toolbar-segment-height);
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    padding: 0;
+    gap: 0;
+    background-color: var(--jinks-toolbar-segment-bg);
+    border: 1px solid var(--jinks-toolbar-segment-border-color);
+    border-radius: var(--jinks-toolbar-segment-radius);
+    color: var(--jinks-toolbar-segment-color);
+    box-shadow: none;
+    overflow: hidden;
+}
+
+.toolbar [role="group"] > pb-zoom,
+.toolbar [role="group"] > pb-navigation,
+.toolbar [role="group"] > button,
+.toolbar .correspContext.light > li {
+    height: 100%;
+    width: var(--jinks-toolbar-segment-cell-width);
+    min-width: var(--jinks-toolbar-segment-cell-width);
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-left: 1px solid var(--jinks-toolbar-segment-border-color);
+    border-radius: 0;
+    background-color: transparent;
+    box-shadow: none;
+    transition: var(--jinks-toolbar-segment-transition);
+}
+
+/* Labeled navigation: grow past the icon-only cell width */
+.toolbar [role="group"] > pb-navigation:has(> span + svg),
+.toolbar [role="group"] > pb-navigation:has(> svg + span) {
+    width: auto;
+    min-width: var(--jinks-toolbar-segment-cell-width);
+    padding-inline: 0.625rem;
+    gap: 0.375rem;
+}
+
+.toolbar [role="group"] > pb-navigation > span {
+    white-space: nowrap;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+/* Edition-navigation correspContext buttons may include text labels */
+.toolbar .correspContext.light > li:has(a > .icon ~ *:not(svg):not(use)),
+.toolbar .correspContext.light > li:has(a > *:not(svg):not(use) ~ .icon) {
+    width: auto;
+    min-width: var(--jinks-toolbar-segment-cell-width);
+    padding-inline: 0.625rem;
+    gap: 0.375rem;
+}
+
+.toolbar .correspContext.light > li a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    white-space: nowrap;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: inherit;
+}
+
+.toolbar [role="group"] > pb-zoom:first-child,
+.toolbar [role="group"] > pb-navigation:first-child,
+.toolbar [role="group"] > button:first-child,
+.toolbar .correspContext.light > li:first-child {
+    border-left: 0;
+}
+
+.toolbar button.light {
+    width: var(--jinks-toolbar-segment-cell-width);
+    min-width: var(--jinks-toolbar-segment-cell-width);
+    justify-content: center;
+    transition: var(--jinks-toolbar-segment-transition);
+}
+
+/* Labeled toolbar actions (icon + text): grow past the icon-only cell */
+.toolbar ul.hidden-mobile > li > a > button:has(svg + span),
+.toolbar ul.hidden-mobile > li > a > button:has(span + svg),
+.toolbar ul.hidden-mobile > li > button:has(svg + span),
+.toolbar ul.hidden-mobile > li > button:has(span + svg),
+.toolbar button.light:has(svg + span),
+.toolbar button.light:has(span + svg) {
+    width: auto;
+    min-width: var(--jinks-toolbar-segment-cell-width);
+    padding-inline: 0.625rem;
+    gap: 0.375rem;
+    justify-content: center;
+    transition: var(--jinks-toolbar-segment-transition);
+}
+
+.toolbar ul.hidden-mobile > li > a > button > span,
+.toolbar ul.hidden-mobile > li > button > span,
+.toolbar button.light > span {
+    white-space: nowrap;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.toolbar ul.hidden-mobile svg,
+.toolbar ul.hidden-mobile .ionicon {
+    width: var(--jinks-toolbar-segment-icon-size);
+    height: var(--jinks-toolbar-segment-icon-size);
+}
+
+.toolbar [role="group"] > pb-zoom:hover,
+.toolbar [role="group"] > pb-navigation:not([disabled]):hover,
+.toolbar [role="group"] > button:hover,
+.toolbar .correspContext.light > li:not(.unavailable):hover,
+.toolbar button.light:hover,
+.toolbar ul.hidden-mobile > li > a > button:hover,
+.toolbar ul.hidden-mobile > li > button:hover {
+    background-color: var(--jinks-toolbar-segment-hover-bg);
+    color: var(--jinks-toolbar-segment-hover-color);
+}
+
+.toolbar .correspContext.light > li.unavailable {
+    opacity: var(--jinks-toolbar-segment-unavailable-opacity);
+}
+
+.fixed-layout > aside.after {
+    background-color: var(--jinks-aside-after-bg);
+    border-left: 1px solid var(--jinks-aside-after-border-color);
+    padding: var(--jinks-aside-after-padding);
+}
+
+/* jinn-tap toolbar dropdowns already include .toolbar-dropdown-caret
+   (bootstrap bi-caret-down-fill). theme-base10 controls.css also paints a
+   summary::after chevron — suppress the duplicate. */
+jinn-tap .toolbar details.dropdown > summary::after,
+jinn-tap .jinn-tap-toolbar details.dropdown > summary::after,
+.toolbar.jinn-tap-toolbar details.dropdown > summary::after {
+    display: none !important;
+    content: none !important;
+    background-image: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Kill soft “card” shadows on default buttons / dropdowns (hardcoded in
+   theme-base10 controls.css) and give them the same hairline as segments.
+   Outer chrome lives on [role="group"]; do not also border nested buttons
+   (that caused the annotate toolbar double border). */
+button:has(svg + span):not(:is([role="group"] *)),
+button:has(span + svg):not(:is([role="group"] *)),
+button:has(svg):not(:has(span)):not(:is([role="group"] *)),
+.dropdown-button summary,
+:not(fx-group)[role="group"] {
+    box-shadow: none;
+    border: 1px solid var(--jinks-toolbar-segment-border-color);
+}
+
+button:has(svg + span):not(:is([role="group"] *)):hover,
+button:has(span + svg):not(:is([role="group"] *)):hover,
+button:has(svg):not(:has(span)):not(:is([role="group"] *)):hover,
+.dropdown-button summary:hover {
+    background-color: var(--jinks-toolbar-segment-hover-bg);
+    border-color: var(--jinks-toolbar-segment-hover-bg);
+    color: var(--jinks-toolbar-segment-hover-color);
+}
+
+/* Flat rectangular dropdown panels (menubar Admin/ODD, download, actions, …) */
+.dropdown-button > summary + ul,
+.dropdown > summary + ul {
+    border-radius: var(--jinks-form-border-radius);
+    box-shadow: none;
+    border: 1px solid var(--jinks-colors-400);
+    background-color: var(--jinks-colors-light);
+    padding: 0.25rem;
+}
+
+.dropdown-button > summary + ul li,
+.dropdown > summary + ul li {
+    border-radius: var(--jinks-form-border-radius);
+    background-color: transparent;
+    transition: background-color 0.12s ease;
+}
+
+.dropdown-button > summary + ul li:hover,
+.dropdown > summary + ul li:hover {
+    border-color: transparent;
+    background-color: var(--jinks-colors-300);
+}
+
+.dropdown-button > summary + ul a,
+.dropdown > summary + ul a,
+.dropdown-button > summary + ul a:link,
+.dropdown > summary + ul a:link {
+    text-decoration: none;
+    color: var(--jinks-color-primary);
+}
+
+.dropdown-button > summary + ul a:hover,
+.dropdown > summary + ul a:hover {
+    color: var(--jinks-toolbar-segment-hover-bg);
+}
+
+button.secondary:hover {
+    background-color: var(--jinks-toolbar-segment-hover-bg);
+    border-color: var(--jinks-toolbar-segment-hover-bg);
+    color: var(--jinks-toolbar-segment-hover-color);
+}
+
+/* Document-list action row: same flat chrome as toolbar segments */
+ul.documents > li.document.card .actions {
+    flex: 0 0 auto;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--jinks-toolbar-segment-gap);
+}
+
+ul.documents > li.document.card .actions > a > button,
+ul.documents > li.document.card .actions > button,
+ul.documents > li.document.card .actions pb-ajax button,
+ul.documents > li.document.card .actions .dropdown-button summary {
+    height: var(--jinks-toolbar-segment-height);
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.375rem;
+    padding-inline: 0.625rem;
+    background-color: var(--jinks-toolbar-segment-bg);
+    border: 1px solid var(--jinks-toolbar-segment-border-color);
+    border-radius: var(--jinks-toolbar-segment-radius);
+    color: var(--jinks-toolbar-segment-color);
+    box-shadow: none;
+    transition: var(--jinks-toolbar-segment-transition);
+}
+
+ul.documents > li.document.card .actions > a > button:has(svg):not(:has(span)),
+ul.documents > li.document.card .actions > button:has(svg):not(:has(span)),
+ul.documents > li.document.card .actions pb-ajax button:has(svg):not(:has(span)) {
+    width: var(--jinks-toolbar-segment-cell-width);
+    min-width: var(--jinks-toolbar-segment-cell-width);
+    padding-inline: 0;
+}
+
+ul.documents > li.document.card .actions > a > button > span,
+ul.documents > li.document.card .actions > button > span,
+ul.documents > li.document.card .actions .dropdown-button summary {
+    white-space: nowrap;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+ul.documents > li.document.card .actions svg,
+ul.documents > li.document.card .actions .ionicon {
+    width: var(--jinks-toolbar-segment-icon-size);
+    height: var(--jinks-toolbar-segment-icon-size);
+}
+
+ul.documents > li.document.card .actions > a > button:hover,
+ul.documents > li.document.card .actions > button:hover,
+ul.documents > li.document.card .actions pb-ajax button:hover,
+ul.documents > li.document.card .actions .dropdown-button summary:hover {
+    background-color: var(--jinks-toolbar-segment-hover-bg);
+    border-color: var(--jinks-toolbar-segment-hover-bg);
+    color: var(--jinks-toolbar-segment-hover-color);
+}
+
+ul.documents > li.document.card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+    border-radius: var(--jinks-document-card-radius);
+    box-shadow: var(--jinks-document-card-shadow);
+    border: 1px solid var(--jinks-document-card-border-color);
+}
+
+ul.documents > li.document.card header {
+    flex: 1 1 auto;
+    margin-bottom: 0;
+    min-width: 0;
+}
+
+ul.documents > li.document.card .matches {
+    flex: 1 1 100%;
+}
+
+aside.after pb-leaflet-map {
+    display: block;
+    height: 40vh;
+    min-height: 40vh;
+    width: 100%;
+    position: relative;
+    z-index: 0;
+    border: 1px solid var(--jinks-colors-400);
+    border-radius: 2px;
+    margin-top: 1rem;
+}
+
+/* ===========================================================================
+   Landing page — keep rectangular chrome on the menubar shell and CTA links,
+   but do not restyle nav items as bordered chips (landing-page.css already
+   provides link-style menubar entries).
+   =========================================================================== */
+
+pb-page.landing-layout .page-header {
+    border-bottom: none;
+}
+
+pb-page.landing-layout .menubar {
+    border-radius: var(--jinks-form-border-radius);
+}
+
+pb-page.landing-layout .button-link {
+    border-radius: var(--jinks-form-border-radius);
+    font-weight: 500;
+    transition: background-color 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+}
+
+pb-page.landing-layout .button-link:hover {
+    background-color: var(--jinks-toolbar-segment-hover-bg);
+    border-color: var(--jinks-toolbar-segment-hover-bg);
+    color: var(--jinks-colors-light);
+}
+
+pb-page.landing-layout .highlight-card a.button-link:hover {
+    color: var(--jinks-colors-light);
+}
+
+/* ===========================================================================
+   pb-timeline — Chronologia-inspired chrome for any collection size/scope.
+   Width follows the browse content column; bins flex evenly. Tick rotation
+   stays under the component’s control (rotated for Y/5Y/10Y/D/W, upright for M).
+   =========================================================================== */
+
+pb-timeline {
+    --pb-timeline-height: 5.5rem;
+    --pb-timeline-padding: 0;
+    /* Cap column width so week/day drill-downs stay a dense strip. Keep the cap
+       high enough that a typical year-scale series can still fill a ~40rem host. */
+    --pb-timeline-min-width: 0.45rem;
+    --pb-timeline-max-width: 2.25rem;
+    --pb-timeline-title-font-size: 0.7rem;
+    --pb-timeline-tooltip-font-size: 0.78rem;
+    /* Muted parchment bars; burgundy on hover / selection (toolbar accent). */
+    --pb-timeline-color-bin: color-mix(in srgb, var(--jinks-colors-500) 42%, var(--jinks-colors-300));
+    --pb-timeline-color-highlight: #8a0000;
+    /* Alternating column stripes behind the bars. */
+    --pb-timeline-color-light: transparent;
+    --pb-timeline-color-dark: color-mix(in srgb, var(--jinks-colors-300) 55%, transparent);
+    --pb-timeline-color-selected: color-mix(in srgb, #8a0000 8%, transparent);
+    /* Range pills + tooltip chrome. */
+    --pb-timeline-background-color-title: color-mix(in srgb, var(--jinks-colors-700) 78%, var(--jinks-colors-500));
+    --pb-timeline-color-title: var(--jinks-colors-light);
+
+    display: block;
+    box-sizing: border-box;
+    /* Block width:auto fills the main column (minus margins). Editions may set
+       --jinks-timeline-chart-max-width (Serafin: 40rem) to keep the chart dense. */
+    width: auto;
+    max-width: var(--jinks-timeline-chart-max-width, none);
+    /* Match .documents horizontal padding so the chart lines up with card borders. */
+    margin: 0 20px 1.35rem;
+    padding: 0 0 0.35rem;
+    border-bottom: 1px solid var(--jinks-colors-400);
+}
+
+pb-timeline::part(label) {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 0 0 0.75rem;
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--jinks-colors-500);
+    font-variant-numeric: tabular-nums;
+}
+
+pb-timeline::part(title) {
+    border-radius: 999px;
+    padding: 0.22rem 0.55rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    height: auto;
+    max-width: 9rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+pb-timeline::part(tooltip) {
+    border-radius: 2px;
+    background-color: var(--pb-timeline-background-color-title);
+    color: var(--pb-timeline-color-title);
+    font-size: var(--pb-timeline-tooltip-font-size);
+    box-shadow: none;
+}
+
+.after pb-timeline {
+    margin: 0 0 1rem;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+.after pb-timeline::part(label) {
+    display: none;
+}

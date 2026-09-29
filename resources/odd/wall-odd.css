@@ -1,0 +1,208 @@
+/* When the Wall Came Down – document head, modelled on the printed volume (Quaderni di Dodis 12) */
+.doc-head {
+    margin: 0 0 1.75rem;
+}
+.doc-head-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    margin: 0 0 1.75rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid #cfc9bf;
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.9rem;
+}
+.doc-head-meta a {
+    color: #c8102e;
+    text-decoration: none;
+}
+.doc-head-meta a:hover {
+    text-decoration: underline;
+}
+.doc-country {
+    font-family: "Oswald", "IBM Plex Sans", sans-serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: #3b3e43;
+}
+.doc-title {
+    max-width: 32em;
+    margin: 0 auto 1rem;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.12em;
+    line-height: 1.45;
+    text-wrap: balance;
+}
+.doc-subtitle {
+    max-width: 34em;
+    margin: 0 auto;
+    text-align: center;
+    font-style: normal;
+    font-variant: small-caps;
+    letter-spacing: 0.03em;
+    line-height: 1.4;
+    text-wrap: balance;
+}
+.doc-head .note, .doc-head sup {
+    font-style: normal;
+}
+.doc-opener {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem 1.5rem;
+    margin: 0 0 1.5rem;
+}
+.doc-classification {
+    font-family: "Special Elite", "Courier New", monospace;
+    font-size: 0.95em;
+    color: #c8102e;
+    letter-spacing: 0.04em;
+}
+.doc-classification .tei-add {
+    color: inherit;
+}
+.doc-dateline {
+    margin-left: auto;
+    text-align: right;
+}
+.doc-dateline .tei-dateline {
+    display: inline;
+}
+
+/* abbreviations with expansion in a popover (choice/abbr+expan): coloured, dashed underline */
+pb-popover.tei-choice {
+    color: #2b6a99;
+    text-decoration: underline dashed rgba(43, 106, 153, 0.7);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    cursor: help;
+    transition: color 0.15s, background-color 0.15s;
+}
+pb-popover.tei-choice:hover,
+pb-popover.tei-choice:focus-within {
+    color: #18191c;
+    background-color: rgba(108, 180, 228, 0.22);
+    text-decoration-color: #18191c;
+}
+
+/* persons linked to the register (persName/@key): ink colour, solid red underline */
+pb-popover.tei-persName,
+pb-popover.tei-persName.context:not(.disable) {
+    color: inherit;
+    text-decoration: underline solid rgba(200, 16, 46, 0.55);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+    cursor: pointer;
+    transition: background-color 0.15s, text-decoration-color 0.15s;
+}
+pb-popover.tei-persName:hover,
+pb-popover.tei-persName:focus-within {
+    background-color: rgba(200, 16, 46, 0.09);
+    text-decoration-color: #c8102e;
+}
+
+/* the person link around the popover: keep the text colour, underline comes from the popover */
+a.wall-person-link,
+a.wall-person-link:hover,
+a.wall-person-link:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* person popover: the name heading (h1 from the register entry) kept modest */
+.tippy-content h1.tei-person,
+[data-tippy-root] h1.tei-person {
+    margin: 0 0 0.4rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.02em;
+}
+
+/* register detail page */
+.reg-birth, .reg-death {
+    color: #3b3e43;
+    font-size: 0.95em;
+}
+.reg-affiliations {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 0.9rem 0;
+}
+.reg-affiliation {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border: 1px solid #cfc9bf;
+    border-left: 3px solid #c8102e;
+    background: #fff;
+    color: #18191c;
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.8rem;
+}
+.reg-docs h4 {
+    margin: 1.5rem 0 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid #cfc9bf;
+    font-family: "Oswald", "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.85rem;
+}
+.reg-doc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.reg-doc-list li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.6rem;
+    padding: 0.45rem 0;
+    border-bottom: 1px dotted #cfc9bf;
+    line-height: 1.35;
+}
+.reg-doc-list a {
+    flex: 1 1 20rem;
+    display: flex;
+    gap: 0.75rem;
+    color: #18191c;
+    text-decoration: none;
+}
+.reg-doc-list a:hover .reg-doc-title {
+    color: #c8102e;
+    text-decoration: underline;
+}
+.reg-doc-date {
+    flex: 0 0 5.5rem;
+    font-family: "Special Elite", "Courier New", monospace;
+    font-size: 0.85em;
+    color: #c8102e;
+}
+.reg-doc-role {
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.05rem 0.4rem;
+    background: #18191c;
+    color: #fff;
+}
+.reg-doc-role[data-role="received"], .reg-doc-role[data-role="received-copy"] {
+    background: #2b6a99;
+}
+
+.ordinal {
+    font-style: normal;
+    font-size: 0.7em;
+    vertical-align: super;
+    line-height: 0;
+}

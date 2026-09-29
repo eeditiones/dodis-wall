@@ -1,0 +1,18 @@
+/* "Concrete" palette for When the Wall Came Down */
+:root {
+    --jinks-colors-700: #18191c;
+    --jinks-colors-600: #2a2c30;
+    --jinks-colors-500: #3b3e43;
+    --jinks-colors-400: #9a948a;
+    --jinks-colors-300: #cfc9bf;
+    --jinks-colors-200: #e6e2da;
+    --jinks-colors-100: #f3f0ea;
+    --jinks-colors-50: #faf8f4;
+    --jinks-colors-light: #f7f5f0;
+    --jinks-colors-grey: #5a5853;
+    --jinks-colors-dark: #18191c;
+    --jinks-colors-medium: #d9d4cb;
+    --jinks-colors-accent: #c8102e;
+    --jinks-colors-black-300: #6f6c66;
+    --jinks-colors-highlight: #f2c230;
+}

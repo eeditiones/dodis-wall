@@ -1,0 +1,60 @@
+<template>
+    ---json
+    {
+        "templating": {
+            "extends": "templates/layouts/base.html"
+        },
+        "features": {
+            "toolbar": {
+                "enabled": false
+            }
+        },
+        "styles": [
+            "resources/css/landing-page.css"
+        ],
+        "script": {
+            "custom": [
+                "resources/scripts/language.js", "resources/scripts/wall.js"
+            ]
+        },
+        "theme": {
+            "layout": {
+                "class": "landing-layout wall-landing"
+            }
+        }
+    }
+    ---
+    [% template styles %]
+    [% endtemplate %]
+
+
+    [% template hero %]
+    <header class="wall-hero wall-hero-compact">
+        <div class="wall-hero-inner wall-hero-single">
+            <div class="wall-hero-text">
+                <p class="wall-kicker">[[ wall:t($context, 'kicker') ]]</p>
+                <h1 class="wall-page-title">[[ wall:t($context, 'chronicle') ]]</h1>
+                <p class="wall-subtitle">[[ wall:t($context, 'chronicle-intro') ]]</p>
+            </div>
+        </div>
+        <div class="wall-hero-strip">
+            <div class="wall-legend">
+                <span class="wall-legend-doc">[[ wall:t($context, 'legend-doc') ]]</span>
+                <span class="wall-legend-event">[[ wall:t($context, 'legend-event') ]]</span>
+            </div>
+            [[ wall:strip($context) ]]
+        </div>
+        <p class="wall-photo-credit">
+            <a href="https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_at_fall_of_berlin_wall_anniversary.jpg" target="_blank" rel="noopener">Brandenburger Tor, 30 Jahre Mauerfall (2019)</a>:
+            New York-air, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
+        </p>
+    </header>
+    [% endtemplate %]
+
+    <section id="chronicle" class="wall-chronicle-section">
+        [[ wall:filters($context) ]]
+        [[ wall:chronicle($context) ]]
+    </section>
+
+    [% include "templates/footer.html" %]
+</template>

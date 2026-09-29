@@ -1,0 +1,11 @@
+<package xmlns="http://expath.org/ns/pkg" name="https://e-editiones.org/apps/wall-came-down" abbrev="wall-came-down" version="1.1.0" spec="1.0">
+    <title>When the Wall Came Down</title>
+    <dependency processor="http://exist-db.org" semver-min="6.2.0"/>
+    
+        <dependency package="http://e-editiones.org/roaster" semver="1"/>
+     
+        <dependency package="http://existsolutions.com/apps/tei-publisher-lib" semver-min="6.1" semver-max="6"/>
+     
+        <dependency package="http://tei-publisher.com/library/jinks-templates" semver="1"/>
+    
+</package>

@@ -1,0 +1,96 @@
+<template>
+    ---json
+    {
+        "templating": {
+            "extends": "templates/layouts/base.html"
+        },
+        "features": {
+            "toolbar": {
+                "enabled": false
+            }
+        },
+        "styles": [
+            "resources/css/landing-page.css", "transform/teipublisher.css"
+        ],
+        "script": {
+            "custom": [
+                "resources/scripts/language.js"
+            ]
+        },
+        "theme": {
+            "layout": {
+                "class": "landing-layout wall-landing"
+            }
+        }
+    }
+    ---
+    [% template styles %]
+    [% endtemplate %]
+
+    [% template hero %]
+    <header class="wall-hero">
+        <div class="wall-hero-inner wall-hero-single">
+            <div class="wall-hero-text">
+                <p class="wall-kicker">[[ wall:t($context, 'kicker') ]]</p>
+                <h1 class="wall-title wall-stencil" aria-label="When the Wall Came Down">
+                    <span class="a" aria-hidden="true">When the</span>
+                    <span class="b" aria-hidden="true">Wall</span>
+                    <span class="c" aria-hidden="true">came down</span>
+                </h1>
+                <p class="wall-subtitle">[[ wall:t($context, 'subtitle') ]]</p>
+                <p class="wall-edition">[[ wall:t($context, 'edition') ]]</p>
+                <div class="wall-cta">
+                    <a class="wall-btn wall-btn-primary" href="chronicle.html">[[ wall:t($context, 'explore') ]]</a>
+                    <a class="wall-btn" href="#voices">[[ wall:t($context, 'voices') ]]</a>
+                </div>
+            </div>
+        </div>
+        <div class="wall-hero-strip">
+            <div class="wall-legend">
+                <span class="wall-legend-doc">[[ wall:t($context, 'legend-doc') ]]</span>
+                <span class="wall-legend-event">[[ wall:t($context, 'legend-event') ]]</span>
+            </div>
+            [[ wall:strip($context) ]]
+        </div>
+        <p class="wall-photo-credit">
+            <a href="https://commons.wikimedia.org/wiki/File:Berlin_1986_(8_of_20).jpg" target="_blank" rel="noopener">Berlin 1986</a>:
+            Lklundin, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
+        </p>
+    </header>
+    [% endtemplate %]
+
+    <section id="about" class="wall-about">
+        <div class="wall-about-grid">
+            <figure class="wall-trabi">
+                <div class="wall-breach">
+                    <img src="resources/images/trabi.jpg" alt="Trabant breaking through the Berlin Wall – mural at the East Side Gallery" width="640" height="480"/>
+                </div>
+                <figcaption>[[ wall:t($context, 'caption') ]]</figcaption>
+            </figure>
+            <div class="wall-about-text">
+                [[ landing:section($context, 'about', $landing?content, 'landing.odd') ]]
+            </div>
+        </div>
+    </section>
+
+    <div class="wall-graffiti-band" role="img" aria-label="Graffiti on the western side of the Berlin Wall, 1986">
+        <p class="wall-photo-credit">
+            <a href="https://commons.wikimedia.org/wiki/File:Berlin_Wall_graffiti_1986.jpg" target="_blank" rel="noopener">Berlin Wall graffiti 1986</a>:
+            Nancy Wong, <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>
+        </p>
+    </div>
+
+    <section id="voices" class="wall-voices">
+        <div class="wall-section-head">
+            <h2>[[ wall:t($context, 'voices') ]]</h2>
+            <p>[[ wall:t($context, 'voices-intro') ]]</p>
+        </div>
+        [[ wall:stats($context) ]]
+        [[ wall:countries($context) ]]
+        <p class="wall-voices-cta">
+            <a class="wall-btn wall-btn-primary" href="chronicle.html">[[ wall:t($context, 'chronicle') ]] →</a>
+        </p>
+    </section>
+
+    [% include "templates/footer.html" %]
+</template>

@@ -1,0 +1,20 @@
+{
+  "menu": {
+    "chronicle": "Chronik",
+    "about": "Über die Edition"
+  },
+  "facets": {
+    "place": "Orte"
+  },
+  "wall": {
+    "role": {
+      "sent": "Absender",
+      "received": "Empfänger",
+      "received-copy": "Kopie",
+      "signatory": "Unterzeichnet"
+    },
+    "affiliation": "Funktion laut Dokumentkopf",
+    "external-links": "Externe Links",
+    "external-links-source": "Weitere Verweise über Metagrid und Wikidata"
+  }
+}

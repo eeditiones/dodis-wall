@@ -1,0 +1,153 @@
+/* When the Wall Came Down – register detail page (people/…) */
+.reg-birth, .reg-death { color: #3b3e43; font-size: 0.95em; }
+.reg-affiliations { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.9rem 0; }
+.reg-affiliations .reg-affiliation.badge,
+.reg-affiliations .reg-affiliation {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border: 1px solid #cfc9bf;
+    border-left: 3px solid #c8102e;
+    border-radius: 0;
+    background: #fff;
+    color: #18191c;
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+.reg-docs h4 {
+    margin: 1.5rem 0 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid #cfc9bf;
+    font-family: "Oswald", "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.85rem;
+}
+ul.reg-doc-list { list-style: none; margin: 0; padding: 0; }
+ul.reg-doc-list li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0.6rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px dotted #cfc9bf;
+    line-height: 1.35;
+    list-style: none;
+}
+ul.reg-doc-list a {
+    flex: 1 1 20rem;
+    display: grid;
+    grid-template-columns: 5.5rem 1fr;
+    column-gap: 0.75rem;
+    color: #18191c;
+    text-decoration: none;
+}
+.reg-doc-summary {
+    grid-column: 2;
+    margin-top: 0.2rem;
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.8rem;
+    color: #5b5f66;
+}
+
+/* external links (Dodis, Wikidata, Wikipedia, GND, VIAF, Metagrid partners) */
+.reg-links h4 {
+    margin: 1.5rem 0 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid #cfc9bf;
+    font-family: "Oswald", "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.85rem;
+}
+ul.reg-link-list { list-style: none; margin: 0; padding: 0; }
+ul.reg-link-list li {
+    list-style: none;
+    margin: 0;
+    padding: 0.35rem 0;
+    border-bottom: 1px dotted #cfc9bf;
+}
+ul.reg-link-list a {
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    column-gap: 0.75rem;
+    align-items: baseline;
+    color: #18191c;
+    text-decoration: none;
+}
+.reg-link-name {
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+.reg-link-name::after { content: " ↗"; color: #c8102e; }
+.reg-link-id {
+    font-family: "Special Elite", "Courier New", monospace;
+    font-size: 0.8rem;
+    color: #6f6c66;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+ul.reg-link-list a:hover .reg-link-name { color: #c8102e; text-decoration: underline; }
+.reg-links-status {
+    margin: 0.4rem 0 0;
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.75rem;
+    color: #9a948a;
+}
+.reg-links-status[hidden] { display: none; }
+
+/* portrait from Wikimedia Commons (via Wikidata P18) */
+.reg-portrait {
+    float: right;
+    width: min(40%, 200px);
+    margin: 0.25rem 0 1rem 1.5rem;
+    padding: 0.4rem 0.4rem 0.3rem;
+    background: #fff;
+    border: 1px solid #cfc9bf;
+    box-shadow: 0 10px 24px -18px rgba(24, 25, 28, 0.6);
+}
+.reg-portrait img {
+    display: block;
+    width: 100%;
+    height: auto;
+    filter: grayscale(0.15);
+}
+.reg-portrait figcaption {
+    margin-top: 0.3rem;
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.65rem;
+    text-align: right;
+}
+.reg-portrait figcaption a { color: #9a948a; text-decoration: none; }
+.reg-portrait figcaption a:hover { color: #c8102e; text-decoration: underline; }
+.reg-links, .reg-docs { clear: both; }
+@media (max-width: 600px) {
+    .reg-portrait { float: none; width: 160px; margin: 0.5rem 0 1rem; }
+    ul.reg-link-list a { grid-template-columns: 1fr; }
+}
+
+/* chronicle cards: document title as heading, summary (Regest) below */
+.wall-card-summary {
+    margin: 0.35rem 0 0.5rem;
+    font-size: 0.9rem;
+    line-height: 1.45;
+    color: #4a4d52;
+}
+ul.reg-doc-list a:hover .reg-doc-title { color: #c8102e; text-decoration: underline; }
+.reg-doc-date { flex: 0 0 5.5rem; font-family: "Special Elite", "Courier New", monospace; font-size: 0.85em; color: #c8102e; }
+.reg-doc-title { font-family: "IBM Plex Serif", Georgia, serif; font-size: 0.95rem; }
+.reg-doc-role {
+    font-family: "IBM Plex Sans", "Inter", sans-serif;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.05rem 0.4rem;
+    background: #18191c;
+    color: #fff;
+    white-space: nowrap;
+}
+.reg-doc-role[data-role="received"], .reg-doc-role[data-role="received-copy"] { background: #2b6a99; }

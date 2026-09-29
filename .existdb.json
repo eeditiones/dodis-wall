@@ -1,28 +1,29 @@
+
 {
     "servers": {
         "localhost": {
-            "server": "http://localhost:8080/exist",
+            "server": "http://127.0.0.1:8080/exist",
             "user": "admin",
-            "password": ""
+            "password": "",
+            "root": "/apps/wall-came-down"
         }
     },
     "sync": {
         "server": "localhost",
-        "root": "/db/apps/dodis-facets",
-        "active": true,
+        "polling": false,
+        "interval": 500,
         "ignore": [
             ".existdb.json",
+            ".devcontainer/**",
+            ".vscode/**",
+            "build.sh",
+            ".env",
             ".git/**",
+            "components/**",
             "node_modules/**",
-            "build/**",
-            "builds/**",
             "bower_components/**",
-            ".idea",
-            ".vscode",
-            ".DS_Store", 
-            "cypress/videos/**",
-            "cypress/screenshots/**",
-            ".devcontainer/**"
+            "build/**",
+            "webtest/**"
         ]
     }
 }

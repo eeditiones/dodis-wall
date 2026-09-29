@@ -1,0 +1,9 @@
+<template>
+    [% template before %]
+    [[ wall:doc-meta($context) ]]
+    [% endtemplate %]
+
+    [% template! title %]
+    [[ wdoc:page-title($context) ]]
+    [% endtemplate %]
+</template>

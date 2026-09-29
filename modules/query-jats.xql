@@ -22,7 +22,7 @@ module namespace jats="http://www.tei-c.org/tei-simple/query/jats";
 declare namespace db="http://docbook.org/ns/docbook";
 
 import module namespace config="http://www.tei-c.org/tei-simple/config" at "config.xqm";
-import module namespace nav="http://www.tei-c.org/tei-simple/navigation/docbook" at "navigation-dbk.xql";
+import module namespace nav="http://www.tei-c.org/tei-simple/navigation/jats" at "navigation-jats.xql";
 import module namespace query="http://www.tei-c.org/tei-simple/query" at "query.xql";
 
 declare variable $jats:FIELD_PREFIX := "jats.";
@@ -43,13 +43,21 @@ declare function jats:query-default($fields as xs:string+, $query as xs:string, 
                 default return
                     if (exists($target-texts)) then
                         for $text in $target-texts
-                        return
-                            $config:data-root ! doc(. || "/" || $text)//body[ft:query(., $query, query:options($sortBy))] |
-                            $config:data-root ! doc(. || "/" || $text)//sec[ft:query(., $query, query:options($sortBy))]
+                            let $divisions := $config:data-root ! doc(. || "/" || $text)//sec[ft:query(., $query, query:options($sortBy))]
+                            return
+                                if (empty($divisions)) then
+                                    $config:data-root ! doc(. || "/" || $text)//body[ft:query(., $query, query:options($sortBy))]
+                                else
+                                    $divisions
+                        
                     else
-                        collection($config:data-root)//body[ft:query(., $query, query:options($sortBy))] |
-                        collection($config:data-root)//sec[ft:query(., $query, query:options($sortBy))]
-    else ()
+                        let $divisions := collection($config:data-root)//sec[ft:query(., $query, query:options($sortBy))]
+                            return
+                                if (empty($divisions)) then
+                                    collection($config:data-root)//body[ft:query(., $query, query:options($sortBy))]
+                                else
+                                    $divisions
+   else ()
 };
 
 declare function jats:autocomplete($doc as xs:string?, $fields as xs:string+, $q as xs:string) {
@@ -127,17 +135,21 @@ declare function jats:get-breadcrumbs($config as map(*), $hit as node(), $parent
     let $work := root($hit)/*
     let $work-title := nav:get-document-title($config, $work)
     return
-        <div class="breadcrumbs">
-            <a class="breadcrumb" href="{$parent-id}">{$work-title}</a>
-            {
-                for $parentDiv in $hit/ancestor-or-self::sec[title]
-                let $id := util:node-id($parentDiv)
-                return
-                    <a class="breadcrumb" href="{$parent-id}?action=search&amp;root={$id}&amp;view={$config?view}&amp;odd={$config?odd}">
-                    {$parentDiv/title/string()}
-                    </a>
-            }
-        </div>
+        <nav aria-label="breadcrumb">
+            <ul>
+                <li><a href="{$parent-id}">{$work-title}</a></li>
+                {
+                    for $parentDiv in $hit/ancestor-or-self::sec[title]
+                    let $id := util:node-id($parentDiv)
+                    return
+                    <li>
+                        <a href="{$parent-id}?action=search&amp;root={$id}&amp;view={$config?view}&amp;odd={$config?odd}">
+                        {$parentDiv/title/string()}
+                        </a>
+                    </li>
+                }
+            </ul>
+        </nav>
 };
 
 (:~
@@ -145,7 +157,7 @@ declare function jats:get-breadcrumbs($config as map(*), $hit as node(), $parent
  : on it.
  :)
 declare function jats:expand($data as node()) {
-    let $query := session:get-attribute($config:session-prefix || ".query")
+    let $query := session:get-attribute($config:session-prefix || ".search")
     let $field := session:get-attribute($config:session-prefix || ".field")
     let $div := $data
     let $result := jats:query-default-view($div, $query, $field)
@@ -159,7 +171,7 @@ declare function jats:expand($data as node()) {
 };
 
 
-declare %private function jats:query-default-view($context as element()*, $query as xs:string, $fields as xs:string+) {
+declare %private function jats:query-default-view($context as node()*, $query as xs:string, $fields as xs:string+) {
     for $field in $fields
     return
         switch ($field)

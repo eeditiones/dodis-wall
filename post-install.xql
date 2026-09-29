@@ -60,14 +60,22 @@ declare function local:create-data-collection() {
 
 
 declare function local:generate-code($collection as xs:string) {
+    (:
+        Pass an in-memory copy of configuration.xml into pmu:process-odd.
+        pmu:resolve-module-paths() uses $config/*:module; if that is empty it
+        silently falls back to importing config.xqm as "global" instead of
+        odd-global.xqm. util:expand avoids depending on DB node navigation for
+        that child step (see tei-publisher-lib pmu:resolve-module-paths).
+    :)
+    let $modulesConfig := util:expand(doc($collection || "/resources/odd/configuration.xml"))/*
     for $source in ($config:odd-available, $config:odd-internal)
     let $odd := doc($collection || "/resources/odd/" || $source)
-    let $pi := tpu:parse-pi($odd, (), $source)
+    let $pi := tpu:parse-pi($odd, (), $source, ())
     for $module in
         if ($pi?output) then
             tokenize($pi?output)
         else
-            ("web", "print", "latex", "epub","fo")
+            $config:odd-media
     for $file in pmu:process-odd (
         (:    $odd as document-node():)
         odd:get-compiled($collection || "/resources/odd" , $source),
@@ -76,9 +84,10 @@ declare function local:generate-code($collection as xs:string) {
         (:    $mode as xs:string    :)
         $module,
         (:    $relPath as xs:string    :)
-        "../transform",
+        "transform",
         (:    $config as element(modules)?    :)
-        doc($collection || "/resources/odd/configuration.xml")/*)
+        $modulesConfig,
+        $module = "web")
     return
         (),
     let $permissions := $repoxml//repo:permissions[1]
@@ -93,12 +102,12 @@ declare function local:generate-code($collection as xs:string) {
 };
 
 (: API needs dba rights for LaTeX :)
-sm:chgrp(xs:anyURI($target || "/modules/lib/api.xql"), "dba"),
-sm:chmod(xs:anyURI($target || "/modules/lib/api.xql"), "rwxr-Sr-x"),
+sm:chgrp(xs:anyURI($target || "/modules/lib/api-dba.xql"), "dba"),
+sm:chmod(xs:anyURI($target || "/modules/lib/api-dba.xql"), "rwxr-Sr-x"),
 
 local:mkcol($target, "transform"),
-local:generate-code($target),
 local:create-data-collection(),
-let $pmuConfig := pmc:generate-pm-config(($config:odd-available, $config:odd-internal), $config:default-odd, $config:odd-root)
+let $pmuConfig := pmc:generate-pm-config(($config:odd-available, $config:odd-internal), $config:default-odd, $config:odd-root, $config:odd-media)
+let $_ := xmldb:store($config:app-root || "/modules", "pm-config.xql", $pmuConfig, "application/xquery")
 return
-    xmldb:store($config:app-root || "/modules", "pm-config.xql", $pmuConfig, "application/xquery")
+    local:generate-code($target)

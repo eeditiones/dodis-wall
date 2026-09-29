@@ -1,0 +1,59 @@
+<template>
+    ---json
+    {
+        "templating": {
+            "extends": "templates/layouts/content.html"
+        },
+        "features": {
+            "toolbar": {
+                "navigation": false
+            },
+            "register": {
+                "enabled": false
+            }
+        },
+        "theme": {
+            "layout": {
+                "before": {
+                    "collapsible": false,
+                    "toggle": false
+                },
+                "after": {
+                    "hidden": true,
+                    "width": "min(42vw, 34rem)"
+                }
+            }
+        },
+        "script": {
+            "custom": [
+                "resources/scripts/toc.js",
+                "resources/scripts/wall.js"
+            ]
+        }
+    }
+    ---
+    [% template! breadcrumb %]
+    [% if exists($context?doc) %]
+    <li>
+        <nav aria-label="breadcrumb">
+            <ul>
+                <li><a href="[[ $context-path ]]/chronicle.html">[[ wall:t($context, 'chronicle') ]]</a></li>
+                <li>[[ wdoc:breadcrumb($context) ]]</li>
+            </ul>
+        </nav>
+    </li>
+    [% endif %]
+    [% endtemplate %]
+
+    [% template toolbar %]
+    [[ wdoc:timeline-nav($context) ]]
+    [% endtemplate %]
+
+    <!-- Document view for Dodis documents -->
+    <div class="center">
+        <pb-view src="document1" column-separator=".tei-cb" append-footnotes="append-footnotes" subscribe="transcription" emit="transcription" direction="[[$context?defaults?direction]]" static="![[if ($context?view-static or $context?defaults?view-static) then $context?defaults?data-static else ()]]">
+            <pb-param name="iiif-viewer" value="[[ $context?features?iiif?viewer ]]"/>
+            [[ page:content($context) ]]
+        </pb-view>
+    </div>
+</template>

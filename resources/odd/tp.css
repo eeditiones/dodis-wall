@@ -1,0 +1,361 @@
+
+/* 
+.context
+general handle for all semantic context annotations: 
+people, places, organizations etc */
+
+.context:not(.disable) {
+    /* highlight colour for when not toggled to .disable */
+    color: grey;
+}
+
+.pb {
+    float: right;
+    color: grey;
+    margin-left: 2rem;
+    font-size: 1em;
+}
+
+.pb:not(.facs) {
+    background-color: rgba(255, 255, 255, 0.4); 
+    border-radius: 1rem; 
+    padding: .5em;
+}
+
+/* 
+
+Toggle styles for 
+
+- line breaks and hyphens generated via ODD 
+- choice and choice-alternate for client-side switching of source/editorial view 
+*/
+    .lb.toggle {
+        display: none;
+    }
+
+	.lb-hyphen.toggle {
+        display: none;
+    }
+
+    .choice-alternate {
+		display: none;
+	}
+
+	.choice-alternate.toggle {
+		display: inline;
+	}
+
+	.choice.toggle {
+	    display: none;
+	}
+
+/* Default styles for TEI elements */
+    
+.tei-title {
+    font-style: italic;
+}
+
+.tei-add {
+    color: green;
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+/* Quotes: inline and block level */
+    .tei-quote.inline-quote::before {
+        content: '‘';
+    }
+    .tei-quote.inline-quote::after {                
+        content: '’';
+    }
+    .tei-quote.block-quote {
+        margin: 2rem;
+    }
+
+    .tei-q.inline-quote::before {
+        content: '‘';
+    }
+    .tei-q.inline-quote::after {                
+        content: '’';
+    }
+    .tei-q.block-quote {
+        margin: 2rem;
+    }
+
+.tei-dateline {
+    text-align: right;
+}
+
+.tei-closer .tei-signed,
+.tei-closer .tei-salute {
+    text-align: right;
+}
+
+.tei-castList {
+    list-style: ordered;
+}
+
+.tei-code {
+    font-family: monospace;
+}
+
+.tei-foreign {
+    font-style: italic;
+}
+
+.tei-damage {
+    color: grey;
+}
+
+.tei-gap {
+    color: grey;
+}
+
+.tei-figure {
+    margin: 1rem 0;
+    width: fit-content;
+}
+
+.tei-figure .figure-head {
+    display: block;
+    font-style: italic;
+}
+
+.table-head {
+    display: block;
+    font-style: italic;
+}
+
+.lg-head {
+    display: block;
+    font-style: italic;
+}
+
+.list-head {
+    display: block;
+    font-weight: bold;
+}
+
+.tei-hi {
+    font-style: italic;
+}
+
+.tei-l {
+    margin-left: 1em;
+}
+
+.tei-row.row-label {
+    font-weight: bold;
+}
+
+.tei-ex::before {
+    content: '(';
+}
+
+.tei-ex::after {                   
+    content: ')';
+}
+
+.tei-sic.sic::before {
+    content: '{';
+}
+
+.tei-sic.sic::after {                   
+    content: '}';
+}
+
+.tei-signed {
+    font-style: italic;
+}
+
+.tei-signed.signed {
+    text-align: right;
+}
+
+.tei-speaker {
+    font-style: italic;
+}
+
+.tei-stage {
+    font-style: italic;
+}
+
+.tei-supplied::before {
+    content: '[';
+}
+
+.tei-supplied::after {
+    content: ']';
+}
+
+.tei-table {
+    font-size: smaller;
+}
+
+.tei-titlePage {
+    text-align: center;
+}
+
+.tei-unclear::after {
+    content: ' [?] ';
+}
+
+div.tei-person,
+ul.tei-person {
+    margin-bottom: var(--s-1);
+}
+
+.tei-death::before {
+    content: ' – ';
+}
+
+.align-center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.occupation {
+    margin: 1rem;
+}
+
+p:empty,
+ul:empty {
+    display: none;
+}
+
+.toc {
+    font-family: var(--jinks-content-font-family);
+    font-size: var(--jinks-toc-font-size);
+}
+
+.toc ul {
+    padding: 0;
+    margin: 0;
+}
+
+/* Item without child sections */
+.toc ul>li:not(:has(details)) {
+    padding: 0.75rem calc(1rem + 20px) 0.75rem 0.5rem;
+    border: 1px solid transparent;
+    border-radius: 8px;
+}
+
+/* Item with child sections */
+.toc details summary {
+    display: inline-flex;
+    gap: 1rem;
+    width: 100%;
+    padding: 0.75rem 0.5rem 0.75rem .5rem;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    /* override pico default */
+    line-height: var(--jinks-line-height);
+}
+
+.toc details summary > pb-link {
+    flex: 1;
+}
+
+.toc ul details>ul>li:not(:has(details)),
+.toc ul details>ul>li>details>summary {
+    padding-left: var(--jinks-toc-indent);
+}
+
+.toc ul details details>ul>li:not(:has(details)),
+.toc ul details details>ul>li>details>summary {
+    padding-left: calc(var(--jinks-toc-indent) * 2);
+}
+
+.toc ul details details details>ul>li:not(:has(details)),
+.toc ul details details details>ul>li>details>summary {
+    padding-left: calc(var(--jinks-toc-indent) * 3);
+}
+
+.toc ul details details details details>ul>li:not(:has(details)),
+.toc ul details details details details>ul>li>details>summary {
+    padding-left: calc(var(--jinks-toc-indent) * 4);
+}
+
+.toc ul details details details details details>ul>li:not(:has(details)),
+.toc ul details details details details details>ul>li>details>summary {
+    padding-left: calc(var(--jinks-toc-indent) * 5);
+}
+
+.toc ul details details details details details details>ul>li:not(:has(details)),
+.toc ul details details details details details details>ul>li>details>summary {
+    padding-left: calc(var(--jinks-toc-indent) * 6);
+}
+
+.toc ul details details details details details details details>ul>li:not(:has(details)),
+.toc ul details details details details details details details>ul>li>details>summary {
+    padding-left: calc(var(--jinks-toc-indent) * 7);
+}
+
+.toc details > summary > pb-link,
+.toc ul > li > pb-link {
+    display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.toc details>summary:has(> .active),
+.toc details:not(:has(summary>.active)) ul>li:has(> .active) {
+    background-color: var(--jinks-color-focus);
+}
+    
+.toc details > summary::after {
+    display: block;
+    content: "";
+    width: 1rem;
+    height: 1rem;
+    float: right;
+    background-image: var(--jinks-dropdown-button-chevron-image);
+    transform: none;
+    background-size: 1rem auto;
+    background-position: right center;
+    background-repeat: no-repeat;
+    margin-inline-start: 0.5rem;
+    padding-right: 1rem;
+}
+
+.toc details[open]>summary::after {
+    transform: rotate(180deg);
+}
+
+.toc details summary:hover,
+.toc ul>li:not(:has(details)):hover {
+    border: 1px solid #CFCDC5;
+    background-color: var(--jinks-form-background-color);
+}
+
+.toc li {
+    list-style-type: none;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.toc pb-link a {
+    color: var(--pb-link-color);
+    text-decoration: var(--pb-link-text-decoration);
+}
+
+.toc h1, .toc h2, .toc h3, .toc h4, .toc h5 {
+    font-family: var(--jinks-link-font-family);
+}
+
+.toc [slot=collapse-trigger] pb-link {
+    margin-left: 0px;
+}

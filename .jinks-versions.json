@@ -1,0 +1,11 @@
+{
+  "profiles" : {
+    "modern-theme" : "1.0.0",
+    "base10" : "1.1.0",
+    "theme-base10" : "1.1.0",
+    "landing-page" : "1.1.0",
+    "registers" : "1.1.0",
+    "iiif" : "1.1.0"
+  },
+  "jinks" : "11.0.0"
+}

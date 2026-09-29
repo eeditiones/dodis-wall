@@ -1,8 +1,28 @@
 {
-    "name" : "dodis-facets",
-    "version" : "1.0.0",
-    "description" : "When the Wall Came Down",
-    "dependencies" : {
-      "@teipublisher/pb-components" : "2.4.4"
+    "name": "wall-came-down",
+    "version": "1.1.0",
+    "description": "When the Wall Came Down",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "@teipublisher/pb-components": "^3.6.8",
+        "@jinntec/fore": "^2.8.0",
+        "@picocss/pico": "^2.1.1"
+    },
+    "devDependencies": {
+        "ajv": "^8.17.1",
+        "ajv-draft-04": "^1.0.0",
+        "ajv-formats": "^3.0.1",
+        "cypress": "^15.9.0",
+        "cypress-ajv-schema-validator": "^2.0.2",
+        "fflate": "^0.8.2",
+        "glob": "^13.0.0"
+    },
+    "scripts": {
+        "build": "node build.cjs",
+        "build:local": "node build.cjs --local",
+        "build:release": "node build.cjs --release",
+        "build:release:local": "node build.cjs --local --release",
+        "test": "cypress run",
+        "test:open": "cypress open"
     }
-  }
+}

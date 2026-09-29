@@ -39,7 +39,7 @@ declare function query:field-prefix($elem as element()) {
             "jats."
 };
 
-declare %private function query:sort($items as element()*, $sortBy as xs:string?) {
+declare function query:sort($items as element()*, $sortBy as xs:string?) {
     let $items :=
         if (exists($config:data-exclude)) then
             $items except $config:data-exclude
@@ -91,6 +91,11 @@ declare function query:options($sortBy as xs:string*, $field as xs:string?) {
                     return
                         map {
                             $dimension: request:get-parameter($param, ())
+                        },
+                    for $dates in request:get-parameter("dates", ())
+                    return
+                        map {
+                            "date": query:parse-date([], tokenize($dates, ';'))
                         }
                 ))
         },
@@ -99,6 +104,21 @@ declare function query:options($sortBy as xs:string*, $field as xs:string?) {
         else
             map { "fields": ($config:default-fields, $field) }
     ))
+};
+
+declare %private function query:parse-date($array as array(*), $dates as xs:string*) {
+    let $next := head($dates)
+    return
+        if ($next) then
+            let $parts :=
+                if ($next = '?') then
+                    "1000"
+                else
+                    tokenize($next, '-')
+            return
+                query:parse-date(array:append($array, $parts), tail($dates))
+        else
+            $array
 };
 
 declare function query:query-metadata($root as xs:string?, $field as xs:string?, $query as xs:string?, $sort as xs:string) {

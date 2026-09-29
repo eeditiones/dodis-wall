@@ -1,0 +1,1083 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="20">Conclusions of a Meeting of the Cabinet held at 10 Downing Street on 15.11.1989 at 9.30</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="14"/>
+            </extent>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52918</idno>
+                    </msIdentifier>
+                    <head>Conclusions of a Meeting of the Cabinet held at 10 Downing Street on 15.11.1989 at 9.30</head>
+                    <msContents>
+                        <summary>The events in the <choice>
+                                <abbr>GDR</abbr>
+                                <expan>German Democratic Republic</expan>
+                            </choice> were discussed.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1989-11-15">15.11.1989</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#type">
+                    <term>Report</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Great Britain (Politics)</term>
+                    <term>Germany – <choice>
+                            <abbr>FRG</abbr>
+                            <expan>Federal Republic of Germany</expan>
+                        </choice> (Politics)</term>
+                    <term>Germany – <choice>
+                            <abbr>GDR</abbr>
+                            <expan>German Democratic Republic</expan>
+                        </choice> (Politics)</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="#R130">Great Britain/Government</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P52120">
+                        <persName>
+                            <forename>Martti</forename>
+                            <surname>Ahtisaari</surname>
+                        </persName>
+                        <persName type="full">Ahtisaari, Martti (1937–)</persName>
+                        <persName>Ahtisaari, Martti</persName>
+                        <persName>Ahtisaari, Martti Oiva Kalevi</persName>
+                        <birth when="1937-06-23"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P52120</idno>
+                    </person>
+                    <person xml:id="P57498">
+                        <persName>
+                            <forename>Kenneth</forename>
+                            <surname>Baker</surname>
+                        </persName>
+                        <persName type="full">Baker, Kenneth (1934–)</persName>
+                        <persName>Lord Baker of Dorking</persName>
+                        <persName>Baker, Kenneth</persName>
+                        <persName>Baker, Baron Baker of Dorking, Kenneth Wilfried</persName>
+                        <birth when="1934-11-03"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57498</idno>
+                    </person>
+                    <person xml:id="P57491">
+                        <persName>
+                            <forename>Peter</forename>
+                            <surname>Brooke</surname>
+                        </persName>
+                        <persName type="full">Brooke, Peter (1934–)</persName>
+                        <persName>Brooke, Peter</persName>
+                        <persName> Baron Brooke of Sutton Mandeville, Peter Leonard</persName>
+                        <birth when="1934-03-03"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57491</idno>
+                    </person>
+                    <person xml:id="P57486">
+                        <persName>
+                            <forename>Kenneth</forename>
+                            <surname>Clarke</surname>
+                        </persName>
+                        <persName type="full">Clarke, Kenneth (1940–)</persName>
+                        <persName>Clarke, Kenneth</persName>
+                        <persName>Clarke, Kenneth Harry</persName>
+                        <birth when="1940-07-02"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57486</idno>
+                    </person>
+                    <person xml:id="P47396">
+                        <persName>
+                            <forename>Jacques</forename>
+                            <surname>Delors</surname>
+                        </persName>
+                        <persName type="full">Delors, Jacques (1925–)</persName>
+                        <persName>Delors, Jacques</persName>
+                        <birth when="1925-07-20">
+                            <placeName>Paris</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47396</idno>
+                    </person>
+                    <person xml:id="P57485">
+                        <persName>
+                            <forename>Norman</forename>
+                            <surname>Fowler</surname>
+                        </persName>
+                        <persName type="full">Fowler, Norman (1938–)</persName>
+                        <persName>Fowler, Baron Fowler, Norman Peter</persName>
+                        <persName>Fowler, Norman</persName>
+                        <birth when="1938-02-02"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57485</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName type="full">Gorbachev, Mikhail Sergeyevich (1931–)</persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P57501">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>Gummer</surname>
+                        </persName>
+                        <persName type="full">Gummer, John (1939–)</persName>
+                        <persName>Gummer, John</persName>
+                        <persName>The Lord Deben</persName>
+                        <persName>Gummer, John Selwyn</persName>
+                        <persName>Gummer, Baron Deben, John Selwyn</persName>
+                        <birth when="1939-11-26">
+                            <placeName>Stockport</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57501</idno>
+                    </person>
+                    <person xml:id="P54804">
+                        <persName>
+                            <forename>Geoffrey</forename>
+                            <surname>Howe</surname>
+                        </persName>
+                        <persName type="full">Howe, Geoffrey (1926–2015)</persName>
+                        <persName>Howe of Aberavon, Baron</persName>
+                        <persName>Howe, Richard Edward Geoffrey</persName>
+                        <persName>Howe, Geoffrey</persName>
+                        <birth when="1926-12-20">
+                            <placeName>Port Talbot</placeName>
+                        </birth>
+                        <death when="2015-10-09">
+                            <placeName>Warwickshire </placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54804</idno>
+                    </person>
+                    <person xml:id="P57401">
+                        <persName>
+                            <forename>Douglas R.</forename>
+                            <surname>Hurd</surname>
+                        </persName>
+                        <persName type="full">Hurd, Douglas R. (1930–)</persName>
+                        <persName>Hurd, Douglas R.</persName>
+                        <birth when="1930-03-08">
+                            <placeName>Marlborough</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57401</idno>
+                    </person>
+                    <person xml:id="P57506">
+                        <persName>
+                            <forename>Jean-Claude</forename>
+                            <surname>Juncker</surname>
+                        </persName>
+                        <persName type="full">Juncker, Jean-Claude (1954–)</persName>
+                        <persName>Juncker, Jean-Claude</persName>
+                        <birth when="1954-12-09"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57506</idno>
+                    </person>
+                    <person xml:id="P57496">
+                        <persName>
+                            <forename>Tom</forename>
+                            <surname>King</surname>
+                        </persName>
+                        <persName type="full">King, Tom (1933–)</persName>
+                        <persName>King, Tom</persName>
+                        <persName>King, Baron King of Bridgwater, Thomas Jeremy</persName>
+                        <persName>Lord King of Bridgwater</persName>
+                        <birth when="1933-06-13">
+                            <placeName>Rugby</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57496</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57505">
+                        <persName>
+                            <forename>Wim</forename>
+                            <surname>Kok</surname>
+                        </persName>
+                        <persName type="full">Kok, Wim (1938–2018)</persName>
+                        <persName>Kok, Wim</persName>
+                        <persName>Kok, Willem</persName>
+                        <birth when="1938-09-29"/>
+                        <death when="2018-08-20">
+                            <placeName>Amsterdam</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57505</idno>
+                    </person>
+                    <person xml:id="P57502">
+                        <persName>
+                            <forename>Norman</forename>
+                            <surname>Lamont</surname>
+                        </persName>
+                        <persName type="full">Lamont, Norman (1942–)</persName>
+                        <persName>The Lord Lamont of Lerwick</persName>
+                        <persName>Lamont, Norman</persName>
+                        <persName>Lamont, Baron Lamont of Lerwick, Norman Stewart Hughson</persName>
+                        <birth when="1942-05-08"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57502</idno>
+                    </person>
+                    <person xml:id="P55622">
+                        <persName>
+                            <forename/>
+                            <surname>Lord Belstead</surname>
+                        </persName>
+                        <persName type="full">Lord Belstead (1932–2005)</persName>
+                        <persName>Lord Belstead</persName>
+                        <persName>Ganzoni, John Julian</persName>
+                        <birth when="1932-09-30">
+                            <placeName>Ipswich</placeName>
+                        </birth>
+                        <death when="2005-12-03">
+                            <placeName>Ipswich</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P55622</idno>
+                    </person>
+                    <person xml:id="P57500">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>MacGregor</surname>
+                        </persName>
+                        <persName type="full">MacGregor, John (1937–)</persName>
+                        <persName>The Lord MacGregor of Pulham Market</persName>
+                        <persName>MacGregor, John</persName>
+                        <persName>MacGregor, Baron MacGregor of Pulham Market, John Ruddick Russell</persName>
+                        <birth when="1937-02-14">
+                            <placeName>London</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57500</idno>
+                    </person>
+                    <person xml:id="P57494">
+                        <persName>
+                            <forename>James</forename>
+                            <surname>Mackay</surname>
+                        </persName>
+                        <persName type="full">Mackay, James (1927–)</persName>
+                        <persName>Lord Mackay of Clashfern</persName>
+                        <persName>Mackay, Baron Mackay of Clashfern, James Peter Hymers</persName>
+                        <persName>Mackay, James</persName>
+                        <birth when="1927-07-02">
+                            <placeName>Édimbourg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57494</idno>
+                    </person>
+                    <person xml:id="P57495">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>Major</surname>
+                        </persName>
+                        <persName type="full">Major, John (1943–)</persName>
+                        <persName>Major, John</persName>
+                        <birth when="1943-03-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57495</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName type="full">Mitterrand, François (1916–1996)</persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName type="full">Modrow, Hans (1928–)</persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57490">
+                        <persName>
+                            <forename>Antony</forename>
+                            <surname>Newton</surname>
+                        </persName>
+                        <persName type="full">Newton, Antony (1937–2012)</persName>
+                        <persName>Newton, Antony</persName>
+                        <persName>Newton, Baron Newton of Braintree, Antony Harold</persName>
+                        <persName>Newton, Tony</persName>
+                        <birth when="1937-08-29"/>
+                        <death when="2012-03-25"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57490</idno>
+                    </person>
+                    <person xml:id="P55897">
+                        <persName>
+                            <forename>Cecil</forename>
+                            <surname>Parkinson</surname>
+                        </persName>
+                        <persName type="full">Parkinson, Cecil (1931–2016)</persName>
+                        <persName>Parkinson, Cecil</persName>
+                        <birth when="1931-09-01">
+                            <placeName>Lancashire</placeName>
+                        </birth>
+                        <death when="2016-01-22"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P55897</idno>
+                    </person>
+                    <person xml:id="P57499">
+                        <persName>
+                            <forename>Chris</forename>
+                            <surname>Patten</surname>
+                        </persName>
+                        <persName type="full">Patten, Chris (1944–)</persName>
+                        <persName>The Lord Patten of Barnes</persName>
+                        <persName>Patten, Chris</persName>
+                        <persName>Patten, Baron Patten of Barnes, Christopher Francis</persName>
+                        <birth when="1944-05-12"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57499</idno>
+                    </person>
+                    <person xml:id="P57503">
+                        <persName>
+                            <forename>Tim</forename>
+                            <surname>Renton</surname>
+                        </persName>
+                        <persName type="full">Renton, Tim (1932–)</persName>
+                        <persName>Renton, Tim</persName>
+                        <persName>The Lord Renton of Mount Harry</persName>
+                        <persName>Renton, Timothy</persName>
+                        <persName> Renton, Baron Renton of Mount Harry, Ronald Timothy</persName>
+                        <birth when="1932-05-28"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57503</idno>
+                    </person>
+                    <person xml:id="P48293">
+                        <persName>
+                            <forename>Nicholas</forename>
+                            <surname>Ridley</surname>
+                        </persName>
+                        <persName type="full">Ridley, Nicholas (1929–1993)</persName>
+                        <persName>Ridley, Nicholas</persName>
+                        <persName>Baron Ridley of Liddesdale</persName>
+                        <birth when="1929-02-17"/>
+                        <death when="1993-03-04"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P48293</idno>
+                    </person>
+                    <person xml:id="P57487">
+                        <persName>
+                            <forename>Malcolm</forename>
+                            <surname>Rifkind</surname>
+                        </persName>
+                        <persName type="full">Rifkind, Malcolm (1946–)</persName>
+                        <persName>Rifkind, Malcolm Leslie</persName>
+                        <persName>Rifkind, Malcolm</persName>
+                        <birth when="1946-06-21">
+                            <placeName>Édimbourg</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57487</idno>
+                    </person>
+                    <person xml:id="P46108">
+                        <persName>
+                            <forename>Gerhard</forename>
+                            <surname>Stoltenberg</surname>
+                        </persName>
+                        <persName type="full">Stoltenberg, Gerhard (1928–2001)</persName>
+                        <persName>Stoltenberg, Gerhard</persName>
+                        <birth when="1928-09-29">
+                            <placeName>Kiel</placeName>
+                        </birth>
+                        <death when="2001-11-23">
+                            <placeName>Bad-Godesberg</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46108</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName type="full">Thatcher, Margaret (1925–2013)</persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                    <person xml:id="P57484">
+                        <persName>
+                            <forename>David</forename>
+                            <surname>Waddington</surname>
+                        </persName>
+                        <persName type="full">Waddington, David (1929–2017)</persName>
+                        <persName>Waddigton, Baron Waddington, David Charles</persName>
+                        <persName>Waddington, David</persName>
+                        <birth when="1929-08-02">
+                            <placeName>Burnley</placeName>
+                        </birth>
+                        <death when="2017-02-23"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57484</idno>
+                    </person>
+                    <person xml:id="P54838">
+                        <persName>
+                            <forename>Theo</forename>
+                            <surname>Waigel</surname>
+                        </persName>
+                        <persName type="full">Waigel, Theo (1939–)</persName>
+                        <persName>Waigel, Theo</persName>
+                        <persName>Waigel, Theodor</persName>
+                        <birth when="1939-04-22">
+                            <placeName>Ursberg </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54838</idno>
+                    </person>
+                    <person xml:id="P57488">
+                        <persName>
+                            <forename>John</forename>
+                            <surname>Wakeham</surname>
+                        </persName>
+                        <persName type="full">Wakeham, John (1932–)</persName>
+                        <persName>Wakeham, Baron Wakeham, John</persName>
+                        <persName>Wakeham, John</persName>
+                        <birth when="1932-06-22"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57488</idno>
+                    </person>
+                    <person xml:id="P50851">
+                        <persName>
+                            <forename>Peter </forename>
+                            <surname>Walker</surname>
+                        </persName>
+                        <persName type="full">Walker, Peter  (1932–2010)</persName>
+                        <persName>Walker, Baron Walker of Worcester, Peter Edward</persName>
+                        <persName>Walker, Peter </persName>
+                        <birth when="1932-03-25"/>
+                        <death when="2010-06-23">
+                            <placeName>Worcester</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P50851</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R1110">
+                        <orgName>Bank of England</orgName>
+                        <idno type="URI">https://dodis.ch/R1110</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R804">
+                        <orgName>British Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R804</idno>
+                    </org>
+                    <org xml:id="R19371">
+                        <orgName>EU/European Commission (2009-)</orgName>
+                        <idno type="URI">https://dodis.ch/R19371</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R25156">
+                        <orgName>EU/European Council (2009-)</orgName>
+                        <idno type="URI">https://dodis.ch/R25156</idno>
+                    </org>
+                    <org xml:id="R10096">
+                        <orgName>European Free Trade Association</orgName>
+                        <idno type="URI">https://dodis.ch/R10096</idno>
+                        <placeName ref="#G28">Geneva</placeName>
+                    </org>
+                    <org xml:id="R9899">
+                        <orgName>European Union</orgName>
+                        <idno type="URI">https://dodis.ch/R9899</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R25291">
+                        <orgName>GB/National Health Service</orgName>
+                        <idno type="URI">https://dodis.ch/R25291</idno>
+                    </org>
+                    <org xml:id="R30076">
+                        <orgName>GB/Polizei</orgName>
+                        <idno type="URI">https://dodis.ch/R30076</idno>
+                    </org>
+                    <org xml:id="R33469">
+                        <orgName>GB/Prime Minister's Office</orgName>
+                        <idno type="URI">https://dodis.ch/R33469</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R8745">
+                        <orgName>GB/Privy Council</orgName>
+                        <idno type="URI">https://dodis.ch/R8745</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/<choice>
+                                <abbr>FRG</abbr>
+                                <expan>Federal Republic of Germany</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/<choice>
+                                <abbr>GDR</abbr>
+                                <expan>German Democratic Republic</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R130">
+                        <orgName>Great Britain/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R130</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R360">
+                        <orgName>Great Britain/Parliament</orgName>
+                        <idno type="URI">https://dodis.ch/R360</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R8">
+                        <orgName>Hungary/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R8</idno>
+                        <placeName ref="#G8">Budapest</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (<choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R28143">
+                        <orgName>South-West African People's Organisation</orgName>
+                        <idno type="URI">https://dodis.ch/R28143</idno>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>
+                            <choice>
+                                <abbr>USSR</abbr>
+                                <expan>Union of Soviet Socialist Republics</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R202">
+                        <orgName>United Nations</orgName>
+                        <idno type="URI">https://dodis.ch/R202</idno>
+                        <placeName ref="#G23">New York</placeName>
+                    </org>
+                    <org xml:id="R11606">
+                        <orgName>Western European Union (<choice>
+                                <abbr>WEU</abbr>
+                                <expan>Western European Union</expan>
+                            </choice>)</orgName>
+                        <idno type="URI">https://dodis.ch/R11606</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.6 8.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G9">
+                        <placeName>Atlantic Ocean</placeName>
+                        <location>
+                            <geo>-14.599414 -28.673147</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G9</idno>
+                    </place>
+                    <place xml:id="G25">
+                        <placeName>Berlin</placeName>
+                        <location>
+                            <geo>52.520008 13.404954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G25</idno>
+                    </place>
+                    <place xml:id="G29">
+                        <placeName>China</placeName>
+                        <location>
+                            <geo>35.86166 104.1954</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G29</idno>
+                    </place>
+                    <place xml:id="G807">
+                        <placeName>Dresden</placeName>
+                        <location>
+                            <geo>51.050407 13.737262</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G807</idno>
+                    </place>
+                    <place xml:id="G3061">
+                        <placeName>East Berlin</placeName>
+                        <location>
+                            <geo>52.578387 13.405563</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3061</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.152096 31.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.525963 15.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.22764 2.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.052 12.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.162495 19.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735 -0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G196">
+                        <placeName>Luxemburg</placeName>
+                        <location>
+                            <geo>49.815273 6.129583</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G196</idno>
+                    </place>
+                    <place xml:id="G7621">
+                        <placeName>Namibia</placeName>
+                        <location>
+                            <geo>-22 17</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G7621</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.132633 5.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.919437 19.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.7225 83.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G2361">
+                        <placeName>Strasbourg</placeName>
+                        <location>
+                            <geo>48.58315 7.747882</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2361</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116 -85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805 -3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024 -95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.484946 13.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                    <place xml:id="G15390">
+                        <placeName>West Midlands (County)</placeName>
+                        <location>
+                            <geo>52.5 -1.833333</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G15390</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.628424 0.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                    <place xml:id="G69">
+                        <placeName>Yugoslavia</placeName>
+                        <location>
+                            <geo>43.8 18.4</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G69</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="52918-0.png"/>
+        <graphic url="52918-1.png"/>
+        <graphic url="52918-2.png"/>
+        <graphic url="52918-3.png"/>
+        <graphic url="52918-4.png"/>
+        <graphic url="52918-5.png"/>
+        <graphic url="52918-6.png"/>
+        <graphic url="52918-7.png"/>
+        <graphic url="52918-8.png"/>
+        <graphic url="52918-9.png"/>
+        <graphic url="52918-10.png"/>
+        <graphic url="52918-11.png"/>
+        <graphic url="52918-12.png"/>
+        <graphic url="52918-13.png"/>
+    </facsimile>
+    <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52918">dodis.ch/52918</ref>
+               <title type="main">Minutes<note xml:id="e1955">Minutes: <idno>
+                                <choice>
+                                    <abbr>UK</abbr>
+                                    <expan>United Kingdom</expan>
+                                </choice> National Archives
+                        CAB 128/94</idno>. Present at this meeting were: <persName key="P32055">Margaret Thatcher</persName> (Prime
+                     Minister),<persName key="P54804">Geoffrey
+                     Howe</persName> (Lord President of the Council), <persName key="P57494">James Mackay</persName> (Lord Chancellor), <persName key="P57401">Douglas Hurd</persName>
+                     (Secretary of State for Foreign and Commonwealth Affairs), <persName key="P57495">John Major</persName>
+                     (Chancellor of the Exchequer), <persName key="P57484">David Waddington</persName> (Secretary of State for the Home
+                     Department), <persName key="P50851">Peter
+                     Walker</persName> (Secretary of State for Wales), <persName key="P57485">Norman Fowler</persName> (Secretary of State for Employment), <persName key="P57496">Tom King</persName>
+                     (Secretary of State for Defence), <persName key="P48293">Nicholas Ridley</persName> (Secretary of State for Trade and
+                     Industry), <persName key="P57498">Kenneth
+                     Baker</persName> (Chancellor of the Duchy of Lancaster), <persName key="P57486">Kenneth Clarke</persName>
+                     (Secretary of State for Health), <persName key="P57500">John MacGregor</persName> (Secretary of State for Education and
+                     Science), Malcom
+                     <persName key="P57487">Rifkind</persName> (Secretary of State for Scotland), <persName key="P55897">Cecil Parkinson</persName>
+                     (Secretary of State for Transport), <persName key="P57488">John Wakeham</persName> (Secretary of State for Energy), <persName key="P55622">John Ganzoni</persName> (Lord
+                     Privy Seal),
+                     <persName key="P57490">Antony Newton</persName> (Secretary of State for Social Security), Christopher <persName key="P57499">Patten</persName>
+                     (Secretary of State for the Environment), <persName key="P57491">Peter Brooke</persName> (Secretary of State for Northern
+                     Ireland), <persName key="P57501">John
+                     Gummer</persName> (Minister of Agriculture, Fisheries and Food) and <persName key="P57502">Norman Lamont</persName>
+                     (Chief Secretary, Treasury).</note> of the 34<hi>th</hi> Meeting of the Cabinet
+                  held at 10 Downing Street on 15 November 1989 at 9.30 a.m.</title>
+            </head>
+            <opener>
+               <add>
+                        <add type="edition">
+                            <emph>Extract</emph>
+                        </add>Secret</add>
+            </opener>
+            <p n="1">
+               <add type="edition">[…]</add>
+               <note xml:id="e2035">For the complete version of the document cf. <ref target="https://dodis.ch/52918">dodis.ch/52918</ref>.</note>
+            </p>
+            <p/>
+            <p n="1">
+               <emph>Foreign Affairs: German Democratic Republic</emph>
+            </p>
+            <p>3. <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P57401"><emph>The Foreign and Commonwealth Secretary</emph></tei:persName>
+                     said that events in East Germany had moved very
+               rapidly, particularly following the measures taken to introduce freer travel between
+               East and West Berlin. The key question now was whether the East German government
+               would agree to hold free elections. Their intentions were still obscure. The new
+               Prime Minister, Herr <persName key="P54796">Hans Modrow</persName>, the former Party Secretary in
+               Dresden, had been elected on 13 November. He had the reputation of a reformer. The
+               Party Congress had been brought forward to 15/17 December. This was bound to be a
+               crucially important occasion. The opposition groups were pressing for free elections,
+               but did not want these to take place immediately since they were not yet ready. There
+               had been intensive diplomatic activity as events in East Germany unfolded. The <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P32055">Prime
+                  Minister</tei:persName> had been in close touch with other
+               allied leaders. Despite excessive press speculation, allied governments had reacted
+               steadily and with caution. This had emerged clearly at the Western European Union
+               Ministerial meeting on 13/14 November. The French President, M. <persName key="P13775">Francois
+                  Mitterrand</persName>, had organised a meeting of European Community (<choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>)
+               leaders on 18 November. It was to be hoped that <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> leaders would express their
+               support and welcome for the changes taking place in Eastern Europe while agreeing on
+               the need for a careful and steadfast approach, based on existing well-tried
+               institutions. Account had to be taken of the position of the Soviet President, Mr
+               <persName key="P31707">Mikhail Gorbachev</persName>. He faced a difficult situation but it was very
+               much in the interests of Western governments that he should remain in power. The
+               question of German reunification was extremely sensitive. Given the German
+               Constitution and political life in West Germany, it was inevitable that there should
+               be some discussion of reunification. All the allied governments had been committed to
+               this general principle for many years. At the same time no-one in a position of
+               influence in the West or East believed that reunification was likely to happen
+               rapidly, or that this would be desirable in the near future. This view was also
+               shared by reformers inside East Germany. President Mitterrand’s purpose in organising
+               the meeting on 18 November was probably to try to dispose of developments in Eastern
+               Europe before the European Council meeting in Strasbourg on 8/9 November. This was
+               unrealistic. Much was likely to happen in the intervening period before the European
+               Council. Moreover, these issues were so important for the future of the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> that they
+               would need to be discussed again in depth at the European Council. Nevertheless, on
+               the whole the allied response in Eastern Europe had been sensible and prudent.</p>
+            <p>In discussion, the following points were made:</p>
+            <p>a) A clear framework for dealing with the changes in Eastern Europe had been laid
+               down, most recently in the Prime Minister’s speech at the Lord Mayor’s Banquet on 13
+               November. It was essential to maintain existing institutions, especially the North
+               Atlantic Treaty Organisation. Ministers should not raise the issue of German
+               reunification, which was not an immediate issue. Progress had already been achieved
+               on strengthening the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>’s economic relations with East European countries. The <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> had
+               signed trade agreements with Poland and Hungary, and an association agreement with
+               Yugoslavia. In due course Poland and Hungary might want to negotiate association
+               agreements. Such a development was unlikely to cause major problems for the Soviet
+               leadership. If events moved too quickly or Western governments did not continue to
+               take a measured and prudent attitude, there was a risk that President Gorbachev might
+               be swept away. This would cause grave damage to the broader Western objective of
+               promoting democracy throughout both parts of Europe, and ultimately from the Atlantic
+               through the Soviet Union to the borders of China. The <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> could not ignore these
+               crucially important processes of historic change which would have a profound effect
+               on developments within the Community.</p>
+            <p>b) The West German Finance Minister, Herr <persName key="P54838">Waigel</persName>, had made clear both in the
+               formal and informal meetings of the Economic and Finance Council on 13 November that
+               West Germany saw its future as remaining an integral member of the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> and Western
+               Europe. Herr Waigel had emphasised that West Germany was not seeking reunification at
+               the present time. The same line had been taken by the West German Foreign Minister,
+               Herr <persName key="P15414">Genscher</persName>, and the
+               Defence Minister, Herr <persName key="P46108">Stoltenberg</persName>, at the Western European Union
+               Ministerial meeting. Nevertheless, these statements contrasted with the greater
+               attention paid to the theme of reunification by Chancellor <persName key="P31852">Kohl</persName> in
+               recent speeches, though it should be remembered that he had always been one of the
+               foremost advocates of reunification among German political leaders.</p>
+            <p>c) Against this background, the West German government was likely to show an
+               increasing tendency to examine new proposals for greater integration within the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> in
+               the light of the implications for closer relations between East and West Germany and
+               eventual reunification. In certain cases this tendency might be helpful to Britain’s
+               own interests.</p>
+            <p>d) In reality there were already close links between East and West Germany. West
+               German companies were able to take advantage of cheap labour in East Germany in their
+               manufacturing processes. Goods from East Germany were admitted to West Germany, and
+               hence into the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>, without tariffs or quotas. Hitherto West German companies had been
+               deterred from major investment in East Germany because of the political situation
+               there. The recent changes were likely to stimulate a significant flow of new West
+               German investment in East Germany. The Polish and Hungarian governments had stressed
+               recently that they attached importance to securing increased investment from Britain
+               and other <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> countries to maintain the preponderant weight of West German trade and
+               investment flows. On the other hand, East Germany and the other reforming East
+               European countries would have great difficulty in practice in implementing the
+               structural changes necessary to create genuine market economies based on private
+               enterprise. This was likely to be a long process.</p>
+            <p>e) West Germany had a trade surplus of £35 billion with the rest of the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> in 1988.
+               Closer economic links between East and West Germany would present a formidable
+               challenge to the other members of the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>. With a combined population of nearly 80
+               million people this economic entity would have a major distorting effect on <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>
+               projects for closer economic and financial unity and the concept of a Single Market.
+               The <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> could not afford to ignore the <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>’s relations with the European Free Trade
+               Area (<choice>
+                        <abbr>EFTA</abbr>
+                        <expan>European Free Trade Area</expan>
+                    </choice>). The <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice>’s import standards would need to be maintained both in relation
+               to East Germany and <choice>
+                        <abbr>EFTA</abbr>
+                        <expan>European Free Trade Area</expan>
+                    </choice>.</p>
+            <p/>
+            <p n="1">
+                    <emph>The Prime Minister</emph> summing up the discussion, said that it was of
+               cardinal importance for Western governments that all these complex questions should
+               be handled carefully and prudently. Allied governments should remain in close touch,
+               especially Britain, France and the United States who had Four Power rights and
+               obligations. Although Western governments had taken a formal position since 1955 in
+               favour of East German self-determination, German reunification should not be treated
+               as an immediate issue. Governments should take due account of the implications of the
+               present turn of events for President Gorbachev’s position. A change in the Soviet
+               leadership would inflict major damage on the prospects for the further spread of
+               democracy in the Soviet Union and Eastern Europe. The <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> would need to discuss these
+               issues in depth both at President Mitterrand’s dinner and at the European Council in
+               Strasbourg. <choice>
+                        <abbr>EC</abbr>
+                        <expan>European Community</expan>
+                    </choice> member states could not simply concentrate on internal developments
+               within the Community without taking account of trends in Europe as a whole. A single
+               European currency was no answer to these wider changes. Although events were moving
+               in a favourable direction, Europe faced a difficult decade ahead.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

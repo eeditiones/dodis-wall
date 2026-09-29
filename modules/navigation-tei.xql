@@ -60,14 +60,29 @@ declare function nav:get-document-title($config as map(*), $root as element()) {
     nav:get-metadata($config, $root, "title")
 };
 
+(:~
+ : Customized for "When the Wall Came Down" (Dodis): prefer the editorial summary as
+ : title and the date of origin as date; skip empty candidates.
+ :)
 declare function nav:get-metadata($config as map(*), $root as element(), $field as xs:string) {
     switch ($field)
         case "title" return
             let $header := $root/tei:teiHeader
+            let $main := ($root//tei:body//tei:head/tei:title[@type = 'main'])[1]
+            (: returned as a text node: callers like iiif-config.xqm expect nodes (".../string()") :)
+            let $plain :=
+                if ($main) then
+                    normalize-space(string-join($main//text()[not(ancestor::tei:note or ancestor::tei:expan)], ''))
+                    => replace('\s+([,.;:])', '$1')
+                else
+                    ()
             return
             (
-                $header//tei:msDesc/tei:head, $header//tei:titleStmt/tei:title[@type = 'main'],
-                $header//tei:titleStmt/tei:title
+                $plain[. != ''] ! text { . },
+                $header//tei:msDesc/tei:msContents/tei:summary[normalize-space()],
+                $header//tei:msDesc/tei:head[normalize-space()],
+                $header//tei:titleStmt/tei:title[@type = 'main'][normalize-space()],
+                $header//tei:titleStmt/tei:title[normalize-space()]
             )[1]
         case "author" return (
             $root/tei:teiHeader//tei:titleStmt/tei:author,
@@ -76,6 +91,8 @@ declare function nav:get-metadata($config as map(*), $root as element(), $field 
         case "language" return
             ($root/@xml:lang/string(), $root/tei:teiHeader/@xml:lang/string(), "en")[1]
         case "date" return (
+            $root/tei:teiHeader//tei:msDesc/tei:history/tei:origin/@when,
+            $root/tei:teiHeader//tei:correspDesc/tei:correspAction/tei:date/@when,
             $root/tei:teiHeader/tei:fileDesc/tei:editionStmt/tei:edition/tei:date,
             $root/tei:teiHeader/tei:publicationStmt/tei:date
         )[1]
@@ -88,14 +105,13 @@ declare function nav:get-metadata($config as map(*), $root as element(), $field 
 declare function nav:sort($sortBy as xs:string, $items as element()*) {
     switch ($sortBy)
         case "date" return
-            sort($items, (), ft:field(?, "date", "xs:date"))
-        case "number-in-volume" return
-            for $item in $items
-            order by ft:field($item, "number-in-volume", "xs:integer")
-            return
-                $item
+            try {
+                sort($items, (), ft:field(?, "date", "xs:date"))
+            } catch * {
+                sort($items, (), ft:field(?, "date"))
+            }
         default return
-            sort($items, (), ft:field(?, $sortBy))
+            sort($items, 'http://www.w3.org/2013/collation/UCA', ft:field(?, $sortBy))
 };
 
 
@@ -136,11 +152,20 @@ declare function nav:get-content($config as map(*), $div as element()) {
 };
 
 declare function nav:get-subsections($config as map(*), $root as node()) {
-    $root//tei:div[tei:head] except $root//tei:div[tei:head]//tei:div
+    (: Usually divisions have headings, which are used for the TOC labels :)
+    (: In case headings are not available, the divisions are passed instead and 
+    one must take care in the ODD to provide models for processing divs as TOC :)
+
+    let $headed := $root//tei:div[tei:head] except $root//tei:div[tei:head]//tei:div
+    let $subsections := if (count($headed)) then $headed else $root//tei:div except $root//tei:div//tei:div
+
+    (: respect the pagination-depth setting :)
+    return $subsections/self::tei:div[count(ancestor::tei:div) < $config?depth]
 };
 
 declare function nav:get-section-heading($config as map(*), $section as node()) {
-    $section/tei:head
+    (: If heading is not available, pass through the section (division) :)
+    if (count($section/tei:head)) then $section/tei:head else $section
 };
 
 declare function nav:is-filler($config as map(*), $div) {
@@ -290,8 +315,9 @@ declare function nav:milestone-chunk($ms1 as element(), $ms2 as element()?, $nod
             else if ( $descendantCheck($node, $ms1, $ms2) ) then
                 element { node-name($node) } {
                     $node/@*,
-                    for $i in ( $node/node() )
-                    return nav:milestone-chunk($ms1, $ms2, $i, $descendantCheck)
+                    for $i in $node/node()
+                    return 
+                        nav:milestone-chunk($ms1, $ms2, $i, $descendantCheck)
                 }
             else if ($node >> $ms1 and (empty($ms2) or $node << $ms2)) then
                 util:expand($node, "add-exist-id=all")

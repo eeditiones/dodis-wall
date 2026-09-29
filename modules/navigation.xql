@@ -1,6 +1,6 @@
 (:
  :
- :  Copyright (C) 2017 Wolfgang Meier
+ :  Copyright (C) 2017 TEI Publisher Project
  :
  :  This program is free software: you can redistribute it and/or modify
  :  it under the terms of the GNU General Public License as published by
@@ -35,7 +35,8 @@ declare %private function nav:dispatch($config as map(*), $function as xs:string
 
 declare function nav:get-root($root as xs:string?, $options as map(*)?) {
     tei-nav:get-root($root, $options),
-    docbook-nav:get-root($root, $options)
+    docbook-nav:get-root($root, $options),
+    jats-nav:get-root($root, $options)
 };
 
 declare function nav:get-header($config as map(*), $node as element()) {
@@ -102,14 +103,50 @@ declare function nav:is-filler($config as map(*), $div) {
 };
 
 declare function nav:output-footnotes($footnotes as element()*) {
-    <div class="popovers">
-    {
-        $footnotes/self::pb-popover
-    }
-    </div>,
-    <div class="footnotes">
-    {
-        $footnotes[not(self::pb-popover)]
-    }
-    </div>
+    let $sorted :=
+        for $fn in $footnotes
+        let $label := normalize-space(($fn//*[@class = "fn-number"])[1])
+        (: Letter/text-critical marks (a, b, c…) before numbered commentary (1, 2, 3…). :)
+        let $group := if (matches($label, '^\d+$')) then 1 else 0
+        order by $group,
+            if ($group = 1) then xs:integer($label) else $label
+        return
+            $fn
+    return (
+        <div class="popovers">
+        {
+            $sorted/self::pb-popover
+        }
+        </div>,
+        <div class="footnotes">
+        {
+            $sorted[not(self::pb-popover)]
+        }
+        </div>
+    )
+};
+
+declare function nav:toc-entry($context as map(*), $content as node()?, $collapse as xs:boolean?) {
+    if ($context?hasDivs) then
+        <details>
+            {
+                if (not($collapse)) then
+                    attribute open { "open" }
+                else
+                    ()
+            }
+            <summary>
+            {
+                if ($context?xmlId) then
+                    <pb-link xml-id="{$context?xmlId}" node-id="{$context?nodeId}" emit="{$context?target}" subscribe="{$context?target}">{$context?label}</pb-link>
+                else
+                    <pb-link node-id="{$context?nodeId}" emit="{$context?target}" subscribe="{$context?target}">{$context?label}</pb-link>
+            }
+            </summary>
+            { $content }
+        </details>
+    else if ($context?xmlId) then
+        <pb-link xml-id="{$context?xmlId}" node-id="{$context?nodeId}" emit="{$context?target}" subscribe="{$context?target}">{$context?label}</pb-link>
+    else
+        <pb-link node-id="{$context?nodeId}" emit="{$context?target}" subscribe="{$context?target}">{$context?label}</pb-link>
 };

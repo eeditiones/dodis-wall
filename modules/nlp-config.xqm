@@ -7,13 +7,9 @@ declare namespace tei="http://www.tei-c.org/ns/1.0";
 (:~
  : Named entity recognition: endpoint of the python API
  :)
-declare variable $nlp:api-endpoint :=
+declare variable $nlp:api-endpoint := 
     (util:system-property("teipublisher.ner-endpoint"), "http://localhost:8001")[1];
 
-(:~
- : List of named entity types to be used for training, see nlp:entity-type below
- :)
-declare variable $nlp:entities := ("PER", "LOC", "ORG");
 
 (:~
  : Defines which TEI elements should be mapped to which named entity type.

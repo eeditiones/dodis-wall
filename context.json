@@ -1,0 +1,367 @@
+{
+  "actions" : [ {
+    "app" : "jinks",
+    "description" : "Reindex the data",
+    "label" : "Reindex data",
+    "name" : "reindex"
+  }, {
+    "description" : "Rebuild list of ODDs and recompile",
+    "label" : "Fix ODDs",
+    "name" : "fix-odds"
+  }, {
+    "app" : "jinks",
+    "description" : "Download the app as a `.xar` file",
+    "label" : "Download",
+    "name" : "download"
+  }, {
+    "app" : "jinks",
+    "description" : "Sync the app to a directory on the local file system",
+    "label" : "Sync",
+    "name" : "file-sync",
+    "parameters" : [ {
+      "required" : true,
+      "description" : "The path to the target directory",
+      "label" : "Directory",
+      "name" : "target"
+    } ]
+  } ],
+  "profiles" : [ "base10", "iiif", "registers", "theme-base10", "modern-theme", "landing-page" ],
+  "shortname" : "register",
+  "label" : "When the Wall Came Down",
+  "odds" : [ "teipublisher.odd", "landing.odd", "wall.odd" ],
+  "editable" : [ "^collection\\.xconf$", "^index\\.xql$", "^modules/navigation[^/]*\\.xql$", "^modules/query[^/]*\\.xql$", "^modules/facets-config\\.xql$" ],
+  "version" : "1.1.0",
+  "id" : "https://e-editiones.org/apps/wall-came-down",
+  "styles" : [ "https://cdn.jsdelivr.net/npm/theme-toggles@4.10.1/css/classic.min.css", "resources/css/pico-components.css", "resources/css/jinks-theme.css", "resources/css/modern-theme.css", "resources/css/wall.css", "resources/css/wall-register.css" ],
+  "_noDeploy" : false,
+  "profile-versions" : {
+    "modern-theme" : "1.0.0",
+    "base10" : "1.1.0",
+    "theme-base10" : "1.1.0",
+    "landing-page" : "1.1.0",
+    "registers" : "1.1.0",
+    "iiif" : "1.1.0"
+  },
+  "depends" : [ "base10", "theme-base10" ],
+  "profile-changes" : { },
+  "template-suffix" : "\\.tpl",
+  "ignore" : [ "repo.xml", "resources/css/components.css" ],
+  "target" : "/db/apps/wall-came-down",
+  "menu" : {
+    "language" : true,
+    "items" : [ {
+      "url" : "chronicle.html",
+      "id" : "chronicle"
+    }, {
+      "url" : "people",
+      "id" : "people"
+    }, {
+      "url" : "wall-index.html#about",
+      "id" : "about"
+    } ]
+  },
+  "theme" : {
+    "components" : {
+      "styles" : "resources/css/modern-theme-components.css"
+    },
+    "layout" : {
+      "class" : "fixed-layout",
+      "search" : "before-top",
+      "footer" : {
+        "mobile" : {
+          "enabled" : true
+        }
+      },
+      "after" : {
+        "width" : "min(32vw, 380px)",
+        "hidden" : false,
+        "toggle" : true,
+        "collapsible" : true
+      },
+      "before" : {
+        "width" : "min(30vw, 356px)",
+        "hidden" : false,
+        "toggle" : true,
+        "collapsible" : true
+      },
+      "max-width" : "84rem"
+    },
+    "landing" : {
+      "hero" : {
+        "background-position" : "center",
+        "background-color" : "rgba(0, 0, 0, 0.6)",
+        "class" : "two-column",
+        "background-size" : "cover",
+        "background-image" : "../images/bg-header.jpg",
+        "background-repeat" : "no-repeat"
+      },
+      "bottom" : {
+        "background-color" : "rgba(0, 0, 0, 0.4)",
+        "background-size" : "cover",
+        "background-image" : "../images/bg-header.jpg",
+        "background-repeat" : "no-repeat"
+      }
+    },
+    "menubar" : {
+      "background-color" : "#18191c",
+      "color" : "#ffffff",
+      "background-image" : "none"
+    },
+    "registers" : {
+      "columns" : 2
+    },
+    "icons" : [ ],
+    "splash" : {
+      "width" : "360px",
+      "image" : "../images/trabi-splash.png",
+      "height" : "auto"
+    },
+    "body" : {
+      "background-color" : "#f3f0ea"
+    },
+    "logo" : {
+      "width" : "232px",
+      "image" : "../images/wall-plate.svg",
+      "height" : "28px"
+    },
+    "breadcrumbs" : {
+      "max" : "40ch"
+    },
+    "content" : {
+      "max-width" : "70ch"
+    },
+    "texture" : {
+      "background-image" : null
+    },
+    "colors" : {
+      "palettes" : {
+        "green" : "palette-green.css",
+        "teal" : "palette-teal.css",
+        "neutral" : "palette-neutral.css",
+        "blue" : "palette-blue.css",
+        "wall" : "palette-wall.css",
+        "beige" : "palette-beige.css",
+        "dark" : "palette-dark.css"
+      },
+      "palette" : "wall"
+    },
+    "fonts" : {
+      "toc" : {
+        "size" : "1.125rem"
+      },
+      "menubar" : {
+        "size" : "14px"
+      },
+      "footnote" : {
+        "size" : "0.9em",
+        "padding" : "0 0 0 .25em"
+      },
+      "base" : {
+        "family" : "'IBM Plex Sans', 'Inter', sans-serif",
+        "line-height" : "1.4",
+        "size" : "16px",
+        "weight" : "400"
+      },
+      "heading" : {
+        "family" : "'Oswald', 'Inter', sans-serif",
+        "size" : "1.2rem",
+        "weight" : "600"
+      },
+      "breadcrumbs" : {
+        "size" : "0.9rem"
+      },
+      "content" : {
+        "family" : "'IBM Plex Serif', Georgia, serif",
+        "line-height" : "150%",
+        "size" : "1.15rem",
+        "weight" : "400"
+      }
+    },
+    "toolbar" : {
+      "background-color" : "var(--jinks-colors-200)",
+      "color" : "var(--wall-ink)"
+    }
+  },
+  "features" : {
+    "browse" : {
+      "sort" : {
+        "options" : [ {
+          "label" : "Date",
+          "value" : "date",
+          "key" : "browse.date"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "browse.title"
+        } ],
+        "default" : "date"
+      },
+      "field" : {
+        "options" : [ {
+          "label" : "Content",
+          "value" : "text",
+          "key" : "search.content"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "search.title"
+        } ],
+        "default" : "text"
+      }
+    },
+    "menubar" : true,
+    "register" : {
+      "description" : "auto",
+      "enabled" : true
+    },
+    "iiif" : {
+      "viewer" : "pb-tify",
+      "base_uri" : "https://apps.existsolutions.com/cantaloupe/iiif/2/",
+      "milestone_xpath" : "//tei:facsimile/tei:graphic",
+      "replace_facs" : {
+        "regex" : "^[^:]+:(.*)",
+        "replace" : "$1"
+      },
+      "enabled" : true,
+      "page_label" : "concat('Image ', count($pb/preceding-sibling::tei:graphic) + 1)"
+    },
+    "toolbar" : {
+      "zoom" : true,
+      "navigation" : true,
+      "enabled" : true,
+      "progress" : {
+        "subscribe" : "transcription",
+        "enabled" : true
+      }
+    },
+    "toolbar-toggles" : {
+      "toggle-reading" : false,
+      "enabled" : false
+    },
+    "hero" : false,
+    "toc" : {
+      "collapse" : false,
+      "enabled" : false
+    }
+  },
+  "indexing" : {
+    "tei" : {
+      "enable" : true,
+      "context" : "div"
+    },
+    "docbook" : {
+      "enable" : true
+    },
+    "jats" : {
+      "enable" : true
+    }
+  },
+  "data" : {
+    "landing" : "landing/wall-landing.xml"
+  },
+  "_lastModified" : "2026-09-29T09:21:29.399+02:00",
+  "pkg" : {
+    "website" : "http://tei-publisher.org",
+    "abbrev" : "wall-came-down",
+    "author" : "Wolfgang Meier et al.",
+    "version" : "1.1.0",
+    "dependencies" : [ {
+      "semver" : "1",
+      "package" : "http://e-editiones.org/roaster"
+    }, {
+      "semver-min" : "6.1",
+      "package" : "http://existsolutions.com/apps/tei-publisher-lib",
+      "semver-max" : "6"
+    }, {
+      "semver" : "1",
+      "package" : "http://tei-publisher.com/library/jinks-templates"
+    } ],
+    "permissions" : "rw-r--r--",
+    "user" : {
+      "password" : "simple",
+      "name" : "tei",
+      "group" : "tei"
+    }
+  },
+  "description" : "The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)",
+  "_dry" : false,
+  "source" : "/db/apps/jinks/profiles/landing-page",
+  "type" : "feature",
+  "skip" : [ "^doc/.*$", "setup.xql", "config.json" ],
+  "category" : "components",
+  "_overwrite" : "all",
+  "defaults" : {
+    "language" : "en",
+    "language-label" : "label",
+    "data" : "data",
+    "landing" : "wall-index.html",
+    "address-by-id" : false,
+    "odd-root" : "resources/odd",
+    "languages" : [ "en", "de" ],
+    "data-default" : "documents",
+    "direction" : "ltr",
+    "template" : "wall-doc.html",
+    "browse" : "chronicle.html",
+    "search" : "div",
+    "view" : "div",
+    "data-exclude" : [ "doc($config:data-root || '/taxonomy.xml')//tei:text", "collection($config:register-root)//tei:text" ],
+    "odd" : "wall.odd",
+    "pagination" : {
+      "fill" : 5,
+      "depth" : 10
+    },
+    "media" : [ "web", "print", "epub" ],
+    "register-root" : "registers"
+  },
+  "templating" : {
+    "use" : [ "templates/iiif-blocks.html", "templates/register-blocks.html", "templates/wall-blocks.html" ],
+    "modules" : {
+      "http://teipublisher.com/ns/templates/browse" : {
+        "at" : "modules/templates/browse.xqm",
+        "prefix" : "browse"
+      },
+      "http://teipublisher.com/ns/templates/landing-page" : {
+        "at" : "modules/templates/landing-page.xqm",
+        "prefix" : "landing"
+      },
+      "http://teipublisher.com/ns/templates/page" : {
+        "at" : "modules/templates/page.xqm",
+        "prefix" : "page"
+      },
+      "https://e-editiones.org/apps/wall-came-down/templates" : {
+        "at" : "modules/templates/wall.xqm",
+        "prefix" : "wall"
+      },
+      "https://e-editiones.org/apps/wall-came-down/doc" : {
+        "at" : "modules/templates/wall-doc.xqm",
+        "prefix" : "wdoc"
+      }
+    }
+  },
+  "script" : {
+    "custom" : [ "resources/scripts/wall-links.js", "resources/scripts/language.js" ],
+    "webcomponents" : "3.6.8",
+    "extra-components" : [ ],
+    "cdn" : "https://cdn.jsdelivr.net/npm/@teipublisher/pb-components"
+  },
+  "order" : 102,
+  "$schema" : "../../schema/jinks.json",
+  "collection-config" : {
+    "documents" : {
+      "odd" : "wall.odd"
+    }
+  },
+  "_update" : true,
+  "i18n" : [ "registers", "landing-page", "wall" ],
+  "api" : [ {
+    "spec" : "iiif-api.json",
+    "prefix" : "iiif",
+    "id" : "https://e-editiones.org/api/iiif",
+    "path" : "iiif-api.xql"
+  }, {
+    "spec" : "registers-api.json",
+    "prefix" : "rview",
+    "id" : "http://teipublisher.com/api/registers/view",
+    "path" : "registers-api.xql"
+  } ]
+}

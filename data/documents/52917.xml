@@ -1,0 +1,1013 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="38">Preparing for the Six Power German Peance Conference</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="5"/>
+            </extent>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52917</idno>
+                    </msIdentifier>
+                    <head>Preparing for the Six Power German Peance Conference</head>
+                    <msContents>
+                        <summary>Discussion of the <choice>
+                                <abbr>U.S.</abbr>
+                                <expan>United States</expan>
+                            </choice> position in the upcoming Two-Plus-Four Talks on German reunification, particularly in light of Soviet concerns</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-19">19.2.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#type">
+                    <term>Memo</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57408">Scowcroft, Brent (1925–)</persName>
+                    <orgName ref="#R11894">
+                        <choice>
+                            <abbr>USA</abbr>
+                            <expan>United States of America</expan>
+                        </choice>/White House</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P47406">Bush, George Herbert Walker (1924–2018)</persName>
+                    <orgName ref="#R11894">
+                        <choice>
+                            <abbr>USA</abbr>
+                            <expan>United States of America</expan>
+                        </choice>/White House</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName type="full">Bush, George Herbert Walker (1924–2018)</persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P57391">
+                        <persName>
+                            <forename>Dick</forename>
+                            <surname>Cheney</surname>
+                        </persName>
+                        <persName type="full">Cheney, Dick (1941–)</persName>
+                        <persName>Cheney, Dick</persName>
+                        <persName>Cheney, Richard Bruce</persName>
+                        <birth when="1941-01-30"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57391</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31707">
+                        <persName>
+                            <forename>Mikhail Sergeyevich</forename>
+                            <surname>Gorbachev</surname>
+                        </persName>
+                        <persName type="full">Gorbachev, Mikhail Sergeyevich (1931–)</persName>
+                        <persName>Gorbatschow, Michail Sergejewitsch</persName>
+                        <persName>Gorbatchev, Mikhaïl Sergueïevitch</persName>
+                        <persName>Gorbatschow, Michail</persName>
+                        <persName>Gorbačëv, Michail Sergeevič</persName>
+                        <persName>Gorbatchev, Mikhaïl</persName>
+                        <persName>Gorbačëv, Michail</persName>
+                        <persName>Gorbaciov, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail</persName>
+                        <persName>Gorbachev, Mikhail Sergeyevich</persName>
+                        <persName>Gorbatschow, Michael</persName>
+                        <persName>Горбачёв, Михаи́л</persName>
+                        <persName>Горбачёв, Михаи́л Серге́евич</persName>
+                        <birth when="1931-03-02">
+                            <placeName>Priwolnoje </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31707</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57414">
+                        <persName>
+                            <forename>Yegor</forename>
+                            <surname>Ligachev</surname>
+                        </persName>
+                        <persName type="full">Ligachev, Yegor (1920–)</persName>
+                        <persName>Ligachev, Yegor</persName>
+                        <persName>Ligatschow, Jegor Kusmitsch</persName>
+                        <persName>Лигачёв, Его́р Кузьми́ч </persName>
+                        <persName>Ligatchev, Egor Kouzmitch</persName>
+                        <persName>Ligachyov, Yegor Kuzmich</persName>
+                        <birth when="1920-11-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57414</idno>
+                    </person>
+                    <person xml:id="P57378">
+                        <persName>
+                            <forename>Tadeusz</forename>
+                            <surname>Mazowiecki</surname>
+                        </persName>
+                        <persName type="full">Mazowiecki, Tadeusz (1927–2013)</persName>
+                        <persName>Mazowiecki, Tadeusz</persName>
+                        <birth when="1927-04-18">
+                            <placeName>Plock</placeName>
+                        </birth>
+                        <death when="2013-10-28">
+                            <placeName>Varsovie</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57378</idno>
+                    </person>
+                    <person xml:id="P57415">
+                        <persName>
+                            <forename>Gianni De</forename>
+                            <surname>Michelis</surname>
+                        </persName>
+                        <persName type="full">Michelis, Gianni De (1940–)</persName>
+                        <persName>Michelis, Gianni De</persName>
+                        <birth when="1940-11-26">
+                            <placeName>Venice</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57415</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName type="full">Mitterrand, François (1916–1996)</persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName type="full">Modrow, Hans (1928–)</persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57416">
+                        <persName>
+                            <forename>Colin L.</forename>
+                            <surname>Powell</surname>
+                        </persName>
+                        <persName type="full">Powell, Colin L. (1937–)</persName>
+                        <persName>Powell, Colin L.</persName>
+                        <birth when="1937-04-05">
+                            <placeName>New York</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57416</idno>
+                    </person>
+                    <person xml:id="P57408">
+                        <persName>
+                            <forename>Brent</forename>
+                            <surname>Scowcroft</surname>
+                        </persName>
+                        <persName type="full">Scowcroft, Brent (1925–)</persName>
+                        <persName>Scowcroft, Brent</persName>
+                        <birth when="1925-03-19">
+                            <placeName>Ogden</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57408</idno>
+                    </person>
+                    <person xml:id="P54603">
+                        <persName>
+                            <forename>Eduard</forename>
+                            <surname>Shevardnadze</surname>
+                        </persName>
+                        <persName type="full">Shevardnadze, Eduard (1928–2014)</persName>
+                        <persName>Schewardnadse, Eduard</persName>
+                        <persName>შევარდნაძე, ედუარდ</persName>
+                        <persName>Шеварднадзе, Эдуард Амвросиевич</persName>
+                        <persName>Shevardnadze, Eduard</persName>
+                        <persName>Chevardnadze, Edouard</persName>
+                        <birth when="1928-01-25">
+                            <placeName>Mamati</placeName>
+                        </birth>
+                        <death when="2014-07-07">
+                            <placeName>Tbilisi</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54603</idno>
+                    </person>
+                    <person xml:id="P32055">
+                        <persName>
+                            <forename>Margaret</forename>
+                            <surname>Thatcher</surname>
+                        </persName>
+                        <persName type="full">Thatcher, Margaret (1925–2013)</persName>
+                        <persName>La Dame de Fer</persName>
+                        <persName>Thatcher, Margaret</persName>
+                        <persName>Iron Lady</persName>
+                        <birth when="1925-10-13">
+                            <placeName>Grantham</placeName>
+                        </birth>
+                        <death when="2013-04-08">
+                            <placeName>London</placeName>
+                        </death>
+                        <sex>female</sex>
+                        <idno type="URI">https://dodis.ch/P32055</idno>
+                    </person>
+                    <person xml:id="P57417">
+                        <persName>
+                            <forename>Manfred Hermann</forename>
+                            <surname>Wörner</surname>
+                        </persName>
+                        <persName type="full">Wörner, Manfred Hermann (1934–1994)</persName>
+                        <persName>Woerner, Manfred H.</persName>
+                        <persName>Wörner, Manfred Hermann</persName>
+                        <birth when="1934-09-24">
+                            <placeName>Stuttgart</placeName>
+                        </birth>
+                        <death when="1994-08-12">
+                            <placeName>Brussels</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57417</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R519">
+                        <orgName>Allied Control Council</orgName>
+                        <idno type="URI">https://dodis.ch/R519</idno>
+                        <placeName ref="#G25">Berlin</placeName>
+                    </org>
+                    <org xml:id="R9485">
+                        <orgName>Bundeswehr</orgName>
+                        <idno type="URI">https://dodis.ch/R9485</idno>
+                    </org>
+                    <org xml:id="R4141">
+                        <orgName>Deutschland/BRD/Sozialdemokratische Partei (1946-)</orgName>
+                        <idno type="URI">https://dodis.ch/R4141</idno>
+                    </org>
+                    <org xml:id="R32011">
+                        <orgName>Deutschland/DDR/Sozialdemokratische Partei in der DDR</orgName>
+                        <idno type="URI">https://dodis.ch/R32011</idno>
+                    </org>
+                    <org xml:id="R95">
+                        <orgName>France/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R95</idno>
+                        <placeName ref="#G18">Paris</placeName>
+                    </org>
+                    <org xml:id="R31271">
+                        <orgName>G7 (2014 - )</orgName>
+                        <idno type="URI">https://dodis.ch/R31271</idno>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/<choice>
+                                <abbr>FRG</abbr>
+                                <expan>Federal Republic of Germany</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R31997">
+                        <orgName>Germany/<choice>
+                                <abbr>FRG</abbr>
+                                <expan>Federal Republic of Germany</expan>
+                            </choice>/The Greens</orgName>
+                        <idno type="URI">https://dodis.ch/R31997</idno>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/<choice>
+                                <abbr>GDR</abbr>
+                                <expan>German Democratic Republic</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R130">
+                        <orgName>Great Britain/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R130</idno>
+                        <placeName ref="#G55">London</placeName>
+                    </org>
+                    <org xml:id="R24597">
+                        <orgName>
+                            <choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>/Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R24597</idno>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (<choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R391">
+                        <orgName>Poland/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R391</idno>
+                        <placeName ref="#G144">Varsovie</placeName>
+                    </org>
+                    <org xml:id="R33456">
+                        <orgName>Treaty on Conventional Armed Forces in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R33456</idno>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>
+                            <choice>
+                                <abbr>USA</abbr>
+                                <expan>United States of America</expan>
+                            </choice>/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                    <org xml:id="R569">
+                        <orgName>
+                            <choice>
+                                <abbr>USA</abbr>
+                                <expan>United States of America</expan>
+                            </choice>/Congress</orgName>
+                        <idno type="URI">https://dodis.ch/R569</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R11894">
+                        <orgName>
+                            <choice>
+                                <abbr>USA</abbr>
+                                <expan>United States of America</expan>
+                            </choice>/White House</orgName>
+                        <idno type="URI">https://dodis.ch/R11894</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R131">
+                        <orgName>
+                            <choice>
+                                <abbr>USSR</abbr>
+                                <expan>Union of Soviet Socialist Republics</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R131</idno>
+                        <placeName ref="#G21">Moscow</placeName>
+                    </org>
+                    <org xml:id="R376">
+                        <orgName>
+                            <choice>
+                                <abbr>USSR</abbr>
+                                <expan>Union of Soviet Socialist Republics</expan>
+                            </choice>/Red Army</orgName>
+                        <idno type="URI">https://dodis.ch/R376</idno>
+                    </org>
+                    <org xml:id="R14957">
+                        <orgName>Warsaw Pact</orgName>
+                        <idno type="URI">https://dodis.ch/R14957</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.6 8.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G10281">
+                        <placeName>Camp David</placeName>
+                        <location>
+                            <geo>39.647537 -77.4659</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G10281</idno>
+                    </place>
+                    <place xml:id="G73">
+                        <placeName>Czechoslovakia</placeName>
+                        <location>
+                            <geo>50.083333 14.416667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G73</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G311">
+                        <placeName>Eastern Europe</placeName>
+                        <location>
+                            <geo>52.152096 31.669155</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G311</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.525963 15.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.22764 2.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.052 12.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G11236">
+                        <placeName>Houston</placeName>
+                        <location>
+                            <geo>29.762778 -95.383056</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11236</idno>
+                    </place>
+                    <place xml:id="G20">
+                        <placeName>Hungary</placeName>
+                        <location>
+                            <geo>47.162495 19.503304</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G20</idno>
+                    </place>
+                    <place xml:id="G77">
+                        <placeName>Italy</placeName>
+                        <location>
+                            <geo>41.87194 12.56738</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G77</idno>
+                    </place>
+                    <place xml:id="G55">
+                        <placeName>London</placeName>
+                        <location>
+                            <geo>51.50735 -0.127758</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G55</idno>
+                    </place>
+                    <place xml:id="G21">
+                        <placeName>Moscow</placeName>
+                        <location>
+                            <geo>55.75 37.616667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G21</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.132633 5.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528 -75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G18">
+                        <placeName>Paris</placeName>
+                        <location>
+                            <geo>48.856613 2.352222</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G18</idno>
+                    </place>
+                    <place xml:id="G68">
+                        <placeName>Poland</placeName>
+                        <location>
+                            <geo>51.919437 19.145136</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G68</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.7225 83.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116 -85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805 -3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024 -95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G144">
+                        <placeName>Warsaw</placeName>
+                        <location>
+                            <geo>52.229675 21.012228</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G144</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895 -77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="52917-0.png"/>
+        <graphic url="52917-1.png"/>
+        <graphic url="52917-2.png"/>
+        <graphic url="52917-3.png"/>
+        <graphic url="52917-4.png"/>
+    </facsimile>
+    <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52917">dodis.ch/52917</ref>
+               <title type="main">Memorandum<note xml:id="e4080">Memorandum: Bush Presidential
+                     Library CF-00182.20. Written by <persName key="P57408">Brent Scowcroft</persName>.</note> for the
+                  President of the United States, <persName key="P47406">George H. W. Bush</persName>
+                    </title>
+               <title type="sub">Preparing for the Six Power German Peace Conference</title>
+            </head>
+            <opener>
+               <add>Sensitive</add>
+               <dateline>Washington, D. C., 19 February 1990</dateline>
+            </opener>
+            <p n="1">We are about to enter into the most crucial period for American diplomacy
+               toward Europe since the formation of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> in 1949. The Six Power discussions on the
+               future of Germany could become the principal forum in which Europe’s security
+               framework and the American role in it is determined. The <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> must find a way to
+               steer this new process on the future of Germany toward an outcome that sanctions full
+               membership for a united Germany in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>; provides for the continuation of a
+               significant American military presence on German soil; and maintains nuclear
+               deterrence as a pillar of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>’s defense.</p>
+            <p><persName key="P31852">Kohl</persName>’s meeting with <persName key="P31707">Gorbachev</persName> clearly showed that
+               Moscow is resigned to German unity. The Six Power talks will, however, give the
+               Soviet Union a chance to shape directly the terms of German unification. Moscow’s
+               primary concern will be that there be no further shift – in perception or reality –
+               in the East-West strategic balance. The Soviets are at last feeling the full negative
+               impact of reform in Eastern Europe as government after government there demands the
+               removal of Soviet forces. Germany is, in that sense, the final East-West battleground
+               and has – with its still deep emotional import in the Soviet Union – become a crucial
+               domestic issue for Gorbachev.</p>
+            <p>When <persName key="P57414">Yegor Ligachev</persName> attacked
+                  <persName key="P54603">Shevardnadze</persName> and Gorbachev for a
+               foreign policy that has allowed the emergence of a united Germany “which looms
+               militarily and economically powerful”, he sounded a chord that resonates in the
+               Soviet political elite, even among those who otherwise support perestroika. The Six
+               Power talks, designed to give Moscow a sense of participation in the resolution of
+               Germany’s future and to shore up Gorbachev’s position, could instead force his hand
+               on the details of Germany’s future – something that to now he has avoided. Vague
+               ramblings, such as Gorbachev expressed to Kohl, about a united Germany within an
+               all-European security system will in the Six Power context no longer do: Moscow must
+               find some way to prevent the unification of Germany on wholly Western terms. This
+               places us on a probable collision course with the Soviets on the question of the
+               continued full membership of a united Germany in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>.</p>
+            <p>The Soviets likely know that a completely neutral Germany is a non-starter with the
+               United States, Britain and the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice>. But for Moscow some weaker form of association
+               for Germany with <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> – perhaps excluding the Bundeswehr from the integrated military
+               command and capping the size of the German armed forces – would be almost as good.
+               The Soviets know that without German forces, <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>’s integrated military command would
+               be a shell. They might figure that it would not be long before pressures from the
+               Germans and within the <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> Congress would force the size of the American presence
+               down and eventually out as well. The Soviets could also seek to negotiate in the Six
+               Power forum their own continued presence in the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>, or explicitly demand the removal
+               of all <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> forces from the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> concurrent with the withdrawal of Soviet forces from
+               East Germany.</p>
+            <p>One potential consequence of a shift in Moscow’s attention to the Six Power talks is
+               that the Soviet leadership may feel less pressure to conclude a <choice>
+                        <abbr>CFE</abbr>
+                        <expan>(Treaty on) Conventional Armed Forces in Europe</expan>
+                    </choice> agreement. From
+               the Soviet perspective, the Six Power forum can be used to attempt to emasculate the
+               West German army, push <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> ground forces out of Europe, disrupt the solidarity and
+               viability of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> itself, and provide political cover for their own withdrawal. These
+               were among their principal objectives in <choice>
+                        <abbr>CFE</abbr>
+                        <expan>(Treaty on) Conventional Armed Forces in Europe</expan>
+                    </choice>. While <choice>
+                        <abbr>CFE</abbr>
+                        <expan>(Treaty on) Conventional Armed Forces in Europe</expan>
+                    </choice> retains its uses for Moscow,
+               the Six Power mechanism would now allow the Soviets to pursue many of these key goals
+               in a better forum than <choice>
+                        <abbr>CFE</abbr>
+                        <expan>(Treaty on) Conventional Armed Forces in Europe</expan>
+                    </choice>, one that gives disproportionate weight to an East Germany
+               dominated by the <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice>, and exploits a West German government subject to extreme
+               domestic political turbulence, while excluding lesser Allies who would join with us
+               and London in arguing for stronger German links to <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. The threat of Soviet
+               reliance on the Six Power vehicle as a surrogate for <choice>
+                        <abbr>CFE</abbr>
+                        <expan>(Treaty on) Conventional Armed Forces in Europe</expan>
+                    </choice> should be yet another spur
+               for <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> to rapidly conclude a <choice>
+                        <abbr>CFE</abbr>
+                        <expan>(Treaty on) Conventional Armed Forces in Europe</expan>
+                    </choice> agreement – before the Soviets shift their efforts
+               to the higher-profile talks on Germany.</p>
+            <p>In any case, the Soviets can be expected to make in the Six Power talks a
+               comprehensive proposal on European security and Germany’s role in it. Along with the
+               current <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> leadership, the Soviets will likely insist on severe constraints on a
+               united Germany’s association with <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. Moscow will also use its waning influence in
+               the Warsaw Pact – and play on Czechoslovak, Hungarian, and especially Polish fears of
+               the new Germany – to forge a common front behind its position. (On February 14,
+               Polish Prime Minister <persName key="P57378">Mazowiecki</persName> demanded Warsaw be involved in negotiations on
+               German reunification.)</p>
+            <p>The degree to which this process threatens our interests depends on how carefully we
+               structure the mandate of the Six Power discussions and whether we and our major
+               Allies remain united on a common approach to these profound security questions. Our
+               goal should be to keep the focus of the Six Power talks as limited as possible –
+               dealing only with the legal issues related to the end of Four Power rights, the
+               consequences of the absorption of the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> into the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice>, and the issue of what becomes
+               of forces on the territory of Germany’s eastern half. But the Soviets will press hard
+               to widen the mandate so that all questions, including Germany’s membership in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>
+               will be on the table. Should they succeed, you will have a difficult challenge in
+               holding <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> viably together.</p>
+            <p>As the Six Power talks unfold, Kohl will come under pressure to find a formula for
+               German security that is acceptable to Moscow. The Soviets will use the Six Power
+               mechanism to try and influence German public opinion as well as others in Kohl’s
+               coalition – particularly <persName key="P15414">Genscher</persName> who will want for domestic political reasons to
+               separate himself from Kohl on the future of European security. The Soviets could
+               argue to an emotional German electorate that a weaker form of association with <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>
+               is a small price to pay for German unity.</p>
+            <p>The effect of this within the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> will be to drive German opinion to the left and to
+               strengthen the opposition parties’ influence in the domestic debate about
+               unification. The <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice> will respond to Moscow’s preferences (and those of the <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice>’s
+               sister party in the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>) by moving still more to the left, toward a Germany
+               completely out of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. This will drive Genscher further left (in search of the new
+               middle ground), which in turn will pull Kohl in the same direction. Kohl would then
+               face a situation in which Moscow, the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>, the opposition <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice> and Greens, and his own
+               <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P15414">Foreign Minister</tei:persName> are all calling
+               for a loosening of Germany’s ties to <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>.</p>
+            <p>There is no reason to doubt Kohl’s desire to keep his commitment to membership in
+               <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> or his willingness to stand with us on the key issues of Western security. But
+               Kohl will do what he must –even at the expense of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> and the <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> link – to become
+               the Chancellor who united Germany. With history beckoning, all else will become for
+               him secondary and negotiable.</p>
+            <p>Our crucial task will be to find a way to avoid forcing Kohl to choose between unity
+               and full <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> membership, and simultaneously to avert a crisis with Gorbachev over
+               the future of Germany.</p>
+            <p>Management of relations with the British and French will not be easy either. Mrs.
+                  <persName key="P32055">Thatcher</persName> will undoubtedly support our position
+               regarding Germany’s full membership in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> but she may try to use the Six Power
+               forum to slow down German unification. And, in any case, Mrs. Thatcher’s strongly
+               pro-<choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> position will fall on deaf ears in the Federal Republic.</p>
+            <p>The French will have mixed objectives. <persName key="P13775">Mitterrand</persName> may for
+               the present support <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> membership for Germany because the French are concerned both
+               to keep the Bundeswehr constrained within the integrated military command and to
+               legitimize the continuation of nuclear deterrence. But France’s voice is weaker
+               because of its own position outside <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>’s integrated military command.</p>
+            <p/>
+            <p n="1">Moreover, in the longer term, Mitterrand has his own plans for a Confederation
+               of Europe without the United States – including ultimately a new security mechanism –
+               and for strengthening Franco-German bilateral military arrangements. This could give
+               the French incentives to support a loose <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> structure which would, in turn, allow
+               Paris a greater voice as the Atlantic link between the <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> and <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> weakens. In any
+               case, the Soviets are likely to think that they will find Paris sympathetic and we
+               can expect an intensification of Franco-Soviet diplo‑ macy.</p>
+            <p>Thus, if we are not careful, the dynamics of domestic politics in the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> and
+               diplomacy between the Allies and the Soviets could at best leave you and Kohl alone
+               to defend effectively a Germany fully within <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> and with undiminished transatlantic
+               security links.</p>
+            <p>In order to avoid these pitfalls, we must have a coherent strategy for the Six Power
+               talks that plays on our strengths – the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>’s imminent collapse, Kohl’s desire to do
+               the right thing, our leadership role in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>, and Moscow’s lack of real leverage –
+               and minimizes the potential dangers inherent in the Six Power framework. Above all,
+               it is not in our interest to hurry this effort along, though Moscow will press for
+               early talks. It would be a major mistake to proceed to any discussion with the
+               Soviets before we have had an opportunity to forge a common end-game position with
+               the British, French and West Germans. Your meeting with Kohl at Camp David will be a
+               key in this process of consultation, giving you an opportunity to discuss the
+               significant challenges that the Six Power process poses for Western unity and the
+               future of the Alliance. Once we have hammered out a position among the key Allies,
+               <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> must also have a chance to discuss and endorse the Western position.</p>
+            <p>All the Allies need a part in this process. In Ottawa several Allied ministers,
+               notably the Italians and Dutch, protested their exclusion from the Six Power forum
+               that would affect their security interests as Germany’s neighbors. After the <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P57415">Italian
+               Foreign Minister</tei:persName> made one such plea for involvement,
+               Genscher turned to him and said, brutally, “You’re not in the game.” Genscher is
+               wrong.</p>
+            <p>
+                    <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> as an institution needs to forge a bottom line for the outcome of the Six Power
+               discussions on the future of the European security system. One way to do this would
+               be for the Alliance to commission a study by a group of “Wise Men” to consider the
+               future goals and strategy of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> in light of the political transformation of Europe.
+               Then you could host a Summit meeting of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> leaders, perhaps in Washington in July
+               immediately after the G-7 meeting in Houston<note xml:id="e4193">Handwritten note:
+                     <orig>interesting idea??</orig>
+                    </note>, to endorse this new concept for the
+               Alliance – and Germany’s role in it. With this added reinforcement, Kohl would find
+               it easier to resist Soviet and domestic pressures.</p>
+            <p>In a larger sense, a delay in these Six Power discussions is favorable for us because
+               the longer that German unity proceeds without direct Soviet involvement, the stronger
+               will be the position of the West. As absorption of the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> into the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> becomes a
+               fait accompli, Soviet leverage to reshape the new <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> will decline. It is worth
+               noting that Kohl has managed so far, including during his visit last weekend to
+               Moscow, to move German unity along while holding fast to his promise to keep the
+               reunified Germany in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. Kohl does not himself seem to be pushing for early Six
+               Power discussions – in your recent telephone conversation he appeared to foresee the
+               first Six Power Ministerial meeting taking place sometime this summer<note xml:id="e4198">Handwritten note: <orig>Don’t recall this.</orig>
+                    </note>.</p>
+            <p>Ideally, no meetings of any kind would take place within the Six Power framework
+               until after the elections in the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> on March 18<note xml:id="e4203">Handwritten
+                  note: <orig>Correct according to JRB</orig>.</note>. We would simply say that the
+               <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>’ s government is not legitimate and cannot speak for the German people residing
+               there, and that we are preparing a united Western position for the talks. Indeed, we
+               should try to delay any real discussion of security arrangements in this forum until
+               the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> is so weak that the Six, in fact, dissolves into Five as Germany unites.</p>
+            <p>At the present time, the <persName key="P54796">Modrow</persName> government is nothing but a
+               second voice for Moscow. And after the East German elections, should the <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice> win as
+               expected, the new <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> government will argue for German neutrality. But with the
+               passage of time – and if East Germany is simply absorbed into the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice>, the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>
+               government will cease to exist. Then Kohl would speak authoritatively on security
+               arrangements for all of Germany which is, of course, our best bet.</p>
+            <p>Finally, the Administration needs a breathing spell to formulate a position for what
+               could be the most important set of discussions of European security in the postwar
+               period. It is critical that <persName key="P57391">Dick Cheney</persName> and <persName key="P57416">Colin Powell</persName> be
+               involved because Six (or Five) Power negotiations on Germany’s external security
+               arrangements will cut to the heart of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> and ultimately American defense
+               strategy.</p>
+            <p>As <persName key="P57417">Manfred Woerner</persName> said to you at Camp David, we are entering the
+               end-game of the Cold War and your own role will be decisive. The United States and
+               the West must be impeccably prepared so that when the end-game is over, the North
+               Atlantic Alliance and the <choice>
+                        <abbr>U.S.</abbr>
+                        <expan>United States</expan>
+                    </choice> position in Europe remain the vital instruments of
+               peace and stability that we inherited from our predecessors.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

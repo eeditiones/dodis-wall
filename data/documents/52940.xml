@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="41">No. IFB0032. Two Plus Four Equals What for Canada?</title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="3"/>
+            </extent>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52940</idno>
+                    </msIdentifier>
+                    <head>No. IFB0032. Two Plus Four Equals What for Canada?</head>
+                    <msContents>
+                        <summary>Expressions of concerns that the Two Plus Four deal will squeeze Canada out of discussions about the future of Europe, notwithstanding the historic presence of Canadian forces in West Germany.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-21">21.2.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#type">
+                    <term>Telegram</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Germany – <choice>
+                            <abbr>FRG</abbr>
+                            <expan>Federal Republic of Germany</expan>
+                        </choice> (Politics)</term>
+                    <term>Canada (Politics)</term>
+                    <term>Germany – <choice>
+                            <abbr>GDR</abbr>
+                            <expan>German Democratic Republic</expan>
+                        </choice> (Politics)</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="#R821">Canada/Global Affairs</orgName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="#R893"> Canada/Embassy in Washington</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P56605">
+                        <persName>
+                            <forename>James </forename>
+                            <surname>Baker</surname>
+                        </persName>
+                        <persName type="full">Baker, James  (1930–)</persName>
+                        <persName>Baker, James A. </persName>
+                        <persName>Baker, James </persName>
+                        <persName>Baker III, James Addison</persName>
+                        <persName>Baker, James Addison</persName>
+                        <persName>Baker, Jim</persName>
+                        <birth when="1930-04-28">
+                            <placeName>Houston</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56605</idno>
+                    </person>
+                    <person xml:id="P55844">
+                        <persName>
+                            <forename>Charles Joseph</forename>
+                            <surname>Clark</surname>
+                        </persName>
+                        <persName type="full">Clark, Charles Joseph (1939–)</persName>
+                        <persName>Clark, Charles Joseph</persName>
+                        <persName>Clark, Joe</persName>
+                        <birth when="1939-06-05">
+                            <placeName>High River, Alberta</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P55844</idno>
+                    </person>
+                    <person xml:id="P57474">
+                        <persName>
+                            <forename>Brian</forename>
+                            <surname>Fall</surname>
+                        </persName>
+                        <persName type="full">Fall, Brian (1937–)</persName>
+                        <persName>Fall, Brian</persName>
+                        <birth when="1937-12-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57474</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P57450">
+                        <persName>
+                            <forename>Brian</forename>
+                            <surname>Mulroney</surname>
+                        </persName>
+                        <persName type="full">Mulroney, Brian (1939–)</persName>
+                        <persName>Mulroney, Brian</persName>
+                        <persName>Mulroney, Martin Brian</persName>
+                        <birth when="1939-03-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57450</idno>
+                    </person>
+                    <person xml:id="P57644">
+                        <persName>
+                            <forename>Jacques</forename>
+                            <surname>Roy</surname>
+                        </persName>
+                        <persName type="full">Roy, Jacques</persName>
+                        <persName>RGB</persName>
+                        <persName>Roy, Jacques</persName>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57644</idno>
+                    </person>
+                    <person xml:id="P57399">
+                        <persName>
+                            <forename>Raymond George Hardenbergh</forename>
+                            <surname>Seitz</surname>
+                        </persName>
+                        <persName type="full">Seitz, Raymond George Hardenbergh (1940–)</persName>
+                        <persName>Seitz, Ray</persName>
+                        <persName>Seitz, Raymond George Hardenbergh</persName>
+                        <birth when="1940-12-08">
+                            <placeName>Honolulu</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57399</idno>
+                    </person>
+                    <person xml:id="P57417">
+                        <persName>
+                            <forename>Manfred Hermann</forename>
+                            <surname>Wörner</surname>
+                        </persName>
+                        <persName type="full">Wörner, Manfred Hermann (1934–1994)</persName>
+                        <persName>Woerner, Manfred H.</persName>
+                        <persName>Wörner, Manfred Hermann</persName>
+                        <birth when="1934-09-24">
+                            <placeName>Stuttgart</placeName>
+                        </birth>
+                        <death when="1994-08-12">
+                            <placeName>Brussels</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57417</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R893">
+                        <orgName> Canada/Embassy in Washington</orgName>
+                        <idno type="URI">https://dodis.ch/R893</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R9180">
+                        <orgName>Canada/Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R9180</idno>
+                    </org>
+                    <org xml:id="R821">
+                        <orgName>Canada/Global Affairs</orgName>
+                        <idno type="URI">https://dodis.ch/R821</idno>
+                        <placeName ref="#G169">Ottawa</placeName>
+                    </org>
+                    <org xml:id="R24175">
+                        <orgName>Canada/House of Commons</orgName>
+                        <idno type="URI">https://dodis.ch/R24175</idno>
+                        <placeName ref="#G169">Ottawa</placeName>
+                    </org>
+                    <org xml:id="R33472">
+                        <orgName>Canada/Privy Council Office</orgName>
+                        <idno type="URI">https://dodis.ch/R33472</idno>
+                        <placeName ref="#G169">Ottawa</placeName>
+                    </org>
+                    <org xml:id="R24597">
+                        <orgName>
+                            <choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>/Armed Forces</orgName>
+                        <idno type="URI">https://dodis.ch/R24597</idno>
+                    </org>
+                    <org xml:id="R24629">
+                        <orgName>
+                            <choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>/North Atlantic Council</orgName>
+                        <idno type="URI">https://dodis.ch/R24629</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (<choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R805">
+                        <orgName>
+                            <choice>
+                                <abbr>USA</abbr>
+                                <expan>United States of America</expan>
+                            </choice>/Armed forces</orgName>
+                        <idno type="URI">https://dodis.ch/R805</idno>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.6 8.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G137">
+                        <placeName>Brussels</placeName>
+                        <location>
+                            <geo>50.850338 4.35171</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G137</idno>
+                    </place>
+                    <place xml:id="G230">
+                        <placeName>Canada</placeName>
+                        <location>
+                            <geo>56.130367 -106.34677</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G230</idno>
+                    </place>
+                    <place xml:id="G936">
+                        <placeName>Eastern Bloc states</placeName>
+                        <idno type="URI">https://dodis.ch/G936</idno>
+                    </place>
+                    <place xml:id="G169">
+                        <placeName>Ottawa</placeName>
+                        <location>
+                            <geo>45.421528 -75.69719</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G169</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.7225 83.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G1858">
+                        <placeName>The West</placeName>
+                        <location>
+                            <geo>39.69116 -85.4783</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G1858</idno>
+                    </place>
+                    <place xml:id="G14">
+                        <placeName>United Kingdom</placeName>
+                        <location>
+                            <geo>55.37805 -3.435973</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G14</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024 -95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G16">
+                        <placeName>Washington DC</placeName>
+                        <location>
+                            <geo>38.895 -77.036667</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G16</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="52940-0.png"/>
+        <graphic url="52940-1.png"/>
+        <graphic url="52940-2.png"/>
+    </facsimile>
+    <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52940">dodis.ch/52940</ref>
+               <title type="main">Telegram<note xml:id="e4546">Telegram No. IFB0032: <idno>Global
+                        Affairs Canada file 25-3-3-5-Germany / Confidential</idno>. Delivered by:
+                        <orig>21 February 1990, 5.30 p.m.</orig> Info to Brussels-<choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>, Bonn,
+                     London, Paris, Rome, Warsaw, Moscow, Tokyo, Delegation to the Organization for
+                     Securtiy and Cooperation in Europe, Hague, Permanent Mission in New York, Oslo,
+                     Office of the Prime Minister, Privy Council Office and National Defense
+                     Headquarters. Ref: <idno>Your tel UNGR0336 20 Feb 90</idno>, not
+                     located.</note> from the Canadian Department of External Affairs to the
+                  Canadian Embassy in Washington</title>
+               <title type="sub">Two Plus Four Equals What for Canada?</title>
+            </head>
+            <opener>
+               <add>Secret – Canadian Eyes only</add>
+               <dateline>Ottawa, 21. February 1990</dateline>
+            </opener>
+            <p>You will by now have seen letter to <persName key="P56605">Baker</persName> from <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P55844"><choice>
+                        <abbr>SSEA</abbr>
+                        <expan>Secretary of State of External Affairs (Canada)</expan>
+                    </choice></tei:persName>
+                     which
+               sets out another formulation of our concerns on page two. In effect, we are looking
+               for a good interplay of close bilateral consultations and effective discussion in <choice>
+                        <abbr>NAC</abbr>
+                        <expan>North Atlantic Council</expan>
+                    </choice>
+               in Brussels. British thinking sees <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> discussion as being very important. Stumbling
+               block is probably <persName key="P15414">Genscher</persName>. Today
+                  <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P57450"><choice>
+                        <abbr>PM</abbr>
+                        <expan>Prime minister</expan>
+                    </choice></tei:persName>
+                     spoke with <persName key="P31852">Kohl</persName> (<persName key="P57644">RGB</persName> is sending separately
+                  <choice>
+                        <abbr>PCO</abbr>
+                        <expan>Privy Council Office</expan>
+                    </choice>
+                    <note xml:id="e4594">Privy Council Office.</note> prepared statement for House
+               of Commons<note xml:id="e4597">
+                        <idno>Canada; House of Commons, Debates, 21 February
+                     1990, 8613</idno>.</note> reflecting on conversation) who stressed he was very
+               conscious of his <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> colleagues concerns.</p>
+            <p>2. Senior <choice>
+                        <abbr>USA</abbr>
+                        <expan>United States of America</expan>
+                    </choice> personnel with whom we spoke here last week, including <persName key="P57399">Seitz</persName>, placed heaviest emphasis in creation
+               of Two plus Four on overriding need to decompress situation for <choice>
+                        <abbr>USSR</abbr>
+                        <expan>Union of Soviet Socialist Republics</expan>
+                    </choice>. It is political
+               need of <choice>
+                        <abbr>USSR</abbr>
+                        <expan>Union of Soviet Socialist Republics</expan>
+                    </choice> to show inside <choice>
+                        <abbr>USSR</abbr>
+                        <expan>Union of Soviet Socialist Republics</expan>
+                    </choice> they are, as <choice>
+                        <abbr>USA</abbr>
+                        <expan>United States of America</expan>
+                    </choice> put it, participants in unification
+               process as it affects <choice>
+                        <abbr>USSR</abbr>
+                        <expan>Union of Soviet Socialist Republics</expan>
+                    </choice> interests and not its victims. The substantive point is
+               that no one does really know how things will turn out a year from now in Germany,
+               where public opinion is volatile. This probably accounts for some of reluctance you
+               note in para 5 your telegram<note xml:id="e4608">Not located.</note> to establish
+               fixed game plans. In circumstances, all acknowledge that any assets contributing to
+               confidence and stability need to be sustained.</p>
+            <p>3. Canadian military presence in <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> is expensive and increasingly and rightly
+               subject to skeptical scrutiny from cost point of view. We are told by many in West
+               (and East) that Canada’s presence is valued politically. If so, this needs political
+               reflection in consultative will, <choice>
+                        <abbr>USA</abbr>
+                        <expan>United States of America</expan>
+                    </choice> in particular should acknowledge Canada’s
+               presence as significant.</p>
+            <p>4. Obviously changes will come in role of <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>, as well as in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> comprehensive
+               strategy. We are looking at possibilities regarding institutional evolution with more
+               than open mind; we believe we shall have serious contribution to make. Baker ref to
+               <choice>
+                        <abbr>CSCE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice> in his letter to <persName key="P57417">Woerner</persName> and Clark and others is important sign of
+               increasing <choice>
+                        <abbr>USA</abbr>
+                        <expan>United States of America</expan>
+                    </choice> thought being given in Washington DC to <choice>
+                        <abbr>CSCE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice> (Seitz had commented to
+               us here that <choice>
+                        <abbr>USA</abbr>
+                        <expan>United States of America</expan>
+                    </choice> acknowledges it has repeatedly “been a month or so behind everyone
+               else” on evolving role of <choice>
+                        <abbr>CSCE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice> and would correct this tendency) and a welcome
+               invitation to discuss <choice>
+                        <abbr>CSCE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice> organization and future effectiveness, both in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> and
+               bilaterally, which we shall take up.</p>
+            <p>5. As to actual <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> force deployment, and comprehensive strategy, and Canadian place
+               in ref to them, full range of possibilities also obviously exists, and nothing is
+               pre-ordained. Defence review will look at these.</p>
+            <p>6. In sum, your points A-D in para 6 are all sound. As to wise men idea, it is good
+               one. Another idea possible complementary, would be to get back to ministers only no
+               holds barred <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> discussions a la Sapiniere. In addition, <choice>
+                        <abbr>UK</abbr>
+                        <expan>United Kingdom</expan>
+                    </choice> <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P57474">High Commissioner</tei:persName>
+               here tells us they are mulling over proposing revival of a buddy system to radiate
+               content of Two plus Four outward to others in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. We do not think we would like
+               that, preferring close bilateral consultative relationships with all of five as <choice>
+                        <abbr>SSEA</abbr>
+                        <expan>Secretary of State of External Affairs (Canada)</expan>
+                    </choice>
+               letters propose. But fact that we are other North American force presence in Germany
+               would indicate that if there were a basis to be buddies on an issue, this would be
+               basis on naturally close consultative relationship with <choice>
+                        <abbr>USA</abbr>
+                        <expan>United States of America</expan>
+                    </choice>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

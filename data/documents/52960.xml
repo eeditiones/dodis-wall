@@ -1,0 +1,827 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="volume">When the Wall Came Down. The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)</title>
+                <title n="">Visit Minister Ter Beek to Defense Minister <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice>
+                </title>
+                <author>Marc Dierikx, Sacha Zala</author>
+            </titleStmt>
+            <extent>
+                <measure unit="pages" quantity="4"/>
+            </extent>
+            <publicationStmt>
+                <publisher>Diplomatische Dokumente der Schweiz</publisher>
+                <date>2019</date>
+                <pubPlace>Bern</pubPlace>
+                <idno type="URI">http://dodis.ch/q12</idno>
+                <idno type="DOI">10.5907/Q12</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>52960</idno>
+                    </msIdentifier>
+                    <head>Visit Minister Ter Beek to Defense Minister <choice>
+                            <abbr>FRG</abbr>
+                            <expan>Federal Republic of Germany</expan>
+                        </choice>
+                    </head>
+                    <msContents>
+                        <summary>Report on the visit of Defence Minister Relus ter Beek to the Defence Minister of the <choice>
+                                <abbr>FRG</abbr>
+                                <expan>Federal Republic of Germany</expan>
+                            </choice> Gerhard Stoltenberg, and the possible implications of German reunification for the banking situation in Germany, <choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice> cooperation, and the <choice>
+                                <abbr>CSCE</abbr>
+                                <expan>Conference on Security and Co-operation in Europe</expan>
+                            </choice> discussions with the Soviets.</summary>
+                    </msContents>
+                    <history>
+                        <origin when="1990-02-08">8.2.1990</origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="nl">Dutch</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#type">
+                    <term>Telegram</term>
+                </keywords>
+                <keywords scheme="#related">
+                    <term>International perceptions of the German reunification 1989–1990</term>
+                    <term>Germany – <choice>
+                            <abbr>FRG</abbr>
+                            <expan>Federal Republic of Germany</expan>
+                        </choice> (Politics)</term>
+                    <term>Netherlands (the) (Politics)</term>
+                    <term>Germany – <choice>
+                            <abbr>GDR</abbr>
+                            <expan>German Democratic Republic</expan>
+                        </choice> (Politics)</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#P57557">Tas, Jan van der (1928–2009)</persName>
+                    <orgName ref="#R33500">Netherlands/Embassy in Bonn</orgName>
+                </correspAction>
+                <correspAction type="signatory">
+                    <persName ref="#P57557">Tas, Jan van der (1928–2009)</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#P57462">van den Broek, Hans (1936–)</persName>
+                    <orgName ref="#R8997">Netherlands/Ministry of Defence</orgName>
+                </correspAction>
+            </correspDesc>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="P39530">
+                        <persName>
+                            <forename>Egon</forename>
+                            <surname>Bahr</surname>
+                        </persName>
+                        <persName type="full">Bahr, Egon (1922–2015)</persName>
+                        <persName>Bahr, Egon Karl-Heinz</persName>
+                        <persName>Bahr, Egon</persName>
+                        <birth when="1922-03-18"/>
+                        <death when="2015-08-20"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P39530</idno>
+                    </person>
+                    <person xml:id="P56605">
+                        <persName>
+                            <forename>James </forename>
+                            <surname>Baker</surname>
+                        </persName>
+                        <persName type="full">Baker, James  (1930–)</persName>
+                        <persName>Baker, James A. </persName>
+                        <persName>Baker, James </persName>
+                        <persName>Baker III, James Addison</persName>
+                        <persName>Baker, James Addison</persName>
+                        <persName>Baker, Jim</persName>
+                        <birth when="1930-04-28">
+                            <placeName>Houston</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P56605</idno>
+                    </person>
+                    <person xml:id="P57561">
+                        <persName>
+                            <forename>Relus ter</forename>
+                            <surname>Beek</surname>
+                        </persName>
+                        <persName type="full">Beek, Relus ter (1944–2008)</persName>
+                        <persName>Beek, Relus ter</persName>
+                        <persName>Beek, Aurelus Louis ter</persName>
+                        <birth when="1944-01-18"/>
+                        <death when="2008-09-29"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57561</idno>
+                    </person>
+                    <person xml:id="P57586">
+                        <persName>
+                            <forename>Wolfgang</forename>
+                            <surname>Berghofer</surname>
+                        </persName>
+                        <persName type="full">Berghofer, Wolfgang (1943–)</persName>
+                        <persName>Berghofer, Wolfgang</persName>
+                        <birth when="1943-02-25"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57586</idno>
+                    </person>
+                    <person xml:id="P47406">
+                        <persName>
+                            <forename>George Herbert Walker</forename>
+                            <surname>Bush</surname>
+                        </persName>
+                        <persName type="full">Bush, George Herbert Walker (1924–2018)</persName>
+                        <persName>Bush, George Herbert Walker</persName>
+                        <persName>Bush, George H. W.</persName>
+                        <birth when="1924-06-23"/>
+                        <death when="2018-11-30">
+                            <placeName>Houston</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P47406</idno>
+                    </person>
+                    <person xml:id="P54837">
+                        <persName>
+                            <forename>Alfred</forename>
+                            <surname>Dregger</surname>
+                        </persName>
+                        <persName type="full">Dregger, Alfred (1920–2002)</persName>
+                        <persName>Dregger, Alfred</persName>
+                        <birth when="1920-12-10">
+                            <placeName>Münster</placeName>
+                        </birth>
+                        <death when="2002-06-29">
+                            <placeName>Fulda</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54837</idno>
+                    </person>
+                    <person xml:id="P57564">
+                        <persName>
+                            <forename>Marlin</forename>
+                            <surname>Fitzwater</surname>
+                        </persName>
+                        <persName type="full">Fitzwater, Marlin (1942–)</persName>
+                        <persName>Fitzwater, Marlin</persName>
+                        <persName>Fitzwater, Max Marlin</persName>
+                        <birth when="1942-11-24"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57564</idno>
+                    </person>
+                    <person xml:id="P15414">
+                        <persName>
+                            <forename>Hans-Dietrich</forename>
+                            <surname>Genscher</surname>
+                        </persName>
+                        <persName type="full">Genscher, Hans-Dietrich (1927–2016)</persName>
+                        <persName>Genscher, Hans-Dietrich</persName>
+                        <birth when="1927-03-21"/>
+                        <death when="2016-03-31"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P15414</idno>
+                    </person>
+                    <person xml:id="P31852">
+                        <persName>
+                            <forename>Helmut</forename>
+                            <surname>Kohl</surname>
+                        </persName>
+                        <persName type="full">Kohl, Helmut (1930–2017)</persName>
+                        <persName>Kohl, Helmut</persName>
+                        <birth when="1930-04-03">
+                            <placeName>Ludwigshafen am Rhein</placeName>
+                        </birth>
+                        <death when="2017-06-16"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P31852</idno>
+                    </person>
+                    <person xml:id="P13775">
+                        <persName>
+                            <forename>François</forename>
+                            <surname>Mitterrand</surname>
+                        </persName>
+                        <persName type="full">Mitterrand, François (1916–1996)</persName>
+                        <persName>Mitterand, François</persName>
+                        <persName>Mitterrand, François</persName>
+                        <birth when="1916-10-26">
+                            <placeName>Jarnac </placeName>
+                        </birth>
+                        <death when="1996-01-08">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P13775</idno>
+                    </person>
+                    <person xml:id="P54796">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>Modrow</surname>
+                        </persName>
+                        <persName type="full">Modrow, Hans (1928–)</persName>
+                        <persName>Modrow, Hans</persName>
+                        <birth when="1928-01-27">
+                            <placeName>Jasenitz</placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54796</idno>
+                    </person>
+                    <person xml:id="P57562">
+                        <persName>
+                            <forename>Ludwig-Holger</forename>
+                            <surname>Pfahls</surname>
+                        </persName>
+                        <persName type="full">Pfahls, Ludwig-Holger (1942–)</persName>
+                        <persName>Pfahls, Ludwig-Holger</persName>
+                        <birth when="1942-12-13"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57562</idno>
+                    </person>
+                    <person xml:id="P51405">
+                        <persName>
+                            <forename>Karl Otto</forename>
+                            <surname>Pöhl</surname>
+                        </persName>
+                        <persName type="full">Pöhl, Karl Otto (1929–2014)</persName>
+                        <persName>Pöhl, Karl Otto</persName>
+                        <birth when="1929-12-01">
+                            <placeName>Hannover</placeName>
+                        </birth>
+                        <death when="2014-12-09">
+                            <placeName>Switzerland</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P51405</idno>
+                    </person>
+                    <person xml:id="P57459">
+                        <persName>
+                            <forename>Michel</forename>
+                            <surname>Rocard</surname>
+                        </persName>
+                        <persName type="full">Rocard, Michel (1930–2016)</persName>
+                        <persName>Rocard, Michel</persName>
+                        <birth when="1930-08-23">
+                            <placeName>Courbevoie</placeName>
+                        </birth>
+                        <death when="2016-07-02">
+                            <placeName>Paris</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57459</idno>
+                    </person>
+                    <person xml:id="P46108">
+                        <persName>
+                            <forename>Gerhard</forename>
+                            <surname>Stoltenberg</surname>
+                        </persName>
+                        <persName type="full">Stoltenberg, Gerhard (1928–2001)</persName>
+                        <persName>Stoltenberg, Gerhard</persName>
+                        <birth when="1928-09-29">
+                            <placeName>Kiel</placeName>
+                        </birth>
+                        <death when="2001-11-23">
+                            <placeName>Bad-Godesberg</placeName>
+                        </death>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P46108</idno>
+                    </person>
+                    <person xml:id="P57557">
+                        <persName>
+                            <forename>Jan van der</forename>
+                            <surname>Tas</surname>
+                        </persName>
+                        <persName type="full">Tas, Jan van der (1928–2009)</persName>
+                        <persName>Tas, Jan G. van der</persName>
+                        <persName>Tas, Jan van der</persName>
+                        <birth when="1928-03-09"/>
+                        <death when="2009-09-10"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57557</idno>
+                    </person>
+                    <person xml:id="P55169">
+                        <persName>
+                            <forename>Hans-Jochen</forename>
+                            <surname>Vogel</surname>
+                        </persName>
+                        <persName type="full">Vogel, Hans-Jochen (1926–)</persName>
+                        <persName>Vogel, Hans-Jochen</persName>
+                        <birth when="1926-02-03"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P55169</idno>
+                    </person>
+                    <person xml:id="P57565">
+                        <persName>
+                            <forename>Karsten</forename>
+                            <surname>Voigt</surname>
+                        </persName>
+                        <persName type="full">Voigt, Karsten (1941–)</persName>
+                        <persName>Voigt, Karsten Dietrich</persName>
+                        <persName>Voigt, Karsten</persName>
+                        <birth when="1941-04-11"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57565</idno>
+                    </person>
+                    <person xml:id="P54838">
+                        <persName>
+                            <forename>Theo</forename>
+                            <surname>Waigel</surname>
+                        </persName>
+                        <persName type="full">Waigel, Theo (1939–)</persName>
+                        <persName>Waigel, Theo</persName>
+                        <persName>Waigel, Theodor</persName>
+                        <birth when="1939-04-22">
+                            <placeName>Ursberg </placeName>
+                        </birth>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P54838</idno>
+                    </person>
+                    <person xml:id="P57462">
+                        <persName>
+                            <forename>Hans</forename>
+                            <surname>van den Broek</surname>
+                        </persName>
+                        <persName type="full">van den Broek, Hans (1936–)</persName>
+                        <persName>van den Broek, Henri</persName>
+                        <persName>van den Broek, Hans</persName>
+                        <birth when="1936-12-11"/>
+                        <sex>male</sex>
+                        <idno type="URI">https://dodis.ch/P57462</idno>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org xml:id="R19421">
+                        <orgName>Deutschland/BRD/Bundesbank</orgName>
+                        <idno type="URI">https://dodis.ch/R19421</idno>
+                        <placeName ref="#G386">Frankfurt</placeName>
+                    </org>
+                    <org xml:id="R4141">
+                        <orgName>Deutschland/BRD/Sozialdemokratische Partei (1946-)</orgName>
+                        <idno type="URI">https://dodis.ch/R4141</idno>
+                    </org>
+                    <org xml:id="R4180">
+                        <orgName>Germany/<choice>
+                                <abbr>FRG</abbr>
+                                <expan>Federal Republic of Germany</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4180</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R4181">
+                        <orgName>Germany/<choice>
+                                <abbr>GDR</abbr>
+                                <expan>German Democratic Republic</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R4181</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R25455">
+                        <orgName>Germany/<choice>
+                                <abbr>GDR</abbr>
+                                <expan>German Democratic Republic</expan>
+                            </choice>/Volkskammer</orgName>
+                        <idno type="URI">https://dodis.ch/R25455</idno>
+                        <placeName ref="#G3061">East Berlin</placeName>
+                    </org>
+                    <org xml:id="R33500">
+                        <orgName>Netherlands/Embassy in Bonn</orgName>
+                        <idno type="URI">https://dodis.ch/R33500</idno>
+                        <placeName ref="#G2101">Bonn</placeName>
+                    </org>
+                    <org xml:id="R8997">
+                        <orgName>Netherlands/Ministry of Defence</orgName>
+                        <idno type="URI">https://dodis.ch/R8997</idno>
+                        <placeName ref="#G88">The Hague</placeName>
+                    </org>
+                    <org xml:id="R2837">
+                        <orgName>North Atlantic Treaty Organisation (<choice>
+                                <abbr>NATO</abbr>
+                                <expan>North Atlantic Treaty Organization</expan>
+                            </choice>)</orgName>
+                        <idno type="URI">https://dodis.ch/R2837</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                    <org xml:id="R20591">
+                        <orgName>Organization for Security and Co-operation in Europe</orgName>
+                        <idno type="URI">https://dodis.ch/R20591</idno>
+                    </org>
+                    <org xml:id="R569">
+                        <orgName>
+                            <choice>
+                                <abbr>USA</abbr>
+                                <expan>United States of America</expan>
+                            </choice>/Congress</orgName>
+                        <idno type="URI">https://dodis.ch/R569</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R118">
+                        <orgName>
+                            <choice>
+                                <abbr>USA</abbr>
+                                <expan>United States of America</expan>
+                            </choice>/Government</orgName>
+                        <idno type="URI">https://dodis.ch/R118</idno>
+                        <placeName ref="#G16">Washington DC</placeName>
+                    </org>
+                    <org xml:id="R11606">
+                        <orgName>Western European Union (<choice>
+                                <abbr>WEU</abbr>
+                                <expan>Western European Union</expan>
+                            </choice>)</orgName>
+                        <idno type="URI">https://dodis.ch/R11606</idno>
+                        <placeName ref="#G137">Brussels</placeName>
+                    </org>
+                </listOrg>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="G806">
+                        <placeName> Federal Republic of Germany (1949-1990)</placeName>
+                        <location>
+                            <geo>50.6 8.06</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G806</idno>
+                    </place>
+                    <place xml:id="G2101">
+                        <placeName>Bonn</placeName>
+                        <location>
+                            <geo>50.73743 7.098207</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2101</idno>
+                    </place>
+                    <place xml:id="G135">
+                        <placeName>Davos</placeName>
+                        <location>
+                            <geo>46.80012 9.83089</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G135</idno>
+                    </place>
+                    <place xml:id="G12">
+                        <placeName>Europe</placeName>
+                        <location>
+                            <geo>54.525963 15.255118</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G12</idno>
+                    </place>
+                    <place xml:id="G13">
+                        <placeName>France</placeName>
+                        <location>
+                            <geo>46.22764 2.213749</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G13</idno>
+                    </place>
+                    <place xml:id="G283">
+                        <placeName>German Democratic Republic (1949-1990)</placeName>
+                        <location>
+                            <geo>52.052 12.389</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G283</idno>
+                    </place>
+                    <place xml:id="G78">
+                        <placeName>Netherlands</placeName>
+                        <location>
+                            <geo>52.132633 5.291266</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G78</idno>
+                    </place>
+                    <place xml:id="G2080">
+                        <placeName>North America</placeName>
+                        <location>
+                            <geo>54.525963 -105.25512</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G2080</idno>
+                    </place>
+                    <place xml:id="G30">
+                        <placeName>Russia</placeName>
+                        <location>
+                            <geo>63.7225 83.577778</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G30</idno>
+                    </place>
+                    <place xml:id="G88">
+                        <placeName>The Hague</placeName>
+                        <location>
+                            <geo>52.0705 4.3007</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G88</idno>
+                    </place>
+                    <place xml:id="G11">
+                        <placeName>United States of America (1776-)</placeName>
+                        <location>
+                            <geo>37.09024 -95.71289</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G11</idno>
+                    </place>
+                    <place xml:id="G3581">
+                        <placeName>West Berlin</placeName>
+                        <location>
+                            <geo>52.484946 13.343708</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G3581</idno>
+                    </place>
+                    <place xml:id="G347">
+                        <placeName>Western Europe</placeName>
+                        <location>
+                            <geo>45.628424 0.612311</geo>
+                        </location>
+                        <idno type="URI">https://dodis.ch/G347</idno>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="52960-0.png"/>
+        <graphic url="52960-1.png"/>
+        <graphic url="52960-2.png"/>
+        <graphic url="52960-3.png"/>
+    </facsimile>
+    <text>
+      <body>
+         <div type="doc">
+            <head>
+               <ref target="https://dodis.ch/52960">dodis.ch/52960</ref>
+               <title type="main">Telegram<note xml:id="e3489">Telegram No. 73 (incoming, translated
+                     from Dutch): <idno>Netherlands Ministry of Foreign Affairs BuZa 1985–1990, blok
+                        Z-299, </idno>
+                            <add type="edition">
+                                <idno>[NA 2.05.392]</idno>
+                            </add>
+                            <idno>
+                        inv.nr. 4601 </idno>
+                            <add type="edition">
+                                <idno>[2129]</idno>
+                            </add>
+                            <idno>.</idno>
+                            <idno/>
+                        </note> from the Dutch
+                  Ambassador in Bonn, <persName key="P57557">Jan van der Tas</persName>, to the Dutch Minister of Foreign Affairs,
+                  <persName key="P57462">Hans van den Broek</persName>
+                    </title>
+               <title type="sub">Visit Minister Ter <persName key="P57561">Beek</persName> to <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P46108">Defense Minister </tei:persName>
+                        
+                    </title>
+            </head>
+            <opener>
+               <add>Confidential</add>
+               <dateline>Bonn, 8 February 1990</dateline>
+            </opener>
+            <p/>
+            <p>On the 7<hi>th</hi> of this month, the Minister of Defense Ter Beek paid a visit of
+               about three hours to his <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> colleague Stoltenberg that began with a full military
+               ceremony. In the first hour discussions were held between both ministers accompanied
+               only by state secretary <persName key="P57562">Pfahls</persName>, Stoltenberg’s aide and myself, followed
+               by a delegation meeting lasting over one and a half hours, to be reported on
+               separately.</p>
+            <p n="1"/>
+            <p>Situation in the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>
+                </p>
+            <p>Stoltenberg began the initial small group conversation by expressing the desire that,
+               in addition to bilateral issues, security-political topics would also be discussed.
+               He introduced these with remarks about the dramatic situation in the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>, which, as
+                  <persName key="P54796">Modrow</persName> had said to <persName key="P31852">Kohl</persName> in
+               Davos, was now really on the verge of administrative, economic and social collapse
+               which is also existentially threatening for all neighbors of the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>. For this reason
+               the federal government is forced to first deal with the economic and internal
+               problems of German unification and shift the recognized external, status- and safety
+               aspects to a future date for the time being.</p>
+            <p>This, according to Stoltenberg, had just now led to a governmental decision to
+               formulate an offer to the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> government to enter into, albeit under a number of very
+               strict conditions, a monetary and economic community. This decision is of a political
+               nature and is clearly outpacing Stoltenberg, faster than can be acceptable to his
+               successor <persName key="P54838">Waigel</persName> or Bundesbank president <tei:persName xmlns:tei="http://www.tei-c.org/ns/1.0" key="P51405">Poelhl</tei:persName>, but Modrow and also people like <persName key="P57586">Berghofer</persName> stipulate that there
+               is no time to lose in remedying the situation in the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>: the number of
+                  “Übersiedler”<note xml:id="e3578">
+                        <orig>Übersiedler</orig>: Migrants moving from
+                  the <choice>
+                            <abbr>GDR</abbr>
+                            <expan>German Democratic Republic</expan>
+                        </choice> to <choice>
+                            <abbr>FRG</abbr>
+                            <expan>Federal Republic of Germany</expan>
+                        </choice>.</note> has already risen to three thousand per day and if this
+               continues hundreds of thousands will arrive in the west in the near future. One can
+               hardly hide the fact that the proposal cannot be regarded as entering into a monetary
+               union between equal partners, but that in fact the entire currency policy and an
+               important part of economic and social policy must be placed in the custody of the
+               Bundesbank. There will probably be no time to adjust the Legal Statute of the
+                  Bundesbank<note xml:id="e3581">Quoted in German:
+                  <orig>Bundesbankgesetz.</orig>
+                    </note> and the speaker did not deny that there was
+               a risk that the German position of preserving the independence of the Bundesbank, an
+               absolute priority of stability policy and a condition of economic-political
+               harmonization for monetary unification might thus be placed in a peculiar light for
+               some interlocutors of the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice>. (see also my 72 of today)</p>
+            <p n="1"/>
+            <p>
+                    <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice>
+                </p>
+            <p>Minister Ter Beek asked his colleague about the current views of the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> government
+               on <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice> and at what point would this topic need to be discussed in the alliance.
+               Stoltenberg did not consider this subject to be appropriate for public discussion at
+               present, but a negotiation concept on substrategic weapons must be formulated timely
+               within <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> before a second round of <choice>
+                        <abbr>CSE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice>. In the federal government there is
+               agreement on two points, namely 1) the Soviet preponderance must be phased out and 2)
+               a responsible <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> concept is also possible with fewer than the current number of
+               substrategic nuclear weapons. Presently, among other things, technical research is
+               being carried out to determine whether one could do with a minimum of exclusively air
+               based <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice>. Against this, there are of course significant objections because of the
+               vulnerability.</p>
+            <p>On the other hand, a lot has changed politically. Stoltenberg believed that the
+               Americans are also more relaxed with regard to this subject, even if the <persName key="P47406">Bush</persName> Administration is certainly prepared to fight
+               in Congress to keep the <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice> option open. Stoltenberg thought it important in future,
+               and perhaps soon, to speak on this subject in the first place confidentially and at a
+               high political level, since this – it could not be denied – carried a considerable
+               emotional charge in the Federal Republic. (Minister Ter Beek had pointed out by way
+               of introduction that apparently <persName key="P15414">Genscher</persName>, <persName key="P54837">Dregger</persName> and <persName key="P39530">Bahr</persName> – representing the three
+               largest parties – had come together in the rejection of <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice>.)</p>
+            <p>Minister Ter Beek, pointing out that it is a deterrent weapon should of course be
+               able to hit the enemy wherever he was, underlined that the political debate in the
+               Netherlands remains ongoing and that it will take place in a new political context.
+               For the time being it is best to study the case thoroughly, yet with the certainty
+               that the subject will be on the table again after <choice>
+                        <abbr>CSE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice>-1. In response to a question
+               from Minister Ter Beek as to whether <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice> would not automatically become an election
+               theme in the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice>, Stoltenberg replied that it would probably be a theme, but after
+               all that has happened recently it will not be the center of gravity in the election
+               battle.</p>
+            <p>Stoltenberg repeated once again that on the one hand the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> does not want a
+               denuclearized Europe, and on the other hand it had not yet fixed its position on the
+               <choice>
+                        <abbr>SNF</abbr>
+                        <expan>Short-Range Nuclear Forces / Substrategic Nuclear Forces</expan>
+                    </choice> issue. Much would depend on whatever truly binding treaty agreements might be
+               reached with the Soviet Union in the short term. However, it was certain that nuclear
+               artillery could very well be abolished.</p>
+            <p n="1"/>
+            <p>French position</p>
+            <p>Minister Ter Beek asked his colleague how the French had spoken about a.o. Pluto and
+                  Hades<note xml:id="e3628">Pluton and Hadès were French nuclear-armed short-range
+                  ballistic missiles launched from mobile platforms.</note> in confidential
+               discussions. His impression was that the French regarded these weapons as
+               predominantly insurance of access to the negotiating table in the event of a possible
+               conflict, a trauma that has persisted since the end of the Second World War.
+               Stoltenberg acknowledged that the French remained very cautious on this point and
+               that it is important to appeal to them increasingly. It is desirable that the French
+               participate in ever more political forums and structures within <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. In this
+               context, French discussion partners like to hide behind the exclusive competence of
+               president <persName key="P13775">Mitterrand</persName>. Stoltenberg appeared to avoid for the time being the
+               question of whether the <choice>
+                        <abbr>WEU</abbr>
+                        <expan>Western European Union</expan>
+                    </choice> might play a role here. Mitterrand is no fan of the <choice>
+                        <abbr>WEU</abbr>
+                        <expan>Western European Union</expan>
+                    </choice>,
+               but also for the Federal Republic France’s further integration in <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice> would be
+               conditional on lending more substance to the <choice>
+                        <abbr>WEU</abbr>
+                        <expan>Western European Union</expan>
+                    </choice> consultations, so that the <choice>
+                        <abbr>WEU</abbr>
+                        <expan>Western European Union</expan>
+                    </choice> will
+               not function as a competitor but rather as a supplier to <choice>
+                        <abbr>NATO</abbr>
+                        <expan>North Atlantic Treaty Organization</expan>
+                    </choice>. In conclusion to this
+               theme, Stoltenberg pointed out that the present French Prime Minister <persName key="P57459">Rocard</persName> is
+               known to have views of his own on this issue, so that one can perhaps regard
+               potential French cooperation with a little more optimism.</p>
+            <p n="1"/>
+            <p>German unification</p>
+            <p>In response to a question from minister Ter Beek as to whether Mr. Stoltenberg has a
+               timetable in mind for German unification he answered negatively. It is clear that a
+               democratically elected <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice> Parliament could very quickly decide to open negotiations
+               with the <choice>
+                        <abbr>FRG</abbr>
+                        <expan>Federal Republic of Germany</expan>
+                    </choice> about unification, which, moreover, is coming about increasingly fast in
+               a factual sense. However, apart from very important domestic political decisions, the
+               “political completion”<note xml:id="e3649">Quoted in German: <orig>Politische
+                     Vollendung.</orig>
+                    </note> of this process requires the solution of the external
+               problems concerning the neighbors, the Allies, the “Schutzmächte”<note xml:id="e3654">
+                        <orig>Schutzmächte</orig>: the Allied Powers protecting Germany.</note> and
+               especially the Soviet Union. Regarding the time span that will be needed from the
+               beginning to the end of this process there are at least three views in the Federal
+               Government. The key question here is obviously what demands the Soviet Union will
+               make related to formal unification.</p>
+            <p>The Federal Government knows and recognizes that the Soviet Union will make demands
+               and also has legitimate rights in this matter, but even the United States does not
+               know where a Soviet “bottom line” might be and it is questionable whether the
+               Russians know it themselves.</p>
+            <p>About the conceivable military configuration in a united Germany, Stoltenberg said
+               Genscher had, as usual, released all sorts of trial balloons, but he was now resigned
+               to the official line of the Federal Government, which has also been accepted by
+               Minister <persName key="P56605">Baker</persName>, although apparently this has once again been
+               contested by <persName key="P57564">Fitzwater</persName>. A central question in all of this is of course how
+               much longer Soviet forces will (be able to) remain on the territory of the <choice>
+                        <abbr>GDR</abbr>
+                        <expan>German Democratic Republic</expan>
+                    </choice>.</p>
+            <p>In connection with the relevant conversations held at the 27<hi>th</hi>
+                  Wehrkundetagung<note xml:id="e3678">
+                        <orig>Wehrkundetagung</orig>: annual
+                  conference on security issues, held in Munich.</note> (ref my 66) Stoltenberg
+               answered the question on how representative the opinions of Bahr and <persName key="P57565">Voigt</persName> were for the entire <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice> by noting that their position certainly
+               represented a basic current in the <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice>, but that otherwise a number of <choice>
+                        <abbr>SPD</abbr>
+                        <expan>Sozialdemokratische Partei Deutschland (Social Democratic Party of Germany)</expan>
+                    </choice> leaders,
+               including <persName key="P55169">Vogel</persName>, would also have great difficulties. Much would depend
+               on the question of whether a real safety structure can be constructed in the <choice>
+                        <abbr>CSCE</abbr>
+                        <expan>Conference on Security and Co-operation in Europe</expan>
+                    </choice>
+               context built on the three pillars: the Soviet Union, North America and Western
+               Europe.</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>

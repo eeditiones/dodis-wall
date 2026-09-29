@@ -1,0 +1,1382 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&family=Special+Elite&family=Permanent+Marker&family=Black+Ops+One&display=swap");
+
+/* ------------------------------------------------------------------
+ * When the Wall Came Down – custom styles
+ * concrete greys, signal red, graffiti yellow, mural sky blue
+ * ------------------------------------------------------------------ */
+:root {
+    --wall-ink: #18191c;
+    --wall-ink-soft: #3b3e43;
+    --wall-concrete: #cfc9bf;
+    --wall-concrete-dark: #9a948a;
+    --wall-paper: #f3f0ea;
+    --wall-card: #fdfcf8;
+    --wall-red: #c8102e;
+    --wall-yellow: #f2c230;
+    --wall-blue: #6cb4e4;
+    --wall-font-display: "Oswald", "IBM Plex Sans", sans-serif;
+    --wall-font-type: "Special Elite", "Courier New", monospace;
+    --wall-font-tag: "Permanent Marker", "Oswald", cursive;
+    --wall-font-serif: "IBM Plex Serif", Georgia, serif;
+    --wall-font-sans: "IBM Plex Sans", "Inter", sans-serif;
+    /* lightened concrete slabs, with a joint every 240px */
+    --wall-beton:
+        repeating-linear-gradient(90deg,
+            transparent 0 238px,
+            rgba(24, 25, 28, 0.10) 238px 239px,
+            rgba(255, 255, 255, 0.35) 239px 240px),
+        linear-gradient(rgba(243, 240, 234, 0.78), rgba(243, 240, 234, 0.78)),
+        url("../images/concrete-seamless.jpg") 0 0 / 640px 640px repeat,
+        var(--wall-paper);
+}
+
+body {
+    background-color: var(--wall-paper);
+}
+
+/* ---------- menubar ---------- */
+.page-header {
+    border-bottom: 4px solid var(--wall-red);
+}
+.page-header nav a,
+.page-header nav summary {
+    font-family: var(--wall-font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: var(--wall-font-display);
+}
+
+/* person popover: the name heading (h1 from the register entry) kept modest */
+.tippy-content h1.tei-person,
+[data-tippy-root] h1.tei-person {
+    margin: 0 0 0.4rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: 0.02em;
+}
+
+/* ---------- hero ---------- */
+.wall-hero {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 86vh;
+    padding: 7rem 6vw 2.5rem;
+    padding-bottom: 3rem;
+    color: #fff;
+    overflow: hidden;
+    isolation: isolate;
+    /* the wall in 1986 (b/w photo, Wikimedia Commons), darkened to a calm night tone */
+    background:
+        url("../images/grain.svg") 0 0 / 240px 240px repeat,
+        linear-gradient(100deg, rgba(14, 16, 20, 0.9) 0%, rgba(14, 16, 20, 0.62) 38%, rgba(14, 16, 20, 0.22) 75%, rgba(14, 16, 20, 0.3) 100%),
+        linear-gradient(180deg, rgba(20, 30, 48, 0.2) 0%, rgba(14, 16, 20, 0.15) 55%, rgba(14, 16, 20, 0.65) 100%),
+        url("../images/berlin-1986-wall.jpg") 52% 68% / max(112%, 145vh) auto no-repeat,
+        #15171b;
+}
+/* chronicle: Brandenburg Gate under searchlights, 30th anniversary of the fall of the Wall */
+.wall-hero.wall-hero-compact {
+    background:
+        url("../images/grain.svg") 0 0 / 240px 240px repeat,
+        linear-gradient(100deg, rgba(14, 16, 20, 0.96) 0%, rgba(14, 16, 20, 0.78) 38%, rgba(14, 16, 20, 0.2) 70%, rgba(14, 16, 20, 0.35) 100%),
+        linear-gradient(0deg, rgba(14, 16, 20, 0.85) 0%, rgba(14, 16, 20, 0) 45%),
+        url("../images/brandenburg-gate-lights.jpg") 50% 62% / cover no-repeat,
+        #0d0f13;
+}
+.wall-hero.wall-hero-compact::before {
+    display: none; /* the photo has its own searchlights */
+}
+.wall-photo-credit {
+    position: absolute;
+    right: 1.25rem;
+    bottom: 0.9rem;
+    z-index: 1;
+    margin: 0;
+    font-family: var(--wall-font-sans);
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.5);
+}
+.wall-photo-credit a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 255, 255, 0.3);
+}
+.wall-photo-credit a:hover {
+    color: #fff;
+}
+/* graffiti band between the landing sections */
+.wall-graffiti-band {
+    position: relative;
+    height: clamp(140px, 18vw, 220px);
+    background:
+        linear-gradient(90deg, rgba(243, 240, 234, 0.9) 0%, rgba(243, 240, 234, 0) 18%, rgba(243, 240, 234, 0) 82%, rgba(243, 240, 234, 0.9) 100%),
+        linear-gradient(0deg, rgba(24, 25, 28, 0.25), rgba(24, 25, 28, 0.25)),
+        url("../images/wall-graffiti-1986.jpg") center 55% / cover no-repeat;
+    filter: saturate(0.75);
+    border-top: 6px solid var(--wall-ink);
+    border-bottom: 6px solid var(--wall-ink);
+}
+.wall-graffiti-band .wall-photo-credit {
+    color: rgba(255, 255, 255, 0.8);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+}
+.wall-graffiti-band .wall-photo-credit a {
+    text-decoration-color: rgba(255, 255, 255, 0.5);
+}
+.wall-hero::before {
+    /* a slowly sweeping searchlight from a watchtower */
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: -40%;
+    right: 12%;
+    width: 38vw;
+    height: 170%;
+    background: linear-gradient(180deg, rgba(255, 244, 214, 0.16) 0%, rgba(255, 244, 214, 0.05) 45%, transparent 75%);
+    clip-path: polygon(46% 0, 54% 0, 100% 100%, 0 100%);
+    transform-origin: 50% 0;
+    transform: rotate(18deg);
+    animation: wall-searchlight 18s ease-in-out infinite alternate;
+    pointer-events: none;
+}
+@keyframes wall-searchlight {
+    from { transform: rotate(24deg); }
+    to { transform: rotate(-22deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .wall-hero::before { animation: none; }
+}
+.wall-hero::after {
+    /* a thin "death strip" line at the bottom */
+    content: "";
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 6px;
+    background: repeating-linear-gradient(90deg, var(--wall-red) 0 40px, transparent 40px 52px);
+    opacity: 0.85;
+}
+.wall-hero-compact {
+    min-height: auto;
+    padding-top: 6rem;
+}
+.wall-hero-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
+    gap: clamp(2rem, 5vw, 5rem);
+    align-items: center;
+    width: 100%;
+    max-width: 84rem;
+    margin: 0 auto;
+}
+.wall-hero-single {
+    grid-template-columns: minmax(0, 1fr);
+}
+.wall-kicker {
+    font-family: var(--wall-font-type);
+    color: var(--wall-yellow);
+    letter-spacing: 0.12em;
+    font-size: 0.95rem;
+    margin: 0 0 1.5rem;
+}
+.wall-title {
+    margin: 0 0 1.75rem;
+    line-height: 1;
+}
+.wall-title img {
+    display: block;
+    width: min(100%, 660px);
+    height: auto;
+    filter: drop-shadow(3px 4px 0 var(--wall-red)) drop-shadow(0 10px 18px rgba(0, 0, 0, 0.6));
+}
+/* hero title: stencil lettering on colour bars, like a street poster */
+.wall-stencil {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0 0 2rem;
+    transform: rotate(-3deg);
+    transform-origin: left center;
+}
+.wall-stencil span {
+    display: block;
+    font-family: "Black Ops One", "Oswald", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 0.95;
+    letter-spacing: 0.02em;
+    color: #f3f0ea;
+}
+.wall-stencil .a {
+    font-size: clamp(1.4rem, 2.6vw, 2.1rem);
+    padding: 0.15em 0.4em;
+    background: var(--wall-ink);
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+.wall-stencil .b {
+    font-size: clamp(3.2rem, 7vw, 5.6rem);
+    padding: 0.06em 0.28em;
+    background: var(--wall-red);
+    box-shadow: 0 0 0 3px var(--wall-red), 0 0 22px 6px rgba(200, 16, 46, 0.4);
+}
+.wall-stencil .c {
+    font-size: clamp(1.6rem, 3.1vw, 2.5rem);
+    padding: 0.12em 0.38em;
+    margin-left: 34%;
+    white-space: nowrap;
+    color: var(--wall-ink);
+    background: var(--wall-yellow);
+}
+
+.wall-page-title {
+    font-family: var(--wall-font-tag);
+    font-weight: 400;
+    font-size: clamp(2.6rem, 6vw, 4.5rem);
+    color: #fff;
+    margin: 0 0 1rem;
+    text-shadow: 3px 4px 0 var(--wall-red);
+    transform: rotate(-1.5deg);
+    transform-origin: left center;
+}
+.wall-subtitle {
+    font-family: var(--wall-font-serif);
+    font-style: italic;
+    font-size: clamp(1.15rem, 1.8vw, 1.5rem);
+    line-height: 1.4;
+    max-width: 36ch;
+    margin: 0 0 0.75rem;
+    color: rgba(255, 255, 255, 0.92);
+}
+.wall-edition {
+    font-family: var(--wall-font-sans);
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 0 2.25rem;
+}
+.wall-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.wall-btn {
+    display: inline-block;
+    padding: 0.85rem 1.5rem;
+    border: 2px solid rgba(255, 255, 255, 0.85);
+    color: #fff;
+    font-family: var(--wall-font-display);
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+    transition: background-color 0.2s, transform 0.2s, border-color 0.2s;
+}
+.wall-btn:hover,
+.wall-btn:focus-visible {
+    background: rgba(255, 255, 255, 0.12);
+    color: #fff;
+    transform: translateY(-2px);
+}
+.wall-btn-primary {
+    background: var(--wall-red);
+    border-color: var(--wall-red);
+}
+.wall-btn-primary:hover,
+.wall-btn-primary:focus-visible {
+    background: #a50d26;
+    border-color: #a50d26;
+}
+
+/* the Trabi breaking through the wall */
+.wall-trabi {
+    margin: 0;
+    justify-self: center;
+    width: min(100%, 600px);
+    transform: none;
+    animation: wall-break 1.4s cubic-bezier(0.2, 0.9, 0.25, 1.1) both;
+}
+/* no frame: the mural dissolves into the night so the Trabi breaks out of the background itself */
+.wall-breach {
+    padding: 0;
+    background: none;
+}
+.wall-breach img {
+    display: block;
+    width: 100%;
+    height: auto;
+    /* long, soft feather around the car: the blue mural fades into the night without a visible edge */
+    /* long, soft elliptical feather around the car: the blue mural fades into the night without a visible edge */
+    -webkit-mask-image: radial-gradient(ellipse 48% 50% at 50% 47%, #000 40%, rgba(0, 0, 0, 0.6) 63%, rgba(0, 0, 0, 0.18) 83%, transparent 100%);
+    mask-image: radial-gradient(ellipse 48% 50% at 50% 47%, #000 40%, rgba(0, 0, 0, 0.6) 63%, rgba(0, 0, 0, 0.18) 83%, transparent 100%);
+    filter: saturate(0.85) contrast(1.08);
+}
+.wall-trabi figcaption {
+    margin-top: 1rem;
+    text-align: right;
+    font-family: var(--wall-font-type);
+    font-size: 0.78rem;
+    color: rgba(255, 255, 255, 0.6);
+    margin-top: -0.5rem;
+}
+/* the car pushes forward out of the dark: grows from a dim, smaller state */
+@keyframes wall-break {
+    from { opacity: 0; transform: scale(0.8); filter: brightness(0.4); }
+    60% { opacity: 1; }
+    to { opacity: 1; transform: scale(1); filter: brightness(1); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .wall-trabi { animation: none; }
+}
+
+/* ---------- timeline strip (the wall itself, documents as bricks) ---------- */
+.wall-hero-strip {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    max-width: 84rem;
+    margin: 3.5rem auto 0;
+}
+.wall-legend {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: flex-end;
+    font-family: var(--wall-font-type);
+    font-size: 0.75rem;
+    color: rgba(255, 255, 255, 0.65);
+    margin-top: 0.75rem;
+}
+.wall-legend span::before {
+    content: "";
+    display: inline-block;
+    width: 12px;
+    height: 7px;
+    margin-right: 0.45rem;
+    vertical-align: 1px;
+}
+.wall-legend-doc::before {
+    background: var(--wall-red);
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.5);
+}
+.wall-legend-event::before {
+    width: 9px !important;
+    height: 9px !important;
+    background: var(--wall-yellow);
+    transform: rotate(45deg);
+}
+.wall-strip {
+    --wall-brick: 7px;
+    position: relative;
+    height: calc(90px + var(--wall-max, 4) * var(--wall-brick));
+}
+.wall-strip-line {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 24px;
+    height: 16px;
+    border-radius: 2px;
+    background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)),
+        repeating-linear-gradient(90deg, var(--wall-concrete) 0 58px, #7d776e 58px 61px);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.45);
+}
+.wall-strip-month {
+    position: absolute;
+    bottom: 0;
+    transform: translateX(-50%);
+    font-family: var(--wall-font-type);
+    font-size: 0.72rem;
+    color: rgba(255, 255, 255, 0.6);
+    white-space: nowrap;
+}
+.wall-strip-stack {
+    position: absolute;
+    bottom: 40px;
+    width: calc(100% / 66);
+    min-width: 6px;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1px;
+    padding: 0 1px;
+    text-decoration: none;
+    z-index: 1;
+}
+.wall-strip-stack .brick {
+    display: block;
+    height: calc(var(--wall-brick) - 1px);
+    background: var(--wall-red);
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+    transform-origin: bottom center;
+    animation: wall-brick 0.5s ease-out both;
+}
+.wall-strip-stack:hover .brick,
+.wall-strip-stack:focus-visible .brick {
+    background: #ff3b55;
+}
+@keyframes wall-brick {
+    from { opacity: 0; transform: translateY(-12px); }
+    to { opacity: 1; transform: none; }
+}
+.wall-strip-event {
+    position: absolute;
+    bottom: 32px;
+    width: 16px;
+    height: 16px;
+    transform: translate(-50%, 50%);
+    text-decoration: none;
+    z-index: 2;
+}
+.wall-strip-event::before {
+    content: "";
+    position: absolute;
+    inset: 2px;
+    background: var(--wall-yellow);
+    transform: rotate(45deg);
+    box-shadow: 0 0 0 2px var(--wall-ink);
+}
+.wall-strip-event .label {
+    position: absolute;
+    bottom: calc(100% + var(--wall-max, 4) * var(--wall-brick) + 14px);
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.2rem 0.5rem;
+    background: var(--wall-yellow);
+    color: var(--wall-ink);
+    font-family: var(--wall-font-display);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+}
+.wall-strip-event .label::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 100%;
+    width: 1px;
+    height: calc(var(--wall-max, 4) * var(--wall-brick) + 8px);
+    background: rgba(242, 194, 48, 0.6);
+}
+.wall-strip-event.key .label,
+.wall-strip-event:hover .label,
+.wall-strip-event:focus-visible .label {
+    opacity: 1;
+}
+.wall-strip:hover .wall-strip-event.key:not(:hover) .label {
+    opacity: 0.35;
+}
+.wall-strip-event:hover,
+.wall-strip-event:focus-visible {
+    z-index: 4;
+}
+@media (prefers-reduced-motion: reduce) {
+    .wall-strip-stack .brick { animation: none; }
+}
+
+/* ---------- about: text with the Trabi as illustration ---------- */
+.wall-about {
+    padding: clamp(2.5rem, 6vw, 5rem) 6vw;
+}
+.wall-about-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+    gap: clamp(2rem, 4vw, 4.5rem);
+    align-items: center;
+    max-width: 84rem;
+    margin: 0 auto;
+}
+.wall-about .wall-trabi {
+    width: 100%;
+    justify-self: stretch;
+    margin: 0;
+}
+.wall-about .wall-trabi figcaption {
+    color: var(--wall-concrete-dark);
+    text-align: center;
+    margin-top: 0.25rem;
+}
+/* the landing text is laid out in two columns by default – stack it next to the picture */
+.wall-about-text .center-l {
+    max-width: none;
+    padding: 0;
+    margin: 0;
+}
+.wall-about-text a {
+    color: var(--wall-ink);
+    text-decoration: underline;
+    text-decoration-color: var(--wall-red);
+    text-underline-offset: 0.15em;
+}
+.wall-about-text a:hover {
+    color: var(--wall-red);
+}
+.wall-about .wall-about-text .two-column.row {
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+.wall-about .wall-about-text .two-column.row > * {
+    flex: none;
+    max-width: 62ch;
+}
+.wall-about .wall-trabi {
+    align-self: center;
+}
+
+/* ---------- chronicle ---------- */
+.wall-chronicle-section {
+    padding: clamp(3rem, 7vw, 6rem) 6vw;
+}
+/* concrete wall: landing light sections and the chronicle.
+   #about is more specific than a class in landing-page.css, so match the ids. */
+.wall-chronicle-section,
+#about.wall-about,
+#voices.wall-voices {
+    background: var(--wall-beton);
+}
+
+.wall-section-head {
+    max-width: 60rem;
+    margin: 0 auto 3rem;
+}
+.wall-section-head h2 {
+    font-family: var(--wall-font-tag);
+    font-weight: 400;
+    font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+    color: var(--wall-ink);
+    margin: 0 0 0.75rem;
+    display: inline-block;
+    transform: rotate(-1.5deg);
+    background: linear-gradient(transparent 62%, rgba(242, 194, 48, 0.85) 62%, rgba(242, 194, 48, 0.85) 92%, transparent 92%);
+    padding: 0 0.3rem;
+}
+.wall-section-head p {
+    font-family: var(--wall-font-serif);
+    font-size: 1.15rem;
+    color: var(--wall-ink-soft);
+    max-width: 55ch;
+}
+.wall-chronicle {
+    --wall-axis: 10.5rem;
+    position: relative;
+    list-style: none;
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0;
+}
+.wall-chronicle::before {
+    /* the vertical wall: stacked concrete slabs */
+    content: "";
+    position: absolute;
+    top: 0.5rem;
+    bottom: 0.5rem;
+    left: var(--wall-axis);
+    width: 12px;
+    margin-left: -6px;
+    background:
+        linear-gradient(90deg, rgba(255, 255, 255, 0.35), rgba(0, 0, 0, 0.18)),
+        repeating-linear-gradient(180deg, var(--wall-concrete) 0 64px, var(--wall-concrete-dark) 64px 67px);
+    border-radius: 2px;
+}
+.wall-chronicle > li {
+    position: relative;
+    display: grid;
+    grid-template-columns: var(--wall-axis) minmax(0, 1fr);
+    column-gap: 2.5rem;
+    align-items: start;
+    margin: 0 0 1.75rem;
+    padding: 0;
+    list-style: none;
+}
+.wall-chronicle > li > time {
+    grid-column: 1;
+    padding-right: 1.75rem;
+    text-align: right;
+    font-family: var(--wall-font-display);
+    font-weight: 500;
+    font-size: 1.05rem;
+    letter-spacing: 0.02em;
+    color: var(--wall-ink-soft);
+    padding-top: 1.35rem;
+}
+.wall-chronicle > li::after {
+    content: "";
+    position: absolute;
+    left: var(--wall-axis);
+    top: 1.55rem;
+    width: 18px;
+    height: 18px;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    background: var(--wall-red);
+    box-shadow: 0 0 0 3px var(--wall-paper), 0 2px 6px rgba(0, 0, 0, 0.35);
+}
+.wall-chronicle > li > :not(time) {
+    grid-column: 2;
+}
+
+/* events: graffiti tags on the wall */
+.wall-chronicle > li.wall-event {
+    margin: 2.25rem 0;
+}
+.wall-chronicle > li.wall-event > time {
+    padding-top: 0.3rem;
+    color: var(--wall-ink);
+}
+.wall-chronicle > li.wall-event::after {
+    top: 0.45rem;
+    width: 18px;
+    height: 18px;
+    border-radius: 0;
+    background: var(--wall-yellow);
+    transform: translateX(-50%) rotate(45deg);
+    box-shadow: 0 0 0 3px var(--wall-ink);
+}
+.wall-event-text {
+    margin: 0;
+    line-height: 1.3;
+}
+.wall-event-label {
+    font-family: var(--wall-font-tag);
+    font-size: clamp(1.2rem, 2.2vw, 1.55rem);
+    line-height: 1.3;
+    color: var(--wall-ink);
+    background: linear-gradient(transparent 58%, rgba(242, 194, 48, 0.75) 58%, rgba(242, 194, 48, 0.75) 94%, transparent 94%);
+    padding: 0 0.25rem;
+    /* repeat the highlight under every wrapped line */
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+/* documents: telegram cards */
+.wall-card {
+    position: relative;
+    background: var(--wall-card);
+    border: 1px solid rgba(24, 25, 28, 0.08);
+    border-left: 6px solid var(--wall-red);
+    padding: 1.25rem 1.5rem 1.35rem;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04), 0 10px 24px -14px rgba(24, 25, 28, 0.45);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+.wall-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04), 0 18px 32px -16px rgba(24, 25, 28, 0.55);
+}
+.wall-card header {
+    background: none;
+    border: 0;
+    padding: 0;
+    margin: 0 0 0.65rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.65rem;
+}
+.wall-type {
+    font-family: var(--wall-font-display);
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--wall-ink-soft);
+}
+.wall-stamp {
+    font-family: var(--wall-font-type);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    padding: 0.1rem 0.45rem;
+    border: 2px solid currentColor;
+    border-radius: 3px;
+    transform: rotate(-4deg);
+    color: #56708a;
+    opacity: 0.9;
+}
+.wall-stamp-alert {
+    color: var(--wall-red);
+}
+.wall-id {
+    margin-left: auto;
+    font-family: var(--wall-font-type);
+    font-size: 0.75rem;
+    color: var(--wall-concrete-dark);
+}
+.wall-card h4 {
+    font-family: var(--wall-font-serif);
+    font-weight: 500;
+    font-size: 1.22rem;
+    line-height: 1.4;
+    margin: 0 0 0.75rem;
+}
+.wall-card h4 a {
+    color: var(--wall-ink);
+    text-decoration: none;
+    background-image: linear-gradient(var(--wall-red), var(--wall-red));
+    background-size: 0 2px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.3s, color 0.2s;
+}
+.wall-card h4 a:hover,
+.wall-card h4 a:focus-visible {
+    color: var(--wall-red);
+    background-size: 100% 2px;
+}
+.wall-route {
+    font-family: var(--wall-font-sans);
+    font-size: 0.9rem;
+    color: var(--wall-ink-soft);
+    margin: 0 0 0.35rem;
+}
+.wall-route .arrow {
+    color: var(--wall-red);
+    margin: 0 0.4rem;
+    font-weight: 600;
+}
+.wall-dateline {
+    font-family: var(--wall-font-type);
+    font-size: 0.85rem;
+    color: #6f6c66;
+    margin: 0 0 0.9rem;
+}
+.wall-read {
+    font-family: var(--wall-font-display);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--wall-red);
+    text-decoration: none;
+}
+.wall-read::after {
+    content: " →";
+    transition: margin 0.2s;
+}
+.wall-read:hover::after {
+    margin-left: 0.3rem;
+}
+
+/* ---------- document view: metadata sidebar ---------- */
+.wall-meta {
+    font-family: var(--wall-font-sans);
+    font-size: 0.92rem;
+    color: var(--wall-ink);
+    padding: 1.25rem 1.25rem 1.5rem;
+    background: var(--wall-card);
+    border-top: 6px solid var(--wall-red);
+    box-shadow: 0 10px 24px -16px rgba(24, 25, 28, 0.5);
+}
+.wall-meta-head {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+.wall-meta-date {
+    display: block;
+    font-family: var(--wall-font-display);
+    font-size: 1.7rem;
+    font-weight: 600;
+    margin: 0.5rem 0 1rem;
+}
+.wall-meta dl {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: 0.35rem 0.9rem;
+    margin: 0 0 1rem;
+}
+.wall-meta dt {
+    font-family: var(--wall-font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.75rem;
+    color: var(--wall-concrete-dark);
+    padding-top: 0.15rem;
+}
+.wall-meta dd {
+    margin: 0;
+}
+.wall-meta h4 {
+    font-family: var(--wall-font-display);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.78rem;
+    color: var(--wall-red);
+    margin: 1.25rem 0 0.4rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px dashed var(--wall-concrete);
+}
+.wall-meta-summary {
+    font-family: var(--wall-font-serif);
+    font-style: italic;
+    margin: 0;
+}
+.wall-meta-list,
+.wall-meta-places {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.wall-meta-list li {
+    margin: 0 0 0.2rem;
+    padding: 0;
+    list-style: none;
+}
+.wall-meta-list .life {
+    color: #6f6c66;
+    font-size: 0.85em;
+}
+.wall-meta-places {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+}
+.wall-meta-places li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.wall-meta-places a {
+    display: inline-block;
+    padding: 0.1rem 0.5rem;
+    background: var(--wall-paper);
+    border: 1px solid var(--wall-concrete);
+    font-size: 0.82rem;
+    text-decoration: none;
+    color: var(--wall-ink);
+}
+.wall-meta a {
+    color: var(--wall-ink);
+    text-decoration-color: var(--wall-red);
+}
+.wall-meta a:hover {
+    color: var(--wall-red);
+}
+.wall-meta-cite {
+    font-size: 0.85rem;
+    margin: 0;
+}
+
+/* one concrete sheet behind the whole toolbar row, so the slabs do not restart at each column */
+.fixed-layout:has(.wall-docnav)::before {
+    content: "";
+    grid-column: 1 / -1;
+    grid-row: 2;
+    z-index: 0;
+    pointer-events: none;
+    background: var(--wall-beton);
+}
+.fixed-layout:has(.wall-docnav) > .before-top,
+.fixed-layout:has(.wall-docnav) > .after-top,
+.fixed-layout:has(.wall-docnav) > .content-top,
+.fixed-layout:has(.wall-docnav) > .content-top .toolbar,
+.fixed-layout:has(.wall-docnav):has(> .before > :not(.resize-handler)) > nav.before-top,
+.fixed-layout:has(.wall-docnav):has(> .after > :not(.resize-handler)) > nav.after-top {
+    background: transparent;
+    border-color: transparent;
+    position: relative;
+    z-index: 1;
+}
+
+/* ---------- document view: previous / next on the timeline ---------- */
+/* segmented like the zoom group of the modern theme: equal height, 1px dividers */
+.toolbar .wall-docnav > span {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    padding: 0;
+}
+.toolbar .wall-docnav .wall-docnav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    height: 100%;
+    min-height: 34px;
+    margin: 0;
+    padding: 0 0.75rem;
+    border-radius: 0;
+    font-family: var(--wall-font-display);
+    font-size: 0.85rem;
+    line-height: 1;
+    letter-spacing: 0.04em;
+    color: var(--wall-ink);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: background-color 0.15s, color 0.15s;
+}
+.toolbar .wall-docnav .wall-docnav-link .ionicon {
+    display: block;
+    flex: none;
+    width: 0.9rem;
+    height: 0.9rem;
+    margin: 0;
+    vertical-align: middle;
+}
+.toolbar .wall-docnav .wall-docnav-link .date {
+    display: block;
+    line-height: 1;
+    padding-top: 1px; /* optical centring of Oswald caps */
+}
+.toolbar .wall-docnav a.wall-docnav-link:hover,
+.toolbar .wall-docnav a.wall-docnav-link:focus-visible {
+    background: var(--wall-ink);
+    color: #fff;
+}
+.toolbar .wall-docnav a.wall-docnav-link:hover *,
+.toolbar .wall-docnav a.wall-docnav-link:focus-visible * {
+    color: #fff;
+}
+.toolbar .wall-docnav .wall-docnav-link.disabled {
+    color: var(--wall-concrete-dark);
+    cursor: default;
+}
+.toolbar .wall-docnav .wall-docnav-pos {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    padding: 0 0.7rem;
+    font-family: var(--wall-font-type);
+    font-size: 0.75rem;
+    line-height: 1;
+    color: var(--wall-concrete-dark);
+    border-left: 1px solid var(--wall-concrete-dark);
+    border-right: 1px solid var(--wall-concrete-dark);
+    white-space: nowrap;
+}
+/* phones: drop the zoom buttons and show arrows only (the date stays in aria-label/title) */
+@media (max-width: 900px) {
+    .toolbar li:has(> [role="group"] > pb-zoom) {
+        display: none;
+    }
+    .toolbar .wall-docnav .wall-docnav-link .date {
+        display: none;
+    }
+}
+
+/* ---------- responsive ---------- */
+@media (max-width: 900px) {
+    .wall-hero {
+        padding: 5.5rem 1.25rem 3rem;
+        min-height: auto;
+    }
+    .wall-hero-inner,
+    .wall-about-grid {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .wall-trabi {
+        width: min(100%, 460px);
+    }
+    .wall-strip-month:nth-of-type(even) {
+        display: none;
+    }
+    /* the landing-page theme stacks these below 639px, but its rule loses to
+       the more specific ".two-column.long-desc" and the columns stay side by side
+       (landing-page.css loads after this file, hence the extra class) */
+    .landing-layout .two-column.long-desc {
+        flex-direction: column;
+        gap: 1.25rem;
+    }
+    .wall-chronicle-section {
+        padding: 3rem 1.25rem;
+    }
+    .wall-chronicle {
+        --wall-axis: 0.5rem;
+        padding-left: 2.25rem;
+    }
+    .wall-chronicle::before {
+        left: 0.5rem;
+    }
+    .wall-chronicle > li {
+        grid-template-columns: minmax(0, 1fr);
+    }
+    .wall-chronicle > li::after {
+        left: 0.5rem;
+        margin-left: -2.25rem;
+    }
+    .wall-chronicle > li > time,
+    .wall-chronicle > li > :not(time) {
+        grid-column: 1;
+        text-align: left;
+    }
+    .wall-chronicle > li > time {
+        padding: 0 0 0.4rem;
+    }
+    .wall-card {
+        padding: 1rem 1.1rem 1.1rem;
+    }
+}
+
+/* ---------- voices from abroad (landing) ---------- */
+.wall-voices {
+    padding: clamp(3rem, 7vw, 6rem) 6vw;
+}
+.wall-voices > * {
+    max-width: 72rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wall-stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+    margin-bottom: 2.5rem;
+}
+.wall-stats li {
+    list-style: none;
+    margin: 0;
+    padding: 1rem 1.25rem;
+    background: var(--wall-ink);
+    color: #fff;
+    border-bottom: 5px solid var(--wall-red);
+}
+.wall-stats strong {
+    display: block;
+    font-family: var(--wall-font-display);
+    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    font-weight: 600;
+    line-height: 1;
+    color: var(--wall-yellow);
+}
+.wall-stats span {
+    font-family: var(--wall-font-type);
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.75);
+}
+.wall-countries {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+    gap: 1rem;
+}
+.wall-country {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto;
+    column-gap: 1rem;
+    align-items: center;
+    padding: 1rem 1.25rem;
+    background: var(--wall-card);
+    border: 1px solid rgba(24, 25, 28, 0.08);
+    border-left: 6px solid var(--wall-concrete-dark);
+    color: var(--wall-ink);
+    text-decoration: none;
+    box-shadow: 0 10px 24px -18px rgba(24, 25, 28, 0.5);
+    transition: transform 0.2s, border-color 0.2s;
+}
+.wall-country:hover,
+.wall-country:focus-visible {
+    transform: translateY(-3px);
+    border-left-color: var(--wall-red);
+    color: var(--wall-ink);
+}
+.wall-country-count {
+    grid-row: 1 / span 2;
+    font-family: var(--wall-font-display);
+    font-size: 2.4rem;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--wall-red);
+}
+.wall-country-name {
+    font-family: var(--wall-font-display);
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.wall-country-range {
+    font-family: var(--wall-font-type);
+    font-size: 0.75rem;
+    color: #6f6c66;
+}
+.wall-voices-cta {
+    margin-top: 2.5rem;
+    text-align: center;
+}
+
+/* ---------- chronicle: filters, months, flags ---------- */
+.wall-filters {
+    position: sticky;
+    top: 0;
+    /* below the splash screen (base.css: .splash has z-index 3), above the chronicle entries */
+    z-index: 2;
+    max-width: 60rem;
+    margin: 0 auto 2.5rem;
+    padding: 1rem 1.25rem;
+    background: rgba(24, 25, 28, 0.94);
+    color: #fff;
+    border-bottom: 4px solid var(--wall-red);
+    box-shadow: 0 12px 24px -16px rgba(0, 0, 0, 0.6);
+    scroll-margin-top: 4rem;
+}
+.wall-filter-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.6rem;
+}
+.wall-filter-label {
+    font-family: var(--wall-font-display);
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--wall-yellow);
+    min-width: 4.5rem;
+}
+.wall-chip {
+    all: unset;
+    cursor: pointer;
+    padding: 0.2rem 0.6rem;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    font-family: var(--wall-font-sans);
+    font-size: 0.8rem;
+    color: #fff;
+    transition: background-color 0.15s, border-color 0.15s;
+}
+.wall-chip .n {
+    font-family: var(--wall-font-type);
+    font-size: 0.72rem;
+    opacity: 0.7;
+    margin-left: 0.2rem;
+}
+.wall-chip:hover,
+.wall-chip:focus-visible {
+    border-color: #fff;
+    background: rgba(255, 255, 255, 0.1);
+}
+.wall-chip.active {
+    background: var(--wall-red);
+    border-color: var(--wall-red);
+}
+/* place filter: too many values for chips, so a select styled like a chip */
+.wall-filters .wall-select {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0.2rem 2rem 0.2rem 0.6rem;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    border-radius: 0;
+    background-color: transparent;
+    background-position: right 0.5rem center;
+    background-size: 0.9rem auto;
+    color: #fff;
+    font-family: var(--wall-font-sans);
+    font-size: 0.8rem;
+    line-height: 1.4;
+    cursor: pointer;
+    box-shadow: none;
+}
+.wall-filters .wall-select:hover,
+.wall-filters .wall-select:focus-visible {
+    border-color: #fff;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.wall-filters .wall-select.active {
+    background-color: var(--wall-red);
+    border-color: var(--wall-red);
+}
+.wall-filters .wall-select option {
+    color: var(--wall-ink);
+    background: #fff;
+}
+.wall-filter-status {
+    margin: 0;
+    font-family: var(--wall-font-type);
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.75);
+}
+.wall-shown {
+    font-family: var(--wall-font-display);
+    font-size: 1rem;
+    color: var(--wall-yellow);
+}
+.wall-reset {
+    all: unset;
+    cursor: pointer;
+    margin-left: 1rem;
+    text-decoration: underline;
+    color: #fff;
+}
+.wall-reset[hidden] {
+    display: none;
+}
+/* full text search: first row of the filter box */
+.wall-search {
+    margin: 0 0 0.8rem;
+}
+.wall-filters .wall-search-input {
+    flex: 1 1 16rem;
+    width: auto;
+    min-width: 0;
+    height: auto;
+    margin: 0;
+    padding: 0.3rem 0.6rem;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    border-radius: 0;
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    font-family: var(--wall-font-sans);
+    font-size: 0.9rem;
+    box-shadow: none;
+}
+.wall-filters .wall-search-input::placeholder {
+    color: rgba(255, 255, 255, 0.55);
+}
+.wall-filters .wall-search-input:focus-visible {
+    outline: none;
+    border-color: var(--wall-yellow);
+}
+.wall-search .wall-chip {
+    padding: 0.3rem 0.8rem;
+}
+.wall-search-clear {
+    font-family: var(--wall-font-type);
+    font-size: 0.8rem;
+    color: #fff;
+}
+/* KWIC fragments of the search matches inside a chronicle card */
+.wall-kwic {
+    margin: 0.75rem 0 0.25rem;
+    padding: 0.6rem 0.8rem;
+    border-left: 3px solid var(--wall-yellow);
+    background: rgba(242, 194, 48, 0.1);
+}
+.wall-kwic-count {
+    margin: 0 0 0.35rem;
+    font-family: var(--wall-font-display);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--wall-ink-soft);
+}
+.wall-kwic p:not(.wall-kwic-count) {
+    margin: 0.25rem 0;
+    font-family: var(--wall-font-serif);
+    font-size: 0.88rem;
+    line-height: 1.45;
+    color: var(--wall-ink-soft);
+}
+.wall-kwic .hi {
+    padding: 0 0.15rem;
+    background: var(--wall-yellow);
+    color: var(--wall-ink);
+    font-weight: 600;
+}
+.wall-chronicle > li.wall-month {
+    display: block;
+    margin: 3rem 0 1.25rem;
+    padding-left: calc(var(--wall-axis) + 2.5rem);
+    /* keep anchor targets below the sticky filter box; wall.js measures its height */
+    scroll-margin-top: calc(var(--wall-filters-offset, 12rem) + 1rem);
+}
+.wall-chronicle > li.wall-month::after {
+    display: none;
+}
+.wall-chronicle > li.wall-month h3 {
+    display: inline-block;
+    margin: 0;
+    padding: 0.3rem 0.9rem;
+    background: var(--wall-ink);
+    color: #fff;
+    font-family: var(--wall-font-display);
+    font-size: 1.05rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+}
+.wall-chronicle > li[hidden] {
+    display: none;
+}
+.wall-chronicle > li.wall-event {
+    /* keep anchor targets below the sticky filter box; wall.js measures its height */
+    scroll-margin-top: calc(var(--wall-filters-offset, 12rem) + 1rem);
+}
+.wall-chronicle.filtered > li.wall-event {
+    opacity: 0.5;
+    margin: 0.6rem 0;
+}
+.wall-chronicle.filtered > li.wall-event > time {
+    font-size: 0.85rem;
+    padding-top: 0;
+}
+.wall-chronicle.filtered > li.wall-event::after {
+    top: 0.2rem;
+    width: 12px;
+    height: 12px;
+}
+.wall-chronicle.filtered .wall-event-label {
+    font-size: 0.95rem;
+}
+.wall-flag {
+    font-family: var(--wall-font-display);
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0.1rem 0.5rem;
+    background: var(--wall-ink);
+    color: #fff;
+}
+.wall-stamp-plain {
+    color: #56708a;
+}
+.wall-meta h4 .n {
+    font-family: var(--wall-font-type);
+    color: var(--wall-concrete-dark);
+    letter-spacing: 0;
+}
+
+@media (max-width: 900px) {
+    .wall-stats {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .wall-strip {
+        --wall-brick: 5px;
+    }
+    .wall-strip-event.key .label {
+        opacity: 0;
+    }
+    .wall-filters {
+        position: static;
+    }
+    .wall-chronicle > li.wall-month {
+        padding-left: 0;
+    }
+}
+
+/* ---------- document view: text column ---------- */
+/* pb-view is a flex item; without this it refuses to shrink below its
+   70ch content width and pushes the text off-screen on phones */
+main .center > pb-view {
+    min-width: 0;
+}
+
+/* ---------- document view: IIIF facsimile ---------- */
+aside.after pb-tify,
+aside.after pb-facsimile {
+    display: block;
+    height: calc(100vh - 8.5rem) !important;
+}
+
+/* below 1024px the facsimile and its toggle are not part of the page */
+@media (max-width: 1023px) {
+    .fixed-layout:has(pb-tify),
+    .fixed-layout:has(pb-facsimile) {
+        --jinks-layout-after-track: 0 !important;
+    }
+    .fixed-layout:has(pb-tify) > .after,
+    .fixed-layout:has(pb-facsimile) > .after,
+    .fixed-layout:has(pb-tify) > .after-top,
+    .fixed-layout:has(pb-facsimile) > .after-top {
+        display: none !important;
+    }
+}

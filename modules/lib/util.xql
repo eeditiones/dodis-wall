@@ -18,30 +18,28 @@
 xquery version "3.1";
 
 module namespace tpu="http://www.tei-c.org/tei-publisher/util";
-
-
 import module namespace config="http://www.tei-c.org/tei-simple/config" at "../config.xqm";
-import module namespace templates="http://exist-db.org/xquery/html-templating";
-
-declare variable $tpu:template-config := map {
-    $templates:CONFIG_APP_ROOT : $config:app-root,
-    $templates:CONFIG_STOP_ON_ERROR : true()
-};
 
 declare function tpu:parse-pi($doc as document-node(), $view as xs:string?) {
     tpu:parse-pi($doc, $view, request:get-parameter("odd", ()))
 };
 
 declare function tpu:parse-pi($doc as document-node(), $view as xs:string?, $odd as xs:string?) {
+    let $fill := request:get-parameter("fill", ())
+    return
+        tpu:parse-pi($doc, $view, $odd, if ($fill) then number($fill) else ())
+};
+
+declare function tpu:parse-pi($doc as document-node(), $view as xs:string?, $odd as xs:string?, $fill as xs:double?) {
     let $defaultConfig := config:default-config(document-uri($doc))
-    let $default := map {
+    let $newConfig := map {
         "view": ($view, $defaultConfig?view)[1],
-        "depth": $defaultConfig?depth,
-        "fill": $defaultConfig?fill,
         "type": config:document-type($doc/*),
-        "template": $defaultConfig?template,
-        "media": $defaultConfig?media
+        "fill": ($fill, $defaultConfig?fill)[1]
     }
+    let $default := map:merge((
+        $defaultConfig, $newConfig
+    ), map { "duplicates": "use-last" })
     let $pis :=
         map:merge(
             for $pi in $doc/processing-instruction("teipublisher")
@@ -58,7 +56,7 @@ declare function tpu:parse-pi($doc as document-node(), $view as xs:string?, $odd
                     map:entry($key, tokenize($value, '[\s,]+'))
                 else
                     map:entry($key, $value)
-        )
+        , map { "duplicates": "use-last" })
     (: Check if ODD configured in PI is available :)
     let $cfgOddAvail :=
         if ($pis?odd) then
@@ -68,44 +66,19 @@ declare function tpu:parse-pi($doc as document-node(), $view as xs:string?, $odd
     let $pisWithOdd :=
         if ($defaultConfig?overwrite) then
             if ($cfgOddAvail) then
-                map:merge(($default, map { "odd": $pis?odd, "output": $pis?output }))
+                map:merge(($default, map { "odd": $pis?odd, "output": $pis?output }), map { "duplicates": "use-last" })
             else
-                map:merge(($default, map { "output": $pis?output }))
+                map:merge(($default, map { "output": $pis?output }), map { "duplicates": "use-last" })
         else
             $pis
     (: ODD from parameter should overwrite ODD defined in PI :)
     let $config :=
         if ($odd) then
-            map:merge(($pisWithOdd, map { "odd": $odd }))
+            map:merge(($pisWithOdd, map { "odd": $odd }), map { "duplicates": "use-last" })
         else if ($cfgOddAvail) then
             $pisWithOdd
         else
-            map:merge(($pisWithOdd, map { "odd": $defaultConfig?odd }))
+            map:merge(($pisWithOdd, map { "odd": $defaultConfig?odd }), map { "duplicates": "use-last" })
     return
-        map:merge(($default, $config))
-};
-
-declare function tpu:get-template-config($request as map(*)) {
-    map:merge((
-        $tpu:template-config,
-        map {
-            $templates:CONFIG_PARAM_RESOLVER : function($param) {
-                let $pval := array:fold-right(
-                    [
-                        request:get-parameter($param, ()),
-                        if (map:contains($request, 'parameters')) then $request?parameters($param) else (),
-                        request:get-attribute($param),
-                        session:get-attribute($config:session-prefix || "." || $param)
-                    ], (),
-                    function($zero, $current) {
-                        if (exists($zero)) then
-                            $zero
-                        else
-                            $current
-                    }
-                )
-                return
-                    $pval
-            }
-        }))
+        map:merge(($default, $config), map { "duplicates": "use-last" })
 };

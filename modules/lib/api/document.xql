@@ -56,6 +56,86 @@ declare function dapi:delete($request as map(*)) {
             error($errors:NOT_FOUND, "Document " || $id || " not found")
 };
 
+declare %private variable $dapi:repoxml := (
+    let $uri := doc($config:app-root || "/expath-pkg.xml")/*/@name
+    let $repo := util:binary-to-string(repo:get-resource($uri, "repo.xml"))
+    return parse-xml($repo)
+);
+
+declare %private function dapi:mkcol-recursive ($collection, $components) {
+    if (exists($components)) then
+        let $newColl := concat($collection, "/", $components[1])
+        return (
+            if (
+                not(
+                    xmldb:collection-available(
+                        $collection || "/" || $components[1]
+                    )
+                )
+            ) then
+                let $created := xmldb:create-collection(
+                    $collection,
+                    $components[1]
+                )
+                return (
+                    sm:chown(
+                        xs:anyURI($created),
+                        $dapi:repoxml//repo:permissions/@user
+                    ),
+                    sm:chgrp(
+                        xs:anyURI($created),
+                        $dapi:repoxml//repo:permissions/@group
+                    ),
+                    sm:chmod(
+                        xs:anyURI($created),
+                        replace(
+                            $dapi:repoxml//repo:permissions/@mode,
+                            "(..).(..).(..).",
+                            "$1x$2x$3x"
+                        )
+                    )
+                )
+            else (
+            ),
+            dapi:mkcol-recursive($newColl, subsequence($components, 2))
+        )
+    else (
+    )
+};
+
+(: Helper function to recursively create a collection hierarchy. :)
+declare %private function dapi:mkcol ($collection, $path) {
+    dapi:mkcol-recursive($collection, tokenize($path, "/"))
+};
+
+declare function dapi:save ($request as map(*)) {
+    let $id := $request?parameters?id
+    let $create := $request?parameters?create
+    let $path := if ($id => contains("/")) then (
+        (: the id is actually a path, like `demo/subcollection/my-doc.xml`. Split it up and remove the last part :)
+        tokenize($id, "/")[position() < last()] => string-join("/")
+    ) else (
+        substring-after($config:data-default, $config:data-root || "/")
+    )
+    (: Again, the ID might be a whole path. :)
+    let $resource-name := tokenize($id, "/")[last()]
+    (: Ensure the collection exists :)
+    let $_ := dapi:mkcol($config:data-root, $path)
+    let $body := $request?body
+    return try {
+        let $path := xmldb:store(
+            string-join(($config:data-root, $path), "/"),
+            $resource-name,
+            $body
+        )
+        return router:response(
+            200,
+            "application/json",
+            map {"status": "ok", "path": config:get-relpath(doc($path))}
+        )
+    } catch * { error($errors:BAD_REQUEST, $err:description) }
+};
+
 declare function dapi:source($request as map(*)) {
     let $doc := xmldb:decode($request?parameters?id)
     return
@@ -85,11 +165,11 @@ declare function dapi:print($request as map(*)) {
 declare %private function dapi:generate-html($request as map(*), $outputMode as xs:string) {
     let $doc := xmldb:decode($request?parameters?id)
     let $addStyles :=
-        for $href in $request?parameters?style
+        for $href in $request?parameters?style?*
         return
             <link rel="Stylesheet" href="{$href}"/>
     let $addScripts :=
-        for $src in $request?parameters?script
+        for $src in $request?parameters?script?*
         return
             <script src="{$src}"></script>
     return
@@ -98,7 +178,7 @@ declare %private function dapi:generate-html($request as map(*), $outputMode as 
             return
                 if (exists($xml)) then
                     let $config := tpu:parse-pi(root($xml), ())
-                    let $out := 
+                    let $out :=
                         if ($outputMode = 'print') then
                             $pm-config:print-transform($xml, map { "root": $xml, "webcomponents": 7 }, $config?odd)
                         else
@@ -157,7 +237,7 @@ declare function dapi:postprocess($nodes as node()*, $styles as element()*, $scr
             case element(body) return
                 let $content := (
                     dapi:postprocess($node/node(), $styles, $scripts, $base, $components),
-                    let $footnotes := 
+                    let $footnotes :=
                         for $fn in root($node)//*[@class = "footnote"]
                         return
                             element { node-name($fn) } {
@@ -191,15 +271,15 @@ declare %private function dapi:webcomponents($components as xs:string?) {
     if ($components) then (
         <style rel="stylesheet" type="text/css">
         a[rel=footnote] {{
-            font-size: var(--pb-footnote-font-size, var(--pb-content-font-size, 75%));
-            font-family: var(--pb-footnote-font-family, --pb-content-font-family);
+            font-size: var(--jinks-footnote-font-size, var(--jinks-content-font-size, 75%));
+            font-family: var(--jinks-footnote-font-family, var(--jinks-content-font-family));
             vertical-align: super;
             text-decoration: none;
-            padding: var(--pb-footnote-padding, 0 0 0 .25em);
+            padding: var(--jinks-footnote-padding);
         }}
         .footnote .fn-number {{
             float: left;
-            font-size: var(--pb-footnote-font-size, var(--pb-content-font-size, 75%));
+            font-size: var(--jinks-footnote-font-size, var(--jinks-content-font-size, 75%));
         }}
         </style>,
         <script defer="defer" src="https://cdn.jsdelivr.net/npm/web-components-loader/lib/index.min.js"></script>,
@@ -334,7 +414,7 @@ declare function dapi:pdf($request as map(*)) {
                             let $output := xslfo:render($fo, "application/pdf", (), $config:fop-config)
                             return
                                 typeswitch($output)
-                                    case xs:base64Binary return 
+                                    case xs:base64Binary return
                                         if ($useCache) then
                                             let $path := dapi:cache($name, $output)
                                             return
@@ -349,6 +429,38 @@ declare function dapi:pdf($request as map(*)) {
             ()
 };
 
+declare function dapi:markdown($request as map(*)) {
+    let $id := xmldb:decode($request?parameters?doc)
+    let $doc := config:get-document($id)
+    return
+        if (exists($doc)) then
+            let $config := tpu:parse-pi(root($doc), ())
+            let $section-id := $request?parameters?id
+            let $node :=
+                if ($section-id) then
+                    let $section := root($doc)/id($section-id)
+                    return
+                        if (exists($section)) then
+                            (: Wrap in the document root element so the transform enters via
+                               markdown:document, which turns template strings into text nodes.
+                               Transforming a bare section/div leaves those strings as atomics
+                               and markdown:finish then fails with XPTY0004. :)
+                            let $root := root($doc)/*
+                            return
+                                element { node-name($root) } {
+                                    $section
+                                }
+                        else
+                            error($errors:NOT_FOUND, "Section " || $section-id || " not found in document " || $id)
+                else
+                    $doc
+            let $markdown := $pm-config:markdown-transform($node, map { "root": $node }, $config?odd)
+            return
+                router:response(200, "text/markdown; charset=utf-8", string-join($markdown, ""))
+        else
+            error($errors:NOT_FOUND, "Document " || $id || " not found")
+};
+
 declare function dapi:epub($request as map(*)) {
     let $id := xmldb:decode($request?parameters?id)
     let $work := config:get-document($id)
@@ -356,13 +468,13 @@ declare function dapi:epub($request as map(*)) {
         if (exists($work)) then
             let $entries := dapi:work2epub($request, $id, $work, $request?parameters?lang)
             return
-                ( 
+                (
                     if ($request?parameters?token) then
                         response:set-cookie("simple.token", $request?parameters?token)
                     else
                         (),
                     response:set-header("Content-Disposition", concat("attachment; filename=", concat($id, '.epub'))),
-                    response:stream-binary( 
+                    response:stream-binary(
                         compression:zip( $entries, true() ),
                         'application/epub+zip',
                         concat($id, '.epub')
@@ -384,62 +496,81 @@ declare %private function dapi:work2epub($request as map(*), $id as xs:string, $
     let $oddName := replace($odd, "^([^/\.]+).*$", "$1")
     let $cssDefault := util:binary-to-string(util:binary-doc($config:output-root || "/" || $oddName || ".css"))
     let $cssEpub := util:binary-to-string(util:binary-doc($config:app-root || "/resources/css/epub.css"))
-    let $css := $cssDefault || 
-        "&#10;/* styles imported from epub.css */&#10;" || 
-        $cssEpub
+    (: @namespace must precede all style rules. epub.css starts with one; keep it
+       first so ODD CSS cannot push it into an invalid mid-file position. :)
+    let $css :=
+        if (matches($cssEpub, "^\s*@namespace\s")) then
+            let $ns := replace($cssEpub, "^(\s*@namespace\s[^;]*;).*", "$1", "s")
+            let $rest := replace($cssEpub, "^\s*@namespace\s[^;]*;\s*", "", "s")
+            return
+                $ns || "&#10;" || $cssDefault ||
+                "&#10;/* styles imported from epub.css */&#10;" || $rest
+        else
+            $cssDefault ||
+            "&#10;/* styles imported from epub.css */&#10;" ||
+            $cssEpub
     return
         epub:generate-epub($config, $work/*, $css, $id)
 };
 
 declare function dapi:get-fragment($request as map(*)) {
-    let $path := xmldb:decode-uri($request?parameters?doc)
+    let $path := xmldb:decode-uri(xs:anyURI($request?parameters?doc))
     let $docs := config:get-document($path)
     return
-        if($docs) 
+        if($docs)
         then (
             cutil:check-last-modified($request, $docs, dapi:get-fragment(?, ?, $path))
         ) else (
-            router:response(404, "text/text", $path)    
+            router:response(404, "text/text", $path)
         )
 };
 
 declare function dapi:get-fragment($request as map(*), $docs as node()*, $path as xs:string) {
     let $view := head(($request?parameters?view, $config:default-view))
     let $xml :=
-        if ($request?parameters?xpath) then
+        if (exists($request?parameters?id) and $request?parameters?id != "" and $request?parameters?view != 'single') then
             for $document in $docs
-            let $namespace := namespace-uri-from-QName(node-name(root($document)/*))
-            let $xquery := "declare default element namespace '" || $namespace || "'; $document" || $request?parameters?xpath
-            let $data := util:eval($xquery)
+            let $config := tpu:parse-pi(root($document), $view)
+            let $context := dapi:apply-xpath($request, $document)
+            let $data :=
+                if (count($request?parameters?id) = 1) then
+                    if ($view = "div") then
+                        nav:get-section-for-node($config, $context/id($request?parameters?id))
+                    else
+                        $document/id($request?parameters?id)
+                else
+                    let $ms1 := $context/id($request?parameters?id[1])
+                    let $ms2 := $context/id($request?parameters?id[2])
+                    return
+                        if ($ms1 and $ms2) then
+                            nav-tei:milestone-chunk($ms1, $ms2, $context/tei:TEI)
+                        else
+                            ()
+            return
+                map {
+                    "config": map:merge(($config, map { "context": $context })),
+                    "odd": $config?odd,
+                    "view": $config?view,
+                    "data": $data
+                }
+        else if ($request?parameters?xpath) then
+            for $document in $docs
+            let $data := dapi:apply-xpath($request, $document)
             return
                 if ($data) then
                     pages:load-xml($data, $view, $request?parameters?root, $path)
                 else
                     ()
-
-        else if (exists($request?parameters?id) and $request?parameters?view != 'single') then (
-            for $document in $docs
-            let $config := tpu:parse-pi(root($document), $view)
-            let $data :=
-                if (count($request?parameters?id) = 1) then
-                    nav:get-section-for-node($config, $document/id($request?parameters?id))
-                else
-                    let $ms1 := $document/id($request?parameters?id[1])
-                    let $ms2 := $document/id($request?parameters?id[2])
-                    return
-                        if ($ms1 and $ms2) then
-                            nav-tei:milestone-chunk($ms1, $ms2, $document/tei:TEI)
-                        else
-                            ()
-            return
-                map {
-                    "config": map:merge(($config, map { "context": $document })),
-                    "odd": $config?odd,
-                    "view": $config?view,
-                    "data": $data
-                }
-        ) else
+        else
             pages:load-xml($docs, $view, $request?parameters?root, $path)
+    let $xml :=
+        if ($request?parameters?user.track-ids = "yes") then
+            for $item in $xml
+            return map:merge(($item, map {
+                "config": map:merge(($item?config, map { "depth": 1, "fill": -1 }), map { "duplicates": "use-last" })
+            }), map { "duplicates": "use-last" })
+        else
+            $xml
     return
         if ($xml?data) then
             let $userParams :=
@@ -456,23 +587,33 @@ declare function dapi:get-fragment($request as map(*), $docs as node()*, $path a
                 else
                     $xml?data
             let $data :=
-                if (empty($request?parameters?xpath) and $request?parameters?highlight and exists(session:get-attribute($config:session-prefix || ".search"))) then
+                if (empty($request?parameters?xpath) and request:get-parameter('user.highlight', ()) and exists(session:get-attribute($config:session-prefix || ".search"))) then
                     query:expand($xml?config, $mapped)[1]
                 else
                     $mapped
+            (: TODO perhaps find a way to assess whether not running the query is viable or not :)
+            let $data := if ($data) then $data else $mapped
             let $content :=
                 if (not($view = "single")) then
                     pages:get-content($xml?config, $data)
                 else
                     $data
-
-            let $html :=
-                typeswitch ($mapped)
-                    case element() | document-node() return
-                        pages:process-content($content, $xml?data, $xml?config, $userParams)
-                    default return
-                        $content
-            let $transformed := dapi:extract-footnotes($html[1])
+            (: When the client already holds server-rendered content in its light DOM
+             : (SSR via page:content), it requests content=none so we skip the expensive
+             : ODD transform and return navigation metadata only. get-content above is
+             : cheap (node selection) and is still needed for the fragment id. :)
+            let $transformed :=
+                if ($request?parameters?content = "none") then
+                    map { "content": (), "footnotes": () }
+                else
+                    let $html :=
+                        typeswitch ($mapped)
+                            case element() | document-node() return
+                                pages:process-content($content, $xml?data, $xml?config, $userParams, $request?parameters?wrap)
+                            default return
+                                $content
+                    return
+                        dapi:extract-footnotes($html[1], $xml?data[1])
             let $path := replace($path, "^.*/([^/]+)$", "$1")
             return
                 if ($request?parameters?format = "html") then
@@ -499,7 +640,7 @@ declare function dapi:get-fragment($request as map(*), $docs as node()*, $path a
                                         util:node-id($prev)
                                     else
                                         (),
-                                "nextId": 
+                                "nextId":
                                     if ($next) then
                                         $next/@xml:id/string()
                                     else (),
@@ -520,13 +661,15 @@ declare function dapi:get-fragment($request as map(*), $docs as node()*, $path a
                                         (),
                                 "content": serialize($transformed?content,
                                     <output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
-                                    <output:indent>no</output:indent>
-                                    <output:method>html5</output:method>
+                                            <output:indent>no</output:indent>
+                                            <output:method>{$request?parameters?serialize}</output:method>
+                                            <output:omit-xml-declaration>yes</output:omit-xml-declaration>
                                         </output:serialization-parameters>),
                                 "footnotes": serialize($transformed?footnotes,
                                     <output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
                                         <output:indent>no</output:indent>
-                                        <output:method>html5</output:method>
+                                        <output:method>{$request?parameters?serialize}</output:method>
+                                        <output:omit-xml-declaration>yes</output:omit-xml-declaration>
                                     </output:serialization-parameters>
                                 ),
                                 "userParams": $userParams,
@@ -535,6 +678,16 @@ declare function dapi:get-fragment($request as map(*), $docs as node()*, $path a
                         )
         else
             error($errors:NOT_FOUND, "Document " || $path || " not found")
+};
+
+declare %private function dapi:apply-xpath($request as map(*), $data as node()) {
+    if ($request?parameters?xpath) then
+        let $namespace := namespace-uri-from-QName(node-name(root($data)/*))
+        let $xquery := "declare default element namespace '" || $namespace || "'; $data" || $request?parameters?xpath
+        return
+            util:eval($xquery)
+    else
+        $data
 };
 
 declare function dapi:get-collection($data) {
@@ -546,34 +699,103 @@ declare function dapi:get-collection($data) {
             ()
 };
 
-declare %private function dapi:extract-footnotes($html as element()*) {
+declare %private function dapi:extract-footnotes($html as element()*, $root as node()?) {
+        if ($html) then
         map {
-        "footnotes": $html/div[@class="footnotes"],
-        "content":
-            element { node-name($html) } {
-                $html/@*,
-                $html/node() except $html/div[@class="footnotes"]
-            }
-    }
+            "footnotes": $html/div[@class="footnotes"],
+            "content":
+                element { node-name($html) } {
+                    $html/@* except $html/@id,
+                    (: Ensure that the root has an id. Needed for static navigation. :)
+                    attribute id { "exist-" || util:node-id($root) },
+                    $html/node() except $html/div[@class="footnotes"]
+                }
+        }
+    else
+        ()
 };
 
 declare function dapi:table-of-contents($request as map(*)) {
-    let $doc := xmldb:decode-uri($request?parameters?id)
+    let $collapse := $request?parameters?collapse
+    let $doc := xmldb:decode-uri(xs:anyURI($request?parameters?id))
     let $documents := config:get-document($doc)
     return
-        if($documents)
-        then (
+        if($documents) then (
             cutil:check-last-modified($request, $documents, function($request as map(*), $documents as node()*) {
                 let $xml := pages:load-xml($documents, $request?parameters?view, (), $doc)
                 return
-                if (exists($xml)) then
-                    pages:toc-div(root($xml?data), $xml, $request?parameters?target, $request?parameters?icons)
-                else
-                    error($errors:NOT_FOUND, "Document " || $doc || " not found")
+                    if (exists($xml)) then
+                        let $mapped :=
+                            if (exists($request?parameters?map)) then
+                                let $mapFun := function-lookup(xs:QName("mapping:" || $request?parameters?map), 2)
+                                return
+                                    if (exists($mapFun)) then
+                                        $mapFun($xml?data, $request?parameters)
+                                    else
+                                        $xml?data
+                            else
+                                $xml?data
+                        return
+                            dapi:toc-div(root($mapped), $xml, $request?parameters?target, $collapse)
+                    else
+                        error($errors:NOT_FOUND, "Document " || $doc || " not found")
                 })
         ) else (
-            router:response(404, "text/text", $doc)        
+            router:response(404, "text/text", $doc)
         )
+};
+
+declare %private function dapi:toc-div($node, $model as map(*), $target as xs:string?,
+    $collapse as xs:boolean?) {
+    let $view := $model?config?view
+    let $divs := nav:get-subsections($model?config, $node)
+    return
+        <ul>
+        {
+            for $div in $divs
+            let $headings := nav:get-section-heading($model?config, $div)
+            let $html :=
+                if ($headings) then
+                    $pm-config:web-transform($headings, map { "mode": "toc", "root": $div }, $model?config?odd)
+                else
+                    ()
+            let $root := (
+                if ($view = "page") then
+                    ($div/*[1][self::tei:pb], $div/preceding::tei:pb[1])[1]
+                else
+                    (),
+                $div
+            )[1]
+            let $parent := if ($view = 'page') then () else nav:is-filler($model?config, $div)
+            let $hasDivs := exists(nav:get-subsections($model?config, $div))
+            let $nodeId :=  if ($parent) then util:node-id($parent) else util:node-id($root)
+            let $xmlId := if ($parent) then $parent/@xml:id else $root/@xml:id
+            let $hash :=
+                if ($view != 'page' and not(nav:get-section-for-node($model?config, $div) is $root)) then
+                    if ($root/@xml:id) then
+                        attribute hash { $root/@xml:id }
+                    else
+                        attribute hash { util:node-id($root) }
+                else
+                    ()
+            return
+                    <li>
+                    {
+                        nav:toc-entry(
+                            map {
+                                "xmlId": $xmlId,
+                                "nodeId": $nodeId,
+                                "label": ($hash, $html),
+                                "hasDivs": $hasDivs,
+                                "target": $target
+                            },
+                            dapi:toc-div($div, $model, $target, $collapse),
+                            $collapse
+                        )
+                    }
+                    </li>
+        }
+        </ul>
 };
 
 declare function dapi:preview($request as map(*)) {

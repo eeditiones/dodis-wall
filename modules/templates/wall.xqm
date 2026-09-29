@@ -21,7 +21,7 @@ declare variable $wall:end := xs:date("1990-11-30");
 declare variable $wall:events := (
     map { "date": "1989-09-11", "en": "Hungary opens its border to Austria for GDR citizens", "de": "Ungarn öffnet die Grenze nach Österreich für DDR-Bürger" },
     map { "date": "1989-10-09", "en": "Monday demonstration in Leipzig", "de": "Montagsdemonstration in Leipzig" },
-    map { "date": "1989-10-18", "en": "Honecker resigns, Egon Krenz succeeds him", "de": "Rücktritt Honeckers, Egon Krenz wird Nachfolger" },
+    map { "date": "1989-10-18", "en": "Honecker is replaced by Egon Krenz as SED General Secretary", "de": "Honecker wird als SED-Generalsekretär von Egon Krenz abgelöst" },
     map { "date": "1989-11-09", "en": "The Berlin Wall opens", "de": "Die Berliner Mauer fällt", "key": true() },
     map { "date": "1989-11-28", "en": "Kohl presents his Ten-Point Plan", "de": "Kohl legt sein Zehn-Punkte-Programm vor" },
     map { "date": "1989-12-22", "en": "The Brandenburg Gate reopens", "de": "Öffnung des Brandenburger Tors" },
@@ -29,7 +29,7 @@ declare variable $wall:events := (
     map { "date": "1990-03-18", "en": "First free elections to the GDR People’s Chamber", "de": "Erste freie Volkskammerwahl in der DDR" },
     map { "date": "1990-05-05", "en": "First Two-plus-Four ministerial meeting in Bonn", "de": "Erstes Zwei-plus-Vier-Außenministertreffen in Bonn" },
     map { "date": "1990-07-01", "en": "Monetary, economic and social union enters into force", "de": "Währungs-, Wirtschafts- und Sozialunion tritt in Kraft" },
-    map { "date": "1990-07-16", "en": "Caucasus: Kohl and Gorbachev agree on a united Germany in NATO", "de": "Kaukasus: Kohl und Gorbatschow einigen sich auf ein vereintes Deutschland in der NATO" },
+    map { "date": "1990-07-16", "en": "Arkhyz, Caucasus: Kohl and Gorbachev agree on a united Germany in NATO", "de": "Archys, Kaukasus: Kohl und Gorbatschow einigen sich auf ein vereintes Deutschland in der NATO" },
     map { "date": "1990-08-31", "en": "Unification Treaty signed", "de": "Einigungsvertrag unterzeichnet" },
     map { "date": "1990-09-12", "en": "Two-plus-Four Treaty signed in Moscow", "de": "Zwei-plus-Vier-Vertrag in Moskau unterzeichnet" },
     map { "date": "1990-10-03", "en": "German reunification", "de": "Tag der Deutschen Einheit", "key": true() },
@@ -353,27 +353,6 @@ declare function wall:party($doc as element(tei:TEI), $type as xs:string) as xs:
     return ($persons, $action/tei:orgName ! wall:org(.))
 };
 
-(:~
- : Sender or recipient for the document view: persons found in the register link to
- : their person page (relative to documents/), organisations stay plain text.
- :)
-declare function wall:party-links($doc as element(tei:TEI), $type as xs:string) as node()* {
-    let $action := $doc//tei:correspDesc/tei:correspAction[@type = $type]
-    let $items := (
-        for $p in $action/tei:persName
-        let $id := substring-after($p/@ref, "#")
-        let $label := (wall:person-name($doc, $p/@ref), replace(normalize-space($p), "\s*\(.*\)$", ""))[1]
-        return
-            if ($id != "" and exists(collection($config:data-root || "/registers")/id($id))) then
-                <a href="../people/{$id}">{ $label }</a>
-            else
-                text { $label },
-        $action/tei:orgName ! text { wall:org(.) }
-    )
-    for $item at $i in $items
-    return (if ($i > 1) then text { ", " } else (), $item)
-};
-
 (:~ Name of a place from settingDesc/listPlace, without the period in brackets :)
 declare function wall:place-name($place as element(tei:place)) as xs:string {
     normalize-space(replace(($place/tei:placeName)[1], "\s*\(\d{4}-\d{4}\)", ""))
@@ -652,7 +631,11 @@ declare function wall:card($context as map(*), $doc as element(tei:TEI), $when a
 
 (: ---------------------------------------------------------------- document view :)
 
-(:~ Metadata panel for the document view (rendered into the "before" sidebar) :)
+(:~
+ : Metadata panel for the document view (rendered into the "before" sidebar).
+ : The markup is defined by the teiHeader model for mode "metadata-panel" in wall.odd;
+ : only the language dependent texts are handed over here.
+ :)
 declare function wall:doc-meta($context as map(*)) {
     let $content := $context?doc?content
     let $doc := if (exists($content)) then (root($content)//tei:TEI)[1] else ()
@@ -661,98 +644,14 @@ declare function wall:doc-meta($context as map(*)) {
         if (empty($doc) or empty($doc//tei:msDesc)) then
             ()
         else
-            let $when := wall:when($doc)
-            let $id := $doc//tei:msIdentifier/tei:idno/string()
-            let $country := wall:country($doc)
-            let $sender := wall:party($doc, "sent")
-            let $recipient := wall:party($doc, "received")
-            return
-                <section class="wall-meta">
-                    <header class="wall-meta-head">
-                        <span class="wall-type">{ wall:label(wall:type($doc), $lang) }</span>
-                        { wall:stamp(wall:priority($doc), $lang) }
-                    </header>
-                    <time class="wall-meta-date" datetime="{$when}">{ wall:format-date($when, $lang) }</time>
-                    <dl>
-                        <dt>{ wall:label("country", $lang) }</dt>
-                        <dd><a href="../chronicle.html?country={$country}#chronicle">{ wall:country-name($country, $lang) }</a></dd>
-                        {
-                            if (exists($sender)) then (
-                                <dt>{ wall:label("from", $lang) }</dt>,
-                                <dd>{ wall:party-links($doc, "sent") }</dd>
-                            ) else ()
-                        }
-                        {
-                            if (exists($recipient)) then (
-                                <dt>{ wall:label("to", $lang) }</dt>,
-                                <dd>{ wall:party-links($doc, "received") }</dd>
-                            ) else ()
-                        }
-                        <dt>{ wall:label("lang", $lang) }</dt>
-                        <dd>{ wall:label(wall:language($doc), $lang) }</dd>
-                    </dl>
-                    <h4>{ wall:label("summary", $lang) }</h4>
-                    <p class="wall-meta-summary">{ wall:summary($doc) }</p>
-                    {
-                        (: only persons actually mentioned in the edited text or named as sender/recipient;
-                           particDesc also lists persons from the full Dodis record who do not occur in the extract :)
-                        let $mentioned := (
-                            $doc/tei:text//tei:persName/@key ! string(),
-                            $doc//tei:correspDesc//tei:persName/@ref ! substring-after(., '#')
-                        )
-                        let $persons := $doc//tei:particDesc//tei:person[@xml:id = $mentioned]
-                        return
-                            if ($persons) then (
-                                <h4>{ wall:label("persons", $lang) } <span class="n">{ count($persons) }</span></h4>,
-                                <ul class="wall-meta-list">
-                                {
-                                    for $person in $persons
-                                    let $name := ($person/tei:persName[tei:surname])[1]
-                                    let $full := ($person/tei:persName[@type = "full"])[1]/string()
-                                    let $life := replace($full, "^[^(]*\(([^)]*)\).*$", "$1")
-                                    let $inRegister := exists(collection($config:data-root || "/registers")/id($person/@xml:id))
-                                    order by $name/tei:surname
-                                    return
-                                        <li>
-                                            <a>
-                                            {
-                                                if ($inRegister) then
-                                                    attribute href { "../people/" || $person/@xml:id }
-                                                else (
-                                                    attribute href { $person/tei:idno[@type = 'URI'] },
-                                                    attribute target { "_blank" },
-                                                    attribute rel { "noopener" }
-                                                )
-                                            }
-                                                { normalize-space(string-join(($name/tei:forename, $name/tei:surname), " ")) }
-                                            </a>
-                                            { if ($life != $full) then <span class="life"> ({ $life })</span> else () }
-                                        </li>
-                                }
-                                </ul>
-                            ) else ()
-                    }
-                    {
-                        let $places := $doc//tei:settingDesc//tei:place
-                        return
-                            if ($places) then (
-                                <h4>{ wall:label("places", $lang) }</h4>,
-                                <ul class="wall-meta-places">
-                                {
-                                    for $place in $places
-                                    let $name := wall:place-name($place)
-                                    order by $name
-                                    return
-                                        <li><a href="../chronicle.html?place={$place/@xml:id}#chronicle" title="{$name}: { wall:t($context, 'place-filter-hint') }">{ $name }</a></li>
-                                }
-                                </ul>
-                            ) else ()
-                    }
-                    <h4>{ wall:label("cite", $lang) }</h4>
-                    <p class="wall-meta-cite">
-                        <a href="https://dodis.ch/{$id}" target="_blank" rel="noopener">dodis.ch/{ $id }</a><br/>
-                        <span>{ $doc//tei:titleStmt/tei:author/string() } (eds.), <em>When the Wall Came Down</em>, Quaderni di Dodis 12, Bern 2019,
-                        <a href="https://doi.org/10.5907/Q12" target="_blank" rel="noopener">doi:10.5907/Q12</a></span>
-                    </p>
-                </section>
+            page:transform($doc, map {
+                "mode": "metadata-panel",
+                "language": $lang,
+                "country": wall:country($doc),
+                "countries": map:merge(map:for-each($wall:countries, function($k, $v) { map { $k: $v($lang) } })),
+                "labels": map:merge((
+                    map:for-each($wall:labels, function($k, $v) { map { $k: $v($lang) } }),
+                    map { "place-filter-hint": wall:t($context, "place-filter-hint") }
+                ))
+            }, $context?doc?odd || ".odd")
 };

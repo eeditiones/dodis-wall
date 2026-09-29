@@ -1,8 +1,0 @@
-{
-    "name" : "dodis-facets",
-    "version" : "1.0.0",
-    "description" : "When the Wall Came Down",
-    "dependencies" : {
-      "@teipublisher/pb-components" : "2.4.4"
-    }
-  }

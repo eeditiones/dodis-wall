@@ -157,6 +157,23 @@ declare function wall:format-date($when as xs:string?, $lang as xs:string) {
         $when
 };
 
+(:~
+ : Date as language independent markup: the day and month are pb-i18n elements
+ : (keys wall.date.day and wall.month.N), translated in the browser.
+ :)
+declare function wall:date($when as xs:string?) {
+    if ($when castable as xs:date) then
+        let $d := xs:date($when)
+        return (
+            <pb-i18n key="wall.date.day" options='{{"day":{day-from-date($d)}}}'>{ day-from-date($d) }</pb-i18n>,
+            " ",
+            <pb-i18n key="wall.month.{month-from-date($d)}">{ format-date($d, "[MNn]", "en", (), ()) }</pb-i18n>,
+            " " || year-from-date($d)
+        )
+    else
+        $when
+};
+
 declare function wall:format-month($date as xs:date, $lang as xs:string) {
     try {
         format-date($date, "[MNn] [Y]", $lang, (), ())
@@ -639,7 +656,7 @@ declare function wall:card($context as map(*), $doc as element(tei:TEI), $when a
 declare function wall:doc-meta($context as map(*)) {
     let $content := $context?doc?content
     let $doc := if (exists($content)) then (root($content)//tei:TEI)[1] else ()
-    let $lang := wall:lang($context)
+    let $lang := "en"
     return
         if (empty($doc) or empty($doc//tei:msDesc)) then
             ()
@@ -649,9 +666,6 @@ declare function wall:doc-meta($context as map(*)) {
                 "language": $lang,
                 "country": wall:country($doc),
                 "countries": map:merge(map:for-each($wall:countries, function($k, $v) { map { $k: $v($lang) } })),
-                "labels": map:merge((
-                    map:for-each($wall:labels, function($k, $v) { map { $k: $v($lang) } }),
-                    map { "place-filter-hint": wall:t($context, "place-filter-hint") }
-                ))
+                "labels": map:merge(map:for-each($wall:labels, function($k, $v) { map { $k: $v($lang) } }))
             }, $context?doc?odd || ".odd")
 };

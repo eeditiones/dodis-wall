@@ -1,0 +1,36 @@
+# opm configuration: pregenerates static pb-view content for data/documents.
+# Run scripts/build-static.sh to chunk and upload the result to the app's "cached" collection.
+
+[transform]
+odd = "resources/odd/wall.odd"
+xpath_extensions = [
+    "opm.runtime.common_xpath_functions"
+]
+
+[transform.namespaces]
+global = "http://teipublisher.com/global"
+
+[transform.variables.global]
+register-root = "urn:registers"
+address-by-id = false
+data-root = "/Users/wolfgang/Source/apps/tei-publisher/dodis-wall/data"
+
+[[transform.collections]]
+uri = "urn:registers"
+documents = [
+    "data/registers/pb-persons.xml"
+]
+
+[transform.web]
+webcomponents = true
+
+[chunking]
+selector = "opm.navigation.tei_div_chunks"
+depth = 10
+view = "div"
+output_dir = "chunks"
+doc_path = "documents"
+
+# pb-view sends these as pb-param (see templates/pages/wall-doc.html); they are part of the index key
+parameters = { iiif-viewer = "pb-tify" }
+

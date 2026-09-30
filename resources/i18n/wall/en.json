@@ -15,6 +15,74 @@
     },
     "affiliation": "Affiliation (document header)",
     "external-links": "External links",
-    "external-links-source": "Further references via Metagrid and Wikidata"
+    "external-links-source": "Further references via Metagrid and Wikidata",
+    "label": {
+      "date": "Date",
+      "type": "Type",
+      "from": "From",
+      "to": "To",
+      "country": "Country",
+      "lang": "Original language",
+      "persons": "Persons",
+      "places": "Places",
+      "cite": "Source",
+      "summary": "Summary",
+      "read": "Read document",
+      "urgent": "Urgent",
+      "normal": "Normal",
+      "telegram": "Telegram",
+      "memo": "Memo",
+      "letter": "Letter",
+      "political-report": "Political report",
+      "minutes": "Minutes",
+      "report": "Report",
+      "journal": "Journal",
+      "declaration": "Declaration",
+      "interview": "Interview",
+      "de": "German",
+      "en": "English",
+      "fr": "French",
+      "iw": "Hebrew",
+      "he": "Hebrew",
+      "nl": "Dutch",
+      "pl": "Polish",
+      "ru": "Russian",
+      "tr": "Turkish"
+    },
+    "country": {
+      "at": "Austria",
+      "ca": "Canada",
+      "ch": "Switzerland",
+      "de": "Federal Republic of Germany",
+      "il": "Israel",
+      "nl": "Netherlands",
+      "pl": "Poland",
+      "su": "Soviet Union",
+      "tr": "Turkey",
+      "uk": "United Kingdom",
+      "us": "United States",
+      "xx": "Other"
+    },
+    "month": {
+      "1": "January",
+      "2": "February",
+      "3": "March",
+      "4": "April",
+      "5": "May",
+      "6": "June",
+      "7": "July",
+      "8": "August",
+      "9": "September",
+      "10": "October",
+      "11": "November",
+      "12": "December"
+    },
+    "date": {
+      "day": "{{day}}"
+    },
+    "docnav": {
+      "prev": "Earlier document",
+      "next": "Later document"
+    }
   }
 }

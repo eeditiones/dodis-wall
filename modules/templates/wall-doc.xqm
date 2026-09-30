@@ -65,7 +65,6 @@ declare %private function wdoc:page-title-text($context as map(*)) as xs:string?
  :)
 declare function wdoc:timeline-nav($context as map(*)) {
     let $doc := wdoc:tei($context)
-    let $lang := wall:lang($context)
     return
         if (empty($doc)) then
             ()
@@ -78,53 +77,50 @@ declare function wdoc:timeline-nav($context as map(*)) {
             return
                 <li class="wall-docnav">
                     <span role="group" class="light">
-                        { wdoc:nav-link($prev, "prev", $lang) }
+                        { wdoc:nav-link($prev, "prev") }
                         <span class="wall-docnav-pos">{ $pos } / { count($all) }</span>
-                        { wdoc:nav-link($next, "next", $lang) }
+                        { wdoc:nav-link($next, "next") }
                     </span>
                 </li>
 };
 
-declare %private function wdoc:nav-link($target as element(tei:TEI)?, $dir as xs:string, $lang as xs:string) {
-    let $label :=
-        if ($dir = "prev") then
-            if ($lang = "de") then "Früheres Dokument" else "Earlier document"
-        else
-            if ($lang = "de") then "Späteres Dokument" else "Later document"
+declare %private function wdoc:nav-link($target as element(tei:TEI)?, $dir as xs:string) {
+    let $label := if ($dir = "prev") then "Earlier document" else "Later document"
     let $icon :=
         <svg class="ionicon" viewBox="0 0 512 512" aria-hidden="true">
             <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="48"
                 d="{if ($dir = 'prev') then 'M328 112L184 256l144 144' else 'M184 112l144 144-144 144'}"/>
         </svg>
+    let $hidden := <span class="visually-hidden"><pb-i18n key="wall.docnav.{$dir}">{ $label }</pb-i18n></span>
     return
         if (empty($target)) then
             <span class="wall-docnav-link disabled" aria-disabled="true">{
                 if ($dir = "prev") then ($icon, <span class="date">–</span>) else (<span class="date">–</span>, $icon)
             }</span>
         else
-            let $date := wall:format-date(wall:when($target), $lang)
-            let $summary := wall:title($target)
+            let $date := wall:date(wall:when($target))
             return
                 <a class="wall-docnav-link {$dir}" href="{util:document-name($target)}" rel="{$dir}"
-                    title="{$label}: {$date} – {$summary}" aria-label="{$label}: {$date}">{
-                    if ($dir = "prev") then ($icon, <span class="date">{ $date }</span>)
-                    else (<span class="date">{ $date }</span>, $icon)
+                    title="{wall:title($target)}">{
+                    if ($dir = "prev") then ($icon, $hidden, <span class="date">{ $date }</span>)
+                    else ($hidden, <span class="date">{ $date }</span>, $icon)
                 }</a>
 };
 
 (:~ Breadcrumb entry: document type, date and Dodis number :)
 declare function wdoc:breadcrumb($context as map(*)) {
     let $doc := wdoc:tei($context)
-    let $lang := wall:lang($context)
+    let $type := wall:type($doc)
     return
         if (empty($doc)) then
             ()
         else
             <span class="wall-crumb">{
-                string-join((
-                    wall:label(wall:type($doc), $lang),
-                    wall:format-date(wall:when($doc), $lang),
-                    "dodis.ch/" || $doc//tei:msIdentifier/tei:idno/string()
-                ), " · ")
+                if ($type) then (
+                    <pb-i18n key="wall.label.{replace(lower-case($type), '\s+', '-')}">{ wall:label($type, "en") }</pb-i18n>,
+                    " · "
+                ) else (),
+                wall:date(wall:when($doc)),
+                " · dodis.ch/" || $doc//tei:msIdentifier/tei:idno/string()
             }</span>
 };

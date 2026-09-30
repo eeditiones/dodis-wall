@@ -259,7 +259,7 @@
   "data" : {
     "landing" : "landing/wall-landing.xml"
   },
-  "_lastModified" : "2026-09-29T09:21:29.399+02:00",
+  "_lastModified" : "2026-09-30T12:02:45.934Z",
   "pkg" : {
     "website" : "http://tei-publisher.org",
     "abbrev" : "wall-came-down",
@@ -294,15 +294,17 @@
     "language" : "en",
     "language-label" : "label",
     "data" : "data",
+    "view-static" : true,
     "landing" : "wall-index.html",
     "address-by-id" : false,
     "odd-root" : "resources/odd",
     "languages" : [ "en", "de" ],
-    "data-default" : "documents",
     "direction" : "ltr",
     "template" : "wall-doc.html",
     "browse" : "chronicle.html",
     "search" : "div",
+    "data-default" : "documents",
+    "data-static" : "cached",
     "view" : "div",
     "data-exclude" : [ "doc($config:data-root || '/taxonomy.xml')//tei:text", "collection($config:register-root)//tei:text" ],
     "odd" : "wall.odd",

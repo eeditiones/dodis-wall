@@ -8,6 +8,8 @@
   "defaults" : {
     "$replace" : [ "languages" ],
     "browse" : "chronicle.html",
+    "data-static" : "cached",
+    "view-static" : true,
     "landing" : "wall-index.html",
     "languages" : [ "en", "de" ],
     "data-default" : "documents",

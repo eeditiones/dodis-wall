@@ -49,11 +49,11 @@ else if ($exist:path eq '/api.html') then
     </dispatch>
     
 (: static resources from the resources, transform, templates, data-static, static or odd subdirectories are directly returned :)
-else if (matches($exist:path, "^.*/(resources|transform|templates|static|)/.*$")
+else if (matches($exist:path, "^.*/(resources|transform|templates|static|cached)/.*$")
     or matches($exist:path, "^.*/odd/.*\.css$")
     or $exist:path eq '/robots.txt'
     or matches($exist:path, "^.*/modules/.*\.json$")) then
-    let $dir := replace($exist:path, "^.*/(resources|transform|modules|templates|static||odd)/.*$", "$1")
+    let $dir := replace($exist:path, "^.*/(resources|transform|modules|templates|static|cached|odd)/.*$", "$1")
     return
         <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
             <forward url="{$exist:controller}/{$dir}/{substring-after($exist:path, '/' || $dir || '/')}">

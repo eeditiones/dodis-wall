@@ -14,6 +14,9 @@
         "interval": 500,
         "ignore": [
             ".existdb.json",
+            "opm.toml",
+            "chunks/**",
+            "scripts/**",
             ".devcontainer/**",
             ".vscode/**",
             "build.sh",

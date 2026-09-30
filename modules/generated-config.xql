@@ -11,7 +11,7 @@ declare variable $config:webcomponents := "3.6.8";
 declare variable $config:webcomponents-cdn := "https://cdn.jsdelivr.net/npm/@teipublisher/pb-components";
 declare variable $config:fore := "";
 
-declare variable $config:default-view := "div";
+declare variable $config:default-view := "single";
 declare variable $config:default-template := "wall-doc.html";
 declare variable $config:default-media := ("web", "print", "epub");
 declare variable $config:search-default := "";

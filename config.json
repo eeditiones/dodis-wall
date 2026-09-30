@@ -1,146 +1,179 @@
 {
-  "data" : {
-    "landing" : "landing/wall-landing.xml"
+  "data": {
+    "landing": "landing/wall-landing.xml"
   },
-  "label" : "When the Wall Came Down",
-  "odds" : [ "wall.odd" ],
-  "id" : "https://e-editiones.org/apps/wall-came-down",
-  "defaults" : {
-    "$replace" : [ "languages" ],
-    "browse" : "chronicle.html",
-    "data-static" : "cached",
-    "view-static" : true,
-    "landing" : "wall-index.html",
-    "languages" : [ "en", "de" ],
-    "data-default" : "documents",
-    "odd" : "wall.odd",
-    "template" : "wall-doc.html"
+  "label": "When the Wall Came Down",
+  "odds": [
+    "wall.odd"
+  ],
+  "id": "https://e-editiones.org/apps/wall-came-down",
+  "defaults": {
+    "$replace": [
+      "languages"
+    ],
+    "browse": "chronicle.html",
+    "view-static": false,
+    "landing": "wall-index.html",
+    "languages": [
+      "en",
+      "de"
+    ],
+    "data-default": "documents",
+    "odd": "wall.odd",
+    "view": "single",
+    "template": "wall-doc.html"
   },
-  "collection-config" : {
-    "documents" : {
-      "odd" : "wall.odd"
+  "collection-config": {
+    "documents": {
+      "odd": "wall.odd"
     }
   },
-  "styles" : [ "resources/css/wall.css", "resources/css/wall-register.css" ],
-  "i18n" : [ "wall" ],
-  "extends" : [ "base10", "iiif", "registers", "theme-base10", "modern-theme", "landing-page" ],
-  "menu" : {
-    "language" : true,
-    "$replace" : "items",
-    "items" : [ {
-      "url" : "chronicle.html",
-      "id" : "chronicle"
-    }, {
-      "url" : "people",
-      "id" : "people"
-    }, {
-      "url" : "wall-index.html#about",
-      "id" : "about"
-    } ]
+  "styles": [
+    "resources/css/wall.css",
+    "resources/css/wall-register.css"
+  ],
+  "i18n": [
+    "wall"
+  ],
+  "extends": [
+    "base10",
+    "iiif",
+    "registers",
+    "theme-base10",
+    "modern-theme",
+    "landing-page"
+  ],
+  "menu": {
+    "language": true,
+    "$replace": "items",
+    "items": [
+      {
+        "url": "chronicle.html",
+        "id": "chronicle"
+      },
+      {
+        "url": "people",
+        "id": "people"
+      },
+      {
+        "url": "wall-index.html#about",
+        "id": "about"
+      }
+    ]
   },
-  "features" : {
-    "browse" : {
-      "sort" : {
-        "options" : [ {
-          "label" : "Date",
-          "value" : "date",
-          "key" : "browse.date"
-        }, {
-          "label" : "Title",
-          "value" : "title",
-          "key" : "browse.title"
-        } ],
-        "$replace" : [ "options" ],
-        "default" : "date"
+  "features": {
+    "browse": {
+      "sort": {
+        "options": [
+          {
+            "label": "Date",
+            "value": "date",
+            "key": "browse.date"
+          },
+          {
+            "label": "Title",
+            "value": "title",
+            "key": "browse.title"
+          }
+        ],
+        "$replace": [
+          "options"
+        ],
+        "default": "date"
       }
     },
-    "register" : {
-      "enabled" : true
+    "register": {
+      "enabled": true
     },
-    "iiif" : {
-      "viewer" : "pb-tify",
-      "base_uri" : "https://apps.existsolutions.com/cantaloupe/iiif/2/",
-      "milestone_xpath" : "//tei:facsimile/tei:graphic",
-      "enabled" : true,
-      "page_label" : "concat('Image ', count($pb/preceding-sibling::tei:graphic) + 1)"
+    "iiif": {
+      "viewer": "pb-tify",
+      "base_uri": "https://apps.existsolutions.com/cantaloupe/iiif/2/",
+      "milestone_xpath": "//tei:facsimile/tei:graphic",
+      "enabled": true,
+      "page_label": "concat('Image ', count($pb/preceding-sibling::tei:graphic) + 1)"
     }
   },
-  "theme" : {
-    "layout" : {
-      "after" : {
-        "width" : "min(32vw, 380px)"
+  "theme": {
+    "layout": {
+      "after": {
+        "width": "min(32vw, 380px)"
       }
     },
-    "landing" : {
-      "hero" : {
-        "background-image" : "../images/bg-header.jpg"
+    "landing": {
+      "hero": {
+        "background-image": "../images/bg-header.jpg"
       },
-      "bottom" : {
-        "background-image" : "../images/bg-header.jpg"
+      "bottom": {
+        "background-image": "../images/bg-header.jpg"
       }
     },
-    "menubar" : {
-      "background-color" : "#18191c",
-      "color" : "#ffffff"
+    "menubar": {
+      "background-color": "#18191c",
+      "color": "#ffffff"
     },
-    "content" : {
-      "max-width" : "70ch"
+    "content": {
+      "max-width": "70ch"
     },
-    "colors" : {
-      "palettes" : {
-        "wall" : "palette-wall.css"
+    "colors": {
+      "palettes": {
+        "wall": "palette-wall.css"
       },
-      "palette" : "wall"
+      "palette": "wall"
     },
-    "splash" : {
-      "width" : "360px",
-      "image" : "../images/trabi-splash.png",
-      "height" : "auto"
+    "splash": {
+      "width": "360px",
+      "image": "../images/trabi-splash.png",
+      "height": "auto"
     },
-    "body" : {
-      "background-color" : "#f3f0ea"
+    "body": {
+      "background-color": "#f3f0ea"
     },
-    "logo" : {
-      "width" : "232px",
-      "image" : "../images/wall-plate.svg",
-      "height" : "28px"
+    "logo": {
+      "width": "232px",
+      "image": "../images/wall-plate.svg",
+      "height": "28px"
     },
-    "fonts" : {
-      "content" : {
-        "family" : "'IBM Plex Serif', Georgia, serif",
-        "size" : "1.15rem"
+    "fonts": {
+      "content": {
+        "family": "'IBM Plex Serif', Georgia, serif",
+        "size": "1.15rem"
       },
-      "base" : {
-        "family" : "'IBM Plex Sans', 'Inter', sans-serif"
+      "base": {
+        "family": "'IBM Plex Sans', 'Inter', sans-serif"
       },
-      "heading" : {
-        "family" : "'Oswald', 'Inter', sans-serif",
-        "weight" : "600"
+      "heading": {
+        "family": "'Oswald', 'Inter', sans-serif",
+        "weight": "600"
       }
     },
-    "toolbar" : {
-      "background-color" : "var(--jinks-colors-200)",
-      "color" : "var(--wall-ink)"
+    "toolbar": {
+      "background-color": "var(--jinks-colors-200)",
+      "color": "var(--wall-ink)"
     }
   },
-  "pkg" : {
-    "abbrev" : "wall-came-down"
+  "pkg": {
+    "abbrev": "wall-came-down"
   },
-  "description" : "The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)",
-  "templating" : {
-    "use" : [ "templates/wall-blocks.html" ],
-    "modules" : {
-      "https://e-editiones.org/apps/wall-came-down/templates" : {
-        "at" : "modules/templates/wall.xqm",
-        "prefix" : "wall"
+  "description": "The Perception of German Reunification in International Diplomatic Documents 1989–1990 (Quaderni di Dodis 12)",
+  "templating": {
+    "use": [
+      "templates/wall-blocks.html"
+    ],
+    "modules": {
+      "https://e-editiones.org/apps/wall-came-down/templates": {
+        "at": "modules/templates/wall.xqm",
+        "prefix": "wall"
       },
-      "https://e-editiones.org/apps/wall-came-down/doc" : {
-        "at" : "modules/templates/wall-doc.xqm",
-        "prefix" : "wdoc"
+      "https://e-editiones.org/apps/wall-came-down/doc": {
+        "at": "modules/templates/wall-doc.xqm",
+        "prefix": "wdoc"
       }
     }
   },
-  "script" : {
-    "custom" : [ "resources/scripts/wall-links.js", "resources/scripts/language.js" ]
+  "script": {
+    "custom": [
+      "resources/scripts/wall-links.js",
+      "resources/scripts/language.js"
+    ]
   }
 }

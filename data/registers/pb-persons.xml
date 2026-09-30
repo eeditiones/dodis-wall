@@ -1486,7 +1486,7 @@
     <persName type="sort">Michnik, Adam</persName>
     <birth when="1946-10-17"><placeName>Varsovie</placeName></birth>
     <sex value="M">male</sex>
-    <note type="bio">Member of the Sejm for Solidarnosz and editor-in-chief of the Gazeta Wyborcza.</note>
+    <note type="bio">Member of the Sejm for Solidarność and editor-in-chief of the Gazeta Wyborcza.</note>
     <idno type="URI">https://dodis.ch/P57379</idno>
   </person>
   <person xml:id="P57441">
@@ -1992,7 +1992,6 @@
   <person xml:id="P57377">
     <persName type="main">Krzysztof Skubiszewski</persName>
     <persName type="sort">Skubiszewski, Krzysztof</persName>
-    <persName type="variant">Skubiszweski, Krysztof</persName>
     <persName type="variant">Skubiszewski, Krzysztof Jan</persName>
     <birth when="1926-10-08"><placeName>Poznan</placeName></birth>
     <death when="2010-02-08"><placeName>Varsovie</placeName></death>
